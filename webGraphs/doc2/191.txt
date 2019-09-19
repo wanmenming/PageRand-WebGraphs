@@ -1,0 +1,225 @@
+https://en.wikipedia.org/wiki/Independent_Green_Voice
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Independent Green Voice - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Independent_Green_Voice","wgTitle":"Independent Green Voice","wgCurRevisionId":832557687,"wgRevisionId":832557687,"wgArticleId":3606688,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Political parties established in 2003","Green political parties in the United Kingdom","Political parties in Scotland","Scotland politics stubs","Scottish organisation stubs","United Kingdom political party stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Independent_Green_Voice","wgRelevantArticleId":3606688,"wgRequestId":"W7IOCgrAIDYAAGAPfYwAAAAI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q16848068","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Independent_Green_Voice"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Independent_Green_Voice&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Independent_Green_Voice&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Independent_Green_Voice"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Independent_Green_Voice rootpage-Independent_Green_Voice skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Independent Green Voice</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; line-height: 1;"><span class="fn org">Independent Green Voice</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Independent_Green_Voice_1.png" class="image"><img alt="Independent Green Voice 1.png" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3e/Independent_Green_Voice_1.png/100px-Independent_Green_Voice_1.png" width="100" height="131" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/3e/Independent_Green_Voice_1.png/150px-Independent_Green_Voice_1.png 1.5x, //upload.wikimedia.org/wikipedia/en/3/3e/Independent_Green_Voice_1.png 2x" data-file-width="183" data-file-height="240" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+Alistair McConnachie</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+2003</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><br /><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:1px solid #aaa;"><ul><li><a href="/wiki/Politics_of_the_United_Kingdom" title="Politics of the United Kingdom">Politics of the United Kingdom</a></li><li><a href="/wiki/List_of_political_parties_in_the_United_Kingdom" title="List of political parties in the United Kingdom">Political parties</a></li><li><a href="/wiki/Elections_in_the_United_Kingdom" title="Elections in the United Kingdom">Elections</a></li></ul></div></td></tr></tbody></table>
+<p><b>Independent Green Voice</b> is a minor <a href="/wiki/Environmentalist" title="Environmentalist">environmentalist</a> <a href="/wiki/Political_party" title="Political party">political party</a> in <a href="/wiki/Scotland" title="Scotland">Scotland</a>.  First registered with the <a href="/wiki/Electoral_Commission_(UK)" class="mw-redirect" title="Electoral Commission (UK)">Electoral Commission</a> in 2003, it is led by Alistair McConnachie.
+</p><p>It opposes <a href="/wiki/Debt_slavery" class="mw-redirect" title="Debt slavery">debt slavery</a> and calls for the establishment of a not-for-profit "Public Investment Bank" to replace the "debt-based money system".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The party is also opposed to Public Private Partnerships, and would restore the link between pensions and average earnings.
+</p><p>In the <a href="/wiki/Scottish_Parliament_election,_2003" title="Scottish Parliament election, 2003">2003 Scottish Parliament election</a>, McConnachie stood in <a href="/wiki/Glasgow_Kelvin_(Scottish_Parliament_constituency)" title="Glasgow Kelvin (Scottish Parliament constituency)">Glasgow Kelvin</a> and received 1,300 votes (5.9%).  In the <a href="/wiki/United_Kingdom_general_election,_2005" title="United Kingdom general election, 2005">2005 UK general election</a>, he stood in <a href="/wiki/Glasgow_South_West_(UK_Parliament_constituency)" title="Glasgow South West (UK Parliament constituency)">Glasgow South West</a>, and received 379 votes (1.2%).
+</p><p>McConnachie is also the party's treasurer and nominating officer.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+Prior to establishing the party, he was the Scottish organiser for the <a href="/wiki/United_Kingdom_Independence_Party" class="mw-redirect" title="United Kingdom Independence Party">United Kingdom Independence Party</a> but his membership was not renewed in the summer of 2001 amid allegations that he was a <a href="/wiki/Holocaust_denial" title="Holocaust denial">holocaust denier</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> McConnachie responded to these allegations at the time of the <a href="/wiki/Scottish_Parliament_election,_2007" title="Scottish Parliament election, 2007">2007 Scottish Parliamentary election</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> when the party stood in the <a href="/wiki/Glasgow_(Scottish_Parliament_electoral_region)" title="Glasgow (Scottish Parliament electoral region)">Glasgow region</a> and received 496 votes (0.2%).
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independent_Green_Voice&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sovereignty.org.uk/features/articles/manifesto05/05manifesto.html">Independent Green Voice 2005 manifesto</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.electoralcommission.org.uk/files/dms/IndependentGreenVoice_12794-9855__E__N__S__W__.pdf">Electoral Commission - Independent Green Voice Accounts 2003</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Hencke, David (27 February 2001). <a rel="nofollow" class="external text" href="https://www.theguardian.com/racism/Story/0,2763,443645,00.html">"UKIP hit by new row over Holocaust denial"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=UKIP+hit+by+new+row+over+Holocaust+denial&amp;rft.date=2001-02-27&amp;rft.aulast=Hencke&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fracism%2FStory%2F0%2C2763%2C443645%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndependent+Green+Voice" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sovereignty.org.uk/features/articles/manifesto07/mystand.html">Answering the Allegations</a></span>
+</li>
+</ol></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Scotland.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/30px-Flag_of_Scotland.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/45px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/60px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></td><td><i>This article related to the <a href="/wiki/Politics_of_Scotland" title="Politics of Scotland">politics of Scotland</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Independent_Green_Voice&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Scotland-poli-stub" title="Template:Scotland-poli-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Scotland-poli-stub" title="Template talk:Scotland-poli-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Scotland-poli-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Scotland.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/30px-Flag_of_Scotland.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/45px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/60px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></td><td><i>This article about an organisation in Scotland is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Independent_Green_Voice&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Scotland-org-stub" title="Template:Scotland-org-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Scotland-org-stub" title="Template talk:Scotland-org-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Scotland-org-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_the_United_Kingdom.svg" class="image"><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/45px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/60px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a> <a href="/wiki/File:Vote_icon.svg" class="image"><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/15px-Vote_icon.svg.png" width="15" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/23px-Vote_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/30px-Vote_icon.svg.png 2x" data-file-width="326" data-file-height="393" /></a></td><td><i>This article about a political party in the United Kingdom is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Independent_Green_Voice&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:UK-party-stub" title="Template:UK-party-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:UK-party-stub" title="Template talk:UK-party-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:UK-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2250
+Cached time: 20180930151318
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.586 seconds
+Preprocessor visited node count: 1134/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15269/2097152 bytes
+Template argument size: 352/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3821/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.111/10.000 seconds
+Lua memory usage: 2.49 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  547.457      1 -total
+ 67.76%  370.971      1 Template:Cite_news
+ 20.08%  109.950      1 Template:Infobox_political_party
+ 14.67%   80.320      1 Template:Infobox
+  9.70%   53.119      3 Template:Asbox
+  8.95%   49.001      1 Template:Scotland-poli-stub
+  3.99%   21.852      1 Template:Br_separated_entries
+  1.92%   10.526      1 Template:If_empty
+  1.82%    9.954      1 Template:Ubl
+  1.10%    5.999      1 Template:PAGENAMEBASE
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3606688-0!canonical and timestamp 20180930151318 and revision id 832557687
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Independent_Green_Voice&amp;oldid=832557687">https://en.wikipedia.org/w/index.php?title=Independent_Green_Voice&amp;oldid=832557687</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Political_parties_established_in_2003" title="Category:Political parties established in 2003">Political parties established in 2003</a></li><li><a href="/wiki/Category:Green_political_parties_in_the_United_Kingdom" title="Category:Green political parties in the United Kingdom">Green political parties in the United Kingdom</a></li><li><a href="/wiki/Category:Political_parties_in_Scotland" title="Category:Political parties in Scotland">Political parties in Scotland</a></li><li><a href="/wiki/Category:Scotland_politics_stubs" title="Category:Scotland politics stubs">Scotland politics stubs</a></li><li><a href="/wiki/Category:Scottish_organisation_stubs" title="Category:Scottish organisation stubs">Scottish organisation stubs</a></li><li><a href="/wiki/Category:United_Kingdom_political_party_stubs" title="Category:United Kingdom political party stubs">United Kingdom political party stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Independent+Green+Voice" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Independent+Green+Voice" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Independent_Green_Voice" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Independent_Green_Voice" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Independent_Green_Voice">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Independent_Green_Voice&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Independent_Green_Voice&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Independent_Green_Voice" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Independent_Green_Voice" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Independent_Green_Voice&amp;oldid=832557687" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Independent_Green_Voice&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16848068" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Independent_Green_Voice&amp;id=832557687" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Independent+Green+Voice">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Independent+Green+Voice&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Independent_Green_Voice&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16848068#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 March 2018, at 18:28<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Independent_Green_Voice&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.586","ppvisitednodes":{"value":1134,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15269,"limit":2097152},"templateargumentsize":{"value":352,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3821,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  547.457      1 -total"," 67.76%  370.971      1 Template:Cite_news"," 20.08%  109.950      1 Template:Infobox_political_party"," 14.67%   80.320      1 Template:Infobox","  9.70%   53.119      3 Template:Asbox","  8.95%   49.001      1 Template:Scotland-poli-stub","  3.99%   21.852      1 Template:Br_separated_entries","  1.92%   10.526      1 Template:If_empty","  1.82%    9.954      1 Template:Ubl","  1.10%    5.999      1 Template:PAGENAMEBASE"]},"scribunto":{"limitreport-timeusage":{"value":"0.111","limit":"10.000"},"limitreport-memusage":{"value":2609390,"limit":52428800}},"cachereport":{"origin":"mw2250","timestamp":"20180930151318","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw2166"});});</script>
+	</body>
+</html>

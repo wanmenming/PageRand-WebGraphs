@@ -1,0 +1,443 @@
+https://en.wikipedia.org/wiki/The_Green_Path_of_Hope
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Green Path of Hope - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Green_Path_of_Hope","wgTitle":"The Green Path of Hope","wgCurRevisionId":846929429,"wgRevisionId":846929429,"wgArticleId":23994597,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Persian-language sources (fa)","Webarchive template wayback links","Articles containing Persian-language text","Mir-Hossein Mousavi","Iranian presidential election, 2009","Reformist political groups in Iran","The Green Path of Hope","Political parties established in 2009","2009 establishments in Iran","Banned political parties in Iran"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Green_Path_of_Hope","wgRelevantArticleId":23994597,"wgRequestId":"W7D9RQrAADYAAERKP0sAAACQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2918830","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/5/51/The_Green_Path_of_Hope_Logo.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Green_Path_of_Hope"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Green_Path_of_Hope"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_Green_Path_of_Hope rootpage-The_Green_Path_of_Hope skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">The Green Path of Hope</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #02BC00; border-bottom:2px solid #02BC00; line-height: 1;"><span class="fn org">Green Path of Hope</span><br /><span class="nickname" style="font-size: 0.8em;">راه سبز امید</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:The_Green_Path_of_Hope_Logo.jpg" class="image"><img alt="The Green Path of Hope Logo.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/5/51/The_Green_Path_of_Hope_Logo.jpg/150px-The_Green_Path_of_Hope_Logo.jpg" width="150" height="195" srcset="//upload.wikimedia.org/wikipedia/en/5/51/The_Green_Path_of_Hope_Logo.jpg 1.5x" data-file-width="192" data-file-height="249" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Spokesperson</th><td class="agent" style="line-height:1.3em;">
+Ardeshir Amir Arjomand<sup id="cite_ref-BBC_Persian_1-0" class="reference"><a href="#cite_note-BBC_Persian-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">Founder</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Mir-Hossein_Mousavi" title="Mir-Hossein Mousavi">Mir-Hossein Mousavi</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+August&#160;15, 2009<span class="noprint">&#59;&#32;9 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2009-08-15</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Legalised</th><td style="line-height:1.3em;">
+Banned</td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Iranian_reform_movement" class="mw-redirect" title="Iranian reform movement">Reform Movement</a><br /><a href="/wiki/Iran_Green_Movement" class="mw-redirect" title="Iran Green Movement">Green Movement</a></td></tr><tr><th scope="row" style="line-height:1.3em;">International affiliation</th><td class="category" style="line-height:1.3em;">
+<i>None</i></td></tr><tr><th scope="row" style="line-height:1.3em;">Colors</th><td style="line-height:1.3em;">
+<span style="background-color:#00703C; color:white; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span>  <a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<a rel="nofollow" class="external text" href="http://www.rahesabz.net/">rahesabz.net</a><br /><a rel="nofollow" class="external text" href="http://www.kaleme.org/">kaleme.org</a><br /> <a rel="nofollow" class="external text" href="http://www.sahamnews.org/">sahamnews.org</a><br /><a rel="nofollow" class="external text" href="http://www.tahavolesabz.com/">tahavolesabz.com</a><br /> <a rel="nofollow" class="external text" href="http://www.irangreenvoice.com/">irangreenvoice.com</a><br /> <a rel="nofollow" class="external text" href="http://tagheer.cc/">tagheer.cc</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #02BC00;"><ul><li><a href="/wiki/Politics_of_Iran" title="Politics of Iran">Politics of Iran</a></li><li><a href="/wiki/List_of_political_parties_in_Iran" class="mw-redirect" title="List of political parties in Iran">Political parties</a></li><li><a href="/wiki/Elections_in_Iran" title="Elections in Iran">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Path of Hope</b> (<a href="/wiki/Persian_language" title="Persian language">Persian</a>: <span lang="fa" dir="rtl">شورای هماهنگی راه سبز امید</span>&#8206;)<sup id="cite_ref-BBC_Persian_1-1" class="reference"><a href="#cite_note-BBC_Persian-1">&#91;1&#93;</a></sup> is an <a href="/wiki/Iran" title="Iran">Iranian</a> association established by Iranian presidential campaign candidate, <a href="/wiki/Mir-Hossein_Mousavi" title="Mir-Hossein Mousavi">Mir-Hossein Mousavi</a>, on August 15, 2009, as the organizational body of <a href="/wiki/Iranian_Green_Movement" title="Iranian Green Movement">Green Movement</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Mousavi described it as the "countless self-initiated and independent social networks" which form the body of Green Movement.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> It has also been mentioned as a "political front" in media.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-ilna1_5-0" class="reference"><a href="#cite_note-ilna1-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Goals"><span class="tocnumber">2</span> <span class="toctext">Goals</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Methods"><span class="tocnumber">4</span> <span class="toctext">Methods</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Members_of_the_Central_Council"><span class="tocnumber">5</span> <span class="toctext">Members of the Central Council</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit&amp;section=1" title="Edit section: Name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to Mousavi's advisor, Ali Reza Beheshti, Mousavi himself chose the name. He chose "Path", to avoid words such as "party" or "movement", "green", because of the green color symbol used by protesters, and "hope", because he had promised to establish a government of "hope" if elected.<sup id="cite_ref-news.gooya.com_6-0" class="reference"><a href="#cite_note-news.gooya.com-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Goals">Goals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit&amp;section=2" title="Edit section: Goals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Path of Hope seeks to continue protests against the legitimacy of Ahmadinejad's presidency following lawful and peaceful ways, and the full execution of the constitution, as Mousavi says:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<table class="cquote pullquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tbody><tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“
+</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">You can't follow some parts of the constitution and throw the rest into a bin.
+</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”
+</td></tr>
+
+</tbody></table>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mousavi did not name his movement as a political party or even as a movement, but a "path", because, according to Iranian law, parties and movements need to be authorized by the <a href="/wiki/Ministry_of_Interior_(Iran)" title="Ministry of Interior (Iran)">Interior Ministry</a> and since Mousavi does not recognize the government as legitimate and the ministry is unlikely to grant him permission, he chose this name to bypass the law.<sup id="cite_ref-news.gooya.com_6-1" class="reference"><a href="#cite_note-news.gooya.com-6">&#91;6&#93;</a></sup>
+</p><p>Mousavi is quoted in describing the movement:<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<table class="cquote pullquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tbody><tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“
+</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">The Green Path of Hope is formed for the sake of people’s rightful demands and for claiming their rights... the color green is the symbol of this movement; its slogan is demanding the impeccable implementation of the constitution, and innumerable self-motivated independent societies form the body of this movement.
+</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”
+</td></tr>
+
+</tbody></table>
+<p>According to organization officials, the movement functions on a campaign basis, including <a href="/wiki/Political_parties" class="mw-redirect" title="Political parties">political parties</a>, NGO's and social networks. Referring to the new movement, Mousavi has said "The Green Path of Hope is formed for the sake of people's rightful demands and for claiming their denied rights".<sup id="cite_ref-ilna1_5-1" class="reference"><a href="#cite_note-ilna1-5">&#91;5&#93;</a></sup> He pointed that autonomous and spontaneous social networks in community are part of this movement.<sup id="cite_ref-ilna2_9-0" class="reference"><a href="#cite_note-ilna2-9">&#91;9&#93;</a></sup> "During election our mottos chose and remained in constitutional frame work, today we are devoted to those slogans" he said. "We believe if people's demands were treated fairly and instead of using media to link spontaneous movements to foreigners, government promoted truth by fair criticism, they could satisfy public views", he added.<sup id="cite_ref-ilna2_9-1" class="reference"><a href="#cite_note-ilna2-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Methods">Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit&amp;section=4" title="Edit section: Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The way has six main members of the central council, that are connected to the <a href="/wiki/Reformist" class="mw-redirect" title="Reformist">reformist</a> parties and movements, NGOs, and the social networks. The main body will be the ordinary protesters. The method is to create pressure from the lower parts of the society and make them connected in a social network, and therefore to lead the protests in a lawful way.<sup id="cite_ref-news.gooya.com_6-2" class="reference"><a href="#cite_note-news.gooya.com-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Members_of_the_Central_Council">Members of the Central Council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit&amp;section=5" title="Edit section: Members of the Central Council">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Path of Hope has three central leaders. <a href="/wiki/Hossein_Ali_Montazeri" class="mw-redirect" title="Hossein Ali Montazeri">Hossein Ali Montazeri</a> also had a leading role in the movement in the earlier phase of the movement.
+</p>
+<table class="wikitable" style="width:95%;" cellpadding="5">
+
+<tbody><tr>
+<th>#</th>
+<th>Name</th>
+<th>Picture</th>
+<th>Occupation</th>
+<th>Born</th>
+<th>Political party
+</th></tr>
+<tr>
+<td>1</td>
+<td><a href="/wiki/Mir-Hossein_Mousavi" title="Mir-Hossein Mousavi">Mir-Hossein Mousavi</a></td>
+<td></td>
+<td>Former <a href="/wiki/Prime_Minister_of_Iran" title="Prime Minister of Iran">Prime Minister</a></td>
+<td>1942</td>
+<td>Independent
+</td></tr>
+<tr>
+<td>2</td>
+<td><a href="/wiki/Mehdi_Karroubi" title="Mehdi Karroubi">Mehdi Karroubi</a></td>
+<td><a href="/wiki/File:Karubi_in_zanjan.jpg" class="image"><img alt="Karubi in zanjan.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Karubi_in_zanjan.jpg/100px-Karubi_in_zanjan.jpg" width="100" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Karubi_in_zanjan.jpg/150px-Karubi_in_zanjan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Karubi_in_zanjan.jpg/200px-Karubi_in_zanjan.jpg 2x" data-file-width="1288" data-file-height="1936" /></a></td>
+<td>Former <a href="/wiki/Majlis_of_Iran" class="mw-redirect" title="Majlis of Iran">Chairman of Parliament</a></td>
+<td>1937</td>
+<td><a href="/wiki/National_Trust_Party_(Iran)" title="National Trust Party (Iran)">National Trust Party</a>
+</td></tr>
+<tr>
+<td>3</td>
+<td><a href="/wiki/Zahra_Rahnavard" title="Zahra Rahnavard">Zahra Rahnavard</a></td>
+<td><a href="/wiki/File:Zahra_Rahnavard.jpg" class="image"><img alt="Zahra Rahnavard.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zahra_Rahnavard.jpg/100px-Zahra_Rahnavard.jpg" width="100" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zahra_Rahnavard.jpg/150px-Zahra_Rahnavard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zahra_Rahnavard.jpg/200px-Zahra_Rahnavard.jpg 2x" data-file-width="293" data-file-height="308" /></a></td>
+<td>Former <a href="/wiki/Alzahra_University" title="Alzahra University">Chancellor of Alzahra University</a></td>
+<td>1945</td>
+<td>Independent
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/2009_Iranian_election_protests" class="mw-redirect" title="2009 Iranian election protests">2009 Iranian election protests</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-BBC_Persian-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC_Persian_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC_Persian_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.com/persian/iran/2013/05/130508_file_parties_election_ir92">"واژه نامه جریان های فعال در انتخابات ریاست جمهوری ایران - BBC Persian"</a> (in Persian). <a href="/wiki/BBC_Persian" class="mw-redirect" title="BBC Persian">BBC Persian</a>. 13 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">21 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D9%88%D8%A7%DA%98%D9%87+%D9%86%D8%A7%D9%85%D9%87+%D8%AC%D8%B1%DB%8C%D8%A7%D9%86+%D9%87%D8%A7%DB%8C+%D9%81%D8%B9%D8%A7%D9%84+%D8%AF%D8%B1+%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA+%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA+%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+-+BBC+Persian&amp;rft.pub=BBC+Persian&amp;rft.date=2013-06-13&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fpersian%2Firan%2F2013%2F05%2F130508_file_parties_election_ir92&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Green+Path+of+Hope" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.presstv.ir/detail.aspx?id=103859&amp;sectionid=351020101">"Khatami, Karroubi join Mousavi's Green movement"</a>. <a href="/wiki/Press_TV" title="Press TV">Press TV</a>. 18 Aug 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Khatami%2C+Karroubi+join+Mousavi%27s+Green+movement&amp;rft.pub=Press+TV&amp;rft.date=2009-08-18&amp;rft_id=http%3A%2F%2Fwww.presstv.ir%2Fdetail.aspx%3Fid%3D103859%26sectionid%3D351020101&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Green+Path+of+Hope" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.smh.com.au/breaking-news-world/irans-mousavi-to-lead-green-hope-opposition-20090816-em89.html">"Iran's Mousavi to lead 'green hope' opposition"</a>. SMH. August 16, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Iran%27s+Mousavi+to+lead+%27green+hope%27+opposition&amp;rft.date=2009-08-16&amp;rft_id=http%3A%2F%2Fnews.smh.com.au%2Fbreaking-news-world%2Firans-mousavi-to-lead-green-hope-opposition-20090816-em89.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Green+Path+of+Hope" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.latimes.com/news/nationworld/world/la-fg-iran-mousavi16-2009aug16,0,5218913.story">Mousavi forms new political front</a>, <a href="/wiki/LA_Times" class="mw-redirect" title="LA Times">LA Times</a>, August 15, 2009</span>
+</li>
+<li id="cite_note-ilna1-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ilna1_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ilna1_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.ilna.ir/fullStory.aspx?ID=71239">"Mousavi issues first statments(sic) on "Green path of hope<span class="cs1-kern-right">"</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mousavi+issues+first+statments%28sic%29+on+%22Green+path+of+hope%22&amp;rft_id=http%3A%2F%2Fwww.ilna.ir%2FfullStory.aspx%3FID%3D71239&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Green+Path+of+Hope" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-news.gooya.com-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-news.gooya.com_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-news.gooya.com_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-news.gooya.com_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Copyright: gooya.com 2013. <a rel="nofollow" class="external text" href="http://news.gooya.com/politics/archives/2009/08/092369.php">"gooya news&#160;:: politics&#160;: جزييات "راه سبز اميد" از زبان عليرضا بهشتی: خاتمی و کروبی عضو شورای مرکزی هستند، کميته‌های "راه سبز اميد" در حال شکل گيری است، ايلنا"</a>. News.gooya.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=gooya+news+%3A%3A+politics+%3A+%D8%AC%D8%B2%D9%8A%D9%8A%D8%A7%D8%AA+%22%D8%B1%D8%A7%D9%87+%D8%B3%D8%A8%D8%B2+%D8%A7%D9%85%D9%8A%D8%AF%22+%D8%A7%D8%B2+%D8%B2%D8%A8%D8%A7%D9%86+%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7+%D8%A8%D9%87%D8%B4%D8%AA%DB%8C%3A+%D8%AE%D8%A7%D8%AA%D9%85%DB%8C+%D9%88+%DA%A9%D8%B1%D9%88%D8%A8%DB%8C+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%D8%B1%D8%A7%DB%8C+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C+%D9%87%D8%B3%D8%AA%D9%86%D8%AF%D8%8C+%DA%A9%D9%85%D9%8A%D8%AA%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C+%22%D8%B1%D8%A7%D9%87+%D8%B3%D8%A8%D8%B2+%D8%A7%D9%85%D9%8A%D8%AF%22+%D8%AF%D8%B1+%D8%AD%D8%A7%D9%84+%D8%B4%DA%A9%D9%84+%DA%AF%D9%8A%D8%B1%DB%8C+%D8%A7%D8%B3%D8%AA%D8%8C+%D8%A7%D9%8A%D9%84%D9%86%D8%A7&amp;rft.pub=News.gooya.com&amp;rft.au=Copyright%3A+gooya.com+2013&amp;rft_id=http%3A%2F%2Fnews.gooya.com%2Fpolitics%2Farchives%2F2009%2F08%2F092369.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Green+Path+of+Hope" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.parlemannews.ir/index.aspx?n=2694">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100720180530/http://www.parlemannews.ir/index.aspx?n=2694">Archived</a> July 20, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.upi.com/Top_News/2009/08/16/Mousavi-announces-new-political-party/UPI-34501250401917/">Mousavi announces new political party</a>, <a href="/wiki/UPI" class="mw-redirect" title="UPI">UPI</a>, August 16, 2009</span>
+</li>
+<li id="cite_note-ilna2-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-ilna2_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ilna2_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100723080421/http://www.ilna.ir/fullStory.aspx?ID=71086">"Green path of hope, Mousavi's new organization"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ilna.ir/fullStory.aspx?ID=71086">the original</a> on 2010-07-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Green+path+of+hope%2C+Mousavi%27s+new+organization&amp;rft_id=http%3A%2F%2Fwww.ilna.ir%2FfullStory.aspx%3FID%3D71086&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Green+Path+of+Hope" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Iranian_Green_Movement" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:red-color:#02BC00"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:The_Green_Path_of_Hope" title="Template:The Green Path of Hope"><abbr title="View this template" style=";background:red-color:#02BC00;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:The_Green_Path_of_Hope" title="Template talk:The Green Path of Hope"><abbr title="Discuss this template" style=";background:red-color:#02BC00;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Green_Path_of_Hope&amp;action=edit"><abbr title="Edit this template" style=";background:red-color:#02BC00;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Iranian_Green_Movement" style="font-size:114%;margin:0 4em"><a href="/wiki/Iranian_Green_Movement" title="Iranian Green Movement">Iranian Green Movement</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#02BC00">Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Iranian_presidential_election_protests" title="2009 Iranian presidential election protests">2009 Iranian presidential election protests</a>
+<ul><li><a href="/wiki/Timeline_of_the_2009_Iranian_election_protests" title="Timeline of the 2009 Iranian election protests">Timeline</a></li></ul></li>
+<li><a href="/wiki/2009_Iran_poll_protests_trial" title="2009 Iran poll protests trial">2009 Iran poll protests trial</a></li>
+<li><a href="/wiki/2009_Iranian_university_dormitory_raids" title="2009 Iranian university dormitory raids">2009 Iranian university dormitory raids</a></li>
+<li><a href="/wiki/Death_of_Neda_Agha-Soltan" title="Death of Neda Agha-Soltan">Death of Neda Agha-Soltan</a></li>
+<li><a href="/wiki/Sohrab_Aarabi" title="Sohrab Aarabi">Death of Sohrab Aarabi</a></li>
+<li><a href="/wiki/Death_of_Ramin_Pourandarjani" title="Death of Ramin Pourandarjani">Death of Ramin Pourandarjani</a></li>
+<li><a href="/wiki/The_Green_Scroll_Campaign" title="The Green Scroll Campaign">The Green Scroll Campaign</a></li>
+<li><a href="/wiki/Hussein-Ali_Montazeri" title="Hussein-Ali Montazeri">Death of Ayatollah Montazeri</a></li>
+<li><a href="/wiki/Ashura_protests" title="Ashura protests">Ashura protests</a></li>
+<li><a href="/wiki/Death_of_Seyed_Ali_Mousavi" title="Death of Seyed Ali Mousavi">Death of Seyed Ali Mousavi</a></li>
+<li><a href="/wiki/Mohsen_Rouholamini" title="Mohsen Rouholamini">Death of Mohsen Rouholamini</a></li>
+<li><a href="/wiki/2011%E2%80%9312_Iranian_protests" title="2011–12 Iranian protests">2011–12 Iranian protests</a></li>
+<li><a href="/wiki/Sane_Jaleh" title="Sane Jaleh">Death of Sane Jaleh</a></li>
+<li><a href="/wiki/Mohammad_Mokhtari_(protester)" title="Mohammad Mokhtari (protester)">Death of Mohammad Mokhtari</a></li>
+<li><a href="/wiki/Haleh_Sahabi" title="Haleh Sahabi">Death of Haleh Sahabi</a></li>
+<li><a href="/wiki/Hoda_Saber" title="Hoda Saber">Death of Hoda Saber</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#02BC00">Leaders</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mir-Hossein_Mousavi" title="Mir-Hossein Mousavi">Mir-Hossein Mousavi</a></li>
+<li><a href="/wiki/Mehdi_Karroubi" title="Mehdi Karroubi">Mehdi Karroubi</a></li>
+<li><a href="/wiki/Mohammad_Khatami" title="Mohammad Khatami">Mohammad Khatami</a></li>
+<li><a href="/wiki/Zahra_Rahnavard" title="Zahra Rahnavard">Zahra Rahnavard</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Iran&amp;#124;link=Iran_Political_organizations_in_Iran" style="padding:3px"><table class="nowraplinks hlist collapsible Iran navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Iranian_political_parties" title="Template:Iranian political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Iranian_political_parties" title="Template talk:Iranian political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Iranian_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Iran&amp;#124;link=Iran_Political_organizations_in_Iran" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a></span> <a href="/wiki/Political_parties_in_Iran" title="Political parties in Iran">Political organizations in Iran</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Politics_of_Iran&amp;#10;*_House_of_Parties_of_Iran">
+<ul><li><a href="/wiki/Politics_of_Iran" title="Politics of Iran">Politics of Iran</a></li>
+<li><a href="/wiki/House_of_Parties_of_Iran" title="House of Parties of Iran">House of Parties of Iran</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_Principlists" title="Iranian Principlists">Principlists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coordination_Council_of_Islamic_Revolution_Forces" title="Coordination Council of Islamic Revolution Forces">Coordination Council of Islamic Revolution Forces</a></li>
+<li><a href="/wiki/Alliance_of_Builders_of_Islamic_Iran" title="Alliance of Builders of Islamic Iran">Alliance of Builders of Islamic Iran</a></li>
+<li><a href="/wiki/United_Front_of_Principlists" title="United Front of Principlists">United Front of Principlists</a></li>
+<li><a href="/wiki/Principlists_Pervasive_Coalition" title="Principlists Pervasive Coalition">Principlists Pervasive Coalition</a></li>
+<li><a href="/wiki/Principlists_Grand_Coalition" title="Principlists Grand Coalition">Principlists Grand Coalition</a></li>
+<li><a href="/wiki/The_Two_Societies" title="The Two Societies">The Two Societies</a>
+<ul><li><a href="/wiki/Combatant_Clergy_Association" title="Combatant Clergy Association">Combatant Clergy Association</a></li>
+<li><a href="/wiki/Society_of_Seminary_Teachers_of_Qom" title="Society of Seminary Teachers of Qom">Society of Seminary Teachers of Qom</a></li></ul></li>
+<li><a href="/wiki/Front_of_Followers_of_the_Line_of_the_Imam_and_the_Leader" title="Front of Followers of the Line of the Imam and the Leader">Front of Followers of the Line of the Imam and the Leader</a>
+<ul><li><a href="/wiki/Islamic_Coalition_Party" title="Islamic Coalition Party">Islamic Coalition Party</a></li>
+<li><a href="/wiki/Islamic_Society_of_Engineers" title="Islamic Society of Engineers">Islamic Society of Engineers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Physicians_of_Iran" title="Islamic Association of Physicians of Iran">Islamic Association of Physicians of Iran</a></li>
+<li><a href="/wiki/Islamic_Society_of_Students" title="Islamic Society of Students">Islamic Society of Students</a></li>
+<li><a href="/wiki/Islamic_Society_of_Employees" title="Islamic Society of Employees">Islamic Society of Employees</a></li>
+<li><a href="/wiki/Islamic_Society_of_Athletes" title="Islamic Society of Athletes">Islamic Society of Athletes</a></li>
+<li><a href="/wiki/Zeynab_Society" title="Zeynab Society">Zeynab Society</a></li></ul></li>
+<li><a href="/wiki/Front_of_Transformationalist_Principlists" title="Front of Transformationalist Principlists">Front of Transformationalist Principlists</a>
+<ul><li><a href="/wiki/Society_of_Devotees_of_the_Islamic_Revolution" title="Society of Devotees of the Islamic Revolution">Society of Devotees of the Islamic Revolution</a></li>
+<li><a href="/wiki/Society_of_Pathseekers_of_the_Islamic_Revolution" title="Society of Pathseekers of the Islamic Revolution">Society of Pathseekers of the Islamic Revolution</a></li></ul></li>
+<li><a href="/wiki/Association_of_Islamic_Revolution_Loyalists" title="Association of Islamic Revolution Loyalists">Association of Islamic Revolution Loyalists</a></li>
+<li><a href="/wiki/Freethinkers%27_Pinnacle_Party" title="Freethinkers&#39; Pinnacle Party">Freethinkers' Pinnacle Party</a></li>
+<li><a href="/wiki/Fada%27iyan-e_Islam" title="Fada&#39;iyan-e Islam">Fadayeen of Islam Society</a></li>
+<li><a href="/wiki/Ansar-e_Hezbollah" title="Ansar-e Hezbollah">Ansar-e Hezbollah</a></li>
+<li><a href="/wiki/Coalition_of_the_Pleasant_Scent_of_Servitude" title="Coalition of the Pleasant Scent of Servitude">Coalition of the Pleasant Scent of Servitude</a></li>
+<li><a href="/wiki/Front_of_Islamic_Revolution_Stability" title="Front of Islamic Revolution Stability">Front of Islamic Revolution Stability</a></li>
+<li><a href="/wiki/Resistance_Front_of_Islamic_Iran" title="Resistance Front of Islamic Iran">Resistance Front of Islamic Iran</a>
+<ul><li><a href="/wiki/Development_and_Justice_Party" title="Development and Justice Party">Development and Justice Party</a></li>
+<li><a href="/wiki/Green_Party_(Iran)" title="Green Party (Iran)">Green Party</a></li></ul></li>
+<li><a href="/wiki/Progress_and_Justice_Population_of_Islamic_Iran" title="Progress and Justice Population of Islamic Iran">Progress and Justice Population of Islamic Iran</a></li>
+<li><a href="/wiki/Modern_Thinkers_Party_of_Islamic_Iran" title="Modern Thinkers Party of Islamic Iran">Modern Thinkers Party of Islamic Iran</a></li>
+<li><a href="/wiki/Coalition_of_Iran%27s_Independent_Volunteers" title="Coalition of Iran&#39;s Independent Volunteers">Coalition of Iran's Independent Volunteers</a></li>
+<li><a href="/wiki/People%27s_Voice_(Iran)" title="People&#39;s Voice (Iran)">People's Voice</a></li>
+<li><a href="/wiki/Insight_and_Islamic_Awakening_Front" title="Insight and Islamic Awakening Front">Insight and Islamic Awakening Front</a></li>
+<li><a href="/wiki/Monotheism_and_Justice_Front" title="Monotheism and Justice Front">Monotheism and Justice Front</a></li>
+<li><a href="/wiki/Supporters_of_Justice_Discourse_of_Islamic_Revolution" title="Supporters of Justice Discourse of Islamic Revolution">Supporters of Justice Discourse of Islamic Revolution</a></li>
+<li><a href="/wiki/YEKTA_Front" title="YEKTA Front">YEKTA Front</a></li>
+<li><a href="/wiki/Popular_Front_of_Islamic_Revolution_Forces" title="Popular Front of Islamic Revolution Forces">Popular Front of Islamic Revolution Forces</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_Reformists" title="Iranian Reformists">Reformists</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Council_for_Coordinating_the_Reforms_Front" title="Council for Coordinating the Reforms Front">Council for Coordinating the Reforms Front</a>
+<ul><li><a href="/wiki/Association_of_Combatant_Clerics" title="Association of Combatant Clerics">Association of Combatant Clerics</a></li>
+<li><a href="/wiki/Executives_of_Construction_Party" title="Executives of Construction Party">Executives of Construction Party</a></li>
+<li><a href="/wiki/Assembly_of_Qom_Seminary_Scholars_and_Researchers" title="Assembly of Qom Seminary Scholars and Researchers">Assembly of Qom Seminary Scholars and Researchers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Teachers_of_Iran" title="Islamic Association of Teachers of Iran">Islamic Association of Teachers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Engineers_of_Iran" title="Islamic Association of Engineers of Iran">Islamic Association of Engineers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Iranian_Medical_Society" title="Islamic Association of Iranian Medical Society">Islamic Association of Iranian Medical Society</a></li>
+<li><a href="/wiki/Islamic_Association_of_University_Instructors" title="Islamic Association of University Instructors">Islamic Association of University Instructors</a></li>
+<li><a href="/wiki/Assembly_of_the_Forces_of_Imam%27s_Line" title="Assembly of the Forces of Imam&#39;s Line">Association of Followers of the Imam's Line</a></li>
+<li><a href="/wiki/Mojahedin_of_the_Islamic_Revolution_of_Iran_Organization" title="Mojahedin of the Islamic Revolution of Iran Organization">Mojahedin of the Islamic Revolution of Iran Organization</a></li>
+<li><a href="/wiki/Islamic_Iran_Participation_Front" title="Islamic Iran Participation Front">Islamic Iran Participation Front</a></li>
+<li><a href="/wiki/Islamic_Iran_Solidarity_Party" title="Islamic Iran Solidarity Party">Islamic Iran Solidarity Party</a></li>
+<li><a href="/wiki/Democracy_Party_(Iran)" title="Democracy Party (Iran)">Democracy Party</a></li>
+<li><a href="/wiki/Will_of_the_Iranian_Nation_Party" title="Will of the Iranian Nation Party">Will of the Iranian Nation Party</a></li>
+<li><a href="/wiki/Association_of_the_Women_of_the_Islamic_Republic" title="Association of the Women of the Islamic Republic">Association of the Women of the Islamic Republic</a></li>
+<li><a href="/wiki/Islamic_Assembly_of_Ladies" title="Islamic Assembly of Ladies">Islamic Assembly of Ladies</a></li>
+<li><a href="/wiki/Office_for_Strengthening_Unity" title="Office for Strengthening Unity">Office for Strengthening Unity</a></li>
+<li><a href="/wiki/Islamic_Labour_Party" title="Islamic Labour Party">Islamic Labour Party</a></li>
+<li><a href="/wiki/Worker_House" title="Worker House">Worker House</a></li>
+<li><a href="/wiki/Islamic_Iran_Freedom_and_Justice_Organization" title="Islamic Iran Freedom and Justice Organization">Islamic Iran Freedom and Justice Organization</a></li></ul></li>
+<li><a href="/wiki/Coalition_For_Iran" title="Coalition For Iran">Coalition For Iran</a></li>
+<li><a href="/wiki/Reformists_Front" title="Reformists Front">Reformists Front</a>
+<ul><li><a href="/wiki/Popular_Party_of_Reforms" title="Popular Party of Reforms">Popular Party of Reforms</a></li></ul></li>
+<li><a href="/wiki/Iranian_Call_and_Reform_Organization" title="Iranian Call and Reform Organization">Iranian Call and Reform Organization</a></li>
+<li><a href="/wiki/Kurdish_United_Front" title="Kurdish United Front">Kurdish United Front</a></li>
+<li><a href="/wiki/Moderation_and_Development_Party" title="Moderation and Development Party">Moderation and Development Party</a></li>
+<li><a href="/wiki/National_Trust_Party_(Iran)" title="National Trust Party (Iran)">National Trust Party</a></li>
+<li><a class="mw-selflink selflink">The Green Path of Hope</a></li>
+<li><a href="/wiki/NEDA_Party" title="NEDA Party">NEDA Party</a></li>
+<li><a href="/wiki/Union_of_Islamic_Iran_People_Party" title="Union of Islamic Iran People Party">Union of Islamic Iran People Party</a></li>
+<li><a href="/wiki/Pervasive_Coalition_of_Reformists" title="Pervasive Coalition of Reformists">Pervasive Coalition of Reformists</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_dissidents" title="Iranian dissidents">Anti-establishment</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Front_(Iran)" title="National Front (Iran)">National Front</a>
+<ul><li><a href="/wiki/Iran_Party" title="Iran Party">Iran Party</a></li>
+<li><a href="/wiki/Party_of_the_Iranian_People" title="Party of the Iranian People">Party of the Iranian People</a></li></ul></li>
+<li><a href="/wiki/Freedom_Movement_of_Iran" title="Freedom Movement of Iran">Freedom Movement</a></li>
+<li><a href="/wiki/Movement_of_Militant_Muslims" title="Movement of Militant Muslims">Movement of Militant Muslims</a></li>
+<li><a href="/wiki/Council_of_Nationalist-Religious_Activists_of_Iran" title="Council of Nationalist-Religious Activists of Iran">Council of Nationalist-Religious Activists</a></li>
+<li><a href="/wiki/Pan-Iranist_Party" title="Pan-Iranist Party">Pan-Iranist Party</a></li>
+<li><a href="/wiki/Nation_Party_of_Iran" title="Nation Party of Iran">Nation Party</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><b><a href="/wiki/Template:Iranian_exiled_parties" title="Template:Iranian exiled parties">Banned/Exiled parties</a></b></li>
+<li><b><a href="/wiki/Template:Iran_defunct_parties" title="Template:Iran defunct parties">Historic parties</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Mir-Hossein_Mousavi" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Mir-Hossein_Mousavi" title="Template:Mir-Hossein Mousavi"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mir-Hossein_Mousavi" title="Template talk:Mir-Hossein Mousavi"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mir-Hossein_Mousavi&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Mir-Hossein_Mousavi" style="font-size:114%;margin:0 4em"><a href="/wiki/Mir-Hossein_Mousavi" title="Mir-Hossein Mousavi">Mir-Hossein Mousavi</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Government_of_Mir-Hossein_Mousavi_(1981%E2%80%931989)" class="mw-redirect" title="Government of Mir-Hossein Mousavi (1981–1989)">Government (1981-1989)</a></li>
+<li><a href="/wiki/Iranian_presidential_election,_1997" title="Iranian presidential election, 1997">1997 presidential election</a></li>
+<li><a href="/wiki/Iranian_presidential_election,_2009" title="Iranian presidential election, 2009">2009 presidential election</a></li>
+<li><a href="/wiki/Mir-Hossein_Mousavi_presidential_campaign,_2009" title="Mir-Hossein Mousavi presidential campaign, 2009">2009 presidential campaign</a></li>
+<li><a href="/wiki/2009%E2%80%932010_Iranian_election_protests" class="mw-redirect" title="2009–2010 Iranian election protests">2009 Iranian election protests</a></li>
+<li><a href="/wiki/2009_Iran_poll_protests_trial" title="2009 Iran poll protests trial">2009 Iran poll protests trial</a></li>
+<li><a href="/wiki/2009_Iranian_university_dormitory_raids" title="2009 Iranian university dormitory raids">2009 Iranian university dormitory raids</a></li>
+<li><a class="mw-selflink selflink">The Green Path of Hope</a></li>
+<li><a href="/wiki/Iranian_Green_Movement" title="Iranian Green Movement">Green Movement</a></li>
+<li><a href="/wiki/The_Green_Scroll_Campaign" title="The Green Scroll Campaign">The Green Scroll Campaign</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Mir-Hossein_Mousavi.jpg" class="image"><img alt="Mir-Hossein Mousavi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mir-Hossein_Mousavi.jpg/80px-Mir-Hossein_Mousavi.jpg" width="80" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mir-Hossein_Mousavi.jpg/120px-Mir-Hossein_Mousavi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mir-Hossein_Mousavi.jpg/160px-Mir-Hossein_Mousavi.jpg 2x" data-file-width="307" data-file-height="487" /></a></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2157
+Cached time: 20180930161916
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.464 seconds
+Real time usage: 0.576 seconds
+Preprocessor visited node count: 2000/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 56621/2097152 bytes
+Template argument size: 2044/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19063/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.256/10.000 seconds
+Lua memory usage: 11.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  472.726      1 -total
+ 32.03%  151.414      1 Template:Lang-fa
+ 29.98%  141.712      1 Template:Infobox_political_party
+ 26.03%  123.055      1 Template:Reflist
+ 25.14%  118.828      1 Template:Infobox
+ 16.56%   78.301      3 Template:Cite_web
+  5.87%   27.738      3 Template:Navbox
+  4.95%   23.394      1 Template:Start_date_and_age
+  4.53%   21.415      1 Template:Br_separated_entries
+  4.42%   20.882      1 Template:Green_Movement
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23994597-0!canonical and timestamp 20180930161916 and revision id 846929429
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Green_Path_of_Hope&amp;oldid=846929429">https://en.wikipedia.org/w/index.php?title=The_Green_Path_of_Hope&amp;oldid=846929429</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Mir-Hossein_Mousavi" title="Category:Mir-Hossein Mousavi">Mir-Hossein Mousavi</a></li><li><a href="/wiki/Category:Iranian_presidential_election,_2009" title="Category:Iranian presidential election, 2009">Iranian presidential election, 2009</a></li><li><a href="/wiki/Category:Reformist_political_groups_in_Iran" title="Category:Reformist political groups in Iran">Reformist political groups in Iran</a></li><li><a href="/wiki/Category:The_Green_Path_of_Hope" title="Category:The Green Path of Hope">The Green Path of Hope</a></li><li><a href="/wiki/Category:Political_parties_established_in_2009" title="Category:Political parties established in 2009">Political parties established in 2009</a></li><li><a href="/wiki/Category:2009_establishments_in_Iran" title="Category:2009 establishments in Iran">2009 establishments in Iran</a></li><li><a href="/wiki/Category:Banned_political_parties_in_Iran" title="Category:Banned political parties in Iran">Banned political parties in Iran</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Persian-language_sources_(fa)" title="Category:CS1 Persian-language sources (fa)">CS1 Persian-language sources (fa)</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Green+Path+of+Hope" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Green+Path+of+Hope" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Green_Path_of_Hope" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:The_Green_Path_of_Hope" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/The_Green_Path_of_Hope">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Green_Path_of_Hope" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Green_Path_of_Hope" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;oldid=846929429" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2918830" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Green_Path_of_Hope&amp;id=846929429" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Green+Path+of+Hope">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Green+Path+of+Hope&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=The_Green_Path_of_Hope&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D8%B1%D8%A8_%D8%A7%D9%84%D8%A3%D9%85%D9%84_%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1" title="درب الأمل الأخضر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%87_%D8%B3%D8%A8%D8%B2_%D8%A7%D9%85%DB%8C%D8%AF" title="راه سبز امید – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Chemin_vert_de_l%27espoir" title="Chemin vert de l&#039;espoir – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%93%D7%A8%D7%9A_%D7%94%D7%99%D7%A8%D7%95%D7%A7%D7%94_%D7%9C%D7%AA%D7%A7%D7%95%D7%95%D7%94" title="הדרך הירוקה לתקווה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2918830#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 21 June 2018, at 19:16<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Green_Path_of_Hope&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.576","ppvisitednodes":{"value":2000,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":56621,"limit":2097152},"templateargumentsize":{"value":2044,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19063,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  472.726      1 -total"," 32.03%  151.414      1 Template:Lang-fa"," 29.98%  141.712      1 Template:Infobox_political_party"," 26.03%  123.055      1 Template:Reflist"," 25.14%  118.828      1 Template:Infobox"," 16.56%   78.301      3 Template:Cite_web","  5.87%   27.738      3 Template:Navbox","  4.95%   23.394      1 Template:Start_date_and_age","  4.53%   21.415      1 Template:Br_separated_entries","  4.42%   20.882      1 Template:Green_Movement"]},"scribunto":{"limitreport-timeusage":{"value":"0.256","limit":"10.000"},"limitreport-memusage":{"value":12376706,"limit":52428800}},"cachereport":{"origin":"mw2157","timestamp":"20180930161916","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw2229"});});</script>
+	</body>
+</html>

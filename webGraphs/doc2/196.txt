@@ -1,0 +1,1547 @@
+https://en.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of Green politicians who have held office in the United States - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Green_politicians_who_have_held_office_in_the_United_States","wgTitle":"List of Green politicians who have held office in the United States","wgCurRevisionId":856286730,"wgRevisionId":856286730,"wgArticleId":53223379,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from May 2016","CS1 maint: Unrecognized language","Articles containing potentially dated statements from October 2016","All articles containing potentially dated statements","Incomplete lists from February 2017","Dynamic lists","Lists of political office-holders in the United States","Green Party of the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Green_politicians_who_have_held_office_in_the_United_States","wgRelevantArticleId":53223379,"wgRequestId":"W6@iiQrAIFAAAIcBJH0AAABU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q29097148","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_Green_politicians_who_have_held_office_in_the_United_States rootpage-List_of_Green_politicians_who_have_held_office_in_the_United_States skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">List of Green politicians who have held office in the United States</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>As of  October&#160;2016<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit">&#91;update&#93;</a></sup>, 143 officeholders in the United States were affiliated with the <a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">Green Party</a>, the majority of them in <a href="/wiki/California" title="California">California</a>, several in <a href="/wiki/Illinois" title="Illinois">Illinois</a>, <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, <a href="/wiki/Maine" title="Maine">Maine</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, <a href="/wiki/Oregon" title="Oregon">Oregon</a>, <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a> and <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>, with five or fewer in ten other states.<sup id="cite_ref-GPUS01_1-0" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup> These included one mayor and one deputy mayor, and fourteen county or city commissioners (or equivalent). The remainder were members of school boards, clerks, and other local administrative bodies and positions.<sup id="cite_ref-GPUS01_1-1" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup>
+</p><p>Several Green Party members have been elected to state-level office, though not always as affiliates of the party. <a href="/wiki/John_Eder" title="John Eder">John Eder</a> was elected to the <a href="/wiki/Maine_House_of_Representatives" title="Maine House of Representatives">Maine House of Representatives</a>, re-elected in 2004, but defeated in 2006. <a href="/wiki/Audie_Bock" title="Audie Bock">Audie Bock</a> was elected to the <a href="/wiki/California_State_Assembly" title="California State Assembly">California State Assembly</a> in 1999, but switched her registration to Independent seven months later<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> running as such in the 2000 election.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <a href="/wiki/Richard_Carroll_(politician)" title="Richard Carroll (politician)">Richard Carroll</a> was elected to the <a href="/wiki/Arkansas_House_of_Representatives" title="Arkansas House of Representatives">Arkansas House of Representatives</a> in 2008, but switched parties to become a Democrat five months after his election.<sup id="cite_ref-San_Francisco_Chronicle_4-0" class="reference"><a href="#cite_note-San_Francisco_Chronicle-4">&#91;4&#93;</a></sup> <a href="/wiki/Fred_Smith_(Arkansas_politician)" title="Fred Smith (Arkansas politician)">Fred Smith</a> was elected to the <a href="/wiki/Arkansas_House_of_Representatives" title="Arkansas House of Representatives">Arkansas House of Representatives</a> in 2012,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> but re-registered as a Democrat in 2014.<sup id="cite_ref-reelection_6-0" class="reference"><a href="#cite_note-reelection-6">&#91;6&#93;</a></sup> In 2010, former Green Party leader <a href="/wiki/Ben_Chipman" title="Ben Chipman">Ben Chipman</a> was elected to the <a href="/wiki/Maine_House_of_Representatives" title="Maine House of Representatives">Maine House of Representatives</a> as an <a href="/wiki/Independent_politician" title="Independent politician">unenrolled</a> candidate, and was re-elected in 2012 and 2014.<sup id="cite_ref-GPUS04_7-0" class="reference"><a href="#cite_note-GPUS04-7">&#91;7&#93;</a></sup>
+</p><p><a href="/wiki/Gayle_McLaughlin" title="Gayle McLaughlin">Gayle McLaughlin</a> was twice elected mayor of <a href="/wiki/Richmond,_California" title="Richmond, California">Richmond, California</a>, defeating two Democrats in 2006,<sup id="cite_ref-RichElect_8-0" class="reference"><a href="#cite_note-RichElect-8">&#91;8&#93;</a></sup><sup id="cite_ref-Rich1_9-0" class="reference"><a href="#cite_note-Rich1-9">&#91;9&#93;</a></sup> and reelected in 2010, and elected to City Council in 2014 after completing her second term as mayor.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> With a population of over 100,000 people, it was the largest US city with a Green mayor. <a href="/wiki/Fairfax,_California" title="Fairfax, California">Fairfax, California</a>; <a href="/wiki/Arcata,_California" title="Arcata, California">Arcata, California</a>; <a href="/wiki/Sebastopol,_California" title="Sebastopol, California">Sebastopol, California</a>; and <a href="/wiki/New_Paltz,_New_York" title="New Paltz, New York">New Paltz, New York</a> are the only towns in the United States to have had a Green Party majority in their <a href="/wiki/Town_councils" class="mw-redirect" title="Town councils">town councils</a>. Twin Ridges Elementary in <a href="/wiki/Nevada_County,_California" title="Nevada County, California">Nevada County, California</a> held the first Green Party majority school board in the United States.<sup id="cite_ref-GPUS05_11-0" class="reference"><a href="#cite_note-GPUS05-11">&#91;11&#93;</a></sup>
+</p><p>No nominee of the Green Party has been elected to office in the federal government.
+</p>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit">expanding it</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This is a <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">dynamic list</a> and may never be able to satisfy particular standards for completeness. You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit">expanding it</a> with <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliably sourced</a> entries.</div>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;"><span id="tocheading" style="font-weight:bold;">Contents</span></div>
+<div style="margin:auto;white-space:nowrap;">         
+<ul><li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a> </li></ul>
+<p class="mw-empty-elt">       
+</p>
+<ul><li><a href="#References">References</a></li></ul>
+</div></div>
+<h2><span class="mw-headline" id="Office_holding_politicians">Office holding politicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=1" title="Edit section: Office holding politicians">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>George Altgelt
+</td>
+<td><a href="/wiki/Laredo,_Texas" title="Laredo, Texas">Laredo, Texas</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-Lar1_12-0" class="reference"><a href="#cite_note-Lar1-12">&#91;12&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>John Amarilios
+</td>
+<td><a href="/wiki/New_Canaan,_Connecticut" title="New Canaan, Connecticut">New Canaan, Connecticut</a>
+</td>
+<td>Constable
+</td>
+<td><sup id="cite_ref-NC1_13-0" class="reference"><a href="#cite_note-NC1-13">&#91;13&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Jennifer Baker
+</td>
+<td><a href="/wiki/Napa_Valley_College" title="Napa Valley College">Napa Valley College</a>, California
+</td>
+<td>Trustee
+</td>
+<td><sup id="cite_ref-NVC1_14-0" class="reference"><a href="#cite_note-NVC1-14">&#91;14&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Samba Baldeh
+</td>
+<td><a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a>
+</td>
+<td>Common Council
+</td>
+<td><sup id="cite_ref-Mad1_15-0" class="reference"><a href="#cite_note-Mad1-15">&#91;15&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Henry_John_Bear" title="Henry John Bear">Henry Bear</a>
+</td>
+<td><a href="/wiki/Houlton_Band_of_Maliseet_Indians" title="Houlton Band of Maliseet Indians">Houlton Band of Maliseet Indians</a>
+</td>
+<td><a href="/wiki/Maine_House_of_Representatives" title="Maine House of Representatives">Maine House of Representatives</a>
+</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Michael Beilstein
+</td>
+<td><a href="/wiki/Corvallis,_Oregon" title="Corvallis, Oregon">Corvallis, Oregon</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-ORE1_17-0" class="reference"><a href="#cite_note-ORE1-17">&#91;17&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Korie Blyveis
+</td>
+<td><a href="/wiki/Newberg_Township,_Michigan" title="Newberg Township, Michigan">Newberg Township, Michigan</a>
+</td>
+<td>Town Clerk
+</td>
+<td><sup id="cite_ref-Cass1_18-0" class="reference"><a href="#cite_note-Cass1-18">&#91;18&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Jessica Bradshaw
+</td>
+<td><a href="/wiki/Carbondale,_Illinois" title="Carbondale, Illinois">Carbondale, Illinois</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-Carbon1_19-0" class="reference"><a href="#cite_note-Carbon1-19">&#91;19&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td><a href="/wiki/Ralph_Chapman_(politician)" title="Ralph Chapman (politician)">Ralph Chapman</a>
+</td>
+<td>133rd District, Maine
+</td>
+<td>Maine House of Representatives
+</td>
+<td><sup id="cite_ref-BDNM05_20-0" class="reference"><a href="#cite_note-BDNM05-20">&#91;20&#93;</a></sup><sup id="cite_ref-GPN2017_21-0" class="reference"><a href="#cite_note-GPN2017-21">&#91;21&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Billy Gene Collins
+</td>
+<td><a href="/wiki/Waterford,_Connecticut" title="Waterford, Connecticut">Waterford, Connecticut</a>
+</td>
+<td>Zoning Board of Appeals Alternate
+</td>
+<td><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>David Conley
+</td>
+<td><a href="/wiki/Douglas_County,_Wisconsin" title="Douglas County, Wisconsin">Douglas County, Wisconsin</a>
+</td>
+<td>Board of Supervisors
+</td>
+<td><sup id="cite_ref-DC1_23-0" class="reference"><a href="#cite_note-DC1-23">&#91;23&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Michael Cornell
+</td>
+<td><a href="/wiki/River_Hill,_Columbia,_Maryland" title="River Hill, Columbia, Maryland">River Hill Village</a> Board of Directors, Maryland
+</td>
+<td>Chair
+</td>
+<td><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Carl D'Amato
+</td>
+<td><a href="/wiki/Waterford,_Connecticut" title="Waterford, Connecticut">Waterford, Connecticut</a>
+</td>
+<td>Representative Town Meeting
+</td>
+<td><sup id="cite_ref-:0_25-0" class="reference"><a href="#cite_note-:0-25">&#91;25&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Robb Davis
+</td>
+<td><a href="/wiki/Davis,_California" title="Davis, California">Davis, California</a>
+</td>
+<td>Mayor
+</td>
+<td><sup id="cite_ref-Davis1_26-0" class="reference"><a href="#cite_note-Davis1-26">&#91;26&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Josiah Dean
+</td>
+<td><a href="/wiki/Dufur,_Oregon" title="Dufur, Oregon">Dufur, Oregon</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-DUF1_27-0" class="reference"><a href="#cite_note-DUF1-27">&#91;27&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Bruce Delgado
+</td>
+<td><a href="/wiki/Marina,_California" title="Marina, California">Marina, California</a>
+</td>
+<td>Mayor
+</td>
+<td><sup id="cite_ref-GPCA01_28-0" class="reference"><a href="#cite_note-GPCA01-28">&#91;28&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Daphne Dixon
+</td>
+<td><a href="/wiki/Fairfield,_Connecticut" title="Fairfield, Connecticut">Fairfield, Connecticut</a>
+</td>
+<td>Alternate, Zoning Board of Appeals
+</td>
+<td><sup id="cite_ref-cfar1_29-0" class="reference"><a href="#cite_note-cfar1-29">&#91;29&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Matt Donahue
+</td>
+<td><a href="/wiki/Benton_County,_Oregon" title="Benton County, Oregon">Benton County, Oregon</a>
+</td>
+<td><a href="/wiki/Oregon_circuit_courts" title="Oregon circuit courts">Circuit Court</a> Judge
+</td>
+<td><sup id="cite_ref-ORE2_30-0" class="reference"><a href="#cite_note-ORE2-30">&#91;30&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=David_Doonan&amp;action=edit&amp;redlink=1" class="new" title="David Doonan (page does not exist)">David Doonan</a>
+</td>
+<td><a href="/wiki/Greenwich_(village),_New_York" title="Greenwich (village), New York">Greenwich, New York</a>
+</td>
+<td>Mayor
+</td>
+<td><sup id="cite_ref-PS01_31-0" class="reference"><a href="#cite_note-PS01-31">&#91;31&#93;</a></sup><sup id="cite_ref-GPNYS01_32-0" class="reference"><a href="#cite_note-GPNYS01-32">&#91;32&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Jennifer Dotson
+</td>
+<td><a href="/wiki/Ithaca,_New_York" title="Ithaca, New York">Ithaca, New York</a>
+</td>
+<td>Common Councillor
+</td>
+<td><sup id="cite_ref-SCCU01_33-0" class="reference"><a href="#cite_note-SCCU01-33">&#91;33&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Maureen Doyle
+</td>
+<td><a href="/wiki/Southbridge,_Massachusetts" title="Southbridge, Massachusetts">Southbridge, Massachusetts</a>
+</td>
+<td>Member, Conservation Commission
+</td>
+<td><sup id="cite_ref-South1_34-0" class="reference"><a href="#cite_note-South1-34">&#91;34&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Becky Elder
+</td>
+<td><a href="/wiki/Manitou_Springs,_Colorado" title="Manitou Springs, Colorado">Manitou Springs, Colorado</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-CMS1_35-0" class="reference"><a href="#cite_note-CMS1-35">&#91;35&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td><a href="/wiki/Mike_Feinstein" title="Mike Feinstein">Mike Feinstein</a>
+</td>
+<td><a href="/wiki/Santa_Monica,_California" title="Santa Monica, California">Santa Monica, California</a>
+</td>
+<td>Mayor
+</td>
+<td><sup id="cite_ref-SMON01_36-0" class="reference"><a href="#cite_note-SMON01-36">&#91;36&#93;</a></sup><sup id="cite_ref-Look01_37-0" class="reference"><a href="#cite_note-Look01-37">&#91;37&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Kathleen Fitzpatrick
+</td>
+<td><a href="/wiki/Mosier,_Oregon" title="Mosier, Oregon">Mosier, Oregon</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-GPUS01_1-2" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Andrew Frascarelli
+</td>
+<td><a href="/wiki/Waterford,_Connecticut" title="Waterford, Connecticut">Waterford, Connecticut</a>
+</td>
+<td>Representative Town Meeting
+</td>
+<td><sup id="cite_ref-:0_25-1" class="reference"><a href="#cite_note-:0-25">&#91;25&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Gail Garrett
+</td>
+<td><a href="/wiki/Mount_Washington,_Massachusetts" title="Mount Washington, Massachusetts">Mount Washington, Massachusetts</a>
+</td>
+<td>Member, Select Board
+</td>
+<td><sup id="cite_ref-MtWAsh1_38-0" class="reference"><a href="#cite_note-MtWAsh1-38">&#91;38&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Frank Gatti
+</td>
+<td><a href="/wiki/Amherst,_Massachusetts" title="Amherst, Massachusetts">Amherst, Massachusetts</a>
+</td>
+<td>Town Meeting Seat
+</td>
+<td><sup id="cite_ref-AMH1_39-0" class="reference"><a href="#cite_note-AMH1-39">&#91;39&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Peter Gleichman
+</td>
+<td><a href="/wiki/Ward,_Colorado" title="Ward, Colorado">Ward, Colorado</a>
+</td>
+<td>Mayor
+</td>
+<td><sup id="cite_ref-CDaily1_40-0" class="reference"><a href="#cite_note-CDaily1-40">&#91;40&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Bob Gifford
+</td>
+<td><a href="/wiki/Portage_County,_Wisconsin" title="Portage County, Wisconsin">Portage County, Wisconsin</a>
+</td>
+<td>Board of Supervisors
+</td>
+<td><sup id="cite_ref-Port1_41-0" class="reference"><a href="#cite_note-Port1-41">&#91;41&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Renée Goddard
+</td>
+<td><a href="/wiki/Fairfax,_California" title="Fairfax, California">Fairfax, California</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-Fair01_42-0" class="reference"><a href="#cite_note-Fair01-42">&#91;42&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Art_Goodtimes" title="Art Goodtimes">Art Goodtimes</a>
+</td>
+<td><a href="/wiki/San_Miguel_County,_Colorado" title="San Miguel County, Colorado">San Miguel County, Colorado</a>
+</td>
+<td>County Commissioner
+</td>
+<td><sup id="cite_ref-TDP01_43-0" class="reference"><a href="#cite_note-TDP01-43">&#91;43&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Cam_Gordon" title="Cam Gordon">Cam Gordon</a>
+</td>
+<td><a href="/wiki/Minneapolis,_Minnesota" class="mw-redirect" title="Minneapolis, Minnesota">Minneapolis, Minnesota</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-Minn1_44-0" class="reference"><a href="#cite_note-Minn1-44">&#91;44&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td><a href="/wiki/Daniel_Hamburg" title="Daniel Hamburg">Daniel Hamburg</a>
+</td>
+<td><a href="/wiki/Mendocino_County,_California" title="Mendocino County, California">Mendocino County, California</a>
+</td>
+<td>Supervisor
+</td>
+<td><sup id="cite_ref-MC1_45-0" class="reference"><a href="#cite_note-MC1-45">&#91;45&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Michelle Haynes
+</td>
+<td><a href="/wiki/Norwood,_Colorado" title="Norwood, Colorado">Norwood, Colorado</a>
+</td>
+<td>Town Board
+</td>
+<td><sup id="cite_ref-TDP02_46-0" class="reference"><a href="#cite_note-TDP02-46">&#91;46&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Gary Hull
+</td>
+<td><a href="/wiki/Sharpsburg,_Maryland" title="Sharpsburg, Maryland">Sharpsburg, Maryland</a>
+</td>
+<td>Town Councillor
+</td>
+<td><sup id="cite_ref-HMM01_47-0" class="reference"><a href="#cite_note-HMM01-47">&#91;47&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Tanya Ishikawa
+</td>
+<td><a href="/wiki/Federal_Heights,_Colorado" title="Federal Heights, Colorado">Federal Heights, Colorado</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-PC01_48-0" class="reference"><a href="#cite_note-PC01-48">&#91;48&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=11" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Damon Jespersen
+</td>
+<td><a href="/wiki/Newbury,_Massachusetts" title="Newbury, Massachusetts">Newbury, Massachusetts</a>
+</td>
+<td>Member, Board of Selectmen
+</td>
+<td><sup id="cite_ref-Newbur1_49-0" class="reference"><a href="#cite_note-Newbur1-49">&#91;49&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=12" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>John Keener
+</td>
+<td><a href="/wiki/Pacifica,_California" title="Pacifica, California">Pacifica, California</a>
+</td>
+<td>City Councillor
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-Pac1_50-0" class="reference"><a href="#cite_note-Pac1-50">&#91;50&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Brian Kehoe
+</td>
+<td><a href="/wiki/Catskill_(village),_New_York" title="Catskill (village), New York">Catskill, New York</a>
+</td>
+<td>Village Councillor
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-GPNYS01_32-1" class="reference"><a href="#cite_note-GPNYS01-32">&#91;32&#93;</a></sup><sup id="cite_ref-GCED01_51-0" class="reference"><a href="#cite_note-GCED01-51">&#91;51&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Joshua Steele Kelly
+</td>
+<td><a href="/wiki/Waterford,_Connecticut" title="Waterford, Connecticut">Waterford, Connecticut</a>
+</td>
+<td>Representative Town Meeting
+</td>
+<td>Formerly Zoning Board of Appeals Alternate
+</td>
+<td><sup id="cite_ref-td1_52-0" class="reference"><a href="#cite_note-td1-52">&#91;52&#93;</a></sup><sup id="cite_ref-:1_53-0" class="reference"><a href="#cite_note-:1-53">&#91;53&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Rebecca Kemble
+</td>
+<td><a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a>
+</td>
+<td>Common Council
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-Mad2_54-0" class="reference"><a href="#cite_note-Mad2-54">&#91;54&#93;</a></sup><sup id="cite_ref-GPWI_55-0" class="reference"><a href="#cite_note-GPWI-55">&#91;55&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Jason Kirkpatrick
+</td>
+<td><a href="/wiki/Arcata,_California" title="Arcata, California">Arcata, California</a>
+</td>
+<td>Vice Mayor
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-SReg1_56-0" class="reference"><a href="#cite_note-SReg1-56">&#91;56&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=13" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Mary Jo Long
+</td>
+<td><a href="/wiki/Afton,_New_York" title="Afton, New York">Afton, New York</a>
+</td>
+<td>Town Councillor
+</td>
+<td><sup id="cite_ref-EiD01_57-0" class="reference"><a href="#cite_note-EiD01-57">&#91;57&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Hector Lopez
+</td>
+<td><a href="/wiki/New_Canaan,_Connecticut" title="New Canaan, Connecticut">New Canaan, Connecticut</a>
+</td>
+<td>Constable
+</td>
+<td><sup id="cite_ref-NC1_13-1" class="reference"><a href="#cite_note-NC1-13">&#91;13&#93;</a></sup><sup id="cite_ref-ncaan1_58-0" class="reference"><a href="#cite_note-ncaan1-58">&#91;58&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=14" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Tom Mair
+</td>
+<td><a href="/wiki/Grand_Traverse_County,_Michigan" title="Grand Traverse County, Michigan">Grand Traverse County, Michigan</a>
+</td>
+<td>County Board Member
+</td>
+<td><sup id="cite_ref-TCEagle1_59-0" class="reference"><a href="#cite_note-TCEagle1-59">&#91;59&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Sarah Marsh
+</td>
+<td><a href="/wiki/Fayetteville,_Arkansas" title="Fayetteville, Arkansas">Fayetteville, Arkansas</a>
+</td>
+<td>Alderman
+</td>
+<td><sup id="cite_ref-GPUS01_1-3" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup><sup id="cite_ref-FEYE1_60-0" class="reference"><a href="#cite_note-FEYE1-60">&#91;60&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Amy Martenson
+</td>
+<td><a href="/wiki/Napa_Valley_College" title="Napa Valley College">Napa Valley College</a>, California
+</td>
+<td>Trustee
+</td>
+<td><sup id="cite_ref-NVC1_14-1" class="reference"><a href="#cite_note-NVC1-14">&#91;14&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Merrily Mazza
+</td>
+<td><a href="/wiki/Lafayette,_Colorado" title="Lafayette, Colorado">Lafayette, Colorado</a>
+</td>
+<td>City Councilor
+</td>
+<td><sup id="cite_ref-Laf1_61-0" class="reference"><a href="#cite_note-Laf1-61">&#91;61&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Gayle_McLaughlin" title="Gayle McLaughlin">Gayle McLaughlin</a>
+</td>
+<td><a href="/wiki/Richmond,_California" title="Richmond, California">Richmond, California</a>
+</td>
+<td>Mayor/Councillor
+</td>
+<td><sup id="cite_ref-RichElect_8-1" class="reference"><a href="#cite_note-RichElect-8">&#91;8&#93;</a></sup><sup id="cite_ref-Rich1_9-1" class="reference"><a href="#cite_note-Rich1-9">&#91;9&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>MK Merelice
+</td>
+<td><a href="/wiki/Brookline,_Massachusetts" title="Brookline, Massachusetts">Brookline, Massachusetts</a>
+</td>
+<td>Town Meeting Seat
+</td>
+<td><sup id="cite_ref-GRP1_62-0" class="reference"><a href="#cite_note-GRP1-62">&#91;62&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Raymond C. Meyer
+</td>
+<td>Lucas County Health Center, Iowa
+</td>
+<td>Board Member
+</td>
+<td><sup id="cite_ref-GPUS01_1-4" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Ross_Mirkarimi" title="Ross Mirkarimi">Ross Mirkarimi</a>
+</td>
+<td><a href="/wiki/San_Francisco,_California" class="mw-redirect" title="San Francisco, California">San Francisco, California</a>
+</td>
+<td><a href="/wiki/San_Francisco_Sheriff%27s_Department" title="San Francisco Sheriff&#39;s Department">Sheriff</a> &amp; <a href="/wiki/San_Francisco_Board_of_Supervisors" title="San Francisco Board of Supervisors">Board of Supervisors</a>
+</td>
+<td><sup id="cite_ref-RMirk01_63-0" class="reference"><a href="#cite_note-RMirk01-63">&#91;63&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=15" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=16" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Kim O'Connor
+</td>
+<td><a href="/wiki/Hillsborough_County,_Florida" title="Hillsborough County, Florida">Hillsborough County, Florida</a>
+</td>
+<td>Member, Soil and Water Conservation Board
+</td>
+<td><sup id="cite_ref-GOPF1_64-0" class="reference"><a href="#cite_note-GOPF1-64">&#91;64&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Vincent O'Connor
+</td>
+<td><a href="/wiki/Amherst,_Massachusetts" title="Amherst, Massachusetts">Amherst, Massachusetts</a>
+</td>
+<td>Town Meeting Seat
+</td>
+<td><sup id="cite_ref-Amhherst2_65-0" class="reference"><a href="#cite_note-Amhherst2-65">&#91;65&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Leland Pan
+</td>
+<td><a href="/wiki/Dane_County,_Wisconsin" title="Dane County, Wisconsin">Dane County, Wisconsin</a>
+</td>
+<td>Board of Supervisors
+</td>
+<td><sup id="cite_ref-badger_66-0" class="reference"><a href="#cite_note-badger-66">&#91;66&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Vahe Peroomian
+</td>
+<td><a href="/wiki/Glendale_Community_College_(California)" title="Glendale Community College (California)">Glendale Community College</a>, California
+</td>
+<td>Trustee
+</td>
+<td><sup id="cite_ref-GPUS01_1-5" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup><sup id="cite_ref-Glen1_67-0" class="reference"><a href="#cite_note-Glen1-67">&#91;67&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Paul Pitino
+</td>
+<td><a href="/wiki/Arcata,_California" title="Arcata, California">Arcata, California</a>
+</td>
+<td>Town Councillor
+</td>
+<td><sup id="cite_ref-Arcata1_68-0" class="reference"><a href="#cite_note-Arcata1-68">&#91;68&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=18" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=19" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>John Reed
+</td>
+<td><a href="/wiki/Fairfax,_California" title="Fairfax, California">Fairfax, California</a>
+</td>
+<td>Mayor
+</td>
+<td><sup id="cite_ref-Fair01_42-1" class="reference"><a href="#cite_note-Fair01-42">&#91;42&#93;</a></sup><sup id="cite_ref-GPCA02_69-0" class="reference"><a href="#cite_note-GPCA02-69">&#91;69&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Colleen Ann Reidy
+</td>
+<td><a href="/wiki/Thompsonville,_Connecticut" title="Thompsonville, Connecticut">Thompsonville, Connecticut</a>
+</td>
+<td>Chair, Fire Commission
+</td>
+<td><sup id="cite_ref-GPUS01_1-6" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup><sup id="cite_ref-Enfield1_70-0" class="reference"><a href="#cite_note-Enfield1-70">&#91;70&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Rebecca_Rotzler" title="Rebecca Rotzler">Rebecca Rotzler</a>
+</td>
+<td><a href="/wiki/New_Paltz_(village),_New_York" title="New Paltz (village), New York">New Paltz</a>, New York
+</td>
+<td>Deputy Mayor
+</td>
+<td><sup id="cite_ref-WPost1_71-0" class="reference"><a href="#cite_note-WPost1-71">&#91;71&#93;</a></sup><sup id="cite_ref-NPal1_72-0" class="reference"><a href="#cite_note-NPal1-72">&#91;72&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Marsha A. Rummel
+</td>
+<td><a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a>
+</td>
+<td>Common Councillor
+</td>
+<td><sup id="cite_ref-GPWI_55-1" class="reference"><a href="#cite_note-GPWI-55">&#91;55&#93;</a></sup><sup id="cite_ref-Mad3_73-0" class="reference"><a href="#cite_note-Mad3-73">&#91;73&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=20" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Peter Schwartzman
+</td>
+<td><a href="/wiki/Galesburg,_Illinois" title="Galesburg, Illinois">Galesburg, Illinois</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-Gale1_74-0" class="reference"><a href="#cite_note-Gale1-74">&#91;74&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Leif Smith
+</td>
+<td><a href="/wiki/Redding,_Connecticut" title="Redding, Connecticut">Redding, Connecticut</a>
+</td>
+<td>Constable
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-GPUS01_1-7" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup><sup id="cite_ref-Red1_75-0" class="reference"><a href="#cite_note-Red1-75">&#91;75&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Dona_Spring" title="Dona Spring">Dona Spring</a>
+</td>
+<td><a href="/wiki/Berkeley,_California" title="Berkeley, California">Berkeley, California</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-SFGate01_76-0" class="reference"><a href="#cite_note-SFGate01-76">&#91;76&#93;</a></sup><sup id="cite_ref-BDP01_77-0" class="reference"><a href="#cite_note-BDP01-77">&#91;77&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>George P. Steeves
+</td>
+<td><a href="/wiki/Southbridge,_Massachusetts" title="Southbridge, Massachusetts">Southbridge, Massachusetts</a>
+</td>
+<td>Town Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-South2_78-0" class="reference"><a href="#cite_note-South2-78">&#91;78&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Jill_Stein" title="Jill Stein">Jill Stein</a>
+</td>
+<td><a href="/wiki/Lexington,_Massachusetts" title="Lexington, Massachusetts">Lexington, Massachusetts</a>
+</td>
+<td>Town Meeting Member
+</td>
+<td>Former candidate for President, 2012 &amp; 2016
+</td>
+<td><sup id="cite_ref-GPUS03_79-0" class="reference"><a href="#cite_note-GPUS03-79">&#91;79&#93;</a></sup><sup id="cite_ref-VSmart_80-0" class="reference"><a href="#cite_note-VSmart-80">&#91;80&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Jim Sullivan
+</td>
+<td><a href="/wiki/Victory,_Saratoga_County,_New_York" title="Victory, Saratoga County, New York">Victory, New York</a>
+</td>
+<td>Mayor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-GPNYS01_32-2" class="reference"><a href="#cite_note-GPNYS01-32">&#91;32&#93;</a></sup><sup id="cite_ref-NCPR01_81-0" class="reference"><a href="#cite_note-NCPR01-81">&#91;81&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=21" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td><a href="/wiki/Chuck_Turner" title="Chuck Turner">Chuck Turner</a>
+</td>
+<td><a href="/wiki/Boston" title="Boston">Boston, Massachusetts</a>
+</td>
+<td>City Councillor
+</td>
+<td><sup id="cite_ref-GB01_82-0" class="reference"><a href="#cite_note-GB01-82">&#91;82&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=22" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=23" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Name
+</th>
+<th>Area
+</th>
+<th>Office
+</th>
+<th>Citation
+</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Darcy Van Ness
+</td>
+<td><a href="/wiki/Waterford,_Connecticut" title="Waterford, Connecticut">Waterford, Connecticut</a>
+</td>
+<td>Zoning Board of Appeals Alternate
+</td>
+<td><sup id="cite_ref-:0_25-2" class="reference"><a href="#cite_note-:0-25">&#91;25&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=24" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Daniel Welsh
+</td>
+<td><a href="/wiki/Lewisboro,_New_York" title="Lewisboro, New York">Lewisboro, New York</a>
+</td>
+<td>Town Councillor
+</td>
+<td><sup id="cite_ref-Lew1_83-0" class="reference"><a href="#cite_note-Lew1-83">&#91;83&#93;</a></sup><sup id="cite_ref-GPUS01_1-8" class="reference"><a href="#cite_note-GPUS01-1">&#91;1&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+
+<tr>
+<td>Heidi Weigleitner
+</td>
+<td><a href="/wiki/Dane_County,_Wisconsin" title="Dane County, Wisconsin">Dane County, Wisconsin</a>
+</td>
+<td>Board of Supervisors
+</td>
+<td><sup id="cite_ref-DANE1_84-0" class="reference"><a href="#cite_note-DANE1-84">&#91;84&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Jason_West" title="Jason West">Jason West</a>
+</td>
+<td><a href="/wiki/New_Paltz_(village),_New_York" title="New Paltz (village), New York">New Paltz, New York</a>
+</td>
+<td>Mayor
+</td>
+<td><sup id="cite_ref-DNow01_85-0" class="reference"><a href="#cite_note-DNow01-85">&#91;85&#93;</a></sup><sup id="cite_ref-NYTimes02_86-0" class="reference"><a href="#cite_note-NYTimes02-86">&#91;86&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Baird Welch-Collins
+</td>
+<td><a href="/wiki/Waterford,_Connecticut" title="Waterford, Connecticut">Waterford, Connecticut</a>
+</td>
+<td>Representative Town Meeting
+</td>
+<td><sup id="cite_ref-:1_53-1" class="reference"><a href="#cite_note-:1-53">&#91;53&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=25" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=26" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=27" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit&amp;section=28" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-GPUS01-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-GPUS01_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GPUS01_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GPUS01_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GPUS01_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-GPUS01_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-GPUS01_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-GPUS01_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-GPUS01_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-GPUS01_1-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.fo/20170217200126/http://www.gp.org/officeholders">"Officeholders"</a>. Green Party of the United States. Archived from <a rel="nofollow" class="external text" href="http://www.gp.org/officeholders">the original</a> on February 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Officeholders&amp;rft.pub=Green+Party+of+the+United+States&amp;rft_id=http%3A%2F%2Fwww.gp.org%2Fofficeholders&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ca.rand.org/statebulls/bulletins/statebull218aa.html">"Sole Green Party Legislator Makes Switch"</a>. Rand California Policy Bulletin. October 18, 1999<span class="reference-accessdate">. Retrieved <span class="nowrap">June 7,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sole+Green+Party+Legislator+Makes+Switch&amp;rft.pub=Rand+California+Policy+Bulletin&amp;rft.date=1999-10-18&amp;rft_id=http%3A%2F%2Fca.rand.org%2Fstatebulls%2Fbulletins%2Fstatebull218aa.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.courtinfo.ca.gov/courtadmin/aoc/documents/capcon1100.pdf">"Ca 2000 Election Night Returns"</a> <span class="cs1-format">(PDF)</span>. The Capital Connection. November 8, 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">June 7,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ca+2000+Election+Night+Returns&amp;rft.pub=The+Capital+Connection&amp;rft.date=2000-11-08&amp;rft_id=http%3A%2F%2Fwww.courtinfo.ca.gov%2Fcourtadmin%2Faoc%2Fdocuments%2Fcapcon1100.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-San_Francisco_Chronicle-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-San_Francisco_Chronicle_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2009/04/29/national/a122556D86.DTL">"Nation's highest-ranking Green switching parties"</a>. <i>San Francisco Chronicle</i>. April 29, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">July 6,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft.atitle=Nation%27s+highest-ranking+Green+switching+parties&amp;rft.date=2009-04-29&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fcgi-bin%2Farticle.cgi%3Ff%3D%2Fn%2Fa%2F2009%2F04%2F29%2Fnational%2Fa122556D86.DTL&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since May 2016">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Hardy, Ronald. <a rel="nofollow" class="external text" href="http://www.greenpartywatch.org/2012/11/07/fred-smith-elected-to-arkansas-state-house-on-green-party-ticket/">"Fred Smith Elected to Arkansas State House on Green Party Ticket"</a>. Green Party Watch<span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fred+Smith+Elected+to+Arkansas+State+House+on+Green+Party+Ticket&amp;rft.pub=Green+Party+Watch&amp;rft.aulast=Hardy&amp;rft.aufirst=Ronald&amp;rft_id=http%3A%2F%2Fwww.greenpartywatch.org%2F2012%2F11%2F07%2Ffred-smith-elected-to-arkansas-state-house-on-green-party-ticket%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-reelection-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-reelection_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Richard Winger (February 26, 2014). <a rel="nofollow" class="external text" href="http://www.ballot-access.org/2014/02/arkansas-representative-fred-smith-elected-as-a-green-party-nominee-in-2012-files-for-re-election-as-a-democrat/">"Arkansas Representative Fred Smith, Elected as a Green Party Nominee in 2012, Files for Re-Election as a Democrat"</a>. <i>Ballot Access News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 20,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ballot+Access+News&amp;rft.atitle=Arkansas+Representative+Fred+Smith%2C+Elected+as+a+Green+Party+Nominee+in+2012%2C+Files+for+Re-Election+as+a+Democrat&amp;rft.date=2014-02-26&amp;rft.au=Richard+Winger&amp;rft_id=http%3A%2F%2Fwww.ballot-access.org%2F2014%2F02%2Farkansas-representative-fred-smith-elected-as-a-green-party-nominee-in-2012-files-for-re-election-as-a-democrat%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPUS04-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPUS04_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hardy, Ronald. <a rel="nofollow" class="external text" href="http://www.greenpartywatch.org/2012/11/08/maine-greens-elect-three-plus-independent-to-state-assembly/">"Maine Greens Elect Three; Plus Independent to State Assembly"</a>. Green Party Watch<span class="reference-accessdate">. Retrieved <span class="nowrap">October 10,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Maine+Greens+Elect+Three%3B+Plus+Independent+to+State+Assembly&amp;rft.pub=Green+Party+Watch&amp;rft.aulast=Hardy&amp;rft.aufirst=Ronald&amp;rft_id=http%3A%2F%2Fwww.greenpartywatch.org%2F2012%2F11%2F08%2Fmaine-greens-elect-three-plus-independent-to-state-assembly%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-RichElect-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-RichElect_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RichElect_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ci.richmond.ca.us/DocumentView.aspx?DID=977">"Official Results of the 2006 Municipal Election Held on November 7, 2006"</a>. Richmond City Clerk's Office. January 25, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Official+Results+of+the+2006+Municipal+Election+Held+on+November+7%2C+2006&amp;rft.pub=Richmond+City+Clerk%27s+Office&amp;rft.date=2012-01-25&amp;rft_id=http%3A%2F%2Fwww.ci.richmond.ca.us%2FDocumentView.aspx%3FDID%3D977&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Rich1-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rich1_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rich1_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">McLaughlin, Gayle. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNC4C5Ik?url=http://www.ci.richmond.ca.us/399/Gayle-McLaughlin">"Gayle McLaughlin"</a>. Richmond, CA: City of Richmond, California. Archived from <a rel="nofollow" class="external text" href="http://www.ci.richmond.ca.us/399/Gayle-McLaughlin">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gayle+McLaughlin&amp;rft.place=Richmond%2C+CA&amp;rft.pub=City+of+Richmond%2C+California&amp;rft.aulast=McLaughlin&amp;rft.aufirst=Gayle&amp;rft_id=http%3A%2F%2Fwww.ci.richmond.ca.us%2F399%2FGayle-McLaughlin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.nydailynews.com/new-york/results-2010-midterm-elections-mixed-bag-mayor-bloomberg-article-1.455215">"Results of 2010 midterm elections are mixed bag for Mayor Bloomberg"</a>. <i>Daily News</i>. New York. November 7, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 27,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Daily+News&amp;rft.atitle=Results+of+2010+midterm+elections+are+mixed+bag+for+Mayor+Bloomberg&amp;rft.date=2010-11-07&amp;rft_id=http%3A%2F%2Fwww.nydailynews.com%2Fnew-york%2Fresults-2010-midterm-elections-mixed-bag-mayor-bloomberg-article-1.455215&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPUS05-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPUS05_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oS4l11VF?url=http://gpus.org/elections/green-officeholders-most-legislative-body/">"Most Greens holding elected office at the same time on a single legislative body"</a>. Green Party of the United States. Archived from <a rel="nofollow" class="external text" href="http://gpus.org/elections/green-officeholders-most-legislative-body/">the original</a> on February 21, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Most+Greens+holding+elected+office+at+the+same+time+on+a+single+legislative+body&amp;rft.pub=Green+Party+of+the+United+States&amp;rft_id=http%3A%2F%2Fgpus.org%2Felections%2Fgreen-officeholders-most-legislative-body%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Lar1-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lar1_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oLx3n8Fg?url=http://www.cityoflaredo.com/mayor-council/N_MCmSites/D7/index.html">"George J. Altgelt"</a>. Laredo, TX: City of Laredo. Archived from <a rel="nofollow" class="external text" href="http://www.cityoflaredo.com/mayor-council/N_MCmSites/D7/index.html">the original</a> on February 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=George+J.+Altgelt&amp;rft.place=Laredo%2C+TX&amp;rft.pub=City+of+Laredo&amp;rft_id=http%3A%2F%2Fwww.cityoflaredo.com%2Fmayor-council%2FN_MCmSites%2FD7%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NC1-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-NC1_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NC1_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newcanaan.info/content/9488/9220/749/755/">"Constables"</a>. New Canaan, CT: Town of New Canaan<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Constables&amp;rft.place=New+Canaan%2C+CT&amp;rft.pub=Town+of+New+Canaan&amp;rft_id=http%3A%2F%2Fwww.newcanaan.info%2Fcontent%2F9488%2F9220%2F749%2F755%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NVC1-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-NVC1_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NVC1_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.fo/20170217202026/http://www.napavalley.edu/AboutNVC/Trustees/Pages/default.aspx">"Napa Valley College Board of Trustees"</a>. Napa Valley: Napa Valley College. Archived from <a rel="nofollow" class="external text" href="http://www.napavalley.edu/AboutNVC/Trustees/Pages/default.aspx">the original</a> on February 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Napa+Valley+College+Board+of+Trustees&amp;rft.place=Napa+Valley&amp;rft.pub=Napa+Valley+College&amp;rft_id=http%3A%2F%2Fwww.napavalley.edu%2FAboutNVC%2FTrustees%2FPages%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Mad1-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mad1_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNaRFYQG?url=https://www.cityofmadison.com/council/district17/">"District 17: Alder Samba Baldeh"</a>. Madison, WI: City of Madison. Archived from <a rel="nofollow" class="external text" href="https://www.cityofmadison.com/council/district17/">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=District+17%3A+Alder+Samba+Baldeh&amp;rft.place=Madison%2C+WI&amp;rft.pub=City+of+Madison&amp;rft_id=https%3A%2F%2Fwww.cityofmadison.com%2Fcouncil%2Fdistrict17%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gp.org/henry_bear_announces_cd2_candidacy">"Maine House Rep. Henry Bear registers Green, announces CD2 candidacy"</a>. Green Party of the United States. 22 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Maine+House+Rep.+Henry+Bear+registers+Green%2C+announces+CD2+candidacy&amp;rft.pub=Green+Party+of+the+United+States&amp;rft.date=2017-11-22&amp;rft_id=http%3A%2F%2Fwww.gp.org%2Fhenry_bear_announces_cd2_candidacy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ORE1-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-ORE1_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://scarc.library.oregonstate.edu/oh150/beilstein/biography.html">"Mike Beilstein Oral History Interview"</a>. Oregon State University. July 7, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mike+Beilstein+Oral+History+Interview&amp;rft.pub=Oregon+State+University&amp;rft.date=2016-07-07&amp;rft_id=http%3A%2F%2Fscarc.library.oregonstate.edu%2Foh150%2Fbeilstein%2Fbiography.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Cass1-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cass1_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.casscountymi.org/TownshipCityVillageInfo/NewbergTownship.aspx">"Newberg Township Information"</a> (in Engish). Cass County, MI: Cass County, MI<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Newberg+Township+Information&amp;rft.place=Cass+County%2C+MI&amp;rft.pub=Cass+County%2C+MI&amp;rft_id=http%3A%2F%2Fwww.casscountymi.org%2FTownshipCityVillageInfo%2FNewbergTownship.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Unrecognized language (<a href="/wiki/Category:CS1_maint:_Unrecognized_language" title="Category:CS1 maint: Unrecognized language">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Carbon1-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carbon1_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNZnqD2o?url=http://explorecarbondale.com/node/3866">"Carbondale City Council"</a>. Carbondale, IL: City of Carbondale. Archived from <a rel="nofollow" class="external text" href="http://explorecarbondale.com/node/3866">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carbondale+City+Council&amp;rft.place=Carbondale%2C+IL&amp;rft.pub=City+of+Carbondale&amp;rft_id=http%3A%2F%2Fexplorecarbondale.com%2Fnode%2F3866&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-BDNM05-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-BDNM05_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Cousins, Christopher. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6thDRIdbY">"Lawmaker's party switch gives Greens a seat in the Maine House"</a>. Bangor, Maine: Bangor Daily News. Archived from <a rel="nofollow" class="external text" href="https://bangordailynews.com/2017/09/22/politics/lawmakers-party-switch-gives-greens-a-seat-in-the-maine-house/">the original</a> on September 23, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">September 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lawmaker%E2%80%99s+party+switch+gives+Greens+a+seat+in+the+Maine+House&amp;rft.place=Bangor%2C+Maine&amp;rft.pub=Bangor+Daily+News&amp;rft.aulast=Cousins&amp;rft.aufirst=Christopher&amp;rft_id=https%3A%2F%2Fbangordailynews.com%2F2017%2F09%2F22%2Fpolitics%2Flawmakers-party-switch-gives-greens-a-seat-in-the-maine-house%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPN2017-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPN2017_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Pfeifle, Sam. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6thDa71zy">"Rep. Chapman joins Maine Green Independents"</a>. Washington, DC: Green Party of the US. Archived from <a rel="nofollow" class="external text" href="http://www.gp.org/rep_chapman_joins_maine_green_independents">the original</a> on September 23, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rep.+Chapman+joins+Maine+Green+Independents&amp;rft.place=Washington%2C+DC&amp;rft.pub=Green+Party+of+the+US&amp;rft.aulast=Pfeifle&amp;rft.aufirst=Sam&amp;rft_id=http%3A%2F%2Fwww.gp.org%2Frep_chapman_joins_maine_green_independents&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Peterson, Kathleen. <a rel="nofollow" class="external text" href="http://www.waterfordct.org/sites/waterfordct/files/minutes/minutes-file/11-21-17_bos_minutes.pdf">"Waterford, CT Board of Selectmen November 21, 2017 Minutes"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">April 19,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Waterford%2C+CT+Board+of+Selectmen+November+21%2C+2017+Minutes&amp;rft.aulast=Peterson&amp;rft.aufirst=Kathleen&amp;rft_id=http%3A%2F%2Fwww.waterfordct.org%2Fsites%2Fwaterfordct%2Ffiles%2Fminutes%2Fminutes-file%2F11-21-17_bos_minutes.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-DC1-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-DC1_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.douglascountywi.org/index.aspx?NID=647">"Members by District"</a>. Douglas County, WI: Douglas County, Wisconsim<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Members+by+District&amp;rft.place=Douglas+County%2C+WI&amp;rft.pub=Douglas+County%2C+Wisconsim&amp;rft_id=http%3A%2F%2Fwww.douglascountywi.org%2Findex.aspx%3FNID%3D647&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.villageofriverhill.org/new-board-members-appointed/">"New Board Members Appointed"</a>. Village of River Hill<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Board+Members+Appointed&amp;rft.pub=Village+of+River+Hill&amp;rft_id=http%3A%2F%2Fwww.villageofriverhill.org%2Fnew-board-members-appointed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.theday.com/article/20171107/NWS01/171109440">"Waterford Green Party wins a seat in all four RTM districts"</a>. <i>The Day</i>. 2017-11-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-04-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Day&amp;rft.atitle=Waterford+Green+Party+wins+a+seat+in+all+four+RTM+districts&amp;rft.date=2017-11-07&amp;rft_id=https%3A%2F%2Fwww.theday.com%2Farticle%2F20171107%2FNWS01%2F171109440&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Davis1-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Davis1_26-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oLp2fRa8?url=http://cityofdavis.org/city-hall/city-council/who-s-who">"City of Davis, CA: Who's Who"</a>. Davis, California: City of David. Archived from <a rel="nofollow" class="external text" href="http://cityofdavis.org/city-hall/city-council/who-s-who">the original</a> on February 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=City+of+Davis%2C+CA%3A+Who%27s+Who&amp;rft.place=Davis%2C+California&amp;rft.pub=City+of+David&amp;rft_id=http%3A%2F%2Fcityofdavis.org%2Fcity-hall%2Fcity-council%2Fwho-s-who&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-DUF1-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-DUF1_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNGPHqIX?url=http://www.cityofdufur.org/Council.html">"Next City Council Meeting"</a>. Dufur, OR: City of Dufur. Archived from <a rel="nofollow" class="external text" href="http://www.cityofdufur.org/Council.html">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Next+City+Council+Meeting&amp;rft.place=Dufur%2C+OR&amp;rft.pub=City+of+Dufur&amp;rft_id=http%3A%2F%2Fwww.cityofdufur.org%2FCouncil.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPCA01-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPCA01_28-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cagreens.org/officeholders/bruce-delgado">"Bruce Delgado"</a>. Green Party of California<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bruce+Delgado&amp;rft.pub=Green+Party+of+California&amp;rft_id=http%3A%2F%2Fwww.cagreens.org%2Fofficeholders%2Fbruce-delgado&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-cfar1-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-cfar1_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fairfieldct.org/content/10736/12067/17045/17225.aspx">"Zoning Board of Appeals Member Listing"</a>. Fairfield, CT: Town of Fairfield. March 16, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zoning+Board+of+Appeals+Member+Listing&amp;rft.place=Fairfield%2C+CT&amp;rft.pub=Town+of+Fairfield&amp;rft.date=2016-03-16&amp;rft_id=http%3A%2F%2Fwww.fairfieldct.org%2Fcontent%2F10736%2F12067%2F17045%2F17225.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ORE2-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-ORE2_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNGaesYB?url=http://www.courts.oregon.gov/Benton/pages/judgeDonohue.aspx">"Judge Matthew J. Donohue"</a>. Oregon Judicial Department. Archived from <a rel="nofollow" class="external text" href="http://www.courts.oregon.gov/Benton/pages/judgeDonohue.aspx">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Judge+Matthew+J.+Donohue&amp;rft.pub=Oregon+Judicial+Department&amp;rft_id=http%3A%2F%2Fwww.courts.oregon.gov%2FBenton%2Fpages%2FjudgeDonohue.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-PS01-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-PS01_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Guay, Melissa (Mar 19, 2008). <a rel="nofollow" class="external text" href="http://poststar.com/news/local/greenwich-mayor-ousted-in-village-elections/article_c7553721-8747-5913-8be2-13720ea2fe9e.html">"Greenwich mayor ousted in village elections"</a>. The Post Star<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Greenwich+mayor+ousted+in+village+elections&amp;rft.pub=The+Post+Star&amp;rft.date=2008-03-19&amp;rft.aulast=Guay&amp;rft.aufirst=Melissa&amp;rft_id=http%3A%2F%2Fpoststar.com%2Fnews%2Flocal%2Fgreenwich-mayor-ousted-in-village-elections%2Farticle_c7553721-8747-5913-8be2-13720ea2fe9e.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPNYS01-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-GPNYS01_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GPNYS01_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GPNYS01_32-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oTUr5qpP?url=http://www.gpny.org/office_holders">"Office holders"</a>. <a href="/wiki/Green_Party_of_New_York_State" class="mw-redirect" title="Green Party of New York State">Green Party of New York State</a>. Archived from <a rel="nofollow" class="external text" href="http://www.gpny.org/office_holders">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Office+holders&amp;rft.pub=Green+Party+of+New+York+State&amp;rft_id=http%3A%2F%2Fwww.gpny.org%2Foffice_holders&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SCCU01-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-SCCU01_33-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sustainablecampus.cornell.edu/blogs/news/posts/city-of-ithaca-adopts-plan-to-cut-greenhouse-gas-emissions">"City of Ithaca Adopts Plan to Cut Greenhouse Gas Emissions"</a>. Sustainable Campus - <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>. January 5, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=City+of+Ithaca+Adopts+Plan+to+Cut+Greenhouse+Gas+Emissions&amp;rft.pub=Sustainable+Campus+-+Cornell+University&amp;rft.date=2014-01-05&amp;rft_id=http%3A%2F%2Fwww.sustainablecampus.cornell.edu%2Fblogs%2Fnews%2Fposts%2Fcity-of-ithaca-adopts-plan-to-cut-greenhouse-gas-emissions&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-South1-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-South1_34-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ci.southbridge.ma.us/node/2401/by_subject">"Conservation Commission"</a>. Southbridge, MA: Town of Southbridge<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Conservation+Commission&amp;rft.place=Southbridge%2C+MA&amp;rft.pub=Town+of+Southbridge&amp;rft_id=http%3A%2F%2Fwww.ci.southbridge.ma.us%2Fnode%2F2401%2Fby_subject&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CMS1-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-CMS1_35-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.manitouspringsgov.com/government/council">"City Council - City of Manitou Springs"</a>. Manitou Springs, CO: City of Manitou Springs<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=City+Council+-+City+of+Manitou+Springs&amp;rft.place=Manitou+Springs%2C+CO&amp;rft.pub=City+of+Manitou+Springs&amp;rft_id=http%3A%2F%2Fwww.manitouspringsgov.com%2Fgovernment%2Fcouncil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SMON01-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-SMON01_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.smgov.net/uploadedFiles/Departments/Clerk/Elections/Archive/Election%20November%205,%201996.pdf">"Resolution of the City Council of the City of Santa Monica Accepting the Los Angeles County Registrar Recorder/County Clerk's Official Canvass and Official Statement of Votes for the Consolidated Municipal Election Held on November 5, 1996, and Declaring the Results Thereof"</a> <span class="cs1-format">(PDF)</span>. Santa Monica, CA: City of Santa Monica. November 5, 1996<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Resolution+of+the+City+Council+of+the+City+of+Santa+Monica+Accepting+the+Los+Angeles+County+Registrar+Recorder%2FCounty+Clerk%27s+Official+Canvass+and+Official+Statement+of+Votes+for+the+Consolidated+Municipal+Election+Held+on+November+5%2C+1996%2C+and+Declaring+the+Results+Thereof&amp;rft.place=Santa+Monica%2C+CA&amp;rft.pub=City+of+Santa+Monica&amp;rft.date=1996-11-05&amp;rft_id=http%3A%2F%2Fwww.smgov.net%2FuploadedFiles%2FDepartments%2FClerk%2FElections%2FArchive%2FElection%2520November%25205%2C%25201996.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Look01-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Look01_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Friedman, Jonathan (July 22, 2016). <a rel="nofollow" class="external text" href="http://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2016/July-2016/07_22_2016_Former_Santa_Monica_Mayor_Faces_Eviction.html">"Former Santa Monica Mayor Faces Eviction"</a>. Santa Monica Lookout<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Former+Santa+Monica+Mayor+Faces+Eviction&amp;rft.pub=Santa+Monica+Lookout&amp;rft.date=2016-07-22&amp;rft.aulast=Friedman&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.surfsantamonica.com%2Fssm_site%2Fthe_lookout%2Fnews%2FNews-2016%2FJuly-2016%2F07_22_2016_Former_Santa_Monica_Mayor_Faces_Eviction.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-MtWAsh1-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-MtWAsh1_38-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://townofmtwashington.com/modules.php?name=Info_Pages&amp;pa=displaypage&amp;id=4">"Contacts/Officers"</a>. Mt Washington, MA: Town of Mount Washington<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Contacts%2FOfficers&amp;rft.place=Mt+Washington%2C+MA&amp;rft.pub=Town+of+Mount+Washington&amp;rft_id=http%3A%2F%2Ftownofmtwashington.com%2Fmodules.php%3Fname%3DInfo_Pages%26pa%3Ddisplaypage%26id%3D4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-AMH1-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMH1_39-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amherstma.gov/ArchiveCenter/ViewFile/Item/6344">"Amherst Finance Committee Minutes"</a>. Amherst, MA: City of Amherst. March 20, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amherst+Finance+Committee+Minutes&amp;rft.place=Amherst%2C+MA&amp;rft.pub=City+of+Amherst&amp;rft.date=2014-03-20&amp;rft_id=http%3A%2F%2Famherstma.gov%2FArchiveCenter%2FViewFile%2FItem%2F6344&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CDaily1-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-CDaily1_40-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Reid, Christine (April 14, 2007). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oSRfzquE?url=http://www.coloradodaily.com/ci_13077689">"Sheriff takes over in Ward"</a>. Colorado Daily. Archived from <a rel="nofollow" class="external text" href="http://www.coloradodaily.com/ci_13077689">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sheriff+takes+over+in+Ward&amp;rft.pub=Colorado+Daily&amp;rft.date=2007-04-14&amp;rft.aulast=Reid&amp;rft.aufirst=Christine&amp;rft_id=http%3A%2F%2Fwww.coloradodaily.com%2Fci_13077689&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Port1-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-Port1_41-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNajFSqa?url=http://www.co.portage.wi.us/about-us/about-us/county-board">"County Board"</a>. Portage County, WI: Portage County, Wisconsin. Archived from <a rel="nofollow" class="external text" href="http://www.co.portage.wi.us/about-us/about-us/county-board">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">18 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=County+Board&amp;rft.place=Portage+County%2C+WI&amp;rft.pub=Portage+County%2C+Wisconsin&amp;rft_id=http%3A%2F%2Fwww.co.portage.wi.us%2Fabout-us%2Fabout-us%2Fcounty-board&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Fair01-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fair01_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fair01_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oSSqNv0F?url=http://www.town-of-fairfax.org/html/council.html">"Town of Fairfax, California"</a>. Fairfax, CA: Town of Fairfax, California. December 3, 2015. Archived from <a rel="nofollow" class="external text" href="http://www.town-of-fairfax.org/html/council.html">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Town+of+Fairfax%2C+California&amp;rft.place=Fairfax%2C+CA&amp;rft.pub=Town+of+Fairfax%2C+California&amp;rft.date=2015-12-03&amp;rft_id=http%3A%2F%2Fwww.town-of-fairfax.org%2Fhtml%2Fcouncil.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TDP01-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-TDP01_43-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Salvail, Andre (September 6, 2016). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oSSLXHtw?url=http://www.telluridenews.com/news/article_6817f2d4-7484-11e6-9589-3bf5d9883457.html">"Commissioner spearheads 'day of healing' with Utes"</a>. Telluride Daily Planet. Archived from <a rel="nofollow" class="external text" href="http://www.telluridenews.com/news/article_6817f2d4-7484-11e6-9589-3bf5d9883457.html">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Commissioner+spearheads+%E2%80%98day+of+healing%E2%80%99+with+Utes&amp;rft.pub=Telluride+Daily+Planet&amp;rft.date=2016-09-06&amp;rft.aulast=Salvail&amp;rft.aufirst=Andre&amp;rft_id=http%3A%2F%2Fwww.telluridenews.com%2Fnews%2Farticle_6817f2d4-7484-11e6-9589-3bf5d9883457.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Minn1-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-Minn1_44-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Gordon, Cam (November 16, 2016). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNFYAHrn?url=http://www.minneapolismn.gov/ward2/council_ward2_about_home">"About Cam Gordon"</a>. Minneapolis, MN: City of Minneapolis. Archived from <a rel="nofollow" class="external text" href="http://www.minneapolismn.gov/ward2/council_ward2_about_home">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Cam+Gordon&amp;rft.place=Minneapolis%2C+MN&amp;rft.pub=City+of+Minneapolis&amp;rft.date=2016-11-16&amp;rft.aulast=Gordon&amp;rft.aufirst=Cam&amp;rft_id=http%3A%2F%2Fwww.minneapolismn.gov%2Fward2%2Fcouncil_ward2_about_home&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-MC1-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-MC1_45-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hamburg, Dan. <a rel="nofollow" class="external text" href="http://www.co.mendocino.ca.us/bos/pdf/Dan_Hamburg-2015-FINAL.pdf">"Mendocino County Board of Supervisors 2015 Board Member Biography"</a> <span class="cs1-format">(PDF)</span>. Mendocino County Board of Supervisors<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mendocino+County+Board+of+Supervisors+2015+Board+Member+Biography&amp;rft.pub=Mendocino+County+Board+of+Supervisors&amp;rft.aulast=Hamburg&amp;rft.aufirst=Dan&amp;rft_id=http%3A%2F%2Fwww.co.mendocino.ca.us%2Fbos%2Fpdf%2FDan_Hamburg-2015-FINAL.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TDP02-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-TDP02_46-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Metrick, Ellen (December 9, 2009). <a rel="nofollow" class="external text" href="http://www.telluridenews.com/norwood_post/news/article_71fb45aa-fcfa-5d93-aca6-1d2b56eebe81.html">"Norwood Town Board has a full plate"</a>. Telluride Daily Planet<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Norwood+Town+Board+has+a+full+plate&amp;rft.pub=Telluride+Daily+Planet&amp;rft.date=2009-12-09&amp;rft.aulast=Metrick&amp;rft.aufirst=Ellen&amp;rft_id=http%3A%2F%2Fwww.telluridenews.com%2Fnorwood_post%2Fnews%2Farticle_71fb45aa-fcfa-5d93-aca6-1d2b56eebe81.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-HMM01-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-HMM01_47-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://articles.herald-mail.com/2006-11-22/news/25067827_1_vice-mayor-council-race-new-council">"Couple loses re-election bid to Sharpsburg Town"</a>. Herald-Mail Media. November 22, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Couple+loses+re-election+bid+to+Sharpsburg+Town&amp;rft.pub=Herald-Mail+Media&amp;rft.date=2006-11-22&amp;rft_id=http%3A%2F%2Farticles.herald-mail.com%2F2006-11-22%2Fnews%2F25067827_1_vice-mayor-council-race-new-council&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-PC01-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-PC01_48-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Reimers, Ashley (September 9, 2014). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oTLUFy60?url=http://parkerchronicle.net/stories/Federal-Heights-council-appoints-new-member%2C166902">"Federal Heights council appoints new member"</a>. Highlands Ranch, CO: <a href="/wiki/Parker_Chronicle" class="mw-redirect" title="Parker Chronicle">Parker Chronicle</a>. Archived from <a rel="nofollow" class="external text" href="http://parkerchronicle.net/stories/Federal-Heights-council-appoints-new-member,166902">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Federal+Heights+council+appoints+new+member&amp;rft.place=Highlands+Ranch%2C+CO&amp;rft.pub=Parker+Chronicle&amp;rft.date=2014-09-09&amp;rft.aulast=Reimers&amp;rft.aufirst=Ashley&amp;rft_id=http%3A%2F%2Fparkerchronicle.net%2Fstories%2FFederal-Heights-council-appoints-new-member%2C166902&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Newbur1-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-Newbur1_49-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.townofnewbury.org/sites/newburyma/files/minutes/town_of_newbury_ma_-_board_of_selectmen_meeting_minutes_11-18-2014.pdf">"Town of Newbury, MA Board of Selectmen Meeting Minutes"</a> <span class="cs1-format">(PDF)</span>. Newbury, MA: Town of Newbury. November 18, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Town+of+Newbury%2C+MA+Board+of+Selectmen+Meeting+Minutes&amp;rft.place=Newbury%2C+MA&amp;rft.pub=Town+of+Newbury&amp;rft.date=2014-11-18&amp;rft_id=http%3A%2F%2Fwww.townofnewbury.org%2Fsites%2Fnewburyma%2Ffiles%2Fminutes%2Ftown_of_newbury_ma_-_board_of_selectmen_meeting_minutes_11-18-2014.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Pac1-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pac1_50-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.fo/20160721172731/http://www.cityofpacifica.org/government/city_council/">"City of Pacifica, CA - City Council"</a>. Pacifica, California: City of Pacifica. Archived from <a rel="nofollow" class="external text" href="http://www.cityofpacifica.org/government/city_council/">the original</a> on July 21, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=City+of+Pacifica%2C+CA+-+City+Council&amp;rft.place=Pacifica%2C+California&amp;rft.pub=City+of+Pacifica&amp;rft_id=http%3A%2F%2Fwww.cityofpacifica.org%2Fgovernment%2Fcity_council%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GCED01-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-GCED01_51-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://greenegovernment.com/wp-content/uploads/2013/10/Downtown-Waterfront-Enhancements-Summary-Design-Report.pdf">"Summary Design Report"</a> <span class="cs1-format">(PDF)</span>. Greene County Economic Development. September 20, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Summary+Design+Report&amp;rft.pub=Greene+County+Economic+Development&amp;rft.date=2013-09-20&amp;rft_id=http%3A%2F%2Fgreenegovernment.com%2Fwp-content%2Fuploads%2F2013%2F10%2FDowntown-Waterfront-Enhancements-Summary-Design-Report.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-td1-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-td1_52-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Shanahan, Martha (November 5, 2015). <a rel="nofollow" class="external text" href="http://www.theday.com/article/20151105/NWS01/151109548">"With first win, Waterford Green Party optimistic"</a>. The Day<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=With+first+win%2C+Waterford+Green+Party+optimistic&amp;rft.pub=The+Day&amp;rft.date=2015-11-05&amp;rft.aulast=Shanahan&amp;rft.aufirst=Martha&amp;rft_id=http%3A%2F%2Fwww.theday.com%2Farticle%2F20151105%2FNWS01%2F151109548&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:1-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_53-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.theday.com/article/20171107/NWS01/171109440">"Waterford Green Party wins a seat in all four RTM districts"</a>. <i>The Day</i>. 2017-11-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-04-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Day&amp;rft.atitle=Waterford+Green+Party+wins+a+seat+in+all+four+RTM+districts&amp;rft.date=2017-11-07&amp;rft_id=https%3A%2F%2Fwww.theday.com%2Farticle%2F20171107%2FNWS01%2F171109440&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Mad2-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mad2_54-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kemble, Rebecca. <a rel="nofollow" class="external text" href="https://www.cityofmadison.com/council/district18/">"District 18: Alder Rebecca Kemble"</a>. Madison, WI: City of Madison<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=District+18%3A+Alder+Rebecca+Kemble&amp;rft.place=Madison%2C+WI&amp;rft.pub=City+of+Madison&amp;rft.aulast=Kemble&amp;rft.aufirst=Rebecca&amp;rft_id=https%3A%2F%2Fwww.cityofmadison.com%2Fcouncil%2Fdistrict18%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPWI-55"><span class="mw-cite-backlink">^ <a href="#cite_ref-GPWI_55-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GPWI_55-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Schwab, David (February 15, 2015). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNfbMADG?url=http://www.wisconsingreenparty.org/four_lakes_green_party_endorses_local_candidates_in_2015_primary">"Four Lakes Green Party endorses local candidates for 2015 election"</a>. Wisconsin Green Party. Archived from <a rel="nofollow" class="external text" href="http://www.wisconsingreenparty.org/four_lakes_green_party_endorses_local_candidates_in_2015_primary">the original</a> on February 19, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Four+Lakes+Green+Party+endorses+local+candidates+for+2015+election&amp;rft.pub=Wisconsin+Green+Party&amp;rft.date=2015-02-15&amp;rft.aulast=Schwab&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.wisconsingreenparty.org%2Ffour_lakes_green_party_endorses_local_candidates_in_2015_primary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SReg1-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-SReg1_56-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Cienfuegos, Paul (Summer 1998). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oS5OTDXW?url=http://www.greens.org/s-r/16/16-01.html">"An Interview with Arcata City Councilor Jason Kirkpatrick"</a>. Synthesis/Regeneration. Archived from <a rel="nofollow" class="external text" href="http://www.greens.org/s-r/16/16-01.html">the original</a> on February 21, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 21,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=An+Interview+with+Arcata+City+Councilor+Jason+Kirkpatrick&amp;rft.pub=Synthesis%2FRegeneration&amp;rft.date=1998&amp;rft.aulast=Cienfuegos&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.greens.org%2Fs-r%2F16%2F16-01.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-EiD01-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-EiD01_57-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Bunzey, Rachel (July 18, 2012). <a rel="nofollow" class="external text" href="https://energyindepth.org/marcellus/afton-says-yes-to-natural-gas/">"Afton Says "Yes" to Natural Gas"</a>. Afton, NY: Energy in Depth<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Afton+Says+%22Yes%22+to+Natural+Gas&amp;rft.place=Afton%2C+NY&amp;rft.pub=Energy+in+Depth&amp;rft.date=2012-07-18&amp;rft.aulast=Bunzey&amp;rft.aufirst=Rachel&amp;rft_id=https%3A%2F%2Fenergyindepth.org%2Fmarcellus%2Fafton-says-yes-to-natural-gas%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ncaan1-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-ncaan1_58-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Papp, Justin (October 29, 2016). <a rel="nofollow" class="external text" href="http://www.newcanaannewsonline.com/news/article/Green-Party-rookie-politician-looks-to-unseat-10418043.php">"Green Party rookie politician looks to unseat O'Dea"</a>. new canaan news<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+rookie+politician+looks+to+unseat+O%E2%80%99Dea&amp;rft.pub=new+canaan+news&amp;rft.date=2016-10-29&amp;rft.aulast=Papp&amp;rft.aufirst=Justin&amp;rft_id=http%3A%2F%2Fwww.newcanaannewsonline.com%2Fnews%2Farticle%2FGreen-Party-rookie-politician-looks-to-unseat-10418043.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TCEagle1-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-TCEagle1_59-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Troutman, Matt (November 9, 2016). <a rel="nofollow" class="external text" href="http://www.record-eagle.com/news/local_news/mair-bests-maxbauer/article_af671dfd-51b0-596f-a9f3-e546ccddf6c7.html">"Mair bests Maxbauer"</a>. Traverse City, MI: Traverse City Record Eagle<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mair+bests+Maxbauer&amp;rft.place=Traverse+City%2C+MI&amp;rft.pub=Traverse+City+Record+Eagle&amp;rft.date=2016-11-09&amp;rft.aulast=Troutman&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Fwww.record-eagle.com%2Fnews%2Flocal_news%2Fmair-bests-maxbauer%2Farticle_af671dfd-51b0-596f-a9f3-e546ccddf6c7.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-FEYE1-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-FEYE1_60-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Marsh, Sarah. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNesHYCq?url=http://www.fayetteville-ar.gov/764/Ward-1-Position-2">"Ward 1, Position 2"</a>. Feyetteville, AR: City of Feyetteville. Archived from <a rel="nofollow" class="external text" href="http://www.fayetteville-ar.gov/764/Ward-1-Position-2">the original</a> on February 19, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ward+1%2C+Position+2&amp;rft.place=Feyetteville%2C+AR&amp;rft.pub=City+of+Feyetteville&amp;rft.aulast=Marsh&amp;rft.aufirst=Sarah&amp;rft_id=http%3A%2F%2Fwww.fayetteville-ar.gov%2F764%2FWard-1-Position-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Laf1-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-Laf1_61-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cityoflafayette.com/directory.aspx?EID=95">"Merrily Mazza"</a>. Lafayette, CO: City of Lafayette<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Merrily+Mazza&amp;rft.place=Lafayette%2C+CO&amp;rft.pub=City+of+Lafayette&amp;rft_id=http%3A%2F%2Fwww.cityoflafayette.com%2Fdirectory.aspx%3FEID%3D95&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GRP1-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-GRP1_62-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.green-rainbow.org/merelice_elected">"Merelice"</a>. <a href="/wiki/Green-Rainbow_Party" title="Green-Rainbow Party">Green-Rainbow Party</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Merelice&amp;rft.pub=Green-Rainbow+Party&amp;rft_id=http%3A%2F%2Fwww.green-rainbow.org%2Fmerelice_elected&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-RMirk01-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-RMirk01_63-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111028054311/http://www.rossforsheriff.org/about-ross-mirkarimi">"About Ross Mirkarimi"</a>. Ross Mirkarimi. Archived from <a rel="nofollow" class="external text" href="http://www.rossforsheriff.org/about-ross-mirkarimi">the original</a> on October 28, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Ross+Mirkarimi&amp;rft.pub=Ross+Mirkarimi&amp;rft_id=http%3A%2F%2Fwww.rossforsheriff.org%2Fabout-ross-mirkarimi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GOPF1-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-GOPF1_64-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gophills.org/2016/11/10/soil-water-conservation-district-races/">"Soil and Water Conservation District Races"</a>. Republican Party of Florida. November 10, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Soil+and+Water+Conservation+District+Races&amp;rft.pub=Republican+Party+of+Florida&amp;rft.date=2016-11-10&amp;rft_id=http%3A%2F%2Fgophills.org%2F2016%2F11%2F10%2Fsoil-water-conservation-district-races%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Amhherst2-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-Amhherst2_65-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Merzbach, Scott (February 20, 2015). <a rel="nofollow" class="external text" href="http://www.gazettenet.com/Archives/2015/02/amcomplaint-hg-022015">"Amherst Board of Registrars expected to dismiss complaint about signatures gathered by School Committee"</a>. Amherst, MA: Daily Hampshire Gazette<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amherst+Board+of+Registrars+expected+to+dismiss+complaint+about+signatures+gathered+by+School+Committee&amp;rft.place=Amherst%2C+MA&amp;rft.pub=Daily+Hampshire+Gazette&amp;rft.date=2015-02-20&amp;rft.aulast=Merzbach&amp;rft.aufirst=Scott&amp;rft_id=http%3A%2F%2Fwww.gazettenet.com%2FArchives%2F2015%2F02%2Famcomplaint-hg-022015&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-badger-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-badger_66-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Tomsyck, Teymour (February 24, 2016). <a rel="nofollow" class="external text" href="https://badgerherald.com/news/2016/02/24/leaving-county-board-leland-pan-recalls-career-marked-by-idealism/">"Leaving county board, Leland Pan recalls career marked by idealism"</a>. The Badger Herald<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leaving+county+board%2C+Leland+Pan+recalls+career+marked+by+idealism&amp;rft.pub=The+Badger+Herald&amp;rft.date=2016-02-24&amp;rft.aulast=Tomsyck&amp;rft.aufirst=Teymour&amp;rft_id=https%3A%2F%2Fbadgerherald.com%2Fnews%2F2016%2F02%2F24%2Fleaving-county-board-leland-pan-recalls-career-marked-by-idealism%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Glen1-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glen1_67-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Peroomian, Vahe. <a rel="nofollow" class="external text" href="http://www.glendaleca.gov/Home/ShowDocument?id=20043">"Dr. Vahe Peroomian"</a>. Glendale, CA: Glendale California<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dr.+Vahe+Peroomian&amp;rft.place=Glendale%2C+CA&amp;rft.pub=Glendale+California&amp;rft.aulast=Peroomian&amp;rft.aufirst=Vahe&amp;rft_id=http%3A%2F%2Fwww.glendaleca.gov%2FHome%2FShowDocument%3Fid%3D20043&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Arcata1-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-Arcata1_68-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oLqwxeIy?url=http://www.cityofarcata.org/431/Paul-Pitino">"Paul Pitino"</a>. Arcata, California: City of Arcata. Archived from <a rel="nofollow" class="external text" href="http://www.cityofarcata.org/431/Paul-Pitino">the original</a> on February 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Paul+Pitino&amp;rft.place=Arcata%2C+California&amp;rft.pub=City+of+Arcata&amp;rft_id=http%3A%2F%2Fwww.cityofarcata.org%2F431%2FPaul-Pitino&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPCA02-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPCA02_69-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cagreens.org/news/reed-new-fairfax-mayor">"John Reed is New Green Mayor in Fairfax"</a>. Green Party of California. December 6, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=John+Reed+is+New+Green+Mayor+in+Fairfax&amp;rft.pub=Green+Party+of+California&amp;rft.date=2012-12-06&amp;rft_id=http%3A%2F%2Fwww.cagreens.org%2Fnews%2Freed-new-fairfax-mayor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Enfield1-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-Enfield1_70-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://enfield-ct.gov/directory.aspx?EID=201">"Staff Directory"</a>. Enfield, CT: Town of Enfield, CT<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Staff+Directory&amp;rft.place=Enfield%2C+CT&amp;rft.pub=Town+of+Enfield%2C+CT&amp;rft_id=http%3A%2F%2Fenfield-ct.gov%2Fdirectory.aspx%3FEID%3D201&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-WPost1-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-WPost1_71-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Rosin, Hannah (June 28, 2004). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/wp-dyn/articles/A10777-2004Jun27.html">"The Green Next Door:  A Growing Party Goes for the Mainstream Look"</a>. <i>Washington Post</i>. Washington Post<span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Washington+Post&amp;rft.atitle=The+Green+Next+Door%3A++A+Growing+Party+Goes+for+the+Mainstream+Look&amp;rft.date=2004-06-28&amp;rft.aulast=Rosin&amp;rft.aufirst=Hannah&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Farticles%2FA10777-2004Jun27.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NPal1-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-NPal1_72-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170309065302/http://www.villageofnewpaltz.org/mayor-and-board-of-trustees/">"Mayor and Board of Trustees"</a>. Village of New Paltz. Archived from <a rel="nofollow" class="external text" href="http://www.villageofnewpaltz.org/mayor-and-board-of-trustees/">the original</a> on March 9, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">March 8,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mayor+and+Board+of+Trustees&amp;rft.pub=Village+of+New+Paltz&amp;rft_id=http%3A%2F%2Fwww.villageofnewpaltz.org%2Fmayor-and-board-of-trustees%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Mad3-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mad3_73-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Rummel, Marsha. <a rel="nofollow" class="external text" href="https://www.cityofmadison.com/council/district6/">"District 6: Alder Marsha A. Rummel"</a>. Madison, WI: City of Madison<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=District+6%3A+Alder+Marsha+A.+Rummel&amp;rft.place=Madison%2C+WI&amp;rft.pub=City+of+Madison&amp;rft.aulast=Rummel&amp;rft.aufirst=Marsha&amp;rft_id=https%3A%2F%2Fwww.cityofmadison.com%2Fcouncil%2Fdistrict6%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Gale1-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gale1_74-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNZwNw4A?url=http://www.ci.galesburg.il.us/directory/peter-schwartzman/">"Peter Schwartzman"</a>. Galesburg, IL: City of Galesburg. Archived from <a rel="nofollow" class="external text" href="http://www.ci.galesburg.il.us/directory/peter-schwartzman/">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Peter+Schwartzman&amp;rft.place=Galesburg%2C+IL&amp;rft.pub=City+of+Galesburg&amp;rft_id=http%3A%2F%2Fwww.ci.galesburg.il.us%2Fdirectory%2Fpeter-schwartzman%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Red1-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-Red1_75-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNZT4xhH?url=http://townofreddingct.org/about-redding/elected-town-officials/">"Elected Town Officials"</a>. Redding, CT: Town of Redding, CT. Archived from <a rel="nofollow" class="external text" href="http://townofreddingct.org/about-redding/elected-town-officials/">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Elected+Town+Officials&amp;rft.place=Redding%2C+CT&amp;rft.pub=Town+of+Redding%2C+CT&amp;rft_id=http%3A%2F%2Ftownofreddingct.org%2Fabout-redding%2Felected-town-officials%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SFGate01-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-SFGate01_76-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Jones, Carolyn (July 15, 2008). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oSVXIbNb?url=http://www.sfgate.com/bayarea/article/Berkeley-Councilwoman-Dona-Spring-dies-3204403.php">"Berkeley Councilwoman Dona Spring dies"</a>. San Francisco Gate. Archived from <a rel="nofollow" class="external text" href="http://www.sfgate.com/bayarea/article/Berkeley-Councilwoman-Dona-Spring-dies-3204403.php">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Berkeley+Councilwoman+Dona+Spring+dies&amp;rft.pub=San+Francisco+Gate&amp;rft.date=2008-07-15&amp;rft.aulast=Jones&amp;rft.aufirst=Carolyn&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fbayarea%2Farticle%2FBerkeley-Councilwoman-Dona-Spring-dies-3204403.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-BDP01-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-BDP01_77-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Scherr, Judith (July 14, 2008). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oSVhyzZn?url=http://www.berkeleydailyplanet.com/issue/2008-07-10/article/30559?headline=Berkeley-Mourns-Loss-of-Dona-Spring-Fierce-Advocate-for-the-Environment-Justice-and-Human-and-Animal-Rights">"Berkeley Mourns Loss of Dona Spring, Fierce Advocate for the Environment, Justice, and Human and Animal Rights"</a>. Berkeley, CA: The Berkeley Daily Planet. Archived from <a rel="nofollow" class="external text" href="http://www.berkeleydailyplanet.com/issue/2008-07-10/article/30559?headline=Berkeley-Mourns-Loss-of-Dona-Spring-Fierce-Advocate-for-the-Environment-Justice-and-Human-and-Animal-Rights">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Berkeley+Mourns+Loss+of+Dona+Spring%2C+Fierce+Advocate+for+the+Environment%2C+Justice%2C+and+Human+and+Animal+Rights&amp;rft.place=Berkeley%2C+CA&amp;rft.pub=The+Berkeley+Daily+Planet&amp;rft.date=2008-07-14&amp;rft.aulast=Scherr&amp;rft.aufirst=Judith&amp;rft_id=http%3A%2F%2Fwww.berkeleydailyplanet.com%2Fissue%2F2008-07-10%2Farticle%2F30559%3Fheadline%3DBerkeley-Mourns-Loss-of-Dona-Spring-Fierce-Advocate-for-the-Environment-Justice-and-Human-and-Animal-Rights&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-South2-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-South2_78-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNEda0qN?url=http://www.ci.southbridge.ma.us/town-council">"Town Council"</a>. Southbridge, MA: Town of Southbridge. Archived from <a rel="nofollow" class="external text" href="http://www.ci.southbridge.ma.us/town-council">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Town+Council&amp;rft.place=Southbridge%2C+MA&amp;rft.pub=Town+of+Southbridge&amp;rft_id=http%3A%2F%2Fwww.ci.southbridge.ma.us%2Ftown-council&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPUS03-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPUS03_79-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gp.org/elections/candidates/details.php?record=3840">"Green Party of the United States &#124; Candidate Details"</a>. GP.org. March 3, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">July 16,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+of+the+United+States+%26%23124%3B+Candidate+Details&amp;rft.pub=GP.org&amp;rft.date=2008-03-03&amp;rft_id=http%3A%2F%2Fgp.org%2Felections%2Fcandidates%2Fdetails.php%3Frecord%3D3840&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-VSmart-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-VSmart_80-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://votesmart.org/candidate/biography/35775/jill-stein">"Jill E. Stein's Biography Candidate Details"</a>. votesmart.org<span class="reference-accessdate">. Retrieved <span class="nowrap">July 16,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jill+E.+Stein%27s+Biography+Candidate+Details&amp;rft.pub=votesmart.org&amp;rft_id=http%3A%2F%2Fvotesmart.org%2Fcandidate%2Fbiography%2F35775%2Fjill-stein&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NCPR01-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-NCPR01_81-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Grant, Julie (March 18, 2013). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oTVG6LFD?url=https://www.northcountrypublicradio.org/news/story/21629/20130318/village-of-victory-votes-on-dissolution">"Village of Victory votes on dissolution"</a>. North Country Public Radio. Archived from <a rel="nofollow" class="external text" href="https://www.northcountrypublicradio.org/news/story/21629/20130318/village-of-victory-votes-on-dissolution">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Village+of+Victory+votes+on+dissolution&amp;rft.pub=North+Country+Public+Radio&amp;rft.date=2013-03-18&amp;rft.aulast=Grant&amp;rft.aufirst=Julie&amp;rft_id=https%3A%2F%2Fwww.northcountrypublicradio.org%2Fnews%2Fstory%2F21629%2F20130318%2Fvillage-of-victory-votes-on-dissolution&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GB01-82"><span class="mw-cite-backlink"><b><a href="#cite_ref-GB01_82-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Feathers, Todd (August 3, 2013). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUqhieMs?url=https://www.bostonglobe.com/metro/2013/08/02/former-councilor-chuck-turner-released-early-from-prison-halfway-house-boston/jSjluRISvvall8rtebHxJL/story.html">"Former city councilor Chuck Turner moved to Boston halfway house"</a>. Boston, MA: <a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a>. Archived from <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/metro/2013/08/02/former-councilor-chuck-turner-released-early-from-prison-halfway-house-boston/jSjluRISvvall8rtebHxJL/story.html">the original</a> on February 23, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 23,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Former+city+councilor+Chuck+Turner+moved+to+Boston+halfway+house&amp;rft.place=Boston%2C+MA&amp;rft.pub=The+Boston+Globe&amp;rft.date=2013-08-03&amp;rft.aulast=Feathers&amp;rft.aufirst=Todd&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2013%2F08%2F02%2Fformer-councilor-chuck-turner-released-early-from-prison-halfway-house-boston%2FjSjluRISvvall8rtebHxJL%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Lew1-83"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lew1_83-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oLwiEYnA?url=http://www.lewisborogov.com/townboard">"Key Topics About the Supervisor and Town Board"</a>. Lewisboro, NY: Town of Lewisboro. Archived from <a rel="nofollow" class="external text" href="http://www.lewisborogov.com/townboard">the original</a> on February 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Key+Topics+About+the+Supervisor+and+Town+Board&amp;rft.place=Lewisboro%2C+NY&amp;rft.pub=Town+of+Lewisboro&amp;rft_id=http%3A%2F%2Fwww.lewisborogov.com%2Ftownboard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-DANE1-84"><span class="mw-cite-backlink"><b><a href="#cite_ref-DANE1_84-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Weigleitner, Heidi. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oNb301g0?url=https://board.countyofdane.com/supervisors/detail/2">"District 2 Supervisor"</a>. Dane County, WI: Dane County, Wisconsin. Archived from <a rel="nofollow" class="external text" href="https://board.countyofdane.com/supervisors/detail/2">the original</a> on February 18, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=District+2+Supervisor&amp;rft.place=Dane+County%2C+WI&amp;rft.pub=Dane+County%2C+Wisconsin&amp;rft.aulast=Weigleitner&amp;rft.aufirst=Heidi&amp;rft_id=https%3A%2F%2Fboard.countyofdane.com%2Fsupervisors%2Fdetail%2F2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-DNow01-85"><span class="mw-cite-backlink"><b><a href="#cite_ref-DNow01_85-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Goodman, Amy (March 5, 2004). <a rel="nofollow" class="external text" href="https://www.democracynow.org/2004/3/5/new_paltz_ny_mayor_arrested_for">"New Paltz, NY Mayor Arrested For Solemnizing Same Sex Marriages"</a>. <a href="/wiki/Democracy_Now" class="mw-redirect" title="Democracy Now">Democracy Now</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Paltz%2C+NY+Mayor+Arrested+For+Solemnizing+Same+Sex+Marriages&amp;rft.pub=Democracy+Now&amp;rft.date=2004-03-05&amp;rft.aulast=Goodman&amp;rft.aufirst=Amy&amp;rft_id=https%3A%2F%2Fwww.democracynow.org%2F2004%2F3%2F5%2Fnew_paltz_ny_mayor_arrested_for&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NYTimes02-86"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes02_86-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Sullivan, Robert (March 28, 2004). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oSOZBb7f?url=http://www.nytimes.com/2004/03/28/magazine/mayor-with-a-mission.html?_r=0">"Mayor With A Mission"</a>. New York, New York: <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>. Archived from <a rel="nofollow" class="external text" href="https://www.nytimes.com/2004/03/28/magazine/mayor-with-a-mission.html">the original</a> on February 22, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mayor+With+A+Mission&amp;rft.place=New+York%2C+New+York&amp;rft.pub=The+New+York+Times&amp;rft.date=2004-03-28&amp;rft.aulast=Sullivan&amp;rft.aufirst=Robert&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2004%2F03%2F28%2Fmagazine%2Fmayor-with-a-mission.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+the+United+States" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_the_United_States" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#00A95C; color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_Party_of_the_United_States" title="Template:Green Party of the United States"><abbr title="View this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_Party_of_the_United_States" title="Template talk:Green Party of the United States"><abbr title="Discuss this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_Party_of_the_United_States&amp;action=edit"><abbr title="Edit this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States"><span style="color:white">Green Party of the United States</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_United_States_Green_Party_presidential_tickets" title="List of United States Green Party presidential tickets"><span style="color:white">Presidential tickets</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ralph_Nader_presidential_campaign,_1996" title="Ralph Nader presidential campaign, 1996"> 1996</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/Ralph_Nader_presidential_campaign,_2000" title="Ralph Nader presidential campaign, 2000"> 2000</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/David_Cobb_presidential_campaign,_2004" title="David Cobb presidential campaign, 2004"> 2004</a>: <a href="/wiki/David_Cobb" title="David Cobb">Cobb</a>/<a href="/wiki/Pat_LaMarche" title="Pat LaMarche">LaMarche</a></li>
+<li><a href="/wiki/Cynthia_McKinney_presidential_campaign,_2008" title="Cynthia McKinney presidential campaign, 2008"> 2008</a>: <a href="/wiki/Cynthia_McKinney" title="Cynthia McKinney">McKinney</a>/<a href="/wiki/Rosa_Clemente" title="Rosa Clemente">Clemente</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2012" title="Jill Stein presidential campaign, 2012"> 2012</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Cheri_Honkala" title="Cheri Honkala">Honkala</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2016" title="Jill Stein presidential campaign, 2016"> 2016</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Ajamu_Baraka" title="Ajamu Baraka">Baraka</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Presidential primaries</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_presidential_primaries,_2008" title="Green Party presidential primaries, 2008">2008</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2012" title="Green Party presidential primaries, 2012">2012</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2016" title="Green Party presidential primaries, 2016">2016</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/Green_National_Convention" title="Green National Convention"><span style="color:white">Conventions</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Green_National_Convention" title="2000 Green National Convention">2000 (Denver)</a></li>
+<li><a href="/wiki/2004_Green_National_Convention" title="2004 Green National Convention">2004 (Milwaukee)</a></li>
+<li><a href="/wiki/2008_Green_National_Convention" title="2008 Green National Convention">2008 (Chicago)</a></li>
+<li><a href="/wiki/2012_Green_National_Convention" title="2012 Green National Convention">2012 (Baltimore)</a></li>
+<li><a href="/wiki/2016_Green_National_Convention" title="2016 Green National Convention">2016 (Houston)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_state_Green_Parties_in_the_United_States" title="List of state Green Parties in the United States"><span style="color:white">Parties by state<br />and <i>territory</i></span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alabama_Green_Party" class="mw-redirect" title="Alabama Green Party">Alabama</a></li>
+<li><a href="/wiki/Green_Party_of_Alaska" title="Green Party of Alaska">Alaska</a></li>
+<li><a href="/wiki/Arizona_Green_Party" title="Arizona Green Party">Arizona</a></li>
+<li><a href="/wiki/Green_Party_of_Arkansas" title="Green Party of Arkansas">Arkansas</a></li>
+<li><a href="/wiki/Green_Party_of_California" title="Green Party of California">California</a></li>
+<li><a href="/wiki/Green_Party_of_Colorado" title="Green Party of Colorado">Colorado</a></li>
+<li><a href="/wiki/Connecticut_Green_Party" title="Connecticut Green Party">Connecticut</a></li>
+<li><a href="/wiki/Green_Party_of_Delaware" title="Green Party of Delaware">Delaware</a></li>
+<li><i><a href="/wiki/D.C._Statehood_Green_Party" title="D.C. Statehood Green Party">District of Columbia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Florida" title="Green Party of Florida">Florida</a></li>
+<li><a href="/wiki/Georgia_Green_Party" class="mw-redirect" title="Georgia Green Party">Georgia</a></li>
+<li><a href="/wiki/Green_Party_of_Hawaii" title="Green Party of Hawaii">Hawaii</a></li>
+<li><a href="/wiki/Idaho_Green_Party" title="Idaho Green Party">Idaho</a></li>
+<li><a href="/wiki/Illinois_Green_Party" title="Illinois Green Party">Illinois</a></li>
+<li><a href="/wiki/Indiana_Green_Party" class="mw-redirect" title="Indiana Green Party">Indiana</a></li>
+<li><a href="/wiki/Iowa_Green_Party" title="Iowa Green Party">Iowa</a></li>
+<li><a href="/wiki/Kansas_Green_Party" title="Kansas Green Party">Kansas</a></li>
+<li><a href="/wiki/Kentucky_Green_Party" title="Kentucky Green Party">Kentucky</a></li>
+<li><a href="/wiki/Green_Party_of_Louisiana" title="Green Party of Louisiana">Louisiana</a></li>
+<li><a href="/wiki/Maine_Green_Independent_Party" title="Maine Green Independent Party">Maine</a></li>
+<li><a href="/wiki/Maryland_Green_Party" title="Maryland Green Party">Maryland</a></li>
+<li><a href="/wiki/Green-Rainbow_Party" title="Green-Rainbow Party">Massachusetts</a></li>
+<li><a href="/wiki/Green_Party_of_Michigan" title="Green Party of Michigan">Michigan</a></li>
+<li><a href="/wiki/Green_Party_of_Minnesota" title="Green Party of Minnesota">Minnesota</a></li>
+<li><a href="/wiki/Green_Party_of_Mississippi" title="Green Party of Mississippi">Mississippi</a></li>
+<li><a href="/wiki/Green_Party_of_Missouri" class="mw-redirect" title="Green Party of Missouri">Missouri</a></li>
+<li><a href="/wiki/Montana_Green_Party" class="mw-redirect" title="Montana Green Party">Montana</a></li>
+<li><a href="/wiki/Nebraska_Green_Party" title="Nebraska Green Party">Nebraska</a></li>
+<li><a href="/wiki/Green_Party_of_Nevada" class="mw-redirect" title="Green Party of Nevada">Nevada</a></li>
+<li><a href="/wiki/Green_Party_of_New_Hampshire" class="mw-redirect" title="Green Party of New Hampshire">New Hampshire</a></li>
+<li><a href="/wiki/Green_Party_of_New_Jersey" title="Green Party of New Jersey">New Jersey</a></li>
+<li><a href="/wiki/Green_Party_of_New_Mexico" title="Green Party of New Mexico">New Mexico</a></li>
+<li><a href="/wiki/Green_Party_of_New_York" title="Green Party of New York">New York</a></li>
+<li><a href="/wiki/North_Carolina_Green_Party" title="North Carolina Green Party">North Carolina</a></li>
+<li><a href="/wiki/Green_Party_of_North_Dakota" class="mw-redirect" title="Green Party of North Dakota">North Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Ohio" title="Green Party of Ohio">Ohio</a></li>
+<li><a href="/wiki/Green_Party_of_Oklahoma" title="Green Party of Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/Pacific_Green_Party" title="Pacific Green Party">Oregon</a></li>
+<li><a href="/wiki/Green_Party_of_Pennsylvania" title="Green Party of Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/Green_Party_of_Rhode_Island" title="Green Party of Rhode Island">Rhode Island</a></li>
+<li><a href="/wiki/South_Carolina_Green_Party" title="South Carolina Green Party">South Carolina</a></li>
+<li><a href="/wiki/South_Dakota_Green_Party" class="mw-redirect" title="South Dakota Green Party">South Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Tennessee" title="Green Party of Tennessee">Tennessee</a></li>
+<li><a href="/wiki/Green_Party_of_Texas" title="Green Party of Texas">Texas</a></li>
+<li><a href="/wiki/Green_Party_of_Utah" class="mw-redirect" title="Green Party of Utah">Utah</a></li>
+<li><a href="/wiki/Vermont_Green_Party" title="Vermont Green Party">Vermont</a></li>
+<li><a href="/wiki/Green_Party_of_Virginia" title="Green Party of Virginia">Virginia</a></li>
+<li><a href="/wiki/Green_Party_of_Washington_State" title="Green Party of Washington State">Washington</a></li>
+<li><a href="/wiki/Mountain_Party" title="Mountain Party">West Virginia</a></li>
+<li><a href="/wiki/Wisconsin_Green_Party" title="Wisconsin Green Party">Wisconsin</a></li>
+<li><a href="/wiki/Green_Party_of_Wyoming" class="mw-redirect" title="Green Party of Wyoming">Wyoming</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Green Parties of the Americas</a></li>
+<li><a href="/wiki/Green_National_Committee" title="Green National Committee">Green National Committee</a></li>
+<li><a href="/wiki/Green_Senatorial_Campaign_Committee" title="Green Senatorial Campaign Committee">Green Senatorial Campaign Committee</a></li>
+<li><a href="/wiki/Greens/Green_Party_USA" title="Greens/Green Party USA">Greens/Green Party USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">History</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_of_State_Green_Parties" title="Association of State Green Parties">Association of State Green Parties</a></li>
+<li><a href="/wiki/History_of_the_Green_Party_of_the_United_States" title="History of the Green Party of the United States">Overview</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a class="mw-selflink selflink">Office-holding politicians</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Elected_Green_politicians" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_poli" title="Template:Green poli"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_poli" title="Template talk:Green poli"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_poli&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Elected_Green_politicians" style="font-size:114%;margin:0 4em">Elected Green politicians</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%">Countries</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Australian_Greens_parliamentarians" title="List of Australian Greens parliamentarians">Australia</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">Canada</a></li>
+<li><a href="/wiki/List_of_German_Green_Party_politicians" title="List of German Green Party politicians">Germany</a></li>
+<li>Netherlands
+<ul><li><a href="/wiki/Members_of_the_House_of_Representatives_of_the_Netherlands_for_GreenLeft,_1989%E2%80%93present" title="Members of the House of Representatives of the Netherlands for GreenLeft, 1989–present">House of Representatives</a></li>
+<li><a href="/wiki/List_of_members_of_the_Senate_of_the_Netherlands_for_GreenLeft_(1989%E2%80%93present)" title="List of members of the Senate of the Netherlands for GreenLeft (1989–present)">Senate</a></li></ul></li>
+<li><a href="/wiki/List_of_Green_Party_of_Aotearoa_New_Zealand_MPs" title="List of Green Party of Aotearoa New Zealand MPs">New Zealand</a></li>
+<li><a class="mw-selflink selflink">United States</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2192
+Cached time: 20180929160426
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.000 second
+Real time usage: 1.104 seconds
+Preprocessor visited node count: 4570/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 185533/2097152 bytes
+Template argument size: 1400/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 240128/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.569/10.000 seconds
+Lua memory usage: 4.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  889.778      1 -total
+ 82.92%  737.841      1 Template:Reflist
+ 62.78%  558.596     81 Template:Cite_web
+  4.39%   39.086      1 Template:Dead_link
+  3.95%   35.142      1 Template:As_of
+  3.90%   34.680      1 Template:Fix
+  3.57%   31.773      2 Template:Category_handler
+  3.41%   30.313      2 Template:DMCA
+  3.18%   28.288      2 Template:Dated_maintenance_category
+  2.72%   24.219      5 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:53223379-0!canonical and timestamp 20180929160425 and revision id 856286730
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;oldid=856286730">https://en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;oldid=856286730</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_political_office-holders_in_the_United_States" title="Category:Lists of political office-holders in the United States">Lists of political office-holders in the United States</a></li><li><a href="/wiki/Category:Green_Party_of_the_United_States" title="Category:Green Party of the United States">Green Party of the United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_May_2016" title="Category:Articles with dead external links from May 2016">Articles with dead external links from May 2016</a></li><li><a href="/wiki/Category:CS1_maint:_Unrecognized_language" title="Category:CS1 maint: Unrecognized language">CS1 maint: Unrecognized language</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_October_2016" title="Category:Articles containing potentially dated statements from October 2016">Articles containing potentially dated statements from October 2016</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Incomplete_lists_from_February_2017" title="Category:Incomplete lists from February 2017">Incomplete lists from February 2017</a></li><li><a href="/wiki/Category:Dynamic_lists" title="Category:Dynamic lists">Dynamic lists</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Green+politicians+who+have+held+office+in+the+United+States" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Green+politicians+who+have+held+office+in+the+United+States" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_of_Green_politicians_who_have_held_office_in_the_United_States" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_Green_politicians_who_have_held_office_in_the_United_States" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_Green_politicians_who_have_held_office_in_the_United_States" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;oldid=856286730" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q29097148" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;id=856286730" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+Green+politicians+who+have+held+office+in+the+United+States">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+Green+politicians+who+have+held+office+in+the+United+States&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q29097148#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 August 2018, at 04:29<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_the_United_States&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.000","walltime":"1.104","ppvisitednodes":{"value":4570,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":185533,"limit":2097152},"templateargumentsize":{"value":1400,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":240128,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  889.778      1 -total"," 82.92%  737.841      1 Template:Reflist"," 62.78%  558.596     81 Template:Cite_web","  4.39%   39.086      1 Template:Dead_link","  3.95%   35.142      1 Template:As_of","  3.90%   34.680      1 Template:Fix","  3.57%   31.773      2 Template:Category_handler","  3.41%   30.313      2 Template:DMCA","  3.18%   28.288      2 Template:Dated_maintenance_category","  2.72%   24.219      5 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.569","limit":"10.000"},"limitreport-memusage":{"value":4478382,"limit":52428800}},"cachereport":{"origin":"mw2192","timestamp":"20180929160426","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1257,"wgHostname":"mw2192"});});</script>
+	</body>
+</html>

@@ -1,0 +1,652 @@
+https://en.wikipedia.org/wiki/Green_Revolution_in_India
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Revolution in India - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Revolution_in_India","wgTitle":"Green Revolution in India","wgCurRevisionId":860339967,"wgRevisionId":860339967,"wgArticleId":14101118,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2018","Use Indian English from March 2018","All Wikipedia articles written in Indian English","Articles needing additional references from December 2014","All articles needing additional references","Articles needing cleanup from January 2018","All pages needing cleanup","Articles with sections that need to be turned into prose from January 2018","All articles with unsourced statements","Articles with unsourced statements from November 2016","Agricultural revolutions","History of agriculture in India","Intensive farming","Independent India","Economic history of India","Indira Gandhi administration","History of Punjab, India (1947–present)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Revolution_in_India","wgRelevantArticleId":14101118,"wgRequestId":"W6@O9wrAAEIAADSp084AAABV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3100540","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4f/Punjab_Monsoon.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Revolution_in_India"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Revolution_in_India"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Revolution_in_India rootpage-Green_Revolution_in_India skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Revolution in India</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Revolution_in_India&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(December 2014)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Punjab_Monsoon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Punjab_Monsoon.jpg/250px-Punjab_Monsoon.jpg" width="250" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Punjab_Monsoon.jpg/375px-Punjab_Monsoon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Punjab_Monsoon.jpg/500px-Punjab_Monsoon.jpg 2x" data-file-width="1024" data-file-height="685" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Punjab_Monsoon.jpg" class="internal" title="Enlarge"></a></div>The state of <a href="/wiki/Punjab_(India)" class="mw-redirect" title="Punjab (India)">Punjab</a> led India's <a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a> and earned the distinction of being the country's bread basket.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div></div></div>
+<p>The <b>Green Revolution in India</b> refers to a period of time when <a href="/wiki/Agriculture_in_India" title="Agriculture in India">agriculture in India</a> changed to an industrial system due to the adoption of modern methods and technology such as <a href="/wiki/High-yielding_variety" title="High-yielding variety">high yielding variety (HYV) seeds</a>, tractors, irrigation facilities, pesticides, fertilizers etc. This was part of the larger <a href="/wiki/Green_revolution" class="mw-redirect" title="Green revolution">Green revolution</a> started by <a href="/wiki/Norman_Borlaug" title="Norman Borlaug">Norman Borlaug</a>, which leveraged agricultural research and technology to increase agricultural productivity in the developing world. Within <a href="/wiki/India" title="India">India</a>, this started in the early 1960s and led to an increase in food grain production, especially in <a href="/wiki/Punjab,_India" title="Punjab, India">Punjab</a>, <a href="/wiki/Haryana" title="Haryana">Haryana</a>, and <a href="/wiki/Uttar_Pradesh" title="Uttar Pradesh">Uttar Pradesh</a> during the early phase. The main development was higher-yielding varieties of <a href="/wiki/Wheat" title="Wheat">wheat</a>,<sup id="cite_ref-about_IARI_2-0" class="reference"><a href="#cite_note-about_IARI-2">&#91;2&#93;</a></sup> and <a href="/wiki/Rust_(fungus)" title="Rust (fungus)">rust</a> resistant strains of wheat.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Practices"><span class="tocnumber">1</span> <span class="toctext">Practices</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Wheat"><span class="tocnumber">1.1</span> <span class="toctext">Wheat</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Other_practices"><span class="tocnumber">1.2</span> <span class="toctext">Other practices</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Problems_that_were_addressed"><span class="tocnumber">2</span> <span class="toctext">Problems that were addressed</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Frequent_famines"><span class="tocnumber">2.1</span> <span class="toctext">Frequent famines</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Lack_of_finance"><span class="tocnumber">2.2</span> <span class="toctext">Lack of finance</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Lack_of_self-sufficiency"><span class="tocnumber">2.3</span> <span class="toctext">Lack of self-sufficiency</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Criticisms"><span class="tocnumber">3</span> <span class="toctext">Criticisms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Indian_Economic_Sovereignty"><span class="tocnumber">3.1</span> <span class="toctext">Indian Economic Sovereignty</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#&quot;Environmental_Damage&quot;"><span class="tocnumber">3.2</span> <span class="toctext">"Environmental Damage"</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Increased_Regional_disparities"><span class="tocnumber">3.3</span> <span class="toctext">Increased Regional disparities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Practices">Practices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=1" title="Edit section: Practices">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Wheat">Wheat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=2" title="Edit section: Wheat">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The main development was higher-yielding varieties of <a href="/wiki/Wheat" title="Wheat">wheat</a>,<sup id="cite_ref-about_IARI_2-1" class="reference"><a href="#cite_note-about_IARI-2">&#91;2&#93;</a></sup> for developing <a href="/wiki/Rust_(fungus)" title="Rust (fungus)">rust</a> resistant strains of wheat.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup> The introduction of high-yielding varieties(HYV) of seeds and the increased quality of <a href="/wiki/Fertilizers" class="mw-redirect" title="Fertilizers">fertilizers</a> and <a href="/wiki/Irrigation" title="Irrigation">irrigation</a> technique led to the increase in production to make the country self-sufficient in food grains, thus improving <a href="/wiki/Agriculture_in_India" title="Agriculture in India">agriculture in India</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The methods adopted included the use of <a href="/wiki/High-yielding_varieties" class="mw-redirect" title="High-yielding varieties">high-yielding varieties</a> (HYVs) of seeds<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> with modern farming methods.
+</p><p>The production of wheat has produced the best results in fueling self-sufficiency of India. Along with high-yielding seeds and irrigation facilities, the enthusiasm of farmers mobilized the idea of agricultural revolution. Due to the rise in use of chemical pesticides and fertilizers, there was a negative effect on the soil and the land (e.g., <a href="/wiki/Land_degradation" title="Land degradation">land degradation</a>).
+</p>
+<h3><span class="mw-headline" id="Other_practices">Other practices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=3" title="Edit section: Other practices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-style ambox-Prose" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>is in a list format that may be better presented using <a href="/wiki/Wikipedia:Manual_of_Style/Embedded_lists#Prose_versus_lists" title="Wikipedia:Manual of Style/Embedded lists">prose</a>.</b><span class="hide-when-compact"> You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Revolution_in_India&amp;action=edit">converting this section</a> to prose, if <a href="/wiki/Wikipedia:Manual_of_Style/Embedded_lists" title="Wikipedia:Manual of Style/Embedded lists">appropriate</a>. <a href="/wiki/Help:Editing" title="Help:Editing">Editing help</a> is available.</span>  <small><i>(January 2018)</i></small></div></td></tr></tbody></table>
+<ul><li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a> infrastructure</li>
+<li>Use of <a href="/wiki/Pesticides" class="mw-redirect" title="Pesticides">pesticides</a>
+<ul><li>Use of <a href="/wiki/Insecticides" class="mw-redirect" title="Insecticides">insecticides</a></li>
+<li>Use of <a href="/wiki/Herbicide" title="Herbicide">herbicides</a></li></ul></li>
+<li>Consolidation of <a href="/wiki/Possession_(law)" title="Possession (law)">holdings</a></li>
+<li><a href="/wiki/Land_reforms" class="mw-redirect" title="Land reforms">Land reforms</a></li>
+<li>Improved <a href="/wiki/Rural_infrastructure" class="mw-redirect" title="Rural infrastructure">rural infrastructure</a></li>
+<li>Supply of agricultural <a href="/wiki/Credit_(finance)" class="mw-redirect" title="Credit (finance)">credit</a></li>
+<li>Use of chemical or <a href="/wiki/Synthetic_fertilizers" class="mw-redirect" title="Synthetic fertilizers">synthetic fertilizers</a></li>
+<li>Use of <a href="/wiki/Irrigation_sprinkler" title="Irrigation sprinkler">sprinklers</a> or <a href="/w/index.php?title=Drip_irrigation_systems&amp;action=edit&amp;redlink=1" class="new" title="Drip irrigation systems (page does not exist)">drip irrigation systems</a></li>
+<li>Use of advanced <a href="/wiki/Machinery" class="mw-redirect" title="Machinery">machinery</a></li>
+<li>Use of <a href="/wiki/Vector_quantity" class="mw-redirect" title="Vector quantity">vector quantity</a></li></ul>
+<h2><span class="mw-headline" id="Problems_that_were_addressed">Problems that were addressed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=4" title="Edit section: Problems that were addressed">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Frequent_famines">Frequent famines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=5" title="Edit section: Frequent famines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Famine" title="Famine">Famines</a> in India were very frequent during the period 1940s to 1970s. Due to faulty distribution of food, and because farmers did not receive the true value for their labour, the majority of the population did not get enough food.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> <a href="/wiki/Malnutrition" title="Malnutrition">Malnutrition</a> and <a href="/wiki/Starvation" title="Starvation">starvation</a> was a huge problem.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Lack_of_finance">Lack of finance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=6" title="Edit section: Lack of finance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Marginal farmers found it very difficult to get <a href="/wiki/Financing" class="mw-redirect" title="Financing">finance</a> and <a href="/wiki/Credit" title="Credit">credit</a> at economical rates from the government and banks and hence, fell as easy prey to the <a href="/wiki/Moneylender" title="Moneylender">money lenders</a>. They took loans from <a href="/wiki/Zamindars" class="mw-redirect" title="Zamindars">zamindars</a>, who charged high rates of <a href="/wiki/Interest" title="Interest">interests</a> and also exploited the farmers later on to work in their fields to repay the loans (<a href="/wiki/Farm_labourer" class="mw-redirect" title="Farm labourer">farm labourers</a>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>&#93;</sup> Proper financing was not given during the Green Revolution period, which created a lot of problems and sufferings to the farmers of India. Government also helped those under loans.
+</p>
+<h3><span class="mw-headline" id="Lack_of_self-sufficiency">Lack of self-sufficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=7" title="Edit section: Lack of self-sufficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to traditional agricultural practices, low productivity, and a growing population, often <a href="/wiki/Food_grains" class="mw-redirect" title="Food grains">food grains</a> were imported — draining scarce foreign reserves. It was thought that with the increased production due to the Green Revolution, the government could maintain buffer stock and India could achieve self-sufficiency and self-reliability.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>&#93;</sup>
+</p><p>Agriculture was basically for subsistence and, therefore, less agricultural product was offered for sale in the market. Hence, the need was felt to encourage the farmers to increase their production and offer a greater portion of their products for sale in the market. The new methods in agriculture increased the yield of rice and wheat, which reduced India's dependence on food imports.
+</p>
+<h2><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=8" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Indian_Economic_Sovereignty">Indian Economic Sovereignty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=9" title="Edit section: Indian Economic Sovereignty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Criticism of the effects of the green revolution include the cost for many small farmers using HYV seeds, with their associated demands of increased irrigation systems and pesticides. A case study is found in India, where farmers are buying <a href="/wiki/Monsanto" title="Monsanto">Monsanto</a> BT cotton seeds—sold on the idea that these seeds produced 'natural insecticides'. In reality, they need to still pay for expensive pesticides and irrigation systems, which might lead to increased borrowing to finance the change from traditional seed varieties. Many farmers have difficulty in paying for the expensive technologies, especially if they have a bad harvest.
+</p><p>Indian environmentalist <a href="/wiki/Vandana_Shiva" title="Vandana Shiva">Vandana Shiva</a> writes that this is the "second Green Revolution". The first Green Revolution, she suggests, was mostly publicly funded (by the Indian Government). This new Green Revolution, she says, is driven by private (and foreign) interest – notably MNCs like Monsanto. Ultimately, this is leading to foreign ownership over most of India's farmland.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span id=".22Environmental_Damage.22"></span><span class="mw-headline" id="&quot;Environmental_Damage&quot;">"Environmental Damage"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=10" title="Edit section: &quot;Environmental Damage&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Excessive and inappropriate use of fertilizers and pesticides has polluted waterway, killed beneficial insects and wild life. It has caused over-use of soil and rapidly depleted its nutrients. The rampant irrigation practices have led to eventually soil degradation. Groundwater practices have fallen dramatically. Further, heavy dependence on few major crops has led to <a href="/wiki/Biodiversity_loss" title="Biodiversity loss">loss of biodiversity</a> of farmers. These problems were aggravated due to absence of training to use modern technology and vast illiteracy leading to excessive use of chemicals.<a rel="nofollow" class="external autonumber" href="https://sol.du.ac.in/mod/book/view.php?id=1735&amp;chapterid=1695">[1]</a>
+</p>
+<h3><span class="mw-headline" id="Increased_Regional_disparities">Increased Regional disparities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=11" title="Edit section: Increased Regional disparities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Green revolution spread only in irrigated and high-potential rain fed areas. The villages or regions without the access of sufficient water were left out that widened the regional disparities between adopters and non-adopters. Since, the HYV seeds technically can be applied only in land with assured water supply and availability of other inputs like chemicals, fertilizers etc. The application of the new technology in the dry-land areas is simply ruled out.
+</p><p>The states like Punjab, Haryana, Western UP etc. having good irrigation and other infrastructure facilities were able to derive the benefits of green revolution and achieve faster economic development while other states have recorded slow growth in agriculture production.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation report"><a href="/wiki/Government_of_Punjab,_India" title="Government of Punjab, India">The Government of Punjab</a> (2004). <a rel="nofollow" class="external text" href="http://planningcommission.nic.in/plans/stateplan/sdr_pdf/shdr_pun04.pdf">Human Development Report 2004, Punjab</a> <span class="cs1-format">(PDF)</span> (Report). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110708073911/http://planningcommission.nic.in/plans/stateplan/sdr_pdf/shdr_pun04.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 8 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=Human+Development+Report+2004%2C+Punjab&amp;rft.date=2004&amp;rft.au=The+Government+of+Punjab&amp;rft_id=http%3A%2F%2Fplanningcommission.nic.in%2Fplans%2Fstateplan%2Fsdr_pdf%2Fshdr_pun04.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Revolution+in+India" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Section: "The Green Revolution", pp. 17–20.</span>
+</li>
+<li id="cite_note-about_IARI-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-about_IARI_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-about_IARI_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iari.res.in/index.php?option=com_content&amp;view=article&amp;id=161&amp;Itemid=1730">"About IARI"</a>. <i>IARI</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IARI&amp;rft.atitle=About+IARI&amp;rft_id=http%3A%2F%2Fwww.iari.res.in%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D161%26Itemid%3D1730&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Revolution+in+India" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://news.google.com/newspapers?id=Jcc-AAAAIBAJ&amp;sjid=lUwMAAAAIBAJ&amp;pg=3228,3861741&amp;dq=pusa+institute&amp;hl=en">"Rust-resistant Wheat Varieties. Work at Pusa Institute"</a>. <i>The Indian Express</i>. 7 February 1950<span class="reference-accessdate">. Retrieved <span class="nowrap">13 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Indian+Express&amp;rft.atitle=Rust-resistant+Wheat+Varieties.+Work+at+Pusa+Institute&amp;rft.date=1950-02-07&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DJcc-AAAAIBAJ%26sjid%3DlUwMAAAAIBAJ%26pg%3D3228%2C3861741%26dq%3Dpusa%2Binstitute%26hl%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Revolution+in+India" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://countrystudies.us/india/104.htm">"The Green Revolution in India"</a>. <i>U.S. Library of Congress (released in <a href="/wiki/Public_domain" title="Public domain">public domain</a>)</i>. Library of Congress is Country Studies<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-10-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=U.S.+Library+of+Congress+%28released+in+public+domain%29&amp;rft.atitle=The+Green+Revolution+in+India&amp;rft_id=http%3A%2F%2Fcountrystudies.us%2Findia%2F104.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Revolution+in+India" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Rowlatt, Justin (2016-12-01). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-asia-india-38156350">"IR8: The miracle rice which saved millions of lives"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=IR8%3A+The+miracle+rice+which+saved+millions+of+lives&amp;rft.date=2016-12-01&amp;rft.aulast=Rowlatt&amp;rft.aufirst=Justin&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-asia-india-38156350&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Revolution+in+India" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Amartya_Sen" title="Amartya Sen">Amartya Sen</a>. 1981. <i><a rel="nofollow" class="external text" href="http://www.oxfordscholarship.com/view/10.1093/0198284632.001.0001/acprof-9780198284635">Poverty and Famines: An Essay on Entitlement and Deprivation.</a></i> <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Shiva, Vandana. <a rel="nofollow" class="external text" href="http://www.navdanya.org/"><i>Seeds of Suicide</i></a>. Navdanya.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Seeds+of+Suicide&amp;rft.pub=Navdanya&amp;rft.aulast=Shiva&amp;rft.aufirst=Vandana&amp;rft_id=http%3A%2F%2Fwww.navdanya.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Revolution+in+India" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Shiva, V. <a rel="nofollow" class="external text" href="http://www.countercurrents.org/shiva050413.htm">"Seeds of Suicide"</a>. <i>Counter Currents</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Counter+Currents&amp;rft.atitle=Seeds+of+Suicide&amp;rft.aulast=Shiva&amp;rft.aufirst=V.&amp;rft_id=http%3A%2F%2Fwww.countercurrents.org%2Fshiva050413.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Revolution+in+India" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>, originally in <i><a href="/wiki/Asian_Age" class="mw-redirect" title="Asian Age">Asian Age</a></i> 5 April 2013</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_India_topics" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:India_topics" title="Template:India topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:India_topics" title="Template talk:India topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:India_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_India_topics" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a> topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="History" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_India" title="History of India">History</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Overviews</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Timeline_of_Indian_history" title="Timeline of Indian history">Timeline</a></li>
+<li><a href="/wiki/List_of_years_in_India" title="List of years in India">Years</a></li></ul>
+<ul><li><a href="/wiki/Indian_astronomy" title="Indian astronomy">Astronomy</a></li>
+<li><a href="/wiki/Economic_history_of_India" title="Economic history of India">Economics</a></li>
+<li><a href="/wiki/Linguistic_history_of_the_Indian_subcontinent" class="mw-redirect" title="Linguistic history of the Indian subcontinent">Linguistics</a></li>
+<li><a href="/wiki/Indian_maritime_history" title="Indian maritime history">Maritime</a></li>
+<li><a href="/wiki/Indian_mathematics" title="Indian mathematics">Mathematics</a></li>
+<li><a href="/wiki/History_of_metallurgy_in_the_Indian_subcontinent" title="History of metallurgy in the Indian subcontinent">Metallurgy</a></li>
+<li><a href="/wiki/Military_history_of_India" title="Military history of India">Military</a></li>
+<li><a href="/wiki/Postage_stamps_and_postal_history_of_India" title="Postage stamps and postal history of India">Postal</a></li>
+<li><a href="/wiki/History_of_science_and_technology_in_the_Indian_subcontinent" title="History of science and technology in the Indian subcontinent">Science and technology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pre-colonial</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/South_Asian_Stone_Age" title="South Asian Stone Age">Stone Age</a></li>
+<li><a href="/wiki/Indus_Valley_Civilization" class="mw-redirect" title="Indus Valley Civilization">Indus Valley Civilization</a></li>
+<li><a href="/wiki/Vedic_period" title="Vedic period">Vedic period</a></li>
+<li><a href="/wiki/Mahajanapada" class="mw-redirect" title="Mahajanapada">Mahajanapadas</a></li>
+<li><a href="/wiki/Maurya_Empire" title="Maurya Empire">Mauryas</a></li>
+<li><a href="/wiki/Middle_kingdoms_of_India" title="Middle kingdoms of India">Middle kingdoms</a></li>
+<li><a href="/wiki/Hoysala_Empire" title="Hoysala Empire">Hoysala</a></li>
+<li><a href="/wiki/Chola_dynasty" title="Chola dynasty">Chola</a></li>
+<li><a href="/wiki/Pala_Empire" title="Pala Empire">Pala</a></li>
+<li><a href="/wiki/Kakatiya_dynasty" title="Kakatiya dynasty">Kakatiya</a></li>
+<li><a href="/wiki/Delhi_Sultanate" title="Delhi Sultanate">Delhi Sultanate</a></li>
+<li><a href="/wiki/Vijayanagara_Empire" title="Vijayanagara Empire">Vijayanagara</a></li>
+<li><a href="/wiki/Mughal_Empire" title="Mughal Empire">Mughals</a></li>
+<li><a href="/wiki/Maratha_Empire" title="Maratha Empire">Marathas</a></li>
+<li><a href="/wiki/East_India_Company" title="East India Company">European trade</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Colonial_India" title="Colonial India">Colonial</a></li><li><a href="/wiki/Princely_state" title="Princely state">Princely</a></li></ul></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_India_Company" title="East India Company">East India Company</a></li>
+<li><a href="/wiki/Battle_of_Plassey" title="Battle of Plassey">Plassey</a></li>
+<li><a href="/wiki/Indian_Rebellion_of_1857" title="Indian Rebellion of 1857">1857 rebellion</a></li>
+<li><a href="/wiki/British_Raj" title="British Raj">British Raj</a></li>
+<li><a href="/wiki/History_of_rail_transport_in_India" title="History of rail transport in India">Railways</a></li>
+<li><a href="/wiki/Economy_of_India_under_the_British_Raj" title="Economy of India under the British Raj">Economy</a></li>
+<li><a href="/wiki/British_Indian_Army" title="British Indian Army">Army</a></li>
+<li><a href="/wiki/Zamindar#British_era" title="Zamindar">Zamindari</a></li>
+<li><a href="/wiki/Bengali_renaissance" title="Bengali renaissance">Bengali renaissance</a></li>
+<li><a href="/wiki/Indian_Councils_Act_1909" title="Indian Councils Act 1909">Political reforms</a></li>
+<li><a href="/wiki/Princely_state" title="Princely state">Princely states</a></li>
+<li><a href="/wiki/Partition_of_Bengal_(1905)" title="Partition of Bengal (1905)">Partition of Bengal</a></li>
+<li><a href="/wiki/Indian_independence_movement" title="Indian independence movement">Independence movement</a></li>
+<li><a href="/wiki/Bengal_famine_of_1943" title="Bengal famine of 1943">1943 famine</a></li>
+<li><a href="/wiki/India_in_World_War_II" title="India in World War II">World War II</a></li>
+<li><a href="/wiki/Partition_of_India" title="Partition of India">Partition</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_the_Republic_of_India" title="History of the Republic of India">Republic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Political_integration_of_India" title="Political integration of India">Integration</a></li>
+<li><a href="/wiki/India_and_the_Non-Aligned_Movement" title="India and the Non-Aligned Movement">Non-Aligned Movement</a></li>
+<li><a href="/wiki/Five-Year_Plans_of_India" title="Five-Year Plans of India">Five-Year Plans</a></li>
+<li><a href="/wiki/Sino-Indian_War" title="Sino-Indian War">Sino-Indian War</a></li>
+<li><a href="/wiki/Indo-Pakistani_wars_and_conflicts" title="Indo-Pakistani wars and conflicts">Indo-Pakistani wars</a></li>
+<li><a class="mw-selflink selflink">Green Revolution</a></li>
+<li><a href="/wiki/Operation_Flood" title="Operation Flood">White Revolution</a></li>
+<li><a href="/wiki/Naxalite" title="Naxalite">Naxal Insurgency</a></li>
+<li><a href="/wiki/Smiling_Buddha" title="Smiling Buddha">Smiling Buddha</a></li>
+<li><a href="/wiki/Indian_Space_Research_Organisation" title="Indian Space Research Organisation">Space programme</a></li>
+<li><a href="/wiki/The_Emergency_(India)" title="The Emergency (India)">The Emergency</a></li>
+<li><a href="/wiki/Indian_Peace_Keeping_Force" title="Indian Peace Keeping Force">Indian Peace Keeping Force (IPKF)</a></li>
+<li><a href="/wiki/Economic_liberalisation_in_India" title="Economic liberalisation in India">Economic liberalisation</a></li>
+<li><a href="/wiki/Pokhran-II" title="Pokhran-II">Pokhran-II</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Geography" style="font-size:114%;margin:0 4em"><a href="/wiki/Geography_of_India" title="Geography of India">Geography</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Environment_of_India" title="Environment of India">Environment</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosphere_reserves_of_India" title="Biosphere reserves of India">Biosphere reserves</a></li>
+<li><a href="/wiki/Climate_of_India" title="Climate of India">Climate</a>
+<ul><li><a href="/wiki/Climatic_regions_of_India" title="Climatic regions of India">Climatic regions</a></li></ul></li>
+<li><a href="/wiki/List_of_earthquakes_in_India" title="List of earthquakes in India">Earthquakes</a></li>
+<li><a href="/wiki/List_of_ecoregions_in_India" title="List of ecoregions in India">Ecoregions</a></li>
+<li><a href="/wiki/Environmental_issues_in_India" title="Environmental issues in India">Environmental issues</a></li>
+<li><a href="/wiki/Fauna_of_India" title="Fauna of India">Fauna</a></li>
+<li><a href="/wiki/Flora_of_India" title="Flora of India">Flora</a></li>
+<li><a href="/wiki/Geology_of_India" title="Geology of India">Geology</a></li>
+<li><a href="/wiki/List_of_national_parks_of_India" title="List of national parks of India">National parks</a></li>
+<li><a href="/wiki/Protected_areas_of_India" title="Protected areas of India">Protected areas</a></li>
+<li><a href="/wiki/Wildlife_of_India" title="Wildlife of India">Wildlife</a></li>
+<li><a href="/wiki/Wildlife_sanctuaries_of_India" title="Wildlife sanctuaries of India">sanctuaries</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Landforms</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_beaches_in_India" title="List of beaches in India">Beaches</a></li>
+<li><a href="/wiki/Thar_Desert" title="Thar Desert">Desert</a></li>
+<li><a href="/wiki/List_of_extreme_points_of_India" title="List of extreme points of India">Extreme points</a></li>
+<li><a href="/wiki/List_of_glaciers_of_India" title="List of glaciers of India">Glaciers</a></li>
+<li><a href="/wiki/List_of_islands_of_India" title="List of islands of India">Islands</a></li>
+<li><a href="/wiki/List_of_lakes_of_India" title="List of lakes of India">Lakes</a></li>
+<li><a href="/wiki/List_of_mountains_in_India" title="List of mountains in India">Mountains</a></li>
+<li>Plains
+<ul><li><a href="/wiki/Indo-Gangetic_Plain" title="Indo-Gangetic Plain">Indo-Gangetic</a></li>
+<li><a href="/wiki/Eastern_coastal_plains" class="mw-redirect" title="Eastern coastal plains">Eastern coastal</a></li>
+<li><a href="/wiki/Western_Coastal_Plains" title="Western Coastal Plains">Western coastal</a></li></ul></li>
+<li><a href="/wiki/List_of_rivers_of_India" title="List of rivers of India">Rivers</a></li>
+<li><a href="/wiki/List_of_valleys_in_India" title="List of valleys in India">Valleys</a></li>
+<li><a href="/wiki/List_of_volcanoes_in_India" title="List of volcanoes in India">Volcanoes</a></li>
+<li><a href="/wiki/List_of_waterfalls_of_India" title="List of waterfalls of India">Waterfalls</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_regions_of_India" class="mw-redirect" title="List of regions of India">Regions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_India" title="East India">East</a></li>
+<li><a href="/wiki/North_India" title="North India">North</a></li>
+<li><a href="/wiki/Northeast_India" title="Northeast India">Northeast</a></li>
+<li><a href="/wiki/South_India" title="South India">South</a></li>
+<li><a href="/wiki/Western_India" title="Western India">West</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Administrative_divisions_of_India" title="Administrative divisions of India">Subdivisions</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomous_administrative_divisions_of_India" title="Autonomous administrative divisions of India">Autonomous administrative divisions</a></li>
+<li><a href="/wiki/List_of_cities_and_towns_in_India" class="mw-redirect" title="List of cities and towns in India">Cities</a></li>
+<li><a href="/wiki/List_of_districts_in_India" title="List of districts in India">Districts</a></li>
+<li><a href="/wiki/Municipal_governance_in_India" title="Municipal governance in India">Municipalities</a></li>
+<li><a href="/wiki/States_and_union_territories_of_India" title="States and union territories of India">States and territories</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_India" title="Politics of India">Politics</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Government_of_India" title="Government of India">Government</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Indian_agencies" class="mw-redirect" title="List of Indian agencies">Agencies</a></li>
+<li><a href="/wiki/Energy_policy_of_India" title="Energy policy of India">Energy policy</a></li>
+<li><a href="/wiki/Foreign_relations_of_India" title="Foreign relations of India">Foreign relations</a></li>
+<li><a href="/wiki/Parliament_of_India" title="Parliament of India">Parliament</a></li>
+<li><a href="/wiki/President_of_India" title="President of India">President</a></li>
+<li><a href="/wiki/Vice_President_of_India" title="Vice President of India">Vice President</a></li>
+<li><a href="/wiki/Prime_Minister_of_India" title="Prime Minister of India">Prime Minister</a></li>
+<li><a href="/wiki/Union_Council_of_Ministers" title="Union Council of Ministers">Union Council of Ministers</a></li>
+<li><a href="/wiki/Civil_Services_of_India" title="Civil Services of India">Civil Services</a></li>
+<li><a href="/wiki/Cabinet_Secretary_of_India" title="Cabinet Secretary of India">Cabinet Secretary</a></li>
+<li><a href="/wiki/State_governments_of_India" title="State governments of India">State governments</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Law_of_India" title="Law of India">Law</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chief_Justice_of_India" title="Chief Justice of India">Chief Justice</a></li>
+<li><a href="/wiki/Constitution_of_India" title="Constitution of India">Constitution</a></li>
+<li><a href="/wiki/District_Courts_of_India" class="mw-redirect" title="District Courts of India">District Courts</a></li>
+<li><a href="/wiki/Fundamental_Rights,_Directive_Principles_and_Fundamental_Duties_of_India" title="Fundamental Rights, Directive Principles and Fundamental Duties of India">Fundamental rights, principles and duties</a></li>
+<li><a href="/wiki/List_of_High_Courts_of_India" class="mw-redirect" title="List of High Courts of India">High Courts</a></li>
+<li><a href="/wiki/Human_rights_in_India" title="Human rights in India">Human rights</a></li>
+<li><a href="/wiki/Supreme_Court_of_India" title="Supreme Court of India">Supreme Court</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Law_enforcement_in_India" title="Law enforcement in India">Enforcement</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Border_Security_Force" title="Border Security Force">Border Security Force (BSF)</a></li>
+<li><a href="/wiki/Central_Industrial_Security_Force" title="Central Industrial Security Force">Central Industrial Security Force (CISF)</a></li>
+<li><a href="/wiki/Central_Reserve_Police_Force" title="Central Reserve Police Force">Central Reserve Police Force (CRPF)</a></li>
+<li><a href="/wiki/Indo-Tibetan_Border_Police" title="Indo-Tibetan Border Police">Indo-Tibetan Border Police (ITBP)</a></li>
+<li><a href="/wiki/National_Security_Guard" title="National Security Guard">National Security Guard (NSG)</a></li>
+<li><a href="/wiki/Railway_Protection_Force" title="Railway Protection Force">Railway Protection Force (RPF)</a></li>
+<li><a href="/wiki/Sashastra_Seema_Bal" title="Sashastra Seema Bal">Sashastra Seema Bal (SSB)</a></li>
+<li><a href="/wiki/Special_Protection_Group" title="Special Protection Group">Special Protection Group (SPG)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/List_of_Indian_intelligence_agencies" title="List of Indian intelligence agencies">Intelligence</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bureau_of_Police_Research_and_Development" title="Bureau of Police Research and Development">Bureau of Police Research and Development (BPR&amp;D)</a></li>
+<li><a href="/wiki/Central_Bureau_of_Investigation" title="Central Bureau of Investigation">Central Bureau of Investigation (CBI)</a></li>
+<li><a href="/wiki/Directorate_of_Revenue_Intelligence" title="Directorate of Revenue Intelligence">Directorate of Revenue Intelligence (DRI)</a></li>
+<li><a href="/wiki/Enforcement_Directorate" title="Enforcement Directorate">Enforcement Directorate</a></li>
+<li><a href="/wiki/Intelligence_Bureau_(India)" title="Intelligence Bureau (India)">Intelligence Bureau (IB)</a></li>
+<li><a href="/wiki/National_Security_Council_(India)" title="National Security Council (India)">Joint Intelligence Committee (JIC)</a></li>
+<li><a href="/wiki/Narcotics_Control_Bureau" title="Narcotics Control Bureau">Narcotics Control Bureau (NCB)</a></li>
+<li><a href="/wiki/National_Investigation_Agency" title="National Investigation Agency">National Investigation Agency (NIA)</a></li>
+<li><a href="/wiki/Research_and_Analysis_Wing" title="Research and Analysis Wing">Research and Analysis Wing (R&amp;AW)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indian_Armed_Forces" title="Indian Armed Forces">Military</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Indian_Army" title="Indian Army">Army</a></li>
+<li><a href="/wiki/Indian_Navy" title="Indian Navy">Navy</a></li>
+<li><a href="/wiki/Indian_Air_Force" title="Indian Air Force">Air Force</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_India" title="Politics of India">Politics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Censorship_in_India" title="Censorship in India">Censorship</a></li>
+<li><a href="/wiki/Elections_in_India" title="Elections in India">Elections</a></li>
+<li><a href="/wiki/Indian_nationalism" title="Indian nationalism">Nationalism</a></li>
+<li><a href="/wiki/Parliament_of_India" title="Parliament of India">Parliament</a>
+<ul><li><a href="/wiki/Lok_Sabha" title="Lok Sabha">Lok Sabha</a></li>
+<li><a href="/wiki/Rajya_Sabha" title="Rajya Sabha">Rajya Sabha</a></li></ul></li>
+<li><a href="/wiki/List_of_political_parties_in_India" title="List of political parties in India">Political parties</a>
+<ul><li><a href="/wiki/Indian_National_Congress" title="Indian National Congress">INC</a></li>
+<li><a href="/wiki/Bharatiya_Janata_Party" title="Bharatiya Janata Party">BJP</a></li>
+<li><a href="/wiki/Bahujan_Samaj_Party" title="Bahujan Samaj Party">BSP</a></li>
+<li><a href="/wiki/Communist_Party_of_India" title="Communist Party of India">CPI</a></li>
+<li><a href="/wiki/Communist_Party_of_India_(Marxist)" title="Communist Party of India (Marxist)">CPM</a></li>
+<li><a href="/wiki/Nationalist_Congress_Party" title="Nationalist Congress Party">NCP</a></li></ul></li>
+<li><a href="/wiki/Reservation_in_India" title="Reservation in India">Reservations</a></li>
+<li><a href="/wiki/List_of_scandals_in_India" title="List of scandals in India">Scandals</a></li>
+<li><a href="/wiki/Scheduled_Castes_and_Scheduled_Tribes" title="Scheduled Castes and Scheduled Tribes">Scheduled groups</a></li>
+<li><a href="/wiki/Secularism_in_India" title="Secularism in India">Secularism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Economy" style="font-size:114%;margin:0 4em"><a href="/wiki/Economy_of_India" title="Economy of India">Economy</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Companies_of_India" title="Category:Companies of India">Companies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BSE_SENSEX" title="BSE SENSEX">BSE SENSEX</a></li>
+<li><a href="/wiki/CNX_Nifty" class="mw-redirect" title="CNX Nifty">CNX Nifty</a></li>
+<li><a href="/wiki/Category:Government-owned_companies_of_India" title="Category:Government-owned companies of India">Government-owned companies</a></li>
+<li><a href="/wiki/List_of_companies_of_India" title="List of companies of India">List of companies</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Governance</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ministry_of_Finance_(India)" title="Ministry of Finance (India)">Ministry of Finance</a>
+<ul><li><a href="/wiki/Minister_of_Finance_(India)" title="Minister of Finance (India)">Finance ministers</a></li></ul></li>
+<li><a href="/wiki/Ministry_of_Commerce_and_Industry_(India)" title="Ministry of Commerce and Industry (India)">Ministry of Commerce and Industry</a>
+<ul><li><a href="/wiki/Minister_of_Commerce_and_Industry_(India)" class="mw-redirect" title="Minister of Commerce and Industry (India)">Commerce ministers</a></li></ul></li>
+<li><a href="/wiki/Finance_Commission_of_India" class="mw-redirect" title="Finance Commission of India">Finance Commission</a></li>
+<li><a href="/wiki/Planning_Commission_(India)" title="Planning Commission (India)">Planning Commission</a></li>
+<li><a href="/wiki/Economic_Advisory_Council" title="Economic Advisory Council">Economic Advisory Council</a></li>
+<li><a href="/wiki/Central_Statistical_Office_(India)" class="mw-redirect" title="Central Statistical Office (India)">Central Statistical Office</a></li>
+<li><a href="/wiki/Securities_and_Exchange_Board_of_India" title="Securities and Exchange Board of India">Securities and Exchange Board of India</a></li>
+<li><a href="/wiki/Enforcement_Directorate" title="Enforcement Directorate">Enforcement Directorate</a></li>
+<li><a href="/wiki/Foreign_trade_of_India" title="Foreign trade of India">Foreign trade</a></li>
+<li><a href="/wiki/Remittances_to_India" title="Remittances to India">Remittances</a></li>
+<li><a href="/wiki/Taxation_in_India" title="Taxation in India">Taxation</a></li>
+<li><a href="/wiki/Subsidies_in_India" title="Subsidies in India">Subsidies</a></li>
+<li><a href="/wiki/Industrial_licensing_in_India" title="Industrial licensing in India">Industrial licensing</a></li>
+<li><a href="/wiki/National_Voluntary_Guidelines_on_Social,_Environmental_and_Economic_Responsibilities_of_Business" title="National Voluntary Guidelines on Social, Environmental and Economic Responsibilities of Business">Voluntary guidelines</a></li>
+<li><a href="/wiki/NITI_Aayog" title="NITI Aayog">NITI Aayog</a></li>
+<li><a href="/wiki/Make_in_India" title="Make in India">Make in India</a></li>
+<li><a href="/wiki/Foreign_Direct_Investment_in_India" class="mw-redirect" title="Foreign Direct Investment in India">FDI in India</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Currency</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Indian_rupee" title="Indian rupee">Indian rupee</a>
+<ul><li><a href="/wiki/History_of_the_rupee" title="History of the rupee">History</a></li>
+<li><a href="/wiki/Tables_of_historical_exchange_rates_to_the_india_rupee" class="mw-redirect" title="Tables of historical exchange rates to the india rupee">Historical exchange rates data of the Indian rupee</a></li>
+<li><a href="/wiki/Coinage_of_India" title="Coinage of India">Coinage</a></li></ul></li>
+<li><a href="/wiki/Reserve_Bank_of_India" title="Reserve Bank of India">Reserve Bank of India</a>
+<ul><li><a href="/wiki/List_of_Governors_of_Reserve_Bank_of_India" title="List of Governors of Reserve Bank of India">Governors</a></li></ul></li>
+<li><a href="/wiki/India_Government_Mint" title="India Government Mint">India Government Mint</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Financial services</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Banking_in_India" title="Banking in India">Banking</a>
+<ul><li><a href="/wiki/Category:Banks_of_India" title="Category:Banks of India">Banks</a></li></ul></li>
+<li><a href="/wiki/Insurance_in_India" title="Insurance in India">Insurance</a></li>
+<li><a href="/wiki/Foreign_exchange_reserves_of_India" title="Foreign exchange reserves of India">Foreign exchange reserves</a></li>
+<li><a href="/wiki/Bombay_Stock_Exchange" title="Bombay Stock Exchange">Bombay Stock Exchange</a></li>
+<li><a href="/wiki/National_Stock_Exchange_of_India" title="National Stock Exchange of India">National Stock Exchange</a></li>
+<li><a href="/wiki/Multi_Commodity_Exchange" title="Multi Commodity Exchange">Multi Commodity Exchange</a></li>
+<li><a href="/wiki/The_Gold_(Control)_Act,_1968" title="The Gold (Control) Act, 1968">Bullion</a></li>
+<li><a href="/wiki/Indian_black_money" title="Indian black money">Black money</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economic_history_of_India" title="Economic history of India">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Economic_development_in_India" title="Economic development in India">Economic Development</a></li>
+<li><a href="/wiki/Economic_liberalisation_in_India" title="Economic liberalisation in India">Economic liberalisation</a></li>
+<li><a href="/wiki/Licence_Raj" title="Licence Raj">Licence Raj</a></li>
+<li><a class="mw-selflink selflink">Green revolution</a></li>
+<li><a href="/wiki/List_of_Indian_government_initiatives_focusing_on_economic_development" class="mw-redirect" title="List of Indian government initiatives focusing on economic development">Government initiatives</a></li>
+<li><a href="/wiki/Indian_numbering_system" title="Indian numbering system">Numbering system</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:Indian_billionaires" title="Category:Indian billionaires">Billionaires</a></li>
+<li><a href="/wiki/Category:Indian_businesspeople" title="Category:Indian businesspeople">Businesspeople</a></li>
+<li><a href="/wiki/Demographics_of_India" title="Demographics of India">Demography</a></li>
+<li><a href="/wiki/Income_in_India" title="Income in India">Income</a>
+<ul><li><a href="/wiki/Poverty_in_India" title="Poverty in India">Poverty</a></li></ul></li>
+<li><a href="/wiki/Indian_labour_law" title="Indian labour law">Labour law</a></li>
+<li><a href="/wiki/Pensions_in_India" title="Pensions in India">Pensions</a>
+<ul><li><a href="/wiki/Employees%27_Provident_Fund_Organisation_of_India" class="mw-redirect" title="Employees&#39; Provident Fund Organisation of India">EPFO</a></li>
+<li><a href="/wiki/National_Pension_Scheme" class="mw-redirect" title="National Pension Scheme">NPS</a></li>
+<li><a href="/wiki/Public_Provident_Fund_(India)" title="Public Provident Fund (India)">PPF</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Economy_of_India_by_state_or_union_territory" title="Category:Economy of India by state or union territory">States</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Economy_of_Andhra_Pradesh" title="Economy of Andhra Pradesh">Andhra Pradesh</a></li>
+<li><a href="/wiki/Economy_of_Assam" title="Economy of Assam">Assam</a></li>
+<li><a href="/wiki/Economy_of_Bihar" title="Economy of Bihar">Bihar</a></li>
+<li><a href="/wiki/Economy_of_Goa" class="mw-redirect" title="Economy of Goa">Goa</a></li>
+<li><a href="/wiki/Economy_of_Gujarat" title="Economy of Gujarat">Gujarat</a></li>
+<li><a href="/wiki/Economy_of_Haryana" title="Economy of Haryana">Haryana</a></li>
+<li><a href="/wiki/Economy_of_Himachal_Pradesh" title="Economy of Himachal Pradesh">Himachal Pradesh</a></li>
+<li><a href="/wiki/Economy_of_Jammu_and_Kashmir" class="mw-redirect" title="Economy of Jammu and Kashmir">Jammu and Kashmir</a></li>
+<li><a href="/wiki/Economy_of_Karnataka" title="Economy of Karnataka">Karnataka</a></li>
+<li><a href="/wiki/Economy_of_Kerala" title="Economy of Kerala">Kerala</a></li>
+<li><a href="/wiki/Economy_of_Madhya_Pradesh" title="Economy of Madhya Pradesh">Madhya Pradesh</a></li>
+<li><a href="/wiki/Economy_of_Maharashtra" title="Economy of Maharashtra">Maharashtra</a></li>
+<li><a href="/wiki/Economy_of_Manipur" class="mw-redirect" title="Economy of Manipur">Manipur</a></li>
+<li><a href="/wiki/Economy_of_Mizoram" title="Economy of Mizoram">Mizoram</a></li>
+<li><a href="/wiki/Economy_of_Nagaland" class="mw-redirect" title="Economy of Nagaland">Nagaland</a></li>
+<li><a href="/wiki/Economy_of_Odisha" title="Economy of Odisha">Odisha</a></li>
+<li><a href="/wiki/Economy_of_Punjab,_India" title="Economy of Punjab, India">Punjab</a></li>
+<li><a href="/wiki/Economy_of_Rajasthan" title="Economy of Rajasthan">Rajasthan</a></li>
+<li><a href="/wiki/Economy_of_Tamil_Nadu" title="Economy of Tamil Nadu">Tamil Nadu</a></li>
+<li><a href="/wiki/Economy_of_Telangana" title="Economy of Telangana">Telangana</a></li>
+<li><a href="/wiki/Economy_of_Uttarakhand" title="Economy of Uttarakhand">Uttarakhand</a></li>
+<li><a href="/wiki/Economy_of_Uttar_Pradesh" title="Economy of Uttar Pradesh">Uttar Pradesh</a></li>
+<li><a href="/wiki/Economy_of_West_Bengal" title="Economy of West Bengal">West Bengal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sectors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agriculture_in_India" title="Agriculture in India">Agriculture</a>
+<ul><li><a href="/wiki/Animal_husbandry_in_India" title="Animal husbandry in India">Livestock</a></li>
+<li><a href="/wiki/Fishing_in_India" title="Fishing in India">Fishing</a></li></ul></li>
+<li><a href="/wiki/Automotive_industry_in_India" title="Automotive industry in India">Automotive</a></li>
+<li><a href="/wiki/Defence_industry_of_India" title="Defence industry of India">Defence</a></li>
+<li><a href="/wiki/Construction_industry_of_India" title="Construction industry of India">Construction</a></li>
+<li><a href="/wiki/Education_in_India" title="Education in India">Education</a></li>
+<li><a href="/wiki/Energy_in_India" title="Energy in India">Energy</a>
+<ul><li><a href="/wiki/Nuclear_power_in_India" title="Nuclear power in India">Nuclear</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">Solar</a></li>
+<li><a href="/wiki/Wind_power_in_India" title="Wind power in India">Wind</a></li></ul></li>
+<li><a href="/wiki/Entertainment_industry_in_India" title="Entertainment industry in India">Entertainment</a></li>
+<li><a href="/wiki/Forestry_in_India" title="Forestry in India">Forestry</a></li>
+<li><a href="/wiki/Gambling_in_India" title="Gambling in India">Gambling</a></li>
+<li><a href="/wiki/Healthcare_in_India" title="Healthcare in India">Healthcare</a></li>
+<li><a href="/wiki/Information_technology_in_India" title="Information technology in India">Information technology</a></li>
+<li><a href="/wiki/Media_of_India" title="Media of India">Media</a>
+<ul><li><a href="/wiki/Cinema_of_India" title="Cinema of India">Cinema</a></li>
+<li><a href="/wiki/Television_in_India" title="Television in India">Television</a></li>
+<li><a href="/wiki/Printing_industry_in_India" title="Printing industry in India">Printing</a></li></ul></li>
+<li><a href="/wiki/Mining_in_India" title="Mining in India">Mining</a></li>
+<li><a href="/wiki/Pharmaceutical_industry_in_India" title="Pharmaceutical industry in India">Pharmaceuticals</a></li>
+<li><a href="/wiki/Retailing_in_India" title="Retailing in India">Retail</a></li>
+<li><a href="/wiki/Science_and_technology_in_India" title="Science and technology in India">Science and technology</a>
+<ul><li><a href="/wiki/Biotechnology_in_India" title="Biotechnology in India">Biotechnology</a></li></ul></li>
+<li><a href="/wiki/Telecommunications_in_India" title="Telecommunications in India">Telecommunications</a></li>
+<li><a href="/wiki/Textile_industry_in_India" title="Textile industry in India">Textiles</a></li>
+<li><a href="/wiki/Tourism_in_India" title="Tourism in India">Tourism</a></li>
+<li><a href="/wiki/Transport_in_India" title="Transport in India">Transport</a>
+<ul><li><a href="/wiki/Aviation_in_India" title="Aviation in India">Aviation</a>
+<ul><li><a href="/wiki/Civil_Aviation_in_India" class="mw-redirect" title="Civil Aviation in India">Civil</a></li></ul></li>
+<li><a href="/wiki/Ports_in_India" title="Ports in India">Ports</a></li>
+<li><a href="/wiki/Rail_transport_in_India" title="Rail transport in India">Rail</a></li></ul></li>
+<li><a href="/wiki/Category:Utilities_of_India" title="Category:Utilities of India">Utilities</a>
+<ul><li><a href="/wiki/Electricity_sector_in_India" title="Electricity sector in India">Electricity</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_India" title="Water supply and sanitation in India">Water</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="SocietyCulture" style="font-size:114%;margin:0 4em"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Category:Indian_society" title="Category:Indian society">Society</a></li><li><a href="/wiki/Culture_of_India" title="Culture of India">Culture</a></li></ul></div></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Indian_society" title="Category:Indian society">Society</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caste_system_in_India" title="Caste system in India">Caste system</a></li>
+<li><a href="/wiki/Corruption_in_India" title="Corruption in India">Corruption</a></li>
+<li><a href="/wiki/Demographics_of_India" title="Demographics of India">Demographics</a></li>
+<li><a href="/wiki/Women_in_India" title="Women in India">Women</a></li>
+<li><a href="/wiki/Education_in_India" title="Education in India">Education</a>
+<ul><li><a href="/wiki/List_of_universities_in_India" title="List of universities in India">Universities in India</a></li>
+<li><a href="/wiki/List_of_medical_colleges_in_India" title="List of medical colleges in India">Medical colleges in India</a></li>
+<li><a href="/wiki/List_of_law_schools_in_India" title="List of law schools in India">Law colleges in India</a></li>
+<li><a href="/wiki/Engineering_education_in_India" title="Engineering education in India">Engineering colleges in India</a></li></ul></li>
+<li><a href="/wiki/Ethnic_relations_in_India" title="Ethnic relations in India">Ethnic relations</a></li>
+<li><a href="/wiki/Health_in_India" title="Health in India">Healthcare</a>
+<ul><li><a href="/wiki/List_of_hospitals_in_India" title="List of hospitals in India">Hospitals in India</a></li></ul></li>
+<li><a href="/wiki/Languages_of_India" title="Languages of India">Languages</a></li>
+<li><a href="/wiki/Literacy_in_India" title="Literacy in India">Literacy</a></li>
+<li><a href="/wiki/Poverty_in_India" title="Poverty in India">Poverty</a></li>
+<li><a href="/wiki/Prisons_in_India" title="Prisons in India">Prisons</a></li>
+<li><a href="/wiki/Religion_in_India" title="Religion in India">Religion</a></li>
+<li><a href="/wiki/Socio-economic_issues_in_India" class="mw-redirect" title="Socio-economic issues in India">Socio-economic issues</a></li>
+<li><a href="/wiki/Standard_of_living_in_India" title="Standard of living in India">Standard of living</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_India" title="Water supply and sanitation in India">Water supply and sanitation</a></li>
+<li><a href="/wiki/Sexuality_in_India" title="Sexuality in India">Sexuality</a></li>
+<li><a href="/wiki/Crime_in_India" title="Crime in India">Crime</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_India" title="Culture of India">Culture</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arts_and_entertainment_in_India" title="Arts and entertainment in India">Arts and entertainment</a></li>
+<li><a href="/wiki/Architecture_of_India" title="Architecture of India">Architecture</a></li>
+<li><a href="/wiki/Indian_blogosphere" title="Indian blogosphere">Blogging</a></li>
+<li><a href="/wiki/Cinema_of_India" title="Cinema of India">Cinema</a></li>
+<li><a href="/wiki/Indian_comics" title="Indian comics">Comics</a>
+<ul><li><a href="/wiki/Webcomics_in_India" title="Webcomics in India">Webcomics</a></li></ul></li>
+<li><a href="/wiki/Indian_cuisine" title="Indian cuisine">Cuisine</a>
+<ul><li><a href="/wiki/Indian_wine" title="Indian wine">wine</a></li></ul></li>
+<li><a href="/wiki/Indian_classical_dance" title="Indian classical dance">Dance</a></li>
+<li><a href="/wiki/Clothing_in_India" title="Clothing in India">Dress</a></li>
+<li><a href="/wiki/Folklore_of_India" title="Folklore of India">Folklore</a></li>
+<li><a href="/wiki/List_of_festivals_in_India" title="List of festivals in India">Festivals</a></li>
+<li><a href="/wiki/Indian_literature" title="Indian literature">Literature</a></li>
+<li><a href="/wiki/Media_of_India" title="Media of India">Media</a>
+<ul><li><a href="/wiki/Television_in_India" title="Television in India">television</a></li></ul></li>
+<li><a href="/wiki/Indian_martial_arts" title="Indian martial arts">Martial arts</a></li>
+<li><a href="/wiki/Music_of_India" title="Music of India">Music</a></li>
+<li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">Public holidays</a></li>
+<li><a href="/wiki/Sport_in_India" title="Sport in India">Sport</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Agriculture_in_India" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Agriculture_in_India" title="Template:Agriculture in India"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Agriculture_in_India&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Agriculture in India (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Agriculture_in_India&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Agriculture_in_India" style="font-size:114%;margin:0 4em"><a href="/wiki/Agriculture_in_India" title="Agriculture in India">Agriculture in India</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Industries</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Areca_nut_production_in_India" title="Areca nut production in India">Areca nut</a></li>
+<li><a href="/wiki/Coconut_production_in_India" title="Coconut production in India">Coconut</a> (<a href="/wiki/Coconut_production_in_Kerala" title="Coconut production in Kerala">in Kerala</a>)</li>
+<li><a href="/wiki/Coffee_production_in_India" title="Coffee production in India">Coffee</a></li>
+<li><a href="/wiki/Fenugreek_production_in_India" title="Fenugreek production in India">Fenugreek</a></li>
+<li><a href="/wiki/Rice_production_in_India" title="Rice production in India">Rice</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Law and politics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ministry_of_Agriculture_%26_Farmers_Welfare" title="Ministry of Agriculture &amp; Farmers Welfare">Ministry of Agriculture &amp; Farmers Welfare</a></li>
+<li><a href="/wiki/Protection_of_Plant_Varieties_and_Farmers%27_Rights_Act,_2001" title="Protection of Plant Varieties and Farmers&#39; Rights Act, 2001">Protection of Plant Varieties and Farmers' Rights Act, 2001</a></li>
+<li><a href="/wiki/Rashtriya_Krishi_Vikas_Yojana" title="Rashtriya Krishi Vikas Yojana">Rashtriya Krishi Vikas Yojana</a></li>
+<li><a href="/wiki/Biological_Diversity_Act,_2002" title="Biological Diversity Act, 2002">Biological Diversity Act, 2002</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_agriculture_in_the_Indian_subcontinent" title="History of agriculture in the Indian subcontinent">History</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Farming_systems_in_India" title="Farming systems in India">Farming systems</a></li>
+<li><a class="mw-selflink selflink">Green Revolution</a></li>
+<li><a href="/wiki/Agriculture_in_ancient_Tamil_country" title="Agriculture in ancient Tamil country">History in ancient Tamil countries</a></li>
+<li><a href="/wiki/History_of_tea_in_India" title="History of tea in India">History of tea</a></li>
+<li><a href="/wiki/Women_in_agriculture_in_India" title="Women in agriculture in India">Women in agriculture</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Companies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bayer_CropScience_Limited" class="mw-redirect" title="Bayer CropScience Limited">Bayer CropScience Limited</a></li>
+<li><a href="/wiki/Mahyco" title="Mahyco">Mahyco</a></li>
+<li><a href="/wiki/Pantnagar_Seeds" title="Pantnagar Seeds">Pantnagar Seeds</a></li>
+<li><a href="/wiki/Reuters_Market_Light" title="Reuters Market Light">Reuters Market Light</a></li>
+<li><a href="/wiki/Suminter_India_Organics" title="Suminter India Organics">Suminter India Organics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tractors_in_India" title="Tractors in India">Tractors in India</a></li>
+<li><a href="/wiki/Central_Institute_for_Cotton_Research" title="Central Institute for Cotton Research">Central Institute for Cotton Research</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2187
+Cached time: 20180929140943
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.360 seconds
+Real time usage: 0.434 seconds
+Preprocessor visited node count: 2008/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 208906/2097152 bytes
+Template argument size: 23777/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18869/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 4.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  294.323      1 -total
+ 34.46%  101.436      1 Template:Reflist
+ 25.41%   74.776      1 Template:India_topics
+ 24.26%   71.406      1 Template:Navbox_with_collapsible_groups
+ 18.18%   53.501      1 Template:Cite_report
+ 12.76%   37.543      3 Template:Citation_needed
+ 11.54%   33.965      8 Template:Navbox
+ 11.29%   33.241      3 Template:Fix
+  9.99%   29.411      1 Template:More_citations_needed
+  9.91%   29.179      2 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14101118-0!canonical and timestamp 20180929140943 and revision id 860339967
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Revolution_in_India&amp;oldid=860339967">https://en.wikipedia.org/w/index.php?title=Green_Revolution_in_India&amp;oldid=860339967</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Agricultural_revolutions" title="Category:Agricultural revolutions">Agricultural revolutions</a></li><li><a href="/wiki/Category:History_of_agriculture_in_India" title="Category:History of agriculture in India">History of agriculture in India</a></li><li><a href="/wiki/Category:Intensive_farming" title="Category:Intensive farming">Intensive farming</a></li><li><a href="/wiki/Category:Independent_India" title="Category:Independent India">Independent India</a></li><li><a href="/wiki/Category:Economic_history_of_India" title="Category:Economic history of India">Economic history of India</a></li><li><a href="/wiki/Category:Indira_Gandhi_administration" title="Category:Indira Gandhi administration">Indira Gandhi administration</a></li><li><a href="/wiki/Category:History_of_Punjab,_India_(1947%E2%80%93present)" title="Category:History of Punjab, India (1947–present)">History of Punjab, India (1947–present)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li><li><a href="/wiki/Category:Use_Indian_English_from_March_2018" title="Category:Use Indian English from March 2018">Use Indian English from March 2018</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Indian_English" title="Category:All Wikipedia articles written in Indian English">All Wikipedia articles written in Indian English</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2014" title="Category:Articles needing additional references from December 2014">Articles needing additional references from December 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_January_2018" title="Category:Articles needing cleanup from January 2018">Articles needing cleanup from January 2018</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_with_sections_that_need_to_be_turned_into_prose_from_January_2018" title="Category:Articles with sections that need to be turned into prose from January 2018">Articles with sections that need to be turned into prose from January 2018</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Revolution+in+India" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Revolution+in+India" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Revolution_in_India" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Revolution_in_India" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Revolution_in_India">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Revolution_in_India" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Revolution_in_India" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Revolution_in_India&amp;oldid=860339967" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Revolution_in_India&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3100540" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Revolution_in_India&amp;id=860339967" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Revolution+in+India">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Revolution+in+India&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Revolution_in_India&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/R%C3%A9volution_verte_en_Inde" title="Révolution verte en Inde – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF_(%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4)" title="हरित क्रांति (भारत) – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Revolusi_Hijau_di_India" title="Revolusi Hijau di India – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AD%E0%A8%BE%E0%A8%B0%E0%A8%A4_%E0%A8%A6%E0%A8%BE_%E0%A8%B9%E0%A8%B0%E0%A8%BE_%E0%A8%87%E0%A8%A8%E0%A8%95%E0%A8%B2%E0%A8%BE%E0%A8%AC" title="ਭਾਰਤ ਦਾ ਹਰਾ ਇਨਕਲਾਬ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%DA%BE%D8%A7%D8%B1%D8%AA_%D8%AF%D8%A7_%DB%81%D8%B1%D8%A7_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8" title="بھارت دا ہرا انقلاب – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Verde_da_%C3%8Dndia" title="Revolução Verde da Índia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9A%E0%AF%81%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF" title="இந்தியாவின் பசுமைப் புரட்சி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3100540#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 00:19<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Revolution_in_India&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.434","ppvisitednodes":{"value":2008,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":208906,"limit":2097152},"templateargumentsize":{"value":23777,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18869,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  294.323      1 -total"," 34.46%  101.436      1 Template:Reflist"," 25.41%   74.776      1 Template:India_topics"," 24.26%   71.406      1 Template:Navbox_with_collapsible_groups"," 18.18%   53.501      1 Template:Cite_report"," 12.76%   37.543      3 Template:Citation_needed"," 11.54%   33.965      8 Template:Navbox"," 11.29%   33.241      3 Template:Fix","  9.99%   29.411      1 Template:More_citations_needed","  9.91%   29.179      2 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.141","limit":"10.000"},"limitreport-memusage":{"value":4688396,"limit":52428800}},"cachereport":{"origin":"mw2187","timestamp":"20180929140943","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw2240"});});</script>
+	</body>
+</html>

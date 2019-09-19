@@ -1,0 +1,1132 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Switzerland - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Switzerland","wgTitle":"Green Party of Switzerland","wgCurRevisionId":857502732,"wgRevisionId":857502732,"wgArticleId":345746,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles needing additional references from October 2007","All articles needing additional references","Use dmy dates from May 2016","Use British English from May 2016","Pages using deprecated image syntax","Articles containing German-language text","Articles containing French-language text","Articles containing Italian-language text","Articles containing Romansh-language text","Articles with German-language external links","Articles with French-language external links","Green political parties in Switzerland","Non-interventionist parties","Global Greens member parties","Green Party of Switzerland","Swiss Climate Alliance"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Switzerland","wgRelevantArticleId":345746,"wgRequestId":"W7FcKArAAD0AACoi9zoAAAAN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q659739","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/3/34/Green_Party_of_Switzerland_logo.PNG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Switzerland"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Switzerland"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Switzerland rootpage-Green_Party_of_Switzerland skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Switzerland</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(October 2007)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #66BB66; border-bottom:2px solid #66BB66; line-height: 1;"><span class="fn org">Green Party of Switzerland</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Green_Party_of_Switzerland_logo.PNG" class="image"><img alt="Green Party of Switzerland logo.PNG" src="//upload.wikimedia.org/wikipedia/en/3/34/Green_Party_of_Switzerland_logo.PNG" width="205" height="72" data-file-width="205" data-file-height="72" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">German name</th><td class="nickname" style="line-height:1.3em;">
+<i><i lang="de" title="German language text">Grüne Partei der Schweiz (GPS)</i></i></td></tr><tr><th scope="row" style="line-height:1.3em;">French name</th><td class="nickname" style="line-height:1.3em;">
+<i><i lang="fr" title="French language text">Les verts – Parti écologiste suisse (PES)</i></i></td></tr><tr><th scope="row" style="line-height:1.3em;">Italian name</th><td class="nickname" style="line-height:1.3em;">
+<i><i lang="it" title="Italian language text">I Verdi – Partito ecologista svizzero (PES)</i></i></td></tr><tr><th scope="row" style="line-height:1.3em;">Romansh name</th><td class="nickname" style="line-height:1.3em;">
+<i><i lang="rm" title="Romansh language text">La Verda – Partida ecologica svizra</i></i></td></tr><tr><th scope="row" style="line-height:1.3em;">President</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Regula_Rytz" title="Regula Rytz">Regula Rytz</a> (since 2016)<sup id="cite_ref-grüneCH-regularytz_1-0" class="reference"><a href="#cite_note-grüneCH-regularytz-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">Members of the Federal Council</th><td class="agent" style="line-height:1.3em;">
+<i>None</i></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+28 May 1983<span class="noprint">&#59;&#32;35 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">28 May 1983</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+Waisenhausplatz 21 <br /> CH-3011 Bern</td></tr><tr><th scope="row" style="line-height:1.3em;">Membership&#160;(2015)</th><td style="line-height:1.3em;">
+7,500<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><sup id="cite_ref-Nordsieck_3-0" class="reference"><a href="#cite_note-Nordsieck-3">&#91;3&#93;</a></sup><br /><a href="/wiki/Progressivism" title="Progressivism">Progressivism</a><br /><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_political_party" title="European political party">European affiliation</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td></tr><tr><th scope="row" style="line-height:1.3em;">International affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<span style="background-color:#84B414; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/National_Council_(Switzerland)" title="National Council (Switzerland)">National Council</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">11 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #84B414; width: 6%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Council_of_States_(Switzerland)" title="Council of States (Switzerland)">Council of States</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">1 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #84B414; width: 2%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_cantonal_executives_of_Switzerland" title="List of cantonal executives of Switzerland">Cantonal Executives</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">7 / 154</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #84B414; width: 5%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_cantonal_legislatures_of_Switzerland" title="List of cantonal legislatures of Switzerland">Cantonal legislatures</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">176 / 2,609</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #84B414; width: 7%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.gruene.ch">www<wbr />.gruene<wbr />.ch</a></span></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #66BB66;"><ul><li><a href="/wiki/Politics_of_Switzerland" title="Politics of Switzerland">Politics of Switzerland</a></li><li><a href="/wiki/List_of_political_parties_in_Switzerland" title="List of political parties in Switzerland">Political parties</a></li><li><a href="/wiki/Elections_in_Switzerland" title="Elections in Switzerland">Elections</a></li></ul></div><hr /><a href="/wiki/Swiss_Federal_Council" class="mw-redirect" title="Swiss Federal Council">Swiss Federal Council</a><br /><a href="/wiki/Federal_Chancellor_of_Switzerland" class="mw-redirect" title="Federal Chancellor of Switzerland">Federal Chancellor</a><br /><a href="/wiki/Federal_Assembly_(Switzerland)" title="Federal Assembly (Switzerland)">Federal Assembly</a><br /><a href="/wiki/Council_of_States_(Switzerland)" title="Council of States (Switzerland)">Council of States</a> (<a href="/wiki/List_of_members_of_the_Swiss_Council_of_States" class="mw-redirect" title="List of members of the Swiss Council of States">members</a>)<br /><a href="/wiki/National_Council_(Switzerland)" title="National Council (Switzerland)">National Council</a> (<a href="/wiki/List_of_members_of_the_Swiss_National_Council" class="mw-redirect" title="List of members of the Swiss National Council">members</a>)<br /><a href="/wiki/Voting_in_Switzerland" title="Voting in Switzerland">Voting</a></td></tr></tbody></table>
+<p>The <b>Green Party of Switzerland</b> (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Grüne Partei der Schweiz</i>; <a href="/wiki/French_language" title="French language">French</a>: <i lang="fr">Les verts&#160;&#8211;&#32;Parti écologiste suisse</i>; <a href="/wiki/Italian_language" title="Italian language">Italian</a>: <i lang="it">I Verdi&#160;&#8211;&#32;Partito ecologista svizzero</i>; <a href="/wiki/Romansh_language" title="Romansh language">Romansh</a>: <i lang="rm">La Verda&#160;&#8211;&#32;Partida ecologica svizra</i>; "The Greens&#160;&#8211;&#32;Swiss ecologist party") is the fifth-largest party in the <a href="/wiki/National_Council_of_Switzerland" class="mw-redirect" title="National Council of Switzerland">National Council of Switzerland</a>, and the largest party that is not represented on the <a href="/wiki/Swiss_Federal_Council" class="mw-redirect" title="Swiss Federal Council">Federal Council</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Policies"><span class="tocnumber">2</span> <span class="toctext">Policies</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Popular_support"><span class="tocnumber">3</span> <span class="toctext">Popular support</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#National_Council_and_Council_of_States"><span class="tocnumber">3.1</span> <span class="toctext">National Council and Council of States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Party_strength_over_time"><span class="tocnumber">4</span> <span class="toctext">Party strength over time</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Party_presidents"><span class="tocnumber">5</span> <span class="toctext">Party presidents</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first <a href="/wiki/Green_party" title="Green party">Green party</a> in Switzerland was founded as a local party in 1971 in the town of <a href="/wiki/Neuch%C3%A2tel" title="Neuchâtel">Neuchâtel</a>. In 1979, <a href="/wiki/Daniel_Br%C3%A9laz" title="Daniel Brélaz">Daniel Brélaz</a> was elected to the <a href="/wiki/National_Council_of_Switzerland" class="mw-redirect" title="National Council of Switzerland">National Council</a> as the first Green MP on the national level (in Switzerland and in the world). Local and regional Green parties and organisations were founded in many different towns and <a href="/wiki/Cantons_of_Switzerland" title="Cantons of Switzerland">cantons</a> in the following years.
+</p><p>In 1983, two different national green party federations were created: in May, diverse local green groups came together in Fribourg to form the <i>Federation of Green Parties of Switzerland</i>, and in June, some left-alternative groups formed the <i>Green Alternative Party of Switzerland</i> in Bern. In 1990, an attempt to combine these organisations failed. Afterwards, some of the member groups from the <i>Green Alternative Party</i> joined the <i>Federation of Green Parties</i> which has become the <i>de facto</i> national Green party. In 1993, the <i>Federation of Green Parties</i> changed its name to the <i>Green Party of Switzerland</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In 1986, the first two Green members of a cantonal government become members of the <i>Regierungsrat</i> of Bern.
+</p><p>In 1987, the Green Party of Switzerland joined the <a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">European Federation of Green Parties</a>.
+</p><p>In the 1990s, members of the Green Party became town mayors, members of the high court and even president of a cantonal government (<a href="/wiki/Verena_Diener" title="Verena Diener">Verena Diener</a> in 1999).
+</p>
+<h2><span class="mw-headline" id="Policies">Policies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=2" title="Edit section: Policies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Swiss_party_politics_2007_en.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Swiss_party_politics_2007_en.png/300px-Swiss_party_politics_2007_en.png" width="300" height="325" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Swiss_party_politics_2007_en.png/450px-Swiss_party_politics_2007_en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Swiss_party_politics_2007_en.png/600px-Swiss_party_politics_2007_en.png 2x" data-file-width="1000" data-file-height="1082" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Swiss_party_politics_2007_en.png" class="internal" title="Enlarge"></a></div>The Green Party's positions in the Swiss political spectrum (2007).</div></div></div>
+<p>The traditional emphases of the party's policies lie in <a href="/wiki/Environmentalism" title="Environmentalism">environmentalism</a> and green means of transportation. In terms of foreign policy, the greens set out on the course of openness and <a href="/wiki/Pacifism" title="Pacifism">pacifism</a>. In economic policy, the greens are <a href="/wiki/Center-left" class="mw-redirect" title="Center-left">center-left</a>. The majority of greens support an accession of <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> to the <a href="/wiki/European_Union" title="European Union">European Union</a>. In immigration policy, the greens support further integration initiatives for immigrants. The greens support measures to increase energy efficiency, oppose <a href="/wiki/Anti-nuclear_movement" title="Anti-nuclear movement">nuclear power</a>, and support raising energy and fuel prices. According to their policy, the resulting revenues should be allocated to <a href="/wiki/Social_security" title="Social security">social security</a> spending.
+</p>
+<h2><span class="mw-headline" id="Popular_support">Popular support</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=3" title="Edit section: Popular support">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:CHbezirke_110211_GPS.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/CHbezirke_110211_GPS.png/300px-CHbezirke_110211_GPS.png" width="300" height="201" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/CHbezirke_110211_GPS.png/450px-CHbezirke_110211_GPS.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/CHbezirke_110211_GPS.png/600px-CHbezirke_110211_GPS.png 2x" data-file-width="2067" data-file-height="1385" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:CHbezirke_110211_GPS.png" class="internal" title="Enlarge"></a></div>Percentages of the Green Party at district level in 2011</div></div></div>
+<h3><span class="mw-headline" id="National_Council_and_Council_of_States">National Council and Council of States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=4" title="Edit section: National Council and Council of States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Election year
+</th>
+<th># of overall votes
+</th>
+<th>% of overall vote
+</th>
+<th># of National Council<br />seats won
+</th>
+<th>+/-
+</th>
+<th># of Council of States<br />seats won
+</th>
+<th>+/-
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_1979" title="Swiss federal election, 1979">1979</a></b>
+</th>
+<td>11,583
+</td>
+<td>0.6
+</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0.5%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_1983" title="Swiss federal election, 1983">1983</a></b>
+</th>
+<td>37,079
+</td>
+<td>1.9
+</td>
+<td><div style="width: 100px;"><span class="nowrap">3 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 2%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_1987" title="Swiss federal election, 1987">1987</a></b>
+</th>
+<td>94,378
+</td>
+<td>4.9
+</td>
+<td><div style="width: 100px;"><span class="nowrap">9 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 6
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_1991" title="Swiss federal election, 1991">1991</a></b>
+</th>
+<td>124,149
+</td>
+<td>6.1
+</td>
+<td><div style="width: 100px;"><span class="nowrap">14 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 7%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 5
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_1995" title="Swiss federal election, 1995">1995</a></b>
+</th>
+<td>96,069
+</td>
+<td>5.0
+</td>
+<td><div style="width: 100px;"><span class="nowrap">8 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 6
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_1999" title="Swiss federal election, 1999">1999</a></b>
+</th>
+<td>96,807
+</td>
+<td>5.0
+</td>
+<td><div style="width: 100px;"><span class="nowrap">8 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_2003" title="Swiss federal election, 2003">2003</a></b>
+</th>
+<td>156,226
+</td>
+<td>7.4
+</td>
+<td><div style="width: 100px;"><span class="nowrap">13 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 7%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 5
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_2007" title="Swiss federal election, 2007">2007</a></b>
+</th>
+<td>222,206
+</td>
+<td>9.6
+</td>
+<td><div style="width: 100px;"><span class="nowrap">20 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 10%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 7
+</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_2011" title="Swiss federal election, 2011">2011</a></b>
+</th>
+<td>205,984
+</td>
+<td>8.4
+</td>
+<td><div style="width: 100px;"><span class="nowrap">15 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 8%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 5
+</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Swiss_federal_election,_2015" title="Swiss federal election, 2015">2015</a></b><sup id="cite_ref-NR2015_7-0" class="reference"><a href="#cite_note-NR2015-7">&#91;7&#93;</a></sup>
+</th>
+<td>177,938
+</td>
+<td>7.1
+</td>
+<td><div style="width: 100px;"><span class="nowrap">11 / 200</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 6%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 4
+</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 46</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 2%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1
+</td>
+<td>
+</td></tr></tbody></table>
+<p>On the national level, in 2003 the Green Party was not represented in the
+<a href="/wiki/Swiss_Council_of_States" class="mw-redirect" title="Swiss Council of States">Council of States</a> or <a href="/wiki/Swiss_Federal_Council" class="mw-redirect" title="Swiss Federal Council">Federal Council</a>. In 2007, two Green Party members were elected to the Council of States.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>By 2005, the party held 3.8 percent of the seats in the Swiss <a href="/wiki/Conseil_d%27Etat_(Switzerland)" class="mw-redirect" title="Conseil d&#39;Etat (Switzerland)">cantonal executive governments</a> and 6.9 percent in the Swiss <a href="/wiki/Cantonal_parliaments" class="mw-redirect" title="Cantonal parliaments">cantonal parliaments</a> (index "BADAC", weighted with the population and number of seats). In 2007, the Green Party was represented in the governments of the cantons <a href="/wiki/Bern_(canton)" class="mw-redirect" title="Bern (canton)">Bern</a>, <a href="/wiki/Basel-City" class="mw-redirect" title="Basel-City">Basel-City</a>, <a href="/wiki/Geneva" title="Geneva">Geneva</a> (two ministers), <a href="/wiki/Neuch%C3%A2tel" title="Neuchâtel">Neuchâtel</a>, <a href="/wiki/Nidwalden" class="mw-redirect" title="Nidwalden">Nidwalden</a>, <a href="/wiki/Vaud" class="mw-redirect" title="Vaud">Vaud</a>, <a href="/wiki/Zug_(canton)" class="mw-redirect" title="Zug (canton)">Zug</a> (two ministers) and <a href="/wiki/Canton_of_Zurich" class="mw-redirect" title="Canton of Zurich">Zurich</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Party_strength_over_time">Party strength over time</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=5" title="Edit section: Party strength over time">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align: center">
+
+<tbody><tr>
+<th>Canton</th>
+<th>1971</th>
+<th>1975</th>
+<th>1979</th>
+<th>1983</th>
+<th>1987</th>
+<th>1991</th>
+<th>1995</th>
+<th>1999</th>
+<th>2003</th>
+<th>2007</th>
+<th>2011</th>
+<th>2015
+</th>
+</tr></tbody><caption>Percentage of the total vote for the Green Party in Federal Elections 1971-2015<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</caption>
+<tbody><tr>
+<th>Switzerland</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">0.1</th>
+<th style="background: #80FFBF">0.6</th>
+<th style="background: #80FFBF">1.9</th>
+<th style="background: #00FF80">4.9</th>
+<th style="background: #38DF8B">6.1</th>
+<th style="background: #38DF8B">5.0</th>
+<th style="background: #00FF80">5.0</th>
+<th style="background: #00DF70">7.4</th>
+<th style="background: #00DF70">9.6</th>
+<th style="background: #00DF70">8.4</th>
+<th style="background: #00DF70">7.1
+</th></tr>
+<tr>
+<th>Zürich</th>
+<th style="background: #BFBFBF">*<sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">a</a></sup></th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">1.3</th>
+<th style="background: #00FF80">4.2</th>
+<th style="background: #00DF70">8.0</th>
+<th style="background: #00DF70">7.0</th>
+<th style="background: #38DF8B">6.5</th>
+<th style="background: #00FF80">4.1</th>
+<th style="background: #00DF70">8.5</th>
+<th style="background: #30BF70">10.4</th>
+<th style="background: #00DF70">8.4</th>
+<th style="background: #38DF8B">6.9
+</th></tr>
+<tr>
+<th>Bern</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00DF70">9.2</th>
+<th style="background: #00DF70">9.9</th>
+<th style="background: #38DF8B">5.9</th>
+<th style="background: #00DF70">7.5</th>
+<th style="background: #00DF70">9.3</th>
+<th style="background: #30BF70">12.9</th>
+<th style="background: #00DF70">9.4</th>
+<th style="background: #00DF70">8.5
+</th></tr>
+<tr>
+<th>Lucerne</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00DF70">9.3</th>
+<th style="background: #00DF70">8.1</th>
+<th style="background: #00DF70">8.0</th>
+<th style="background: #00DF70">9.8</th>
+<th style="background: #00DF70">9.5</th>
+<th style="background: #00DF70">8.3</th>
+<th style="background: #00DF70">7.1
+</th></tr>
+<tr>
+<th>Uri</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #009F50">30.6</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #009F50">26.3
+</th></tr>
+<tr>
+<th>Schwyz</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00FF80">3.4</th>
+<th style="background: #00FF80">3.8</th>
+<th style="background: #80FFBF">1.4
+</th></tr>
+<tr>
+<th>Nidwalden</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00BF60">19.6</th>
+<th style="background: #BFBFBF">*
+</th></tr>
+<tr>
+<th>Zug</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00BF60">17.0</th>
+<th style="background: #00BF60">15.4</th>
+<th style="background: #00DF70">7.2
+</th></tr>
+<tr>
+<th>Freiburg</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00FF80">4.2</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">2.3</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00FF80">4.0</th>
+<th style="background: #38DF8B">6.3</th>
+<th style="background: #00FF80">5.0</th>
+<th style="background: #38DF8B">5.3
+</th></tr>
+<tr>
+<th>Solothurn</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00DF70">7.3</th>
+<th style="background: #38DF8B">5.8</th>
+<th style="background: #00FF80">4.9</th>
+<th style="background: #38DF8B">6.0</th>
+<th style="background: #00DF70">10.0</th>
+<th style="background: #00DF70">7.5</th>
+<th style="background: #38DF8B">5.6
+</th></tr>
+<tr>
+<th>Basel-Stadt</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">1.1</th>
+<th style="background: #00FF80">4.4</th>
+<th style="background: #38DF8B">5.6</th>
+<th style="background: #00DF70">8.7</th>
+<th style="background: #00DF70">9.2</th>
+<th style="background: #30BF70">12.1</th>
+<th style="background: #30BF70">13.4</th>
+<th style="background: #30BF70">11.2
+</th></tr>
+<tr>
+<th>Basel-Landschaft</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">1.9</th>
+<th style="background: #38DF8B">6.9</th>
+<th style="background: #30BF70">11.0</th>
+<th style="background: #00DF70">9.5</th>
+<th style="background: #00DF70">9.2</th>
+<th style="background: #30BF70">12.6</th>
+<th style="background: #30BF70">13.8</th>
+<th style="background: #30BF70">13.6</th>
+<th style="background: #30BF70">14.2
+</th></tr>
+<tr>
+<th>Schaffhausen</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00FF80">3.4
+</th></tr>
+<tr>
+<th>Appenzell A.Rh.</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #38DF8B">6.4</th>
+<th style="background: #BFBFBF">*
+</th></tr>
+<tr>
+<th>St. Gallen</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #38DF8B">6.2</th>
+<th style="background: #00FF80">4.9</th>
+<th style="background: #00FF80">4.0</th>
+<th style="background: #00DF70">7.1</th>
+<th style="background: #38DF8B">6.4</th>
+<th style="background: #38DF8B">6.4</th>
+<th style="background: #38DF8B">5.7
+</th></tr>
+<tr>
+<th>Graubünden</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00FF80">3.5</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">2.2</th>
+<th style="background: #BFBFBF">*
+</th></tr>
+<tr>
+<th>Aargau</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #38DF8B">6.8</th>
+<th style="background: #38DF8B">5.3</th>
+<th style="background: #00FF80">4.4</th>
+<th style="background: #38DF8B">5.1</th>
+<th style="background: #00DF70">8.1</th>
+<th style="background: #00DF70">7.3</th>
+<th style="background: #38DF8B">5.5
+</th></tr>
+<tr>
+<th>Thurgau</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #38DF8B">5.9</th>
+<th style="background: #30BF70">10.8</th>
+<th style="background: #00DF70">9.0</th>
+<th style="background: #00DF70">9.3</th>
+<th style="background: #38DF8B">6.2</th>
+<th style="background: #00DF70">7.9</th>
+<th style="background: #30BF70">10.2</th>
+<th style="background: #00DF70">7.0</th>
+<th style="background: #38DF8B">5.4
+</th></tr>
+<tr>
+<th>Ticino</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">1.9</th>
+<th style="background: #80FFBF">1.0</th>
+<th style="background: #80FFBF">1.7</th>
+<th style="background: #80FFBF">1.4</th>
+<th style="background: #80FFBF">3.0</th>
+<th style="background: #00FF80">4.8</th>
+<th style="background: #38DF8B">6.7</th>
+<th style="background: #00FF80">3.5
+</th></tr>
+<tr>
+<th>Vaud</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">1.0</th>
+<th style="background: #38DF8B">6.4</th>
+<th style="background: #00DF70">7.0</th>
+<th style="background: #00DF70">8.4</th>
+<th style="background: #38DF8B">6.3</th>
+<th style="background: #00FF80">4.1</th>
+<th style="background: #00DF70">7.1</th>
+<th style="background: #30BF70">11.3</th>
+<th style="background: #30BF70">14.3</th>
+<th style="background: #30BF70">11.6</th>
+<th style="background: #30BF70">11.3
+</th></tr>
+<tr>
+<th>Valais</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #80FFBF">1.7</th>
+<th style="background: #80FFBF">1.3</th>
+<th style="background: #80FFBF">1.3</th>
+<th style="background: #80FFBF">2.1</th>
+<th style="background: #80FFBF">2.6</th>
+<th style="background: #00FF80">3.9</th>
+<th style="background: #00FF80">5.0</th>
+<th style="background: #00FF80">4.9
+</th></tr>
+<tr>
+<th>Neuchâtel</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00DF70">7.4</th>
+<th style="background: #00DF70">7.1</th>
+<th style="background: #00DF70">8.0</th>
+<th style="background: #38DF8B">5.9</th>
+<th style="background: #30BF70">14.7</th>
+<th style="background: #30BF70">13.8</th>
+<th style="background: #00DF70">9.4</th>
+<th style="background: #30BF70">11.7</th>
+<th style="background: #00DF70">9.3
+</th></tr>
+<tr>
+<th>Genève</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #00DF70">7.6</th>
+<th style="background: #30BF70">11.5</th>
+<th style="background: #38DF8B">6.7</th>
+<th style="background: #38DF8B">5.6</th>
+<th style="background: #00DF70">8.2</th>
+<th style="background: #30BF70">11.2</th>
+<th style="background: #00BF60">16.4</th>
+<th style="background: #30BF70">14.0</th>
+<th style="background: #30BF70">11.5
+</th></tr>
+<tr>
+<th>Jura</th>
+<th style="background: #BFBFBF"><sup class="reference plainlinks nourlexpansion" id="ref_b"><a href="#endnote_b">b</a></sup></th>
+<th style="background: #BFBFBF"><sup class="reference plainlinks nourlexpansion" id="ref_b"><a href="#endnote_b">b</a></sup></th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #BFBFBF">*</th>
+<th style="background: #30BF70">11.0</th>
+<th style="background: #00DF70">7.3
+</th></tr>
+</tbody></table>
+<dl><dd>1.<span class="citation wikicite" id="endnote_a"><b><a href="#ref_a">^a</a></b></span> * indicates that the party was not on the ballot in this canton.</dd>
+<dd>2.<span class="citation wikicite" id="endnote_b"><b><a href="#ref_b">^b</a></b></span> Part of the Canton of Bern until 1979.</dd></dl>
+<h2><span class="mw-headline" id="Party_presidents">Party presidents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=6" title="Edit section: Party presidents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is an incomplete list of the presidents of the Green Party:
+</p>
+<ul><li><a href="/wiki/Ruth_Genner" title="Ruth Genner">Ruth Genner</a> (2001-2008)</li>
+<li><a href="/wiki/Ueli_Leuenberger" title="Ueli Leuenberger">Ueli Leuenberger</a> (2008-2012)</li>
+<li><a href="/wiki/Ad%C3%A8le_Thorens_Goumaz" title="Adèle Thorens Goumaz">Adèle Thorens Goumaz</a> (co-president; 2012-2016)</li>
+<li><a href="/wiki/Regula_Rytz" title="Regula Rytz">Regula Rytz</a> (2012-present; co-president until 2012)</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Environmental_movement_in_Switzerland" title="Environmental movement in Switzerland">Environmental movement in Switzerland</a></li>
+<li><a href="/wiki/List_of_environmental_organizations" title="List of environmental organizations">List of environmental organizations</a></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=8" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-grüneCH-regularytz-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-grüneCH-regularytz_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gruene.ch/gruene/de/die_gruenen/partei/praesidium.html">"Präsidium"</a> (in German). <a href="/wiki/Gr%C3%BCne_Partei_der_Schweiz" class="mw-redirect" title="Grüne Partei der Schweiz">Grüne Partei der Schweiz</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pr%C3%A4sidium&amp;rft.pub=Gr%C3%BCne+Partei+der+Schweiz&amp;rft_id=http%3A%2F%2Fwww.gruene.ch%2Fgruene%2Fde%2Fdie_gruenen%2Fpartei%2Fpraesidium.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://www.bk.admin.ch/dokumentation/02070/02480/09982/index.html?lang=en&amp;download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCId355gWym162epYbg2c_JjKbNoKSn6A--"><i>The Swiss Confederation — A Brief Guide</i></a> <span class="cs1-format">(PDF)</span>. Federal Chancellery. 2015. p.&#160;20<span class="reference-accessdate">. Retrieved <span class="nowrap">December 14,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Swiss+Confederation+%E2%80%94+A+Brief+Guide&amp;rft.pages=20&amp;rft.pub=Federal+Chancellery&amp;rft.date=2015&amp;rft_id=https%3A%2F%2Fwww.bk.admin.ch%2Fdokumentation%2F02070%2F02480%2F09982%2Findex.html%3Flang%3Den%26download%3DNHzLpZeg7t%2Clnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCId355gWym162epYbg2c_JjKbNoKSn6A--&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Nordsieck-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nordsieck_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Nordsieck, Wolfram (2015). <a rel="nofollow" class="external text" href="http://www.parties-and-elections.eu/switzerland.html">"Switzerland"</a>. <i>Parties and Elections in Europe</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Parties+and+Elections+in+Europe&amp;rft.atitle=Switzerland&amp;rft.date=2015&amp;rft.aulast=Nordsieck&amp;rft.aufirst=Wolfram&amp;rft_id=http%3A%2F%2Fwww.parties-and-elections.eu%2Fswitzerland.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Federal Chancellery, Communication Support (2016). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161220095659/https://www.bk.admin.ch/dokumentation/02070/index.html?lang=en&amp;download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCIeIJ_gWym162epYbg2c_JjKbNoKSn6A--"><i>The Swiss Confederation – a brief guide</i></a>. Switzerland: Swiss Confederation. p.&#160;18. Archived from <a rel="nofollow" class="external text" href="https://www.bk.admin.ch/dokumentation/02070/index.html?lang=en&amp;download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCIeIJ_gWym162epYbg2c_JjKbNoKSn6A--">the original</a> <span class="cs1-format">(PDF)</span> on 20 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">11 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Swiss+Confederation+%E2%80%93+a+brief+guide&amp;rft.place=Switzerland&amp;rft.pages=18&amp;rft.pub=Swiss+Confederation&amp;rft.date=2016&amp;rft.au=Federal+Chancellery%2C+Communication+Support&amp;rft_id=https%3A%2F%2Fwww.bk.admin.ch%2Fdokumentation%2F02070%2Findex.html%3Flang%3Den%26download%3DNHzLpZeg7t%2Clnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCIeIJ_gWym162epYbg2c_JjKbNoKSn6A--&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tradebridgeconsultants.com/country-index/switzerland/political-parties/the-green-party-of-switzerland/">"Switzerland | Left of Centre | The Green Party of Switzerland  | Trade Bridge Consultants"</a>. <i>tradebridgeconsultants.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=tradebridgeconsultants.com&amp;rft.atitle=Switzerland+%7C+Left+of+Centre+%7C+The+Green+Party+of+Switzerland++%7C+Trade+Bridge+Consultants&amp;rft_id=http%3A%2F%2Ftradebridgeconsultants.com%2Fcountry-index%2Fswitzerland%2Fpolitical-parties%2Fthe-green-party-of-switzerland%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Lucardie, Paul (2016-12-05). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Q7uoDQAAQBAJ&amp;pg=PT103&amp;lpg=PT103&amp;dq=In+1993,+the+Federation+of+Green+Parties+changed+its+name+to+the+Green+Party+of+Switzerland&amp;source=bl&amp;ots=ZJeB_KJpez&amp;sig=NFLFPwsbXyKiu_cb0A3a0NzZ-bw&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwje9v2rlJjUAhUL1oMKHR_VAJIQ6AEIQzAG#v=onepage&amp;q=1993%20Green%20Party%20of%20Switzerland&amp;f=false"><i>Green Parties in Transition: The End of Grass-roots Democracy?</i></a>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781351932110" title="Special:BookSources/9781351932110">9781351932110</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Green+Parties+in+Transition%3A+The+End+of+Grass-roots+Democracy%3F&amp;rft.pub=Routledge&amp;rft.date=2016-12-05&amp;rft.isbn=9781351932110&amp;rft.aulast=Lucardie&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQ7uoDQAAQBAJ%26pg%3DPT103%26lpg%3DPT103%26dq%3DIn%2B1993%2C%2Bthe%2BFederation%2Bof%2BGreen%2BParties%2Bchanged%2Bits%2Bname%2Bto%2Bthe%2BGreen%2BParty%2Bof%2BSwitzerland%26source%3Dbl%26ots%3DZJeB_KJpez%26sig%3DNFLFPwsbXyKiu_cb0A3a0NzZ-bw%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwje9v2rlJjUAhUL1oMKHR_VAJIQ6AEIQzAG%23v%3Donepage%26q%3D1993%2520Green%2520Party%2520of%2520Switzerland%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NR2015-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-NR2015_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Bundesamt für Statistik. <a rel="nofollow" class="external text" href="http://www.politik-stat.ch/nrw2015CH_de.html">"Nationalratswahlen: Übersicht Schweiz"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nationalratswahlen%3A+%C3%9Cbersicht+Schweiz&amp;rft.au=Bundesamt+f%C3%BCr+Statistik&amp;rft_id=http%3A%2F%2Fwww.politik-stat.ch%2Fnrw2015CH_de.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nzz.ch/nachrichten/kultur/film/waadt_staenderat_gruene_1.582483.html">NZZ Online, November 11, 2007</a> (German)</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Church, Clive (October 2007). <a rel="nofollow" class="external text" href="https://www.sussex.ac.uk/webteam/gateway/file.php?name=epern-election-briefing-no-39.pdf&amp;site=266">"ELECTION BRIEFING No 39  EUROPE AND THE SWISS PARLIAMENTARY ELECTIONS OF 21OCTOBER 2007"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ELECTION+BRIEFING+No+39++EUROPE+AND+THE+SWISS+PARLIAMENTARY+ELECTIONS+OF+21OCTOBER+2007&amp;rft.date=2007-10&amp;rft.aulast=Church&amp;rft.aufirst=Clive&amp;rft_id=https%3A%2F%2Fwww.sussex.ac.uk%2Fwebteam%2Fgateway%2Ffile.php%3Fname%3Depern-election-briefing-no-39.pdf%26site%3D266&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation report"><a rel="nofollow" class="external text" href="http://www.bfs.admin.ch/bfs/portal/de/index/themen/17/02/blank/dos/09.html">Nationalratswahlen 2015: Der Wandel der Parteienlandschaft seit 1971</a> (Report). Swiss Federal Statistical Office. 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=Nationalratswahlen+2015%3A+Der+Wandel+der+Parteienlandschaft+seit+1971&amp;rft.pub=Swiss+Federal+Statistical+Office&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.bfs.admin.ch%2Fbfs%2Fportal%2Fde%2Findex%2Fthemen%2F17%2F02%2Fblank%2Fdos%2F09.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Switzerland" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Green_Party_of_Switzerland" class="extiw" title="commons:Category:Green Party of Switzerland">Green Party of Switzerland</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.gruene.ch">Green Party of Switzerland</a> (official site) <span class="languageicon">(in German)</span> <span class="languageicon">(in French)</span></li>
+<li><a rel="nofollow" class="external text" href="http://swissgreens.blogspot.com">Swiss Greens International</a></li>
+<li><i>Green Party</i> in  <a rel="nofollow" class="external text" href="http://www.hls-dhs-dss.ch/textes/d/D17413.php"><span title="Green Party in German">German</span></a>, <a rel="nofollow" class="external text" href="http://www.hls-dhs-dss.ch/textes/f/F17413.php"><span title="Green Party in French">French</span></a> and <a rel="nofollow" class="external text" href="http://www.hls-dhs-dss.ch/textes/i/I17413.php"><span title="Green Party in Italian">Italian</span></a> in the online <i><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">Historical Dictionary of Switzerland</a></i>.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Political_parties_in_Switzerland_23x16px&amp;#124;border_&amp;#124;alt=Switzerland&amp;#124;link=Switzerland" style="text-align:left;;padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Swiss_political_parties" title="Template:Swiss political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Swiss_political_parties" title="Template talk:Swiss political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Swiss_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Political_parties_in_Switzerland_23x16px&amp;#124;border_&amp;#124;alt=Switzerland&amp;#124;link=Switzerland" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Switzerland" title="List of political parties in Switzerland">Political parties in Switzerland</a> <span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/National_Council_(Switzerland)" title="National Council (Switzerland)">National Council</a><br /><span style="font-weight:normal;">(200 seats)</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Swiss_Federal_Council" class="mw-redirect" title="Swiss Federal Council">Federal Council</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Swiss_People%27s_Party" title="Swiss People&#39;s Party">Swiss People's Party</a> (65)</li>
+<li><a href="/wiki/Social_Democratic_Party_of_Switzerland" title="Social Democratic Party of Switzerland">Social Democratic Party</a> (43)</li>
+<li><a href="/wiki/FDP.The_Liberals" title="FDP.The Liberals">The Liberals (FDP)</a> (33)</li>
+<li><a href="/wiki/Christian_Democratic_People%27s_Party_of_Switzerland" title="Christian Democratic People&#39;s Party of Switzerland">Christian Democratic People's Party</a> (27)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Green Party</a> (11)</li>
+<li><a href="/wiki/Green_Liberal_Party_of_Switzerland" title="Green Liberal Party of Switzerland">Green Liberal Party</a> (7)</li>
+<li><a href="/wiki/Conservative_Democratic_Party_of_Switzerland" title="Conservative Democratic Party of Switzerland">Conservative Democratic Party</a> (7)</li>
+<li><a href="/wiki/Evangelical_People%27s_Party_of_Switzerland" title="Evangelical People&#39;s Party of Switzerland">Evangelical People's Party</a> (2)</li>
+<li><a href="/wiki/Ticino_League" title="Ticino League">Ticino League</a> (2)</li>
+<li><a href="/wiki/Swiss_Party_of_Labour" title="Swiss Party of Labour">Swiss Party of Labour</a> (1)</li>
+<li><a href="/wiki/Geneva_Citizens%27_Movement" title="Geneva Citizens&#39; Movement">Geneva Citizens' Movement</a> (1)</li>
+<li><a href="/wiki/Christian_Social_Party_of_Obwalden" class="mw-redirect" title="Christian Social Party of Obwalden">Christian Social Party of Obwalden</a> (1)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Council_of_States_(Switzerland)" title="Council of States (Switzerland)">Council of States</a><br /><span style="font-weight:normal;">(46 seats)</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Swiss_Federal_Council" class="mw-redirect" title="Swiss Federal Council">Federal Council</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_Democratic_People%27s_Party_of_Switzerland" title="Christian Democratic People&#39;s Party of Switzerland">Christian Democratic People's Party</a> (13)</li>
+<li><a href="/wiki/FDP.The_Liberals" title="FDP.The Liberals">FDP.The Liberals</a> (13)</li>
+<li><a href="/wiki/Social_Democratic_Party_of_Switzerland" title="Social Democratic Party of Switzerland">Social Democratic Party</a> (12)</li>
+<li><a href="/wiki/Swiss_People%27s_Party" title="Swiss People&#39;s Party">Swiss People's Party</a> (5)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Green Party</a> (1)</li>
+<li><a href="/wiki/Conservative_Democratic_Party_of_Switzerland" title="Conservative Democratic Party of Switzerland">Conservative Democratic Party</a> (1)</li>
+<li><a href="/wiki/Independent_politician" title="Independent politician">Independent</a> (1)</li>
+<li><a href="/wiki/Green_Liberal_Party_of_Switzerland" title="Green Liberal Party of Switzerland">Green Liberal Party</a> (0)</li>
+<li><a href="/wiki/Evangelical_People%27s_Party_of_Switzerland" title="Evangelical People&#39;s Party of Switzerland">Evangelical People's Party</a> (0)</li>
+<li><a href="/wiki/Ticino_League" title="Ticino League">Ticino League</a> (0)</li>
+<li><a href="/wiki/Christian_Social_Party_(Switzerland)" title="Christian Social Party (Switzerland)">Christian Social Party</a> (0)</li>
+<li><a href="/wiki/Geneva_Citizens%27_Movement" title="Geneva Citizens&#39; Movement">Geneva Citizens' Movement</a> (0)</li>
+<li><a href="/wiki/Swiss_Party_of_Labour" title="Swiss Party of Labour">Swiss Party of Labour</a> (0)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other parties</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alternative_Left" title="Alternative Left">Alternative Left</a></li>
+<li><a href="/wiki/Alternative_List" title="Alternative List">Alternative List</a></li>
+<li><a href="/wiki/Christian_Social_Party_(Switzerland)" title="Christian Social Party (Switzerland)">Christian Social Party</a></li>
+<li><a href="/wiki/Federal_Democratic_Union_of_Switzerland" title="Federal Democratic Union of Switzerland">Federal Democratic Union</a></li>
+<li><a href="/wiki/Freedom_Party_of_Switzerland" title="Freedom Party of Switzerland">Freedom Party</a></li>
+<li><a href="/wiki/Pirate_Party_Switzerland" title="Pirate Party Switzerland">Pirate Party</a></li>
+<li><a href="/wiki/Social_Liberal_Movement" title="Social Liberal Movement">Social Liberal Movement</a></li>
+<li><a href="/wiki/Solidarity_(Switzerland)" title="Solidarity (Switzerland)">Solidarity</a></li>
+<li><a href="/wiki/Swiss_Democrats" title="Swiss Democrats">Swiss Democrats</a></li>
+<li><a href="/wiki/The_Swiss_Independence_Party_up!" title="The Swiss Independence Party up!">Swiss Independence Party up!</a></li>
+<li><a href="/wiki/Swiss_Nationalist_Party" title="Swiss Nationalist Party">Swiss Nationalist Party</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Politics" title="Portal:Politics">Portal:Politics</a></li>
+<li><a href="/wiki/Politics_of_Switzerland" title="Politics of Switzerland">Politics of Switzerland</a></li>
+<li><a href="/wiki/List_of_ruling_political_parties_by_country" title="List of ruling political parties by country">List of ruling political parties by country</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_parties_by_country" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_parties" title="Template:Green parties"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_parties" title="Template talk:Green parties"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_parties&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_parties_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_party" title="Green party">Green parties</a> by country</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/w/index.php?title=Ecology_and_Liberty_Party&amp;action=edit&amp;redlink=1" class="new" title="Ecology and Liberty Party (page does not exist)">Algeria</a></i></li>
+<li><a href="/w/index.php?title=Partido_Nacional_Ecol%C3%B3gico_de_Angola&amp;action=edit&amp;redlink=1" class="new" title="Partido Nacional Ecológico de Angola (page does not exist)">Angola</a></li>
+<li><a href="/wiki/The_Greens_(Benin)" title="The Greens (Benin)">Benin</a></li>
+<li>Burkina Faso
+<ul><li><a href="/wiki/Ecologist_Party_for_the_Development_of_Burkina" title="Ecologist Party for the Development of Burkina">Ecologist Party</a></li>
+<li><a href="/wiki/Greens_of_Burkina" title="Greens of Burkina">Greens of Burkina</a></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Burkina" title="Rally of the Ecologists of Burkina">Rally of the Ecologists</a></li></ul></li>
+<li><a href="/w/index.php?title=Burundi_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Burundi Green Movement (page does not exist)">Burundi</a></li>
+<li><a href="/w/index.php?title=Mouvement_des_Verts_de_Centrafique&amp;action=edit&amp;redlink=1" class="new" title="Mouvement des Verts de Centrafique (page does not exist)">Central African Republic</a></li>
+<li><a href="/w/index.php?title=Union_des_Ecologistes_Tchadiens_-_LES_VERTS&amp;action=edit&amp;redlink=1" class="new" title="Union des Ecologistes Tchadiens - LES VERTS (page does not exist)">Chad</a></li>
+<li><a href="/w/index.php?title=Defense_de_l%27Environment_Camerounais&amp;action=edit&amp;redlink=1" class="new" title="Defense de l&#39;Environment Camerounais (page does not exist)">Cameroon</a></li>
+<li><a href="/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens" title="Rally of Congolese Ecologists – The Greens">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Egyptian_Green_Party" title="Egyptian Green Party">Egypt</a></li>
+<li><a href="/w/index.php?title=Gabon_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Gabon Green Party (page does not exist)">Gabon</a></li>
+<li><a href="/w/index.php?title=Ghana_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Ghana Green Movement (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Parti_des_Ecologistes_Guineens&amp;action=edit&amp;redlink=1" class="new" title="Parti des Ecologistes Guineens (page does not exist)">Guinea</a></li>
+<li><i><a href="/w/index.php?title=Liga_Guineense_de_Protec%C3%A7ao_Ecologica&amp;action=edit&amp;redlink=1" class="new" title="Liga Guineense de Protecçao Ecologica (page does not exist)">Guinea-Bissau</a></i></li>
+<li><a href="/w/index.php?title=Parti_pour_la_Protection_de_l%27Environnement&amp;action=edit&amp;redlink=1" class="new" title="Parti pour la Protection de l&#39;Environnement (page does not exist)">Ivory Coast</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Kenya</a></li>
+<li><a href="/w/index.php?title=Parti_Vert_Hasin%27l_Madagasikara&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Hasin&#39;l Madagasikara (page does not exist)">Madagascar</a></li>
+<li><a href="/wiki/Ecologist_Party_of_Mali" title="Ecologist Party of Mali">Mali</a></li>
+<li><a href="/wiki/Les_Verts_Fraternels" title="Les Verts Fraternels">Mauritius</a></li>
+<li>Morocco
+<ul><li><a href="/w/index.php?title=The_Greens_(Morocco)&amp;action=edit&amp;redlink=1" class="new" title="The Greens (Morocco) (page does not exist)">The Greens</a></li>
+<li><i><a href="/wiki/Izigzawen" title="Izigzawen">Izigzawen</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Party_of_Mozambique" title="Greens Party of Mozambique">Mozambique</a></li>
+<li><a href="/w/index.php?title=Rassemblement_pour_un_Sahel_Vert&amp;action=edit&amp;redlink=1" class="new" title="Rassemblement pour un Sahel Vert (page does not exist)">Niger</a></li>
+<li><a href="/w/index.php?title=Green_Party_of_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Green Party of Nigeria (page does not exist)">Nigeria</a></li>
+<li><i><a href="/wiki/Democratic_Green_Party_of_Rwanda" title="Democratic Green Party of Rwanda">Rwanda</a></i></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Senegal" title="Rally of the Ecologists of Senegal">Senegal</a></li>
+<li><a href="/w/index.php?title=Sierra_Leone_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Sierra Leone Green Party (page does not exist)">Sierra Leone</a></li>
+<li>Somalia
+<ul><li><i><a href="/wiki/Somalia_Green_Party" title="Somalia Green Party">Green Party</a></i></li>
+<li><a href="/w/index.php?title=Democratic_Green_Party_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Democratic Green Party of Somalia (page does not exist)">Democratic Green Party</a></li></ul></li>
+<li>South Africa
+<ul><li><a href="/w/index.php?title=South_African_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="South African Green Alliance (page does not exist)">Green Alliance</a></li>
+<li><i><a href="/wiki/Green_Party_of_South_Africa" title="Green Party of South Africa">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=Afrique_Togo_Ecologie&amp;action=edit&amp;redlink=1" class="new" title="Afrique Togo Ecologie (page does not exist)">Togo</a></li>
+<li><a href="/wiki/Green_Tunisia_Party" title="Green Tunisia Party">Tunisia</a></li>
+<li>Uganda
+<ul><li><a href="/w/index.php?title=Ecological_Party_of_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Ecological Party of Uganda (page does not exist)">Ecological Party</a></li>
+<li><i><a href="/wiki/Uganda_Green_Party" title="Uganda Green Party">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=National_Revolution_Green_Party_Zambia&amp;action=edit&amp;redlink=1" class="new" title="National Revolution Green Party Zambia (page does not exist)">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Americas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Initiative" title="Green Initiative">Argentina</a></li>
+<li><i><a href="/wiki/Belize_Green_Independent_Party" title="Belize Green Independent Party">Belize</a></i></li>
+<li><a href="/wiki/Green_Party_of_Bolivia" title="Green Party of Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Green_Party_(Brazil)" title="Green Party (Brazil)">Brazil</a></li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Canada</a></li>
+<li><a href="/wiki/Green_Ecologist_Party_(Chile)" title="Green Ecologist Party (Chile)">Chile</a></li>
+<li><a href="/wiki/Green_Alliance_(Colombia)" title="Green Alliance (Colombia)">Colombia</a></li>
+<li><i><a href="/wiki/Cartago_Green_Party" title="Cartago Green Party">Costa Rica</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Democratic_Unity" class="mw-redirect" title="Green Party of Democratic Unity">Dominican Republic</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_Los_Verdes_de_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Partido Los Verdes de Guatemala (page does not exist)">Guatemala</a></i></li>
+<li><i><a href="/w/index.php?title=Les_Verts_de_Guyane&amp;action=edit&amp;redlink=1" class="new" title="Les Verts de Guyane (page does not exist)">French Guyana</a></i></li>
+<li><i><a href="/w/index.php?title=Parti_Vert_Ha%C3%AFtien&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Haïtien (page does not exist)">Haiti</a></i></li>
+<li><a href="/wiki/Ecologist_Green_Party_of_Mexico" title="Ecologist Green Party of Mexico">Mexico</a></li>
+<li><i><a href="/wiki/Ecologist_Green_Party_of_Nicaragua" title="Ecologist Green Party of Nicaragua">Nicaragua</a></i></li>
+<li><a href="/wiki/Green_Alternative_Ecologist_Party_of_Peru" title="Green Alternative Ecologist Party of Peru">Peru</a></li>
+<li><i><a href="/wiki/Puerto_Ricans_for_Puerto_Rico_Party" title="Puerto Ricans for Puerto Rico Party">Puerto Rico</a></i></li>
+<li><i><a href="/wiki/Saint_Vincent_and_the_Grenadines_Green_Party" title="Saint Vincent and the Grenadines Green Party">Saint Vincent and the Grenadines</a></i></li>
+<li><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">United States</a></li>
+<li>Uruguay
+<ul><li><i><a href="/wiki/Partido_Verde_Eto-Ecologista" title="Partido Verde Eto-Ecologista">Green</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_del_Sol_(Uruguay)&amp;action=edit&amp;redlink=1" class="new" title="Partido del Sol (Uruguay) (page does not exist)">Sol</a></i></li>
+<li><i><a href="/wiki/Partido_Ecologista_Radical_Intransigente" title="Partido Ecologista Radical Intransigente">PERI</a></i></li></ul></li>
+<li><a href="/wiki/Ecological_Movement_of_Venezuela" title="Ecological Movement of Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia-Pacific</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Australia
+<ul><li><a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a></li>
+<li><i><a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">Nuclear Disarmament</a> (defunct)</i></li>
+<li><i><a href="/wiki/United_Tasmania_Group" title="United Tasmania Group">United Tasmania Group</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Fiji" title="Green Party of Fiji">Fiji</a></i></li>
+<li><i><a href="/w/index.php?title=Heiura_Les_Verts_Polynesiens&amp;action=edit&amp;redlink=1" class="new" title="Heiura Les Verts Polynesiens (page does not exist)">French Polynesia</a></i></li>
+<li><a href="/w/index.php?title=Green_Party_Hong_Kong&amp;action=edit&amp;redlink=1" class="new" title="Green Party Hong Kong (page does not exist)">Hong Kong</a></li>
+<li><a href="/w/index.php?title=Uttarakhand_Parivartan_Party&amp;action=edit&amp;redlink=1" class="new" title="Uttarakhand Parivartan Party (page does not exist)">India</a></li>
+<li><i><a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Iran</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Iraq" title="Green Party of Iraq">Iraq</a></i></li>
+<li>Israel
+<ul><li><i><a href="/wiki/Green_Movement_(Israel)" title="Green Movement (Israel)">The Green Movement</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens</a></i></li>
+<li><i><a href="/wiki/Meretz" title="Meretz">Meretz</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Japan" title="Greens Japan">Japan</a></li>
+<li><i>Kurdistan</i></li>
+<li><i><a href="/wiki/Green_Party_of_Lebanon" title="Green Party of Lebanon">Lebanon</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Malaysia</a></i></li>
+<li>Mongolia
+<ul><li><a href="/wiki/Civil_Will%E2%80%93Green_Party" title="Civil Will–Green Party">Civil Will–Green</a></li>
+<li><a href="/wiki/Mongolian_Green_Party" title="Mongolian Green Party">Green Party</a></li></ul></li>
+<li>Nepal
+<ul><li><i><a href="/wiki/Hariyali_Nepal_Party" title="Hariyali Nepal Party">Hariyali</a></i></li>
+<li><a href="/w/index.php?title=Green_Civil_Society&amp;action=edit&amp;redlink=1" class="new" title="Green Civil Society (page does not exist)">Green Civil Society</a></li></ul></li>
+<li><i><a href="/w/index.php?title=The_Pacific_Greens&amp;action=edit&amp;redlink=1" class="new" title="The Pacific Greens (page does not exist)">New Caledonia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Papua_New_Guinea_Greens" title="Papua New Guinea Greens">Papua New Guinea</a></li>
+<li><a href="/w/index.php?title=Green_politics_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Green politics in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Green_Party_Korea" title="Green Party Korea">South Korea</a></li>
+<li><i><a href="/w/index.php?title=Sri_Lanka_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Sri Lanka Green Alliance (page does not exist)">Sri Lanka</a></i></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Taiwan</a></li>
+<li><i><a href="/wiki/Ecological_Movement_of_Uzbekistan" title="Ecological Movement of Uzbekistan">Uzbekistan</a></i></li>
+<li><i><a href="/wiki/Green_Confederation" title="Green Confederation">Vanuatu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">Europe</a><br />
+<div class="hlist">
+<ul><li>(<i><a href="/wiki/European_Green_Party" title="European Green Party">EGP</a></i></li>
+<li><i><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">FYEG</a></i>)</li></ul>
+</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Albania" title="Green Party of Albania">Albania</a></li>
+<li><a href="/wiki/Greens_of_Andorra" title="Greens of Andorra">Andorra</a></li>
+<li><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative">Austria</a></li>
+<li><i><a href="/wiki/Belarusian_Green_Party" title="Belarusian Green Party">Belarus</a></i></li>
+<li>Belgium
+<ul><li><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Flanders and Brussels</a></li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Wallonia and Brussels</a></li></ul></li>
+<li><i><a href="/wiki/Greens_of_Bosnia_and_Herzegovina" title="Greens of Bosnia and Herzegovina">Bosnia and Herzegovina</a></i></li>
+<li>Bulgaria
+<ul><li><i><a href="/wiki/Green_Party_of_Bulgaria" title="Green Party of Bulgaria">Green Party</a></i></li>
+<li><a href="/wiki/The_Greens_(Bulgaria)" title="The Greens (Bulgaria)">The Greens</a></li></ul></li>
+<li><i><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Croatia</a></i></li>
+<li><a href="/wiki/Movement_of_Ecologists_-_Citizens%27_Cooperation" class="mw-redirect" title="Movement of Ecologists - Citizens&#39; Cooperation">Cyprus</a></li>
+<li>Czech Republic
+<ul><li><i><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party</a></i></li>
+<li><i><a href="/wiki/Liberal-Environmental_Party" title="Liberal-Environmental Party">Liberal-Environmental Party</a></i></li></ul></li>
+<li>Denmark
+<ul><li><a href="/wiki/The_Alternative_(Denmark)" title="The Alternative (Denmark)">The Alternative</a></li>
+<li><i><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Denmark)" title="The Greens (Denmark)">The Greens</a></i></li></ul></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonia</a></li>
+<li><a href="/wiki/Green_League" title="Green League">Finland</a></li>
+<li>France
+<ul><li><i><a href="/wiki/Citizenship,_Action,_Participation_for_the_21st_Century" class="mw-redirect" title="Citizenship, Action, Participation for the 21st Century">CAP21</a></i></li>
+<li><i><a href="/wiki/G%C3%A9n%C3%A9ration_%C3%89cologie" class="mw-redirect" title="Génération Écologie">Génération Écologie</a></i></li>
+<li><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></li>
+<li><i><a href="/wiki/Mouvement_Ecologiste_Ind%C3%A9pendant" class="mw-redirect" title="Mouvement Ecologiste Indépendant">Mouvement Ecologiste Indépendant</a></i></li>
+<li><a href="/wiki/Ecologist_Party" title="Ecologist Party">Ecologist Party</a></li></ul></li>
+<li><a href="/wiki/Green_Party_of_Georgia" title="Green Party of Georgia">Georgia</a></li>
+<li>Germany
+<ul><li><a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a></li>
+<li><i><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></i></li></ul></li>
+<li>Greece
+<ul><li><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></li>
+<li><a href="/wiki/Greens_(Greece)" title="Greens (Greece)">Greens</a></li></ul></li>
+<li>Hungary
+<ul><li><i><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></i></li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></li></ul></li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Iceland</a></li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Ireland</a></li>
+<li>Italy
+<ul><li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><i><a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Kosovo" title="Green Party of Kosovo">Kosovo</a></i></li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvia</a></li>
+<li><i><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Liechtenstein</a></i></li>
+<li>Lithuania
+<ul><li><i><a href="/wiki/Lithuanian_Green_Party" title="Lithuanian Green Party">Green Party</a></i></li>
+<li><i><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></i></li></ul></li>
+<li><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">Luxembourg</a></li>
+<li><i><a href="/wiki/Democratic_Renewal_of_Macedonia" title="Democratic Renewal of Macedonia">Macedonia</a></i></li>
+<li><a href="/wiki/Democratic_Alternative_(Malta)" title="Democratic Alternative (Malta)">Malta</a></li>
+<li><a href="/wiki/Ecologist_Green_Party_(Moldova)" title="Ecologist Green Party (Moldova)">Moldova</a></li>
+<li><i><a href="/wiki/Greens_of_Montenegro" title="Greens of Montenegro">Montenegro</a></i></li>
+<li>Netherlands
+<ul><li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a></li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Norway</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">Poland</a></li>
+<li>Portugal
+<ul><li><i><a href="/wiki/Earth_Party" title="Earth Party">Earth Party</a></i></li>
+<li><a href="/wiki/Ecologist_Party_%22The_Greens%22" title="Ecologist Party &quot;The Greens&quot;">The Greens</a></li>
+<li><i><a href="/wiki/LIVRE" title="LIVRE">LIVRE</a></i></li></ul></li>
+<li>Romania
+<ul><li><i><a href="/wiki/Ecologist_Party_of_Romania" title="Ecologist Party of Romania">Ecologist Party</a></i></li>
+<li><a href="/wiki/Green_Party_(Romania)" title="Green Party (Romania)">Green Party</a></li></ul></li>
+<li>Russia
+<ul><li><a href="/wiki/Civil_United_Green_Alternative" title="Civil United Green Alternative">Civil United Green Alternative</a></li>
+<li><i><a href="/wiki/Russian_Ecological_Party_%22The_Greens%22" title="Russian Ecological Party &quot;The Greens&quot;">Ecological Party "The Greens"</a></i></li>
+<li><i><a href="/wiki/Union_of_Greens_of_Russia" title="Union of Greens of Russia">Union of Greens</a></i></li>
+<li><i><a href="/wiki/Alliance_of_Greens_and_Social_Democrats" class="mw-redirect" title="Alliance of Greens and Social Democrats">Alliance of Greens and Social Democrats</a></i></li></ul></li>
+<li>Serbia
+<ul><li><i><a href="/wiki/Green_Party_(Serbia)" title="Green Party (Serbia)">Green Party</a></i></li>
+<li><i><a href="/wiki/Greens_of_Serbia" title="Greens of Serbia">Greens of Serbia</a></i></li></ul></li>
+<li><a href="/wiki/Green_Party_(Slovakia)" title="Green Party (Slovakia)">Slovakia</a></li>
+<li>Slovenia
+<ul><li><i><a href="/wiki/Greens_of_Slovenia" class="mw-redirect" title="Greens of Slovenia">Greens</a></i></li>
+<li><a href="/wiki/Youth_Party_%E2%80%93_European_Greens" title="Youth Party – European Greens">Youth Party</a></li></ul></li>
+<li>Spain
+<ul><li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Catalonia Greens</a></li>
+<li><i><a href="/wiki/Confederation_of_the_Greens" title="Confederation of the Greens">Confederation of the Greens</a></i></li>
+<li><a href="/wiki/Equo" title="Equo">Equo</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Sweden)" title="Green Party (Sweden)">Sweden</a></li>
+<li><a class="mw-selflink selflink">Switzerland</a></li>
+<li><i><a href="/wiki/Green_Left_Party" title="Green Left Party">Turkey</a></i></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Ukraine</a></li>
+<li>United Kingdom
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">England and Wales</a> <i>(<a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales</a>)</i></li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scotland</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:lightgreen;"><div><i>Italic</i> links indicate non-members or observers of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" width="24" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/36px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Earth_Day_Flag.png" class="image"><img alt="Earth Day Flag.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/24px-Earth_Day_Flag.png" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/36px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></a></span><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="A coloured voting box.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/21px-A_coloured_voting_box.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/42px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_Switzerland.svg" class="image"><img alt="Flag of Switzerland.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/21px-Flag_of_Switzerland.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/42px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span><a href="/wiki/Portal:Switzerland" title="Portal:Switzerland">Switzerland portal</a></span></li></ul></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2235
+Cached time: 20180930232841
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.740 seconds
+Real time usage: 0.892 seconds
+Preprocessor visited node count: 4388/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 123638/2097152 bytes
+Template argument size: 8814/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 25516/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.363/10.000 seconds
+Lua memory usage: 13.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  716.620      1 -total
+ 41.28%  295.801      1 Template:Infobox_Swiss_political_party
+ 40.73%  291.900      1 Template:Infobox_political_party
+ 37.81%  270.964      1 Template:Infobox
+ 21.79%  156.157      4 Template:Lang
+ 21.72%  155.644      1 Template:Reflist
+ 14.78%  105.902      5 Template:Cite_web
+  9.92%   71.089     24 Template:Composition_bar
+  6.54%   46.850     24 Template:Min
+  6.14%   44.008      1 Template:Refimprove
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:345746-0!canonical and timestamp 20180930232840 and revision id 857502732
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Switzerland&amp;oldid=857502732">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Switzerland&amp;oldid=857502732</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_political_parties_in_Switzerland" title="Category:Green political parties in Switzerland">Green political parties in Switzerland</a></li><li><a href="/wiki/Category:Non-interventionist_parties" title="Category:Non-interventionist parties">Non-interventionist parties</a></li><li><a href="/wiki/Category:Global_Greens_member_parties" title="Category:Global Greens member parties">Global Greens member parties</a></li><li><a href="/wiki/Category:Green_Party_of_Switzerland" title="Category:Green Party of Switzerland">Green Party of Switzerland</a></li><li><a href="/wiki/Category:Swiss_Climate_Alliance" title="Category:Swiss Climate Alliance">Swiss Climate Alliance</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2007" title="Category:Articles needing additional references from October 2007">Articles needing additional references from October 2007</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2016" title="Category:Use dmy dates from May 2016">Use dmy dates from May 2016</a></li><li><a href="/wiki/Category:Use_British_English_from_May_2016" title="Category:Use British English from May 2016">Use British English from May 2016</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_containing_Italian-language_text" title="Category:Articles containing Italian-language text">Articles containing Italian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Romansh-language_text" title="Category:Articles containing Romansh-language text">Articles containing Romansh-language text</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Switzerland" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Switzerland" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Switzerland" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Switzerland" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Switzerland">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Switzerland" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Switzerland" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;oldid=857502732" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q659739" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Switzerland&amp;id=857502732" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Switzerland">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Switzerland&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Switzerland&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Green_Party_of_Switzerland" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Gr%C3%BCne_Partei_der_Schweiz" title="Grüne Partei der Schweiz – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F" title="Зелена партия на Швейцария – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Partit_Verd_de_Su%C3%AFssa" title="Partit Verd de Suïssa – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%A0v%C3%BDcarsk%C3%A1_strana_zelen%C3%BDch" title="Švýcarská strana zelených – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gr%C3%BCne_Partei_der_Schweiz" title="Grüne Partei der Schweiz – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Los_Verdes_(Suiza)" title="Los Verdes (Suiza) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Verda_Partio_de_Svislando" title="Verda Partio de Svislando – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Les_Verts_(Suisse)" title="Les Verts (Suisse) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%9C%84%EC%8A%A4_%EB%85%B9%EC%83%89%EB%8B%B9" title="스위스 녹색당 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Partito_Ecologista_Svizzero" title="Partito Ecologista Svizzero – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Factio_viridis_Helvetiae" title="Factio viridis Helvetiae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Groene_Partij_van_Zwitserland" title="Groene Partij van Zwitserland – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E7%B7%91%E3%81%AE%E5%85%9A" title="スイス緑の党 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Gr%C3%BCne_/_Les_Verts_/_La_Verda_/_Verdi" title="Grüne / Les Verts / La Verda / Verdi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zieloni_(Szwajcaria)" title="Zieloni (Szwajcaria) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Partida_ecologica_svizra" title="Partida ecologica svizra – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8" title="Зелёная партия Швейцарии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Schweiz_gr%C3%B6na_parti" title="Schweiz gröna parti – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%91%9E%E5%A3%AB%E7%B6%A0%E9%BB%A8" title="瑞士綠黨 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q659739#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 September 2018, at 02:21<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Switzerland&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.740","walltime":"0.892","ppvisitednodes":{"value":4388,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":123638,"limit":2097152},"templateargumentsize":{"value":8814,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25516,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  716.620      1 -total"," 41.28%  295.801      1 Template:Infobox_Swiss_political_party"," 40.73%  291.900      1 Template:Infobox_political_party"," 37.81%  270.964      1 Template:Infobox"," 21.79%  156.157      4 Template:Lang"," 21.72%  155.644      1 Template:Reflist"," 14.78%  105.902      5 Template:Cite_web","  9.92%   71.089     24 Template:Composition_bar","  6.54%   46.850     24 Template:Min","  6.14%   44.008      1 Template:Refimprove"]},"scribunto":{"limitreport-timeusage":{"value":"0.363","limit":"10.000"},"limitreport-memusage":{"value":14088797,"limit":52428800}},"cachereport":{"origin":"mw2235","timestamp":"20180930232841","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":990,"wgHostname":"mw2235"});});</script>
+	</body>
+</html>

@@ -1,0 +1,901 @@
+https://en.wikipedia.org/wiki/Boron_trioxide
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Boron trioxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Boron_trioxide","wgTitle":"Boron trioxide","wgCurRevisionId":846503210,"wgRevisionId":846503210,"wgArticleId":2002950,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles without KEGG source","Articles without UNII source","ECHA InfoCard ID from Wikidata","Chembox having DSD data","Chemical articles having a data page","Articles containing unverified chemical infoboxes","Wikipedia articles with GND identifiers","Boron compounds","Acidic oxides","Glass compositions","Sesquioxides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Boron_trioxide","wgRelevantArticleId":2002950,"wgRequestId":"W8LcbgpAMFQAAAjxtK8AAABQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q411076","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d9/B2O3powder.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Boron_trioxide"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Boron_trioxide&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Boron_trioxide&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Boron_trioxide"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Boron_trioxide rootpage-Boron_trioxide skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Boron trioxide</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left;&#32;;">
+<caption style="text-align:center;">Boron trioxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:B2O3powder.JPG" class="image" title="Crystal structure of B2O3 [1]"><img alt="Crystal structure of B2O3 [1]" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/B2O3powder.JPG/220px-B2O3powder.JPG" width="220" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/B2O3powder.JPG/330px-B2O3powder.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/B2O3powder.JPG/440px-B2O3powder.JPG 2x" data-file-width="500" data-file-height="347" /></a>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:Kristallstruktur_Bortrioxid.png" class="image"><img alt="Kristallstruktur Bortrioxid.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kristallstruktur_Bortrioxid.png/220px-Kristallstruktur_Bortrioxid.png" width="220" height="237" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kristallstruktur_Bortrioxid.png/330px-Kristallstruktur_Bortrioxid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kristallstruktur_Bortrioxid.png/440px-Kristallstruktur_Bortrioxid.png 2x" data-file-width="670" data-file-height="721" /></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+
+
+
+
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">boron oxide, diboron trioxide, boron sesquioxide, boric oxide, boria<br />
+Boric acid anhydride</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=1303-86-2">1303-86-2</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a href="/wiki/JSmol" class="mw-redirect" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a rel="nofollow" class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DBOB%3DO">Interactive image</a></span></li></ul></div>
+</td></tr>
+
+
+
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=30163">CHEBI:30163</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a rel="nofollow" class="external text" href="http://www.chemspider.com/Chemical-Structure.452485.html">452485</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ECHA_InfoCard" class="mw-redirect" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.013.751">100.013.751</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Community_number" title="European Community number"><span title="European Community number (chemical identifier)">EC Number</span></a>
+</td>
+<td>215-125-8
+</td></tr>
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/518682">518682</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/RTECS" class="mw-redirect" title="RTECS">RTECS number</a>
+</td>
+<td>ED7900000
+</td></tr>
+
+
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/B2O3/c3-1-5-2-4<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;JKWMSGQKBLHBQQ-UHFFFAOYSA-N<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1/B2O3/c3-1-5-2-4</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;JKWMSGQKBLHBQQ-UHFFFAOYAI</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">O=BOB=O</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td>B<sub>2</sub>O<sub>3</sub>&#x20;
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>69.6182 g/mol&#x20; &#x20;
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>white, glassy solid
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>2.460 g/cm<sup>3</sup>, liquid;<br />
+<p>2.55 g/cm<sup>3</sup>, trigonal;<br />
+3.11–3.146 g/cm<sup>3</sup>, monoclinic
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td>&#x20;450&#160;°C (842&#160;°F; 723&#160;K)&#x20;(trigonal) <br /> 510 °C (tetrahedral)
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td>&#x20;1,860&#160;°C (3,380&#160;°F; 2,130&#160;K)&#x20;,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> sublimes at 1500 °C<sup id="cite_ref-patnaik_3-0" class="reference"><a href="#cite_note-patnaik-3">&#91;3&#93;</a></sup>
+</td></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>1.1 g/100mL (10 °C) <br /> 3.3 g/100mL (20 °C) <br /> 15.7 100 g/100mL (100 °C)
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Solubility" title="Solubility">Solubility</a>
+</td>
+<td>partially soluble in <a href="/wiki/Methanol" title="Methanol">methanol</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acidity</a> (p<i>K</i><sub>a</sub>)
+</td>
+<td>~ 4
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">Magnetic susceptibility</a> (&#967;)</div>
+</td>
+<td>-39.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+</td></tr>
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Thermochemistry
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Heat_capacity" title="Heat capacity">Heat capacity</a> (<i>C</i>)</div>
+</td>
+<td>66.9 J/mol K
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_molar_entropy" title="Standard molar entropy">Std molar<br />entropy</a> (<i>S</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>80.8 J/mol K
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_enthalpy_change_of_formation" class="mw-redirect" title="Standard enthalpy change of formation">Std enthalpy of<br />formation</a> (Δ<sub>f</sub><i>H</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>-1254 kJ/mol
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Gibbs_free_energy#Standard_energy_change_of_formation" title="Gibbs free energy">Gibbs free energy</a> (&#916;<sub>f</sub><i>G</i>˚)</div>
+</td>
+<td>-832 kJ/mol
+</td></tr>
+
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+<tr>
+<td>Main <a href="/wiki/Worker_safety_and_health" class="mw-redirect" title="Worker safety and health">hazards</a>
+</td>
+<td>Irritant<sup id="cite_ref-PGCH_4-0" class="reference"><a href="#cite_note-PGCH-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Safety_data_sheet" title="Safety data sheet">Safety data sheet</a>
+</td>
+<td><i>See: <a href="/wiki/Boron_trioxide_(data_page)#Safety_data_sheet" title="Boron trioxide (data page)">data page</a></i>
+</td></tr>
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Dangerous_Substances_Directive_(67/548/EEC)" title="Dangerous Substances Directive (67/548/EEC)">EU&#160;classification</a> (DSD) <span style="background:moccasin; line-height:85%;"><a href="/wiki/CLP_Regulation#Implementation" title="CLP Regulation"><small title="Per CLP Regulation, outdated per 1 June 2017. Replaced by GHS data"><i>(outdated)</i></small></a></span></div>
+</td>
+<td>Repr. Cat. 2
+</td></tr>
+
+
+
+
+<tr>
+<td><a href="/wiki/NFPA_704" title="NFPA 704">NFPA 704</a>
+</td>
+<td><div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div id="on_image_elements" class="nounderlines" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_1730521555"><area href="/wiki/NFPA_704#Red" shape="poly" coords="40,0,60,20,40,40,20,20" alt="Flammability code 0: Will not burn. E.g., water" title="Flammability code 0: Will not burn. E.g., water" /><area href="/wiki/NFPA_704#Blue" shape="poly" coords="20,20,40,40,20,60,0,40" alt="Health code 2: Intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury. E.g., chloroform" title="Health code 2: Intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury. E.g., chloroform" /><area href="/wiki/NFPA_704#Yellow" shape="poly" coords="60,20,80,40,60,60,40,40" alt="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen" title="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen" /><area href="/wiki/NFPA_704#White" shape="poly" coords="40,40,60,60,40,80,20,60" alt="Special hazards (white): no code" title="Special hazards (white): no code" /></map><img alt="NFPA 704 four-colored diamond" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" data-file-width="600" data-file-height="600" usemap="#ImageMap_1_1730521555" /></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 0: Will not burn. E.g., water">0</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 2: Intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury. E.g., chloroform">2</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen">0</span></a></div></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flash_point" title="Flash point">Flash point</a>
+</td>
+<td>noncombustible&#x20;&#x20;
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" style="text-align:left; background-color:#f1f1f1;">Lethal dose or concentration (<i>LD</i>, <i>LC</i>):
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><i>LD</i><sub>50</sub> (<a href="/wiki/Lethal_dose#LD50" title="Lethal dose">median dose</a>)</div>
+</td>
+<td>3163 mg/kg (oral, mouse)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left; background-color:#f1f1f1;">US health exposure limits (<a href="/wiki/National_Institute_for_Occupational_Safety_and_Health" title="National Institute for Occupational Safety and Health">NIOSH</a>):
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Permissible_exposure_limit" title="Permissible exposure limit">PEL</a> (Permissible)</div>
+</td>
+<td>TWA 15 mg/m<sup>3</sup><sup id="cite_ref-PGCH_4-1" class="reference"><a href="#cite_note-PGCH-4">&#91;4&#93;</a></sup>
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Recommended_exposure_limit" title="Recommended exposure limit">REL</a> (Recommended)</div>
+</td>
+<td>TWA 10 mg/m<sup>3</sup><sup id="cite_ref-PGCH_4-2" class="reference"><a href="#cite_note-PGCH-4">&#91;4&#93;</a></sup>
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/IDLH" class="mw-redirect" title="IDLH">IDLH</a> (Immediate danger)</div>
+</td>
+<td>2000 mg/m<sup>3</sup><sup id="cite_ref-PGCH_4-3" class="reference"><a href="#cite_note-PGCH-4">&#91;4&#93;</a></sup>
+</td></tr>
+
+
+
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;"><a href="/wiki/Boron_trioxide_(data_page)" title="Boron trioxide (data page)">Supplementary data page</a>
+</th></tr>
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Boron_trioxide_(data_page)#Structure_and_properties" title="Boron trioxide (data page)">Structure and<br />properties</a></div>
+</td>
+<td><a href="/wiki/Refractive_index" title="Refractive index">Refractive index</a> (<i>n</i>),<br /><a href="/wiki/Dielectric_constant" class="mw-redirect" title="Dielectric constant">Dielectric constant</a> (ε<sub>r</sub>), etc.
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Thermodynamic<br />data</div>
+</td>
+<td><a href="/wiki/Boron_trioxide_(data_page)#Thermodynamic_properties" title="Boron trioxide (data page)">Phase behaviour</a><br />solid&#8211;liquid&#8211;gas
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Boron_trioxide_(data_page)#Spectral_data" title="Boron trioxide (data page)">Spectral data</a></div>
+</td>
+<td><a href="/wiki/UV/VIS_spectroscopy" class="mw-redirect" title="UV/VIS spectroscopy">UV</a>, <a href="/wiki/Infrared_spectroscopy" title="Infrared spectroscopy">IR</a>, <a href="/wiki/NMR_spectroscopy" class="mw-redirect" title="NMR spectroscopy">NMR</a>, <a href="/wiki/Mass_spectrometry" title="Mass spectrometry">MS</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25&#160;°C [77&#160;°F], 100&#160;kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/12px-Yes_check.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/18px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/24px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>&#160;<span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=443427049o&amp;page2=Boron+trioxide">verify</a></span>&#160;(<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a>&#160;<sup><img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup>&#160;?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox&#160;references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Boron trioxide</b> (or <b>diboron trioxide</b>) is one of the <a href="/wiki/Boron_oxide" title="Boron oxide">oxides of boron</a>. It is a white, glassy solid with the formula B<sub>2</sub>O<sub>3</sub>. It is almost always found as the vitreous (amorphous) form; however, it can be crystallized after extensive <a href="/wiki/Annealing_(metallurgy)" title="Annealing (metallurgy)">annealing</a> (that is, under prolonged heat).
+</p><p>Glassy boron oxide (g-B<sub>2</sub>O<sub>3</sub>) is thought to be composed of <a href="/w/index.php?title=Boroxol_rings&amp;action=edit&amp;redlink=1" class="new" title="Boroxol rings (page does not exist)">boroxol rings</a> which are six-membered rings composed of alternating 3-coordinate boron and 2-coordinate oxygen. Because of the difficulty of building disordered models at the correct density with a large number of <a href="/w/index.php?title=Boroxol_rings&amp;action=edit&amp;redlink=1" class="new" title="Boroxol rings (page does not exist)">boroxol rings</a>, this view was initially controversial, but such models have recently been constructed and exhibit properties in excellent agreement with experiment.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> It is now recognized, from experimental and theoretical studies,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> that the fraction of boron atoms belonging to boroxol rings in glassy B<sub>2</sub>O<sub>3</sub> is somewhere between 0.73 and 0.83, with 0.75 (&#x200b;<span class="frac nowrap"><sup>3</sup>&#8260;<sub>4</sub></span>) corresponding to a 1:1 ratio between ring and non-ring units. 
+</p><p>The crystalline form (α-B<sub>2</sub>O<sub>3</sub>) (see structure in the infobox<sup id="cite_ref-a1_1-1" class="reference"><a href="#cite_note-a1-1">&#91;1&#93;</a></sup>) is exclusively composed of BO<sub>3</sub> triangles. This trigonal, <a href="/wiki/Trapezohedron" title="Trapezohedron">quartz-like</a> network undergoes a <a href="/wiki/Coesite" title="Coesite">coesite</a>-like transformation to <a href="/wiki/Monoclinic" class="mw-redirect" title="Monoclinic">monoclinic</a> β-B<sub>2</sub>O<sub>3</sub> at several gigapascals (9.5 GPa).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Preparation"><span class="tocnumber">1</span> <span class="toctext">Preparation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Preparation">Preparation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boron_trioxide&amp;action=edit&amp;section=1" title="Edit section: Preparation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Boron trioxide is produced by treating <a href="/wiki/Borax" title="Borax">borax</a> with <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> in a <a href="/w/index.php?title=Fusion_furnace&amp;action=edit&amp;redlink=1" class="new" title="Fusion furnace (page does not exist)">fusion furnace</a>. At temperatures above 750&#160;°C, the molten boron oxide layer separates out from <a href="/wiki/Sodium_sulfate" title="Sodium sulfate">sodium sulfate</a>. It is then decanted, cooled and obtained in 96–97% purity.<sup id="cite_ref-patnaik_3-1" class="reference"><a href="#cite_note-patnaik-3">&#91;3&#93;</a></sup>
+</p><p>Another method is heating <a href="/wiki/Boric_acid" title="Boric acid">boric acid</a> above ~300&#160;°C. Boric acid will initially decompose into steam, (H<sub>2</sub>O<sub>(g)</sub>) and <a href="/wiki/Metaboric_acid" title="Metaboric acid">metaboric acid</a> (HBO<sub>2</sub>) at around 170&#160;°C, and further heating above 300&#160;°C will produce more steam and boron trioxide. The reactions are:
+</p>
+<dl><dd>H<sub>3</sub>BO<sub>3</sub> → HBO<sub>2</sub> + H<sub>2</sub>O</dd></dl>
+<dl><dd>2 HBO<sub>2</sub> → B<sub>2</sub>O<sub>3</sub> + H<sub>2</sub>O</dd></dl>
+<p>Boric acid goes to anhydrous microcrystalline B<sub>2</sub>O<sub>3</sub> in a heated fluidized bed.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>  Carefully controlled heating rate avoids gumming as water evolves.  Molten boron oxide attacks silicates.  Internally graphitized tubes via acetylene thermal decomposition are passivated.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>Crystallization of molten α-B<sub>2</sub>O<sub>3</sub> at ambient pressure is strongly kinetically disfavored (compare liquid and crystal densities).  Threshold conditions for crystallization of the amorphous solid are 10 kbar and ~200&#160;°C.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>  Its proposed crystal structure in enantiomorphic space groups P3<sub>1</sub>(#144); P3<sub>2</sub>(#145)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> (e.g., γ-glycine) has been revised to enantiomorphic space groups P3<sub>1</sub>21(#152); P3<sub>2</sub>21(#154)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>(e.g., α-quartz).
+</p><p>Boron oxide will also form when <a href="/wiki/Diborane" title="Diborane">diborane</a> (B<sub>2</sub>H<sub>6</sub>) reacts with oxygen in the air or trace amounts of moisture:
+</p>
+<dl><dd>2B<sub>2</sub>H<sub>6</sub>(g) + 3O<sub>2</sub>(g) → 2B<sub>2</sub>O<sub>3</sub>(s) + 6H<sub>2</sub>(g)</dd></dl>
+<dl><dd>B<sub>2</sub>H<sub>6</sub>(g) + 3H<sub>2</sub>O(g) → B<sub>2</sub>O<sub>3</sub>(s) + 6H<sub>2</sub>(g)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></dd></dl>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boron_trioxide&amp;action=edit&amp;section=2" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ceramic_flux" title="Ceramic flux">Fluxing agent</a> for <a href="/wiki/Glass" title="Glass">glass</a> and <a href="/wiki/Vitreous_enamel" title="Vitreous enamel">enamels</a></li>
+<li>Starting material for synthesizing other <a href="/wiki/Boron" title="Boron">boron</a> compounds such as <a href="/wiki/Boron_carbide" title="Boron carbide">boron carbide</a></li>
+<li>An additive used in glass fibres (<a href="/wiki/Optical_fibre" class="mw-redirect" title="Optical fibre">optical fibres</a>)</li>
+<li>It is used in the production of <a href="/wiki/Borosilicate_glass" title="Borosilicate glass">borosilicate glass</a></li>
+<li>The inert capping layer in the Liquid Encapsulation Czochralski process for the production of <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a> single crystal</li>
+<li>As an acid <a href="/wiki/Catalyst" class="mw-redirect" title="Catalyst">catalyst</a> in <a href="/wiki/Organic_synthesis" title="Organic synthesis">organic synthesis</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boron_trioxide&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Boron_suboxide" title="Boron suboxide">boron suboxide</a></li>
+<li><a href="/wiki/Boric_acid" title="Boric acid">boric acid</a></li>
+<li><a href="/wiki/Sassolite" title="Sassolite">sassolite</a></li>
+<li><a href="/wiki/Tris(2,2,2-trifluoroethyl)_borate" title="Tris(2,2,2-trifluoroethyl) borate">Tris(2,2,2-trifluoroethyl) borate</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boron_trioxide&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-a1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-a1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-a1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Gurr, G. E.; Montgomery, P. W.; Knutson, C. D.; Gorres, B. T. (1970). "The Crystal Structure of Trigonal Diboron Trioxide". <i>Acta Crystallographica B</i>. <b>26</b> (7): 906–915. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1107%2FS0567740870003369">10.1107/S0567740870003369</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Crystallographica+B&amp;rft.atitle=The+Crystal+Structure+of+Trigonal+Diboron+Trioxide&amp;rft.volume=26&amp;rft.issue=7&amp;rft.pages=906-915&amp;rft.date=1970&amp;rft_id=info%3Adoi%2F10.1107%2FS0567740870003369&amp;rft.au=Gurr%2C+G.+E.&amp;rft.au=Montgomery%2C+P.+W.&amp;rft.au=Knutson%2C+C.+D.&amp;rft.au=Gorres%2C+B.+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZrxSWmueNMQC&amp;pg=PA496"><i>High temperature corrosion and materials chemistry: proceedings of the Per Kofstad Memorial Symposium. Proceedings of the Electrochemical Society</i></a>. The Electrochemical Society. 2000. p.&#160;496. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56677-261-3" title="Special:BookSources/1-56677-261-3">1-56677-261-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=High+temperature+corrosion+and+materials+chemistry%3A+proceedings+of+the+Per+Kofstad+Memorial+Symposium.+Proceedings+of+the+Electrochemical+Society&amp;rft.pages=496&amp;rft.pub=The+Electrochemical+Society&amp;rft.date=2000&amp;rft.isbn=1-56677-261-3&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZrxSWmueNMQC%26pg%3DPA496&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-patnaik-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-patnaik_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-patnaik_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Patnaik, P. (2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Xqj-TTzkvTEC&amp;pg=PA119"><i>Handbook of Inorganic Chemical Compounds</i></a>. McGraw-Hill. p.&#160;119. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-049439-8" title="Special:BookSources/0-07-049439-8">0-07-049439-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Inorganic+Chemical+Compounds&amp;rft.pages=119&amp;rft.pub=McGraw-Hill&amp;rft.date=2003&amp;rft.isbn=0-07-049439-8&amp;rft.aulast=Patnaik&amp;rft.aufirst=P.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXqj-TTzkvTEC%26pg%3DPA119&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-PGCH-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-PGCH_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PGCH_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PGCH_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PGCH_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cdc.gov/niosh/npg/npgd0060.html">"NIOSH Pocket Guide to Chemical Hazards #0060"</a>. <a href="/wiki/National_Institute_for_Occupational_Safety_and_Health" title="National Institute for Occupational Safety and Health">National Institute for Occupational Safety and Health</a> (NIOSH).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NIOSH+Pocket+Guide+to+Chemical+Hazards+%230060&amp;rft.pub=National+Institute+for+Occupational+Safety+and+Health+%28NIOSH%29&amp;rft_id=https%3A%2F%2Fwww.cdc.gov%2Fniosh%2Fnpg%2Fnpgd0060.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cdc.gov/niosh/idlh/1303862.html">"Boron oxide"</a>. <i>Immediately Dangerous to Life and Health Concentrations (IDLH)</i>. <a href="/wiki/National_Institute_for_Occupational_Safety_and_Health" title="National Institute for Occupational Safety and Health">National Institute for Occupational Safety and Health</a> (NIOSH).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Immediately+Dangerous+to+Life+and+Health+Concentrations+%28IDLH%29&amp;rft.atitle=Boron+oxide&amp;rft_id=https%3A%2F%2Fwww.cdc.gov%2Fniosh%2Fidlh%2F1303862.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ferlat, G.; Charpentier, T.; Seitsonen, A. P.; Takada, A.; Lazzeri, M.; Cormier, L.; Calas, G.; Mauri. F. (2008). "Boroxol Rings in Liquid and Vitreous B<sub>2</sub>O<sub>3</sub> from First Principles". <i>Phys. Rev. Lett</i>. <b>101</b>: 065504. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008PhRvL.101f5504F">2008PhRvL.101f5504F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1103%2FPhysRevLett.101.065504">10.1103/PhysRevLett.101.065504</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phys.+Rev.+Lett.&amp;rft.atitle=Boroxol+Rings+in+Liquid+and+Vitreous+B%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E+from+First+Principles&amp;rft.volume=101&amp;rft.pages=065504&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.101.065504&amp;rft_id=info%3Abibcode%2F2008PhRvL.101f5504F&amp;rft.au=Ferlat%2C+G.&amp;rft.au=Charpentier%2C+T.&amp;rft.au=Seitsonen%2C+A.+P.&amp;rft.au=Takada%2C+A.&amp;rft.au=Lazzeri%2C+M.&amp;rft.au=Cormier%2C+L.&amp;rft.au=Calas%2C+G.&amp;rft.au=Mauri.+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>; <cite class="citation journal">Ferlat, G.; Seitsonen, A. P.; Lazzeri, M.; Mauri, F. (2012). "Hidden polymorphs drive vitrification in B<sub>2</sub>O<sub>3</sub>". <i>Nature Materials Letters</i>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1209.3482">1209.3482</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012NatMa..11..925F">2012NatMa..11..925F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2FNMAT3416">10.1038/NMAT3416</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Materials+Letters&amp;rft.atitle=Hidden+polymorphs+drive+vitrification+in+B%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E&amp;rft.date=2012&amp;rft_id=info%3Aarxiv%2F1209.3482&amp;rft_id=info%3Adoi%2F10.1038%2FNMAT3416&amp;rft_id=info%3Abibcode%2F2012NatMa..11..925F&amp;rft.aulast=Ferlat&amp;rft.aufirst=G.&amp;rft.au=Seitsonen%2C+A.+P.&amp;rft.au=Lazzeri%2C+M.&amp;rft.au=Mauri%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hung, I.;  et al. (2009). "Determination of the bond-angle distribution in vitreous B<sub>2</sub>O<sub>3</sub> by rotation (DOR) NMR spectroscopy". <i>Journal of Solid State Chemistry</i>. <b>182</b>: 2402–2408. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009JSSCh.182.2402H">2009JSSCh.182.2402H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.jssc.2009.06.025">10.1016/j.jssc.2009.06.025</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Solid+State+Chemistry&amp;rft.atitle=Determination+of+the+bond-angle+distribution+in+vitreous+B%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E+by+rotation+%28DOR%29+NMR+spectroscopy&amp;rft.volume=182&amp;rft.pages=2402-2408&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jssc.2009.06.025&amp;rft_id=info%3Abibcode%2F2009JSSCh.182.2402H&amp;rft.aulast=Hung&amp;rft.aufirst=I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Soper, A. K. (2011). "Boroxol rings from diffraction data on vitreous boron trioxide". <i>J. Phys.: Condens. Matter</i>. <b>23</b>: 365402. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011JPCM...23.5402S">2011JPCM...23.5402S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1088%2F0953-8984%2F23%2F36%2F365402">10.1088/0953-8984/23/36/365402</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.%3A+Condens.+Matter&amp;rft.atitle=Boroxol+rings+from+diffraction+data+on+vitreous+boron+trioxide&amp;rft.volume=23&amp;rft.pages=365402&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1088%2F0953-8984%2F23%2F36%2F365402&amp;rft_id=info%3Abibcode%2F2011JPCM...23.5402S&amp;rft.aulast=Soper&amp;rft.aufirst=A.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Joo, C.;  et al. (2000). "The ring structure of boron trioxide glass". <i>Journal of Non-Crystalline Solids</i>. <b>261</b>: 282–286. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2000JNCS..261..282J">2000JNCS..261..282J</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fs0022-3093%2899%2900609-2">10.1016/s0022-3093(99)00609-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Non-Crystalline+Solids&amp;rft.atitle=The+ring+structure+of+boron+trioxide+glass&amp;rft.volume=261&amp;rft.pages=282-286&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1016%2Fs0022-3093%2899%2900609-2&amp;rft_id=info%3Abibcode%2F2000JNCS..261..282J&amp;rft.aulast=Joo&amp;rft.aufirst=C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zwanziger, J. W. (2005). "The NMR response of boroxol rings: a density functional theory study". <i>Solid State Nuclear Magnetic Resonance</i>. <b>27</b>: 5–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ssnmr.2004.08.004">10.1016/j.ssnmr.2004.08.004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Solid+State+Nuclear+Magnetic+Resonance&amp;rft.atitle=The+NMR+response+of+boroxol+rings%3A+a+density+functional+theory+study&amp;rft.volume=27&amp;rft.pages=5-9&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ssnmr.2004.08.004&amp;rft.aulast=Zwanziger&amp;rft.aufirst=J.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Micoulaut, M. (1997). "The structure of vitreous B<sub>2</sub>O<sub>3</sub> obtained from a thermostatistical model of agglomeration". <i>Journal of Molecular Liquids</i>. <b>71</b>: 107–114. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fs0167-7322%2897%2900003-2">10.1016/s0167-7322(97)00003-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Molecular+Liquids&amp;rft.atitle=The+structure+of+vitreous+B%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E+obtained+from+a+thermostatistical+model+of+agglomeration&amp;rft.volume=71&amp;rft.pages=107-114&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1016%2Fs0167-7322%2897%2900003-2&amp;rft.aulast=Micoulaut&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brazhkin, V. V.; Katayama, Y.; Inamura, Y.; Kondrin, M. V.; Lyapin, A. G.; Popova, S. V.; Voloshin, R. N. (2003). <a rel="nofollow" class="external text" href="http://www.jetpletters.ac.ru/ps/47/article_679.shtml">"Structural transformations in liquid, crystalline and glassy B<sub>2</sub>O<sub>3</sub> under high pressure"</a>. <i>JETP Letters</i>. <b>78</b> (6): 393–397. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003JETPL..78..393B">2003JETPL..78..393B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1134%2F1.1630134">10.1134/1.1630134</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=JETP+Letters&amp;rft.atitle=Structural+transformations+in+liquid%2C+crystalline+and+glassy+B%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E+under+high+pressure&amp;rft.volume=78&amp;rft.issue=6&amp;rft.pages=393-397&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1134%2F1.1630134&amp;rft_id=info%3Abibcode%2F2003JETPL..78..393B&amp;rft.au=Brazhkin%2C+V.+V.&amp;rft.au=Katayama%2C+Y.&amp;rft.au=Inamura%2C+Y.&amp;rft.au=Kondrin%2C+M.+V.&amp;rft.au=Lyapin%2C+A.+G.&amp;rft.au=Popova%2C+S.+V.&amp;rft.au=Voloshin%2C+R.+N.&amp;rft_id=http%3A%2F%2Fwww.jetpletters.ac.ru%2Fps%2F47%2Farticle_679.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kocakuşak, S.; Akçay, K.; Ayok, T.; Koöroğlu, H. J.; Koral, M.; Savaşçi, Ö. T.; Tolun, R. (1996). "Production of anhydrous, crystalline boron oxide in fluidized bed reactor". <i>Chemical Engineering and Processing</i>. <b>35</b> (4): 311–317. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0255-2701%2895%2904142-7">10.1016/0255-2701(95)04142-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Engineering+and+Processing&amp;rft.atitle=Production+of+anhydrous%2C+crystalline+boron+oxide+in+fluidized+bed+reactor&amp;rft.volume=35&amp;rft.issue=4&amp;rft.pages=311-317&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1016%2F0255-2701%2895%2904142-7&amp;rft.au=Kocaku%C5%9Fak%2C+S.&amp;rft.au=Ak%C3%A7ay%2C+K.&amp;rft.au=Ayok%2C+T.&amp;rft.au=Ko%C3%B6ro%C4%9Flu%2C+H.+J.&amp;rft.au=Koral%2C+M.&amp;rft.au=Sava%C5%9F%C3%A7i%2C+%C3%96.+T.&amp;rft.au=Tolun%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Morelock, C. R. (1961). "Research Laboratory Report #61-RL-2672M". General Electric.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Research+Laboratory+Report+%2361-RL-2672M&amp;rft.date=1961&amp;rft.au=Morelock%2C+C.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aziz, M. J.; Nygren, E.; Hays, J. F.; Turnbull, D. (1985). <a rel="nofollow" class="external text" href="http://dash.harvard.edu/handle/1/3645198">"Crystal Growth Kinetics of Boron Oxide Under Pressure"</a>. <i>Journal of Applied Physics</i>. <b>57</b> (6): 2233. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1985JAP....57.2233A">1985JAP....57.2233A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1063%2F1.334368">10.1063/1.334368</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.atitle=Crystal+Growth+Kinetics+of+Boron+Oxide+Under+Pressure&amp;rft.volume=57&amp;rft.issue=6&amp;rft.pages=2233&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1063%2F1.334368&amp;rft_id=info%3Abibcode%2F1985JAP....57.2233A&amp;rft.au=Aziz%2C+M.+J.&amp;rft.au=Nygren%2C+E.&amp;rft.au=Hays%2C+J.+F.&amp;rft.au=Turnbull%2C+D.&amp;rft_id=http%3A%2F%2Fdash.harvard.edu%2Fhandle%2F1%2F3645198&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gurr, G. E.; Montgomery, P. W.; Knutson, C. D.; Gorres, B. T. (1970). "The crystal structure of trigonal diboron trioxide". <i>Acta Crystallographica B</i>. <b>26</b> (7): 906–915. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1107%2FS0567740870003369">10.1107/S0567740870003369</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Crystallographica+B&amp;rft.atitle=The+crystal+structure+of+trigonal+diboron+trioxide&amp;rft.volume=26&amp;rft.issue=7&amp;rft.pages=906-915&amp;rft.date=1970&amp;rft_id=info%3Adoi%2F10.1107%2FS0567740870003369&amp;rft.aulast=Gurr&amp;rft.aufirst=G.+E.&amp;rft.au=Montgomery%2C+P.+W.&amp;rft.au=Knutson%2C+C.+D.&amp;rft.au=Gorres%2C+B.+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Strong, S. L.; Wells, A. F.; Kaplow, R. (1971). "On the crystal structure of B<sub>2</sub>O<sub>3</sub>". <i>Acta Crystallographica B</i>. <b>27</b> (8): 1662–1663. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1107%2FS0567740871004515">10.1107/S0567740871004515</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Crystallographica+B&amp;rft.atitle=On+the+crystal+structure+of+B%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E&amp;rft.volume=27&amp;rft.issue=8&amp;rft.pages=1662-1663&amp;rft.date=1971&amp;rft_id=info%3Adoi%2F10.1107%2FS0567740871004515&amp;rft.aulast=Strong&amp;rft.aufirst=S.+L.&amp;rft.au=Wells%2C+A.+F.&amp;rft.au=Kaplow%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Effenberger, H.; Lengauer, C. L.; Parthé, E. (2001). "Trigonal B<sub>2</sub>O<sub>3</sub> with Higher Space-Group Symmetry: Results of a Reevaluation". <i>Monatshefte für Chemie</i>. <b>132</b> (12): 1515–1517. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs007060170008">10.1007/s007060170008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Monatshefte+f%C3%BCr+Chemie&amp;rft.atitle=Trigonal+B%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E+with+Higher+Space-Group+Symmetry%3A+Results+of+a+Reevaluation&amp;rft.volume=132&amp;rft.issue=12&amp;rft.pages=1515-1517&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1007%2Fs007060170008&amp;rft.aulast=Effenberger&amp;rft.aufirst=H.&amp;rft.au=Lengauer%2C+C.+L.&amp;rft.au=Parth%C3%A9%2C+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">AirProducts (2011). <a rel="nofollow" class="external text" href="http://www.airproducts.com/~/media/downloads/other/D/en-diborane-electronics-technical-bulletin.pdf">"Diborane Storage &amp; Delivery"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diborane+Storage+%26+Delivery&amp;rft.date=2011&amp;rft.au=AirProducts&amp;rft_id=http%3A%2F%2Fwww.airproducts.com%2F~%2Fmedia%2Fdownloads%2Fother%2FD%2Fen-diborane-electronics-technical-bulletin.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoron+trioxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boron_trioxide&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060209040519/http://www.npi.gov.au/database/substance-info/profiles/15.html">National Pollutant Inventory: Boron and compounds</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050717211845/http://www.nohsc.gov.au/OHSInformation/Databases/ExposureStandards/az/Boron_oxide.htm">Australian Government information</a></li>
+<li><a rel="nofollow" class="external text" href="http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+1303-86-2">US NIH hazard information</a>. See <a href="/wiki/NIH" class="mw-redirect" title="NIH">NIH</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://hazard.com/msds/mf/baker/baker/files/b3708.htm">Material Safety Data Sheet</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.cdc.gov/niosh/npg/npgd0060.html">CDC - NIOSH Pocket Guide to Chemical Hazards - Boron oxide</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Boron_compounds" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Boron_compounds" title="Template:Boron compounds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Boron_compounds" title="Template talk:Boron compounds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Boron_compounds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Boron_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Boron" title="Boron">Boron</a> compounds</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boron_arsenide" title="Boron arsenide">BAs</a></li>
+<li><a href="/wiki/Boron_tribromide" title="Boron tribromide">BBr<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_trichloride" title="Boron trichloride">BCl<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_monofluoride" title="Boron monofluoride">BF</a></li>
+<li><a href="/wiki/Boron_trifluoride" title="Boron trifluoride">BF<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_triiodide" title="Boron triiodide">BI<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_nitride" title="Boron nitride">BN</a></li>
+<li><a href="/wiki/Boron_nitrate" class="mw-redirect" title="Boron nitrate">B(NO<sub>3</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Boric_acid" title="Boric acid">B(OH)<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_phosphide" title="Boron phosphide">BP</a></li>
+<li><a href="/wiki/Boron_phosphate" title="Boron phosphate">BPO<sub>4</sub></a></li>
+<li><a href="/wiki/Diboron_tetrafluoride" title="Diboron tetrafluoride">B<sub>2</sub>F<sub>4</sub></a></li>
+<li><a href="/wiki/Diboron_tetrachloride" title="Diboron tetrachloride">B<sub>2</sub>Cl<sub>4</sub></a></li>
+<li><a href="/wiki/Diborane" title="Diborane">B<sub>2</sub>H<sub>6</sub></a></li>
+<li><a href="/wiki/Ammonia_borane" title="Ammonia borane">BH<sub>3</sub>NH<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_monoxide" title="Boron monoxide">B<sub>2</sub>O</a></li>
+<li><a class="mw-selflink selflink">B<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_sulfide" title="Boron sulfide">B<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_carbide" title="Boron carbide">B<sub>4</sub>C</a></li>
+<li><a href="/wiki/Boron_suboxide" title="Boron suboxide">B<sub>6</sub>O</a></li>
+<li><a href="/wiki/Pentaborane(9)" title="Pentaborane(9)">B<sub>5</sub>H<sub>9</sub></a></li>
+<li><a href="/wiki/Pentaborane(11)" title="Pentaborane(11)">B<sub>5</sub>H<sub>11</sub></a></li>
+<li><a href="/wiki/Hexaborane(10)" title="Hexaborane(10)">B<sub>6</sub>H<sub>10</sub></a></li>
+<li><a href="/wiki/Hexaborane(12)" title="Hexaborane(12)">B<sub>6</sub>H<sub>12</sub></a></li>
+<li><a href="/wiki/Decaborane" title="Decaborane">B<sub>10</sub>H<sub>14</sub></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxides" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a class="mw-selflink selflink">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Hafnium(IV)_oxide" class="mw-redirect" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tin_dioxide" class="mw-redirect" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q411076&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q411076&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q411076" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4146385-7">4146385-7</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxygen_compounds" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxygen_compounds" title="Template:Oxygen compounds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxygen_compounds" title="Template talk:Oxygen compounds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxygen_compounds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxygen_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> compounds</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Silver(II)_oxide" class="mw-redirect" title="Silver(II) oxide">AgO</a></li>
+<li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Al<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Americium_dioxide" title="Americium dioxide">AmO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Americium(III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Americium(III) oxide (page does not exist)">Am<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">As<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">As<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Gold(III)_oxide" title="Gold(III) oxide">Au<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="mw-selflink selflink">B<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">BaO</a></li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">BeO</a></li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bi<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Bismuth_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Bismuth tetroxide (page does not exist)">BiO<sub>2</sub></a></li>
+<li><a href="/wiki/Bismuth_pentoxide" title="Bismuth pentoxide">Bi<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Bromine_dioxide" title="Bromine dioxide">BrO<sub>2</sub></a></li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Br<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Dibromine_pentoxide" title="Dibromine pentoxide">Br<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">C<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">CaO</a></li>
+<li><a href="/wiki/Calcium_peroxide" title="Calcium peroxide">CaO<sub>2</sub></a></li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">CdO</a></li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">CeO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Cerium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Cerium(III,IV) oxide (page does not exist)">Ce<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Ce<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">ClO<sub>2</sub></a></li>
+<li><a href="/wiki/Chlorine_monoxide" title="Chlorine monoxide">Cl<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dichlorine_trioxide" title="Dichlorine trioxide">Cl<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_perchlorate" title="Chlorine perchlorate">Cl<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Dichlorine_hexoxide" title="Dichlorine hexoxide">Cl<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Cl<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">CoO</a></li>
+<li><a href="/wiki/Cobalt(III)_oxide" title="Cobalt(III) oxide">Co<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Co<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">CrO<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Cr<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Cr<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/w/index.php?title=Chromic_chromate&amp;action=edit&amp;redlink=1" class="new" title="Chromic chromate (page does not exist)">Cr<sub>5</sub>O<sub>12</sub></a></li>
+<li><a href="/w/index.php?title=Cesium_superoxide&amp;action=edit&amp;redlink=1" class="new" title="Cesium superoxide (page does not exist)">CsO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Cesium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Cesium trioxide (page does not exist)">Cs<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">CuO</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">D<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dy<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Er<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Eu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Oxygen_difluoride" title="Oxygen difluoride"><span class="chemf nowrap">OF<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Dioxygen_difluoride" title="Dioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Trioxygen_difluoride" class="mw-redirect" title="Trioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/w/index.php?title=Fluorine_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Fluorine tetroxide (page does not exist)"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">FeO</a></li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Fe<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Fe<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Ga<sub>2</sub>O</a></li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Ga<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">GeO</a></li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">GeO<sub>2</sub></a></li>
+<li><a href="/wiki/Water" title="Water">H<sub>2</sub>O</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">H<sub>2</sub><sup>18</sup>O</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Hafnium_oxide" class="mw-redirect" title="Hafnium oxide">HfO<sub>2</sub></a></li>
+<li><a href="/wiki/Mercuric_oxide" class="mw-redirect" title="Mercuric oxide">HgO</a></li>
+<li><a href="/wiki/Mercury(I)_oxide" title="Mercury(I) oxide">Hg<sub>2</sub>O</a></li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Ho<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine tetroxide (page does not exist)">I<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Iodine_pentoxide" title="Iodine pentoxide">I<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_hexoxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine hexoxide (page does not exist)">I<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_nonaoxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine nonaoxide (page does not exist)">I<sub>4</sub>O<sub>9</sub></a></li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">In<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iridium(IV)_oxide" title="Iridium(IV) oxide">IrO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_superoxide" title="Potassium superoxide">KO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_peroxide" title="Potassium peroxide">K<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">La<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Li<sub>2</sub>O</a></li>
+<li><a href="/wiki/Lithium_peroxide" title="Lithium peroxide">Li<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">MgO</a></li>
+<li><a href="/wiki/Magnesium_peroxide" title="Magnesium peroxide">Mg<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">MnO</a></li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">MnO<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Mn<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Mn<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Molybdenum_dioxide" title="Molybdenum dioxide">MoO<sub>2</sub></a></li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">MoO<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Molybdenum(III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Molybdenum(III) oxide (page does not exist)">Mo<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">NO</a></li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">NO<sub>2</sub></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<sub>2</sub>O</a></li>
+<li><a href="/wiki/Nitrogen_trioxide" class="mw-redirect" title="Nitrogen trioxide">N<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitrogen_tetroxide" class="mw-redirect" title="Nitrogen tetroxide">N<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Nitrogen_pentoxide" class="mw-redirect" title="Nitrogen pentoxide">N<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Sodium_superoxide" title="Sodium superoxide">NaO<sub>2</sub></a></li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Na<sub>2</sub>O</a></li>
+<li><a href="/wiki/Sodium_peroxide" title="Sodium peroxide">Na<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Niobium_monoxide" title="Niobium monoxide">NbO</a></li>
+<li><a href="/wiki/Niobium_dioxide" title="Niobium dioxide">NbO<sub>2</sub></a></li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Nd<sub>2</sub>O<sub>3</sub></a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formulas</a></b></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20181014055457
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.888 seconds
+Real time usage: 1.076 seconds
+Preprocessor visited node count: 7215/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 227556/2097152 bytes
+Template argument size: 27183/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 57728/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.385/10.000 seconds
+Lua memory usage: 8.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  878.530      1 -total
+ 60.27%  529.470      1 Template:Chembox
+ 31.49%  276.608      1 Template:Chembox_Identifiers
+ 29.81%  261.862      1 Template:Reflist
+ 23.00%  202.065     16 Template:Cite_journal
+ 20.46%  179.727      6 Template:Chembox_headerbar
+ 20.40%  179.213     20 Template:Trim
+ 11.29%   99.152      9 Template:Main_other
+ 10.25%   90.017      1 Template:Chembox_Properties
+  9.52%   83.620      1 Template:Chembox_parametercheck
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2002950-0!canonical and timestamp 20181014055456 and revision id 846503210
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Boron_trioxide&amp;oldid=846503210">https://en.wikipedia.org/w/index.php?title=Boron_trioxide&amp;oldid=846503210</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Boron_compounds" title="Category:Boron compounds">Boron compounds</a></li><li><a href="/wiki/Category:Acidic_oxides" title="Category:Acidic oxides">Acidic oxides</a></li><li><a href="/wiki/Category:Glass_compositions" title="Category:Glass compositions">Glass compositions</a></li><li><a href="/wiki/Category:Sesquioxides" title="Category:Sesquioxides">Sesquioxides</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Chembox_having_DSD_data" title="Category:Chembox having DSD data">Chembox having DSD data</a></li><li><a href="/wiki/Category:Chemical_articles_having_a_data_page" title="Category:Chemical articles having a data page">Chemical articles having a data page</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Boron+trioxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Boron+trioxide" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Boron_trioxide" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Boron_trioxide" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Boron_trioxide">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Boron_trioxide&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Boron_trioxide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Boron_trioxide" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Boron_trioxide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Boron_trioxide&amp;oldid=846503210" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Boron_trioxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411076" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Boron_trioxide&amp;id=846503210" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Boron+trioxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Boron+trioxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Boron_trioxide&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Boron_trioxide" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AB%D9%84%D8%A7%D8%AB%D9%8A_%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%88%D9%86" title="ثلاثي أكسيد البورون – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1_%D8%AA%D8%B1%DB%8C%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF" title="بور تریاوکسید – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Oxid_borit%C3%BD" title="Oxid boritý – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bortrioxid" title="Bortrioxid – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/%C3%93xido_de_boro" title="Óxido de boro – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1_%D8%AA%D8%B1%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF" title="بور تری‌اکسید – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Sesquioxyde_de_bore" title="Sesquioxyde de bore – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%B8%D6%80%D5%AB_%D6%85%D6%84%D5%BD%D5%AB%D5%A4" title="Բորի օքսիդ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%89%E0%A4%A8_%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%88%E0%A4%91%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%A1" title="बोरॉन ट्राईऑक्साइड – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Boron_trioksida" title="Boron trioksida – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Anidride_borica" title="Anidride borica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/B%C3%B3r-trioxid" title="Bór-trioxid – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Boortrioxide" title="Boortrioxide – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%85%B8%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0" title="酸化ホウ素 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tritlenek_diboru" title="Tritlenek diboru – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tri%C3%B3xido_de_boro" title="Trióxido de boro – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Trioxid_de_bor" title="Trioxid de bor – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D0%B1%D0%BE%D1%80%D0%B0" title="Оксид бора – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Borov_trioksid" title="Borov trioksid – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Bor_trioksid" title="Bor trioksid – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Bor_trioksid" title="Bor trioksid – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Booritrioksidi" title="Booritrioksidi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bortrioxid" title="Bortrioxid – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B1%8A%E0%B0%B0%E0%B0%BE%E0%B0%A8%E0%B1%8D_%E0%B0%9F%E0%B1%8D%E0%B0%B0%E0%B1%88%E0%B0%86%E0%B0%95%E0%B1%8D%E0%B0%B8%E0%B1%88%E0%B0%A1%E0%B1%8D" title="బొరాన్ ట్రైఆక్సైడ్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D0%B1%D0%BE%D1%80%D1%83" title="Оксид бору – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C3%94x%C3%ADt_bo" title="Ôxít bo – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E6%B0%A7%E5%8C%96%E4%BA%8C%E7%A1%BC" title="三氧化二硼 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411076#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 June 2018, at 04:52<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Boron_trioxide&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.888","walltime":"1.076","ppvisitednodes":{"value":7215,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":227556,"limit":2097152},"templateargumentsize":{"value":27183,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":57728,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  878.530      1 -total"," 60.27%  529.470      1 Template:Chembox"," 31.49%  276.608      1 Template:Chembox_Identifiers"," 29.81%  261.862      1 Template:Reflist"," 23.00%  202.065     16 Template:Cite_journal"," 20.46%  179.727      6 Template:Chembox_headerbar"," 20.40%  179.213     20 Template:Trim"," 11.29%   99.152      9 Template:Main_other"," 10.25%   90.017      1 Template:Chembox_Properties","  9.52%   83.620      1 Template:Chembox_parametercheck"]},"scribunto":{"limitreport-timeusage":{"value":"0.385","limit":"10.000"},"limitreport-memusage":{"value":8686263,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20181014055457","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1249"});});</script>
+	</body>
+</html>
+

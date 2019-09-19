@@ -1,0 +1,483 @@
+https://en.wikipedia.org/wiki/Green_Lists
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Lists - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Lists","wgTitle":"Green Lists","wgCurRevisionId":821467858,"wgRevisionId":821467858,"wgArticleId":10686914,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Italian-language text","All stub articles","Defunct political parties in Italy","Green political parties in Italy","Political parties established in 1986","Political parties established in 1990","1986 establishments in Italy","1990 disestablishments in Italy","Italian political party stubs","Green party stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Lists","wgRelevantArticleId":10686914,"wgRequestId":"W7Fr5ArAIEsAABQIrzIAAABX","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1056966","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Lists"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Lists&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Lists&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Lists"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Lists rootpage-Green_Lists skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Lists</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #6CC417; border-bottom:2px solid #6CC417; line-height: 1;"><span class="fn org">Green Lists</span><br /><span class="nickname" style="font-size: 0.8em;">Liste Verdi</span></div></th></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Gianni_Mattioli" title="Gianni Mattioli">Gianni Mattioli</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+16 November 1986</td></tr><tr><th scope="row" style="line-height:1.3em;">Dissolved</th><td style="line-height:1.3em;">
+9 December 1990</td></tr><tr><th scope="row" style="line-height:1.3em;">Merged&#160;into</th><td style="line-height:1.3em;">
+<a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+Via Salandra 6, <a href="/wiki/Rome" title="Rome">Rome</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">European Parliament group</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/The_Green_Group_in_the_European_Parliament" title="The Green Group in the European Parliament">Green Group</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #6CC417;"><ul><li><a href="/wiki/Politics_of_Italy" title="Politics of Italy">Politics of Italy</a></li><li><a href="/wiki/List_of_political_parties_in_Italy" title="List of political parties in Italy">Political parties</a></li><li><a href="/wiki/Elections_in_Italy" title="Elections in Italy">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Federation of Green Lists</b> (<a href="/wiki/Italian_language" title="Italian language">Italian</a>: <i lang="it">Federazione delle Liste Verdi</i>)<sup id="cite_ref-SchreursPapadakis2007_1-0" class="reference"><a href="#cite_note-SchreursPapadakis2007-1">&#91;1&#93;</a></sup> or <b>Green Lists</b> (<i>Liste Verdi</i>, LV) was a <a href="/wiki/Green_politics" title="Green politics">green</a> <a href="/wiki/List_of_political_parties_in_Italy" title="List of political parties in Italy">political party in Italy</a>. Its members included <a href="/wiki/Gianni_Mattioli" title="Gianni Mattioli">Gianni Mattioli</a>, <a href="/w/index.php?title=Lino_De_Benetti&amp;action=edit&amp;redlink=1" class="new" title="Lino De Benetti (page does not exist)">Lino De Benetti</a>, <a href="/w/index.php?title=Gianfranco_Amendola&amp;action=edit&amp;redlink=1" class="new" title="Gianfranco Amendola (page does not exist)">Gianfranco Amendola</a>, <a href="/wiki/Alexander_Langer" title="Alexander Langer">Alexander Langer</a>, <a href="/w/index.php?title=Enrico_Falqui&amp;action=edit&amp;redlink=1" class="new" title="Enrico Falqui (page does not exist)">Enrico Falqui</a>, <a href="/w/index.php?title=Sauro_Turroni&amp;action=edit&amp;redlink=1" class="new" title="Sauro Turroni (page does not exist)">Sauro Turroni</a> and <a href="/wiki/Alfonso_Pecoraro_Scanio" title="Alfonso Pecoraro Scanio">Alfonso Pecoraro Scanio</a>. The Green Lists used the <a href="/wiki/Smiling_Sun" title="Smiling Sun">Smiling Sun</a> symbol of the <a href="/wiki/Anti-nuclear_movement" title="Anti-nuclear movement">anti-nuclear movement</a>, which was inherited by its successor party, the <a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Election_results"><span class="tocnumber">2</span> <span class="toctext">Election results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Italian_Parliament"><span class="tocnumber">2.1</span> <span class="toctext">Italian Parliament</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#European_Parliament"><span class="tocnumber">2.2</span> <span class="toctext">European Parliament</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Leadership"><span class="tocnumber">3</span> <span class="toctext">Leadership</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Lists&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It was founded on 16 November 1986. The party was formed as a national organisation of Green Lists which had first contested regional elections in 1985, initially being joined by seventy local lists.<sup id="cite_ref-Biorcio2012_2-0" class="reference"><a href="#cite_note-Biorcio2012-2">&#91;2&#93;</a></sup> In the <a href="/wiki/Italian_general_election,_1987" title="Italian general election, 1987">1987 general election</a>, the Green Lists received 2.5% for the <a href="/wiki/Chamber_of_Deputies_(Italy)" title="Chamber of Deputies (Italy)">Chamber</a>, returning thirteen deputies as well as two senators in the <a href="/wiki/Senate_of_the_Republic_(Italy)" title="Senate of the Republic (Italy)">Senate</a>.<sup id="cite_ref-Biorcio2012_2-1" class="reference"><a href="#cite_note-Biorcio2012-2">&#91;2&#93;</a></sup>
+</p><p>The party took part in the <a href="/wiki/European_Parliament_election,_1989_(Italy)" title="European Parliament election, 1989 (Italy)">1989 European Parliamentary elections</a>, receiving 3.8% of the vote, electing 3 MEPs.<sup id="cite_ref-Ely1998_3-0" class="reference"><a href="#cite_note-Ely1998-3">&#91;3&#93;</a></sup> A rival ecologist list, the <a href="/wiki/Rainbow_Greens" title="Rainbow Greens">Rainbow Greens</a>, received 2.4% in the same election.<sup id="cite_ref-Moliterno2002_4-0" class="reference"><a href="#cite_note-Moliterno2002-4">&#91;4&#93;</a></sup>
+</p><p>In December 1990 the party merged with the Rainbow Greens to form the <a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a>.<sup id="cite_ref-Biorcio2016_5-0" class="reference"><a href="#cite_note-Biorcio2016-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Election_results">Election results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Lists&amp;action=edit&amp;section=2" title="Edit section: Election results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Italian_Parliament">Italian Parliament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Lists&amp;action=edit&amp;section=3" title="Edit section: Italian Parliament">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<td colspan="6"><a href="/wiki/Italian_Chamber_of_Deputies" class="mw-redirect" title="Italian Chamber of Deputies">Chamber of Deputies</a>
+</td></tr>
+<tr>
+<th>Election year
+</th>
+<th># of<br />overall votes
+</th>
+<th>% of<br />overall vote
+</th>
+<th># of<br />overall seats won
+</th>
+<th>+/–
+</th>
+<th>Leader
+</th></tr>
+<tr>
+<th><a href="/wiki/Italian_general_election,_1987" title="Italian general election, 1987">1987</a>
+</th>
+<td>969,218
+</td>
+<td>2.5%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">13 / 630</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6CC417; width: 2%; height: 100%;"></div></div></div>
+</td>
+<td><center>–</center>
+</td>
+<td><a href="/wiki/Gianni_Mattioli" title="Gianni Mattioli">Gianni Mattioli</a>
+</td></tr></tbody></table>
+<table class="wikitable">
+
+<tbody><tr>
+<td colspan="6"><a href="/wiki/Italian_Senate" class="mw-redirect" title="Italian Senate">Senate of the Republic</a>
+</td></tr>
+<tr>
+<th>Election year
+</th>
+<th># of<br />overall votes
+</th>
+<th>% of<br />overall vote
+</th>
+<th># of<br />overall seats won
+</th>
+<th>+/–
+</th>
+<th>Leader
+</th></tr>
+<tr>
+<th><a href="/wiki/Italian_general_election,_1987" title="Italian general election, 1987">1987</a>
+</th>
+<td>634,182
+</td>
+<td>1.9%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 315</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6CC417; width: 0.3%; height: 100%;"></div></div></div>
+</td>
+<td><center>–</center>
+</td>
+<td><a href="/wiki/Gianni_Mattioli" title="Gianni Mattioli">Gianni Mattioli</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="European_Parliament">European Parliament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Lists&amp;action=edit&amp;section=4" title="Edit section: European Parliament">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Election year
+</th>
+<th># of<br />overall votes
+</th>
+<th>% of<br />overall vote
+</th>
+<th># of<br />overall seats won
+</th>
+<th>+/–
+</th>
+<th>Leader
+</th></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_1989_(Italy)" title="European Parliament election, 1989 (Italy)">1989</a>
+</th>
+<td>1,317,119
+</td>
+<td>3.8%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">3 / 81</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6CC417; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><center>–</center>
+</td>
+<td><a href="/wiki/Gianni_Mattioli" title="Gianni Mattioli">Gianni Mattioli</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Leadership">Leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Lists&amp;action=edit&amp;section=5" title="Edit section: Leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Spokesman:
+</p>
+<ul><li><a href="/wiki/Gianni_Mattioli" title="Gianni Mattioli">Gianni Mattioli</a> (1986–1989)</li>
+<li><a href="/w/index.php?title=Sauro_Turroni&amp;action=edit&amp;redlink=1" class="new" title="Sauro Turroni (page does not exist)">Sauro Turroni</a> (1989–1991)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Lists&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-SchreursPapadakis2007-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-SchreursPapadakis2007_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Miranda Schreurs; Elim Papadakis (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=nnfmOi0fAwAC&amp;pg=PA132"><i>The A to Z of the Green Movement</i></a>. Scarecrow Press. p.&#160;132. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8108-7041-3" title="Special:BookSources/978-0-8108-7041-3">978-0-8108-7041-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+A+to+Z+of+the+Green+Movement&amp;rft.pages=132&amp;rft.pub=Scarecrow+Press&amp;rft.date=2007&amp;rft.isbn=978-0-8108-7041-3&amp;rft.au=Miranda+Schreurs&amp;rft.au=Elim+Papadakis&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DnnfmOi0fAwAC%26pg%3DPA132&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Lists" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Biorcio2012-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Biorcio2012_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Biorcio2012_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Roberto Biorcio (2012). "Italy".  In Ferdinand Muller-Rommel; Thomas Poguntke. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ndz9AQAAQBAJ&amp;pg=PA149"><i>Green Parties in National Governments (2nd edition)</i></a>. Routledge. p.&#160;149. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-135-28826-6" title="Special:BookSources/978-1-135-28826-6">978-1-135-28826-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Italy&amp;rft.btitle=Green+Parties+in+National+Governments+%282nd+edition%29&amp;rft.pages=149&amp;rft.pub=Routledge&amp;rft.date=2012&amp;rft.isbn=978-1-135-28826-6&amp;rft.au=Roberto+Biorcio&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dndz9AQAAQBAJ%26pg%3DPA149&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Lists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Ely1998-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ely1998_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">John Ely (1998). "Green Politics in Europe and the United States".  In Margit Mayer; John Ely. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Msswvx3VslIC&amp;pg=PA195"><i>The German Greens: Paradox Between Movement and Party</i></a>. Temple University Press. p.&#160;195. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-56639-516-8" title="Special:BookSources/978-1-56639-516-8">978-1-56639-516-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Green+Politics+in+Europe+and+the+United+States&amp;rft.btitle=The+German+Greens%3A+Paradox+Between+Movement+and+Party&amp;rft.pages=195&amp;rft.pub=Temple+University+Press&amp;rft.date=1998&amp;rft.isbn=978-1-56639-516-8&amp;rft.au=John+Ely&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DMsswvx3VslIC%26pg%3DPA195&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Lists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Moliterno2002-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Moliterno2002_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gino Moliterno, ed. (2002). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=WvGGAgAAQBAJ&amp;pg=PA881"><i>Encyclopedia of Contemporary Italian Culture</i></a>. Routledge. p.&#160;881. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-134-75876-0" title="Special:BookSources/978-1-134-75876-0">978-1-134-75876-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Contemporary+Italian+Culture&amp;rft.pages=881&amp;rft.pub=Routledge&amp;rft.date=2002&amp;rft.isbn=978-1-134-75876-0&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWvGGAgAAQBAJ%26pg%3DPA881&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Lists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Biorcio2016-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Biorcio2016_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Roberto Biorcio (2016). "Green Parties in Southern Europe".  In Emilie van Haute. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=LNgRDAAAQBAJ&amp;pg=PA182"><i>Green Parties in Europe</i></a>. Routledge. p.&#160;182. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-317-12454-2" title="Special:BookSources/978-1-317-12454-2">978-1-317-12454-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Green+Parties+in+Southern+Europe&amp;rft.btitle=Green+Parties+in+Europe&amp;rft.pages=182&amp;rft.pub=Routledge&amp;rft.date=2016&amp;rft.isbn=978-1-317-12454-2&amp;rft.au=Roberto+Biorcio&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DLNgRDAAAQBAJ%26pg%3DPA182&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Lists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Italy&amp;#124;link=Italy_Historical_political_parties_and_coalitions_in_Italy" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Historical_Italian_political_parties" title="Template:Historical Italian political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Historical_Italian_political_parties" title="Template talk:Historical Italian political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Historical_Italian_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Italy&amp;#124;link=Italy_Historical_political_parties_and_coalitions_in_Italy" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> Historical political parties and coalitions in Italy</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Communist" style="font-size:114%;margin:0 4em">Communist</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Communist_Party_of_Italy" title="Communist Party of Italy">Communist Party of Italy</a></li>
+<li><a href="/wiki/Proletarian_Unity_Party_(Italy)" title="Proletarian Unity Party (Italy)">Proletarian Unity Party</a></li>
+<li><a href="/wiki/Italian_Communist_Party" title="Italian Communist Party">Italian Communist Party</a></li>
+<li><a href="/wiki/Proletarian_Democracy" title="Proletarian Democracy">Proletarian Democracy</a></li>
+<li><a href="/wiki/Movement_of_Unitarian_Communists" title="Movement of Unitarian Communists">Movement of Unitarian Communists</a></li>
+<li><a href="/wiki/Party_of_Italian_Communists" title="Party of Italian Communists">Party of Italian Communists</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Socialist_and_post-communist" style="font-size:114%;margin:0 4em">Socialist and post-communist</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Italian_Revolutionary_Socialist_Party" title="Italian Revolutionary Socialist Party">Italian Revolutionary Socialist Party</a></li>
+<li><a href="/wiki/Italian_Labour_Party" title="Italian Labour Party">Italian Labour Party</a></li>
+<li><a href="/wiki/Italian_Socialist_Party_of_Proletarian_Unity" title="Italian Socialist Party of Proletarian Unity">Italian Socialist Party of Proletarian Unity</a></li>
+<li><a href="/wiki/Democratic_Party_of_the_Left" title="Democratic Party of the Left">Democratic Party of the Left</a></li>
+<li><a href="/wiki/Democratic_Left_(Italy)" title="Democratic Left (Italy)">Democratic Left</a></li>
+<li><a href="/wiki/Movement_for_the_Left" title="Movement for the Left">Movement for the Left</a></li>
+<li><a href="/wiki/Left_Ecology_Freedom" title="Left Ecology Freedom">Left Ecology Freedom</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Social-democratic" style="font-size:114%;margin:0 4em">Social-democratic</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Italian_Reformist_Socialist_Party" title="Italian Reformist Socialist Party">Italian Reformist Socialist Party</a></li>
+<li><a href="/wiki/Unitary_Socialist_Party_(Italy,_1922)" title="Unitary Socialist Party (Italy, 1922)">Unitary Socialist Party</a></li>
+<li><a href="/wiki/Labour_Democratic_Party" title="Labour Democratic Party">Labour Democratic Party</a></li>
+<li><a href="/wiki/Action_Party_(Italy)" title="Action Party (Italy)">Action Party</a></li>
+<li><a href="/wiki/Unitary_Socialist_Party_(Italy,_1949)" title="Unitary Socialist Party (Italy, 1949)">Unitary Socialist Party</a></li>
+<li><a href="/wiki/Socialist_Autonomy" title="Socialist Autonomy">Socialist Autonomy</a></li>
+<li><a href="/wiki/Popular_Unity_(Italy)" title="Popular Unity (Italy)">Popular Unity</a></li>
+<li><a href="/wiki/Unified_Socialist_Party_(Italy)" title="Unified Socialist Party (Italy)">Unified Socialist Party</a></li>
+<li><a href="/wiki/Italian_Socialist_Party" title="Italian Socialist Party">Italian Socialist Party</a></li>
+<li><a href="/wiki/Democrats_of_the_Left" title="Democrats of the Left">Democrats of the Left</a></li>
+<li><a href="/wiki/Labour_Federation_(Italy)" title="Labour Federation (Italy)">Labour Federation</a></li>
+<li><a href="/wiki/Social_Christians" title="Social Christians">Social Christians</a></li>
+<li><a href="/wiki/Italian_Socialists" title="Italian Socialists">Italian Socialists</a></li>
+<li><a href="/wiki/Italian_Democratic_Socialist_Party" title="Italian Democratic Socialist Party">Italian Democratic Socialist Party</a></li>
+<li><a href="/wiki/Italian_Democratic_Socialists" title="Italian Democratic Socialists">Italian Democratic Socialists</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Green" style="font-size:114%;margin:0 4em">Green</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rainbow_Greens" title="Rainbow Greens">Rainbow Greens</a></li>
+<li><a class="mw-selflink selflink">Green Lists</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Radical_and_social-liberal" style="font-size:114%;margin:0 4em">Radical and social-liberal</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Action_Party_(Italy,_1848)" title="Action Party (Italy, 1848)">Action Party (1848)</a></li>
+<li><a href="/wiki/Dissident_Left" title="Dissident Left">Dissident Left</a></li>
+<li><a href="/wiki/Historical_Far_Left" title="Historical Far Left">Historical Far Left</a></li>
+<li><a href="/wiki/Italian_Radical_Party" title="Italian Radical Party">Italian Radical Party</a></li>
+<li><a href="/wiki/Constitutional_Democratic_Party_(Italy)" title="Constitutional Democratic Party (Italy)">Constitutional Democratic Party</a></li>
+<li><a href="/wiki/Democratic_Liberal_Party_(Italy)" title="Democratic Liberal Party (Italy)">Democratic Liberal Party</a></li>
+<li><a href="/wiki/Italian_Social_Democratic_Party" title="Italian Social Democratic Party">Italian Social Democratic Party</a></li>
+<li><a href="/wiki/Radical_Party_(Italy)" title="Radical Party (Italy)">Radical Party</a></li>
+<li><a href="/wiki/Democratic_Alliance_(Italy)" title="Democratic Alliance (Italy)">Democratic Alliance</a></li>
+<li><a href="/wiki/Republican_Left_(Italy)" title="Republican Left (Italy)">Republican Left</a></li>
+<li><a href="/wiki/Democratic_Union_(Italy)" title="Democratic Union (Italy)">Democratic Union</a></li>
+<li><a href="/wiki/The_Network_(political_party)" title="The Network (political party)">The Network</a></li>
+<li><a href="/wiki/Italy_Work_in_Progress" title="Italy Work in Progress">Italy Work in Progress</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Centrist_and_centrist-liberal" style="font-size:114%;margin:0 4em">Centrist and centrist-liberal</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Historical_Left" title="Historical Left">Historical Left</a></li>
+<li><a href="/wiki/Liberal_Union_(Italy)" title="Liberal Union (Italy)">Liberal Union</a></li>
+<li><a href="/wiki/Democratic_Union_for_the_Republic" title="Democratic Union for the Republic">Democratic Union for the Republic</a></li>
+<li><a href="/wiki/Pannella_List" title="Pannella List">Pannella List</a></li>
+<li><a href="/wiki/Union_for_the_Republic_(Italy)" title="Union for the Republic (Italy)">Union for the Republic</a></li>
+<li><a href="/wiki/Italian_Renewal" title="Italian Renewal">Italian Renewal</a></li>
+<li><a href="/wiki/The_Democrats_(Italy)" title="The Democrats (Italy)">The Democrats</a></li>
+<li><a href="/wiki/Segni_Pact" title="Segni Pact">Segni Pact</a></li>
+<li><a href="/wiki/Democracy_is_Freedom_%E2%80%93_The_Daisy" title="Democracy is Freedom – The Daisy">Democracy is Freedom – The Daisy</a></li>
+<li><a href="/wiki/Bonino_List" title="Bonino List">Bonino List</a></li>
+<li><a href="/wiki/Bonino-Pannella_List" title="Bonino-Pannella List">Bonino-Pannella List</a></li>
+<li><a href="/wiki/Alliance_for_Italy" title="Alliance for Italy">Alliance for Italy</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Christian-democratic" style="font-size:114%;margin:0 4em">Christian-democratic</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Conservative_Catholics_(Italy)" title="Conservative Catholics (Italy)">Conservative Catholics</a></li>
+<li><a href="/wiki/Italian_Catholic_Electoral_Union" title="Italian Catholic Electoral Union">Italian Catholic Electoral Union</a></li>
+<li><a href="/wiki/Italian_People%27s_Party_(1919)" title="Italian People&#39;s Party (1919)">Italian People's Party (1919)</a></li>
+<li><a href="/wiki/Christian_Democracy_(Italy)" title="Christian Democracy (Italy)">Christian Democracy</a></li>
+<li><a href="/wiki/Italian_People%27s_Party_(1994)" title="Italian People&#39;s Party (1994)">Italian People's Party (1994)</a></li>
+<li><a href="/wiki/Christian_Democrats_for_the_Republic" title="Christian Democrats for the Republic">Christian Democrats for the Republic</a></li>
+<li><a href="/wiki/Christian_Democratic_Centre" title="Christian Democratic Centre">Christian Democratic Centre</a></li>
+<li><a href="/wiki/United_Christian_Democrats" title="United Christian Democrats">United Christian Democrats</a></li>
+<li><a href="/wiki/European_Democracy" title="European Democracy">European Democracy</a></li>
+<li><a href="/wiki/Christian_Democracy_for_the_Autonomies" title="Christian Democracy for the Autonomies">Christian Democracy for the Autonomies</a></li>
+<li><a href="/wiki/Liberal_Populars" title="Liberal Populars">Liberal Populars</a></li>
+<li><a href="/wiki/Union_of_Democrats_for_Europe" title="Union of Democrats for Europe">Union of Democrats for Europe</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Conservative-liberal" style="font-size:114%;margin:0 4em">Conservative-liberal</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Moderate_Party_(Italy)" title="Moderate Party (Italy)">Moderate Party</a></li>
+<li><a href="/wiki/Historical_Right" title="Historical Right">Historical Right</a></li>
+<li><a href="/wiki/Italian_Liberal_Party" title="Italian Liberal Party">Italian Liberal Party</a></li>
+<li><a href="/wiki/Union_of_the_Centre_(1993)" title="Union of the Centre (1993)">Union of the Centre</a></li>
+<li><a href="/wiki/Act_to_Stop_the_Decline" title="Act to Stop the Decline">Act to Stop the Decline</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Liberal-conservative" style="font-size:114%;margin:0 4em">Liberal-conservative</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Economic_Party_(Italy)" title="Economic Party (Italy)">Economic Party</a></li>
+<li><a href="/wiki/National_Democratic_Alliance_(Italy)" title="National Democratic Alliance (Italy)">National Democratic Alliance</a></li>
+<li><a href="/wiki/Forza_Italia" title="Forza Italia">Forza Italia</a></li>
+<li><a href="/wiki/The_People_of_Freedom" title="The People of Freedom">The People of Freedom</a></li>
+<li><a href="/wiki/Future_and_Freedom" title="Future and Freedom">Future and Freedom</a></li>
+<li><a href="/wiki/New_Centre-Right" title="New Centre-Right">New Centre-Right</a></li>
+<li><a href="/wiki/Conservatives_and_Reformists_(Italy)" title="Conservatives and Reformists (Italy)">Conservatives and Reformists</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="National-conservative" style="font-size:114%;margin:0 4em">National-conservative</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Common_Man%27s_Front" title="Common Man&#39;s Front">Common Man's Front</a></li>
+<li><a href="/wiki/Monarchist_National_Party" title="Monarchist National Party">Monarchist National Party</a></li>
+<li><a href="/wiki/People%27s_Monarchist_Party_(Italy)" title="People&#39;s Monarchist Party (Italy)">People's Monarchist Party</a></li>
+<li><a href="/wiki/Italian_Democratic_Party_of_Monarchist_Unity" title="Italian Democratic Party of Monarchist Unity">Italian Democratic Party of Monarchist Unity</a></li>
+<li><a href="/wiki/National_Democracy_(Italy)" title="National Democracy (Italy)">National Democracy</a></li>
+<li><a href="/wiki/National_Alliance_(Italy)" title="National Alliance (Italy)">National Alliance</a></li>
+<li><a href="/wiki/The_Right_(Italy)" title="The Right (Italy)">The Right</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Nationalist,_fascist_and_post-fascist" style="font-size:114%;margin:0 4em">Nationalist, fascist and post-fascist</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Combatants%27_Party" title="Combatants&#39; Party">Combatants' Party</a></li>
+<li><a href="/wiki/Italian_Nationalist_Association" title="Italian Nationalist Association">Italian Nationalist Association</a></li>
+<li><a href="/wiki/National_Fascist_Party" title="National Fascist Party">National Fascist Party</a></li>
+<li><a href="/wiki/Republican_Fascist_Party" title="Republican Fascist Party">Republican Fascist Party</a></li>
+<li><a href="/wiki/Italian_Social_Movement" title="Italian Social Movement">Italian Social Movement</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Regionalist_and_federalist" style="font-size:114%;margin:0 4em">Regionalist and federalist</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Federalist_Italian_League" title="Federalist Italian League">Federalist Italian League</a></li>
+<li><a href="/wiki/Federalists_and_Liberal_Democrats" title="Federalists and Liberal Democrats">Federalists and Liberal Democrats</a></li>
+<li><a href="/wiki/Autonomists_for_Europe" title="Autonomists for Europe">Autonomists for Europe</a></li>
+<li><a href="/wiki/Force_of_the_South" title="Force of the South">Force of the South</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Coalitions_of_parties" style="font-size:114%;margin:0 4em">Coalitions of parties</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Leftist coalitions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Popular_Democratic_Front_(Italy)" title="Popular Democratic Front (Italy)">Popular Democratic Front</a></li>
+<li><a href="/wiki/Alliance_of_Progressives" title="Alliance of Progressives">Alliance of Progressives</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Centre-left electoral coalitions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Olive_Tree_(Italy)" title="The Olive Tree (Italy)">The Olive Tree</a></li>
+<li><a href="/wiki/The_Union_(Italy)" title="The Union (Italy)">The Union</a></li>
+<li><a href="/wiki/Italy._Common_Good" title="Italy. Common Good">Italy. Common Good</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Centrist electoral coalitions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pact_for_Italy" title="Pact for Italy">Pact for Italy</a></li>
+<li><a href="/wiki/New_Pole_for_Italy" title="New Pole for Italy">New Pole for Italy</a></li>
+<li><a href="/wiki/With_Monti_for_Italy" title="With Monti for Italy">With Monti for Italy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Centre-right electoral coalitions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pole_of_Freedoms" title="Pole of Freedoms">Pole of Freedoms</a></li>
+<li><a href="/wiki/Pole_of_Good_Government" title="Pole of Good Government">Pole of Good Government</a></li>
+<li><a href="/wiki/Pole_for_Freedoms" title="Pole for Freedoms">Pole for Freedoms</a></li>
+<li><a href="/wiki/House_of_Freedoms" title="House of Freedoms">House of Freedoms</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Government-only coalitions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Centrism_(Italy)" title="Centrism (Italy)">Centrism</a></li>
+<li><a href="/wiki/Organic_Centre-left" title="Organic Centre-left">Organic Centre-left</a></li>
+<li><a href="/wiki/Historic_Compromise" title="Historic Compromise">Historic Compromise</a></li>
+<li><a href="/wiki/Pentapartito" title="Pentapartito">Pentapartito</a></li>
+<li><a href="/wiki/Grand_coalition_(Italy)" title="Grand coalition (Italy)">Grand coalition</a></li>
+<li><a href="/wiki/Government_of_Change" title="Government of Change">Government of Change</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_political_parties_in_Italy" title="List of political parties in Italy">List of political parties in Italy</a></li>
+<li><a href="/wiki/Template:19th-century_Italian_political_groups" title="Template:19th-century Italian political groups">19th-century Italian political groups</a></li>
+<li><a href="/wiki/Template:Early_20th-century_Italian_political_parties" title="Template:Early 20th-century Italian political parties">Early 20th-century Italian political parties</a></li>
+<li><a href="/wiki/Template:1950s%E2%80%931990s_Italian_political_parties" title="Template:1950s–1990s Italian political parties">1950s–1990s Italian political parties</a></li>
+<li><a href="/wiki/Template:Italian_political_parties" title="Template:Italian political parties">Current Italian political parties</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Italy.svg" class="image"><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/30px-Flag_of_Italy.svg.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/60px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a> <img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/20px-Vote_icon.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/30px-Vote_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/40px-Vote_icon.svg.png 2x" data-file-width="326" data-file-height="393" /></td><td><i>This article about a <a href="/wiki/Political_party_in_Italy" class="mw-redirect" title="Political party in Italy">political party in Italy</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Lists&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Italy-party-stub" title="Template:Italy-party-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Italy-party-stub" title="Template talk:Italy-party-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Italy-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Global_Greens_logo.jpg" class="image"><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Global_Greens_logo.jpg/35px-Global_Greens_logo.jpg" width="35" height="35" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Global_Greens_logo.jpg/53px-Global_Greens_logo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Global_Greens_logo.jpg/70px-Global_Greens_logo.jpg 2x" data-file-width="1969" data-file-height="1969" /></a> <a href="/wiki/File:Vote_icon.svg" class="image"><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/25px-Vote_icon.svg.png" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/38px-Vote_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/50px-Vote_icon.svg.png 2x" data-file-width="326" data-file-height="393" /></a></td><td><i>This article about a <a href="/wiki/Green_party" title="Green party">green political party</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Lists&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Green-party-stub" title="Template:Green-party-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green-party-stub" title="Template talk:Green-party-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2187
+Cached time: 20181001003548
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.461 seconds
+Preprocessor visited node count: 2700/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94246/2097152 bytes
+Template argument size: 7667/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14165/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.213/10.000 seconds
+Lua memory usage: 11.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  378.597      1 -total
+ 30.98%  117.307      1 Template:Lang-it
+ 22.87%   86.604      1 Template:Reflist
+ 22.27%   84.313      1 Template:Infobox_political_party
+ 19.76%   74.800      5 Template:Cite_book
+ 17.64%   66.774      1 Template:Infobox
+ 15.24%   57.693      1 Template:Historical_Italian_political_parties
+ 14.61%   55.331      1 Template:Navbox_with_collapsible_groups
+  4.47%   16.907      1 Template:Br_separated_entries
+  3.98%   15.056      3 Template:Composition_bar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10686914-0!canonical and timestamp 20181001003548 and revision id 821467858
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Lists&amp;oldid=821467858">https://en.wikipedia.org/w/index.php?title=Green_Lists&amp;oldid=821467858</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_political_parties_in_Italy" title="Category:Defunct political parties in Italy">Defunct political parties in Italy</a></li><li><a href="/wiki/Category:Green_political_parties_in_Italy" title="Category:Green political parties in Italy">Green political parties in Italy</a></li><li><a href="/wiki/Category:Political_parties_established_in_1986" title="Category:Political parties established in 1986">Political parties established in 1986</a></li><li><a href="/wiki/Category:Political_parties_established_in_1990" title="Category:Political parties established in 1990">Political parties established in 1990</a></li><li><a href="/wiki/Category:1986_establishments_in_Italy" title="Category:1986 establishments in Italy">1986 establishments in Italy</a></li><li><a href="/wiki/Category:1990_disestablishments_in_Italy" title="Category:1990 disestablishments in Italy">1990 disestablishments in Italy</a></li><li><a href="/wiki/Category:Italian_political_party_stubs" title="Category:Italian political party stubs">Italian political party stubs</a></li><li><a href="/wiki/Category:Green_party_stubs" title="Category:Green party stubs">Green party stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Italian-language_text" title="Category:Articles containing Italian-language text">Articles containing Italian-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Lists" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Lists" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Lists" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Lists" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Lists">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Lists&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Lists&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Lists" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Lists" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Lists&amp;oldid=821467858" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Lists&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1056966" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Lists&amp;id=821467858" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Lists">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Lists&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Lists&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lista_Verde_(Italia)" title="Lista Verde (Italia) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_des_listes_vertes" title="Fédération des listes vertes – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Federazione_delle_Liste_Verdi" title="Federazione delle Liste Verdi – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Green_Lists" title="Green Lists – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Fidirazzioni_d%C3%AE_Listi_Virdi" title="Fidirazzioni dî Listi Virdi – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Federazione_delle_Liste_Verdi" title="Federazione delle Liste Verdi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1056966#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 January 2018, at 17:33<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Lists&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.461","ppvisitednodes":{"value":2700,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94246,"limit":2097152},"templateargumentsize":{"value":7667,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14165,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  378.597      1 -total"," 30.98%  117.307      1 Template:Lang-it"," 22.87%   86.604      1 Template:Reflist"," 22.27%   84.313      1 Template:Infobox_political_party"," 19.76%   74.800      5 Template:Cite_book"," 17.64%   66.774      1 Template:Infobox"," 15.24%   57.693      1 Template:Historical_Italian_political_parties"," 14.61%   55.331      1 Template:Navbox_with_collapsible_groups","  4.47%   16.907      1 Template:Br_separated_entries","  3.98%   15.056      3 Template:Composition_bar"]},"scribunto":{"limitreport-timeusage":{"value":"0.213","limit":"10.000"},"limitreport-memusage":{"value":11826626,"limit":52428800}},"cachereport":{"origin":"mw2187","timestamp":"20181001003548","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":572,"wgHostname":"mw2187"});});</script>
+	</body>
+</html>

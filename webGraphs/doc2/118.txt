@@ -1,0 +1,1222 @@
+https://en.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Greens – The Green Alternative - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Greens_–_The_Green_Alternative","wgTitle":"The Greens – The Green Alternative","wgCurRevisionId":860372021,"wgRevisionId":860372021,"wgArticleId":403401,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using Timeline","CS1 German-language sources (de)","Articles needing additional references from October 2016","All articles needing additional references","Pages using deprecated image syntax","Articles containing German-language text","1993 establishments in Austria","European Green Party","Global Greens member parties","Green parties in Europe","Parties represented in the European Parliament","Political parties established in 1993","Political parties in Austria","Pro-European political parties"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Greens_–_The_Green_Alternative","wgRelevantArticleId":403401,"wgRequestId":"W7FcdwrAIFAAAKrRnOgAAABC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q193178","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.timeline.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.timeline.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Austrian_Greens_logo_2017.svg/1200px-Austrian_Greens_logo_2017.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_Greens_–_The_Green_Alternative rootpage-The_Greens_–_The_Green_Alternative skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">The Greens – The Green Alternative</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"GRÜNE" redirects here. For the political party in Germany, see <a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(October 2016)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #88B626; border-bottom:2px solid #88B626; line-height: 1;"><span class="fn org">The Greens – The Green Alternative</span><br /><span class="nickname" lang="de" style="font-size: 0.8em;">Die Grünen – Die Grüne Alternative</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Austrian_Greens_logo_2017.svg" class="image"><img alt="Austrian Greens logo 2017.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7a/Austrian_Greens_logo_2017.svg/200px-Austrian_Greens_logo_2017.svg.png" width="200" height="203" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7a/Austrian_Greens_logo_2017.svg/300px-Austrian_Greens_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7a/Austrian_Greens_logo_2017.svg/400px-Austrian_Greens_logo_2017.svg.png 2x" data-file-width="1210" data-file-height="1226" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Abbreviation</th><td class="nickname" style="line-height:1.3em;">
+<b>GRÜNE</b></td></tr><tr><th scope="row" style="line-height:1.3em;"><span class="nowrap"><a href="/wiki/Federal_spokespersons_of_the_Green_Party" class="mw-redirect" title="Federal spokespersons of the Green Party">Federal spokesman</a></span></th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Werner_Kogler" title="Werner Kogler">Werner Kogler</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Managing director</th><td class="agent" style="line-height:1.3em;">
+Angela Stoytchev</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+1993 (<i>Die Grünen</i>)<br />1986 (Merger of <i>Vereinte Grüne Österreichs</i> and <i>Alternative Liste Österreich</i>)</td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+Lindengasse 40<br />A-1071 <a href="/wiki/Vienna" title="Vienna">Vienna</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><br /><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centre-left_politics" title="Centre-left politics">Centre-left</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_political_party" title="European political party">European affiliation</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td></tr><tr><th scope="row" style="line-height:1.3em;">International affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">European Parliament group</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Greens%E2%80%93European_Free_Alliance" title="Greens–European Free Alliance">Greens–European Free Alliance</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<span style="background-color:#88B626; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/National_Council_of_Austria" class="mw-redirect" title="National Council of Austria">National Council</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">0 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #88B626; width: 0%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Federal Council</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">2 / 61</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #88B626; width: 3%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Landeshauptmann#Austria" title="Landeshauptmann">Governorships</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">0 / 9</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #88B626; width: 0%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Distribution_of_seats_in_the_Austrian_Landtage" title="Distribution of seats in the Austrian Landtage">State governments</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">5 / 9</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #88B626; width: 56%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Distribution_of_seats_in_the_Austrian_Landtage" title="Distribution of seats in the Austrian Landtage">State parliaments</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">37 / 440</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #88B626; width: 8%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">3 / 18</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #88B626; width: 17%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<a rel="nofollow" class="external text" href="https://www.gruene.at/">www.gruene.at</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #88B626;"><ul><li><a href="/wiki/Politics_of_Austria" title="Politics of Austria">Politics of Austria</a></li><li><a href="/wiki/List_of_political_parties_in_Austria" title="List of political parties in Austria">Political parties</a></li><li><a href="/wiki/Elections_in_Austria" title="Elections in Austria">Elections</a></li></ul></div></td></tr></tbody></table>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>The Greens – The Green Alternative</b> (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Die Grünen – Die Grüne Alternative</i> or <i>Die Grünen</i>, also called the <b>Austrian Green Party</b>) is a <a href="/wiki/List_of_political_parties_in_Austria" title="List of political parties in Austria">political party in Austria</a>.
+</p><p>The party was formed in 1986 under the name <b>Grüne Alternative</b>, following the merger of the more conservative Green party <i>Vereinte Grüne Österreichs</i> (United Greens of Austria VGÖ, founded 1982) and the more progressive party <i>Alternative Liste Österreichs</i> (Alternative List Austria, ALÖ, founded 1982). Since 1993, the party has carried the official name <i>Die Grünen – Die Grüne Alternative (Grüne)</i>, but refers to itself in English as "Austrian Greens". There are still differences between the former members of the old Alternative and VGÖ factions within the party, reflected in the differing approaches of the national and state parties.
+</p><p>Apart from <a href="/wiki/Ecology" title="Ecology">ecological</a> issues such as <a href="/wiki/Environmental_protection" title="Environmental protection">environmental protection</a>, the Greens also campaign for the rights of <a href="/wiki/Minority_group" title="Minority group">minorities</a> and advocate a socio-ecological (<i>ökosozial</i>) <a href="/wiki/Tax_reform" title="Tax reform">tax reform</a>.  Their basic values according to their charter in 2001 are: "<a href="/wiki/Direct_democracy" title="Direct democracy">direct democracy</a>, <a href="/wiki/Nonviolence" title="Nonviolence">nonviolence</a>, <a href="/wiki/Ecology" title="Ecology">ecology</a>, <a href="/wiki/Solidarity" title="Solidarity">solidarity</a>, <a href="/wiki/Feminism" title="Feminism">feminism</a> and <a href="/wiki/Self-determination" title="Self-determination">self-determination</a>".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The party is a member of the <a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a> and <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.
+</p><p>The Greens currently have no seats in the  National Council.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Over the past decade, it had polled 11.0, 10.4, and 12.4 percent in federal elections.  However, in 2017, the party was beset with internal difficulties including the defection of its entire youth wing. In the <a href="/wiki/Austrian_legislative_election,_2017" title="Austrian legislative election, 2017">2017 general election</a>, the party suffered a disastrous defeat, losing all 24 of its seats by failing to clear the 4% hurdle to get representation in parliament. The Green Party spokesperson from Lower Austria, Helga Krismer-Huber described it as a 'catastrophe'.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The party has 2 seats but no parliamentary group  in the less powerful Federal Council.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Federal_level"><span class="tocnumber">1.1</span> <span class="toctext">Federal level</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Chairpersons_since_1986"><span class="tocnumber">1.2</span> <span class="toctext">Chairpersons since 1986</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#State_level"><span class="tocnumber">1.3</span> <span class="toctext">State level</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Burgenland"><span class="tocnumber">1.3.1</span> <span class="toctext">Burgenland</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Carinthia"><span class="tocnumber">1.3.2</span> <span class="toctext">Carinthia</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Lower_Austria"><span class="tocnumber">1.3.3</span> <span class="toctext">Lower Austria</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Salzburg"><span class="tocnumber">1.3.4</span> <span class="toctext">Salzburg</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Styria"><span class="tocnumber">1.3.5</span> <span class="toctext">Styria</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Tyrol"><span class="tocnumber">1.3.6</span> <span class="toctext">Tyrol</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Upper_Austria"><span class="tocnumber">1.3.7</span> <span class="toctext">Upper Austria</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Vorarlberg"><span class="tocnumber">1.3.8</span> <span class="toctext">Vorarlberg</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Vienna"><span class="tocnumber">1.3.9</span> <span class="toctext">Vienna</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Organisation"><span class="tocnumber">2</span> <span class="toctext">Organisation</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Electoral_results"><span class="tocnumber">3</span> <span class="toctext">Electoral results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Parliament_(Parlament)"><span class="tocnumber">3.1</span> <span class="toctext">Parliament (<i>Parlament</i>)</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#President"><span class="tocnumber">3.2</span> <span class="toctext">President</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#European_Parliament"><span class="tocnumber">3.3</span> <span class="toctext">European Parliament</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Prominent_members"><span class="tocnumber">4</span> <span class="toctext">Prominent members</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Members_of_the_European_Parliament"><span class="tocnumber">4.1</span> <span class="toctext">Members of the European Parliament</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While the Austrian <a href="/wiki/Green_movement" class="mw-redirect" title="Green movement">Green movement</a> began in 1978 with the successful campaign to prevent the opening of the <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear power</a> plant in <a href="/wiki/Zwentendorf" title="Zwentendorf">Zwentendorf</a> (which had been favoured by <a href="/wiki/Bruno_Kreisky" title="Bruno Kreisky">Bruno Kreisky</a>'s government), the Green Party was born in 1984 during the <a href="/wiki/Occupation_of_the_Hainburger_Au" title="Occupation of the Hainburger Au">sit-in protests</a> which prevented the <a href="/wiki/Danube" title="Danube">Danube</a> power plant at <a href="/wiki/Hainburg_an_der_Donau" title="Hainburg an der Donau">Hainburg</a> from being built.
+</p>
+<h3><span class="mw-headline" id="Federal_level">Federal level</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=2" title="Edit section: Federal level">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/Austrian_legislative_election,_1986" title="Austrian legislative election, 1986">1986 parliamentary elections</a> the Green Party started off with 4.82% of all votes cast and entered parliament with eight <a href="/wiki/National_Council_of_Austria" class="mw-redirect" title="National Council of Austria">National Council</a> mandates.  In the early elections to National Council in <a href="/wiki/Austria_legislative_election,_2002" class="mw-redirect" title="Austria legislative election, 2002">2002</a>, the Green Party nationwide received 9.47% of votes, and won 17 mandates to the National Council.  At that time, it was the highest number of votes garnered by any European Green party.
+</p><p>When the Greens took their seats in parliament for the first time, they chose to appear somewhat unconventional.  They initially refused to adapt their behaviour to that of the other parties; an example of this is their refusal to elect a chairperson (<i>Klubobmann/Klubobfrau</i>) and designated a puppet made out of straw instead. Delegates would appear in parliament dressed in casual wear such as jeans and trainers. Worldwide attention was drawn when the Green delegate Andreas Wabl hoisted a <a href="/wiki/Swastika" title="Swastika">swastika</a> flag on the speakers podium in the Austrian parliament, protesting against then <a href="/wiki/President_of_Austria" title="President of Austria">Federal President</a> <a href="/wiki/Kurt_Waldheim" title="Kurt Waldheim">Kurt Waldheim</a>.
+</p><p>After the national election in <a href="/wiki/Austria_legislative_election,_2002" class="mw-redirect" title="Austria legislative election, 2002">2002</a>, the Greens entered into preliminary negotiations about a possible coalition government with the conservative ÖVP.  During negotiations, party leadership was accused of internally black-mailing skeptical members.  Negotiations between the two parties were subsequently called off, after the results with the ÖVP were not sufficient.  The Green youth organisation <i>Grünalternative Jugend</i> (Green Alternative Youth or GAJ) briefly occupied the rooms of the Green parliamentary club in the Austrian parliament building in protest.
+</p><p>In 2003 three Green federal counsellors formed their own club in the Upper House <a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Federal Council</a> (<i>Bundesrat</i>) of Parliament.
+</p><p>After the 2006 elections the Greens gained four seats and ended up with 21 seats and became the third largest party in Parliament, however did not have enough mandates to form a coalition government with either the <a href="/wiki/Austrian_People%27s_Party" title="Austrian People&#39;s Party">Austrian People's Party</a> (ÖVP) or <a href="/wiki/Social_Democratic_Party_of_Austria" title="Social Democratic Party of Austria">Social Democratic Party</a> (SPÖ) and became the largest opposition party, while the SPÖ and ÖVP formed a <a href="/wiki/Grand_coalition" title="Grand coalition">grand coalition</a> government.
+</p><p>As of 2018, the Greens have no seats in the <a href="/wiki/National_Council_(Austria)" title="National Council (Austria)">Nationalrat</a> or official group status in the <a href="/wiki/Bundesrat_(Austria)" class="mw-redirect" title="Bundesrat (Austria)">Bundesrat</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Chairpersons_since_1986">Chairpersons since 1986</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=3" title="Edit section: Chairpersons since 1986">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg/220px-Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg/330px-Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg/440px-Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg 2x" data-file-width="1800" data-file-height="1800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alexander_Van_der_Bellen_Sankt_Poelten_20080911c.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Alexander_Van_der_Bellen" title="Alexander Van der Bellen">Alexander Van der Bellen</a>, <a href="/wiki/Federal_spokesman_of_the_Green_Party" class="mw-redirect" title="Federal spokesman of the Green Party">spokesman of the green party</a> between 1997 and 2008. He was elected <a href="/wiki/President_of_Austria" title="President of Austria">President of Austria</a> in <a href="/wiki/Austrian_presidential_election,_2016" title="Austrian presidential election, 2016">2016</a>.</div></div></div>
+<p>The chart below shows a timeline of the Green chairpersons and the <a href="/wiki/Chancellor_of_Austria" title="Chancellor of Austria">Chancellors of Austria</a>. The left green bar shows all the chairpersons (<i>Bundessprecher</i>, abbreviated as "CP") of the Green party, and the right bar shows the corresponding make-up of the Austrian government at that time. The red (SPÖ) and black (ÖVP) colours correspond to which party led the federal government (<i>Bundesregierung</i>, abbreviated as "Govern."). The last names of the respective chancellors are shown, the Roman numeral stands for the <a href="/wiki/Cabinet_(government)" title="Cabinet (government)">cabinets</a>.
+</p>
+<div class="timeline-wrapper"><map name="timeline_23ac3bb20811e3042291a8ccaa90d5e0"><area shape="rect" href="/wiki/Sebastian_Kurz" coords="272,1,336,21" title="Sebastian Kurz" alt="Sebastian Kurz" /><area shape="rect" href="/wiki/Wolfgang_Sch%C3%BCssel" coords="272,221,358,241" title="Wolfgang Schüssel" alt="Wolfgang Schüssel" /><area shape="rect" href="/wiki/Christian_Kern" coords="272,8,336,28" title="Christian Kern" alt="Christian Kern" /><area shape="rect" href="/wiki/Werner_Faymann" coords="272,93,347,114" title="Werner Faymann" alt="Werner Faymann" /><area shape="rect" href="/wiki/Alfred_Gusenbauer" coords="272,135,364,156" title="Alfred Gusenbauer" alt="Alfred Gusenbauer" /><area shape="rect" href="/wiki/Viktor_Klima" coords="272,263,336,284" title="Viktor Klima" alt="Viktor Klima" /><area shape="rect" href="/wiki/Franz_Vranitzky" coords="272,434,358,454" title="Franz Vranitzky" alt="Franz Vranitzky" /><area shape="rect" href="/wiki/Werner_Kogler" coords="72,1,186,21" title="Werner Kogler" alt="Werner Kogler" /><area shape="rect" href="/wiki/Ingrid_Felipe" coords="72,15,186,35" title="Ingrid Felipe" alt="Ingrid Felipe" /><area shape="rect" href="/wiki/Eva_Glawischnig" coords="72,72,192,92" title="Eva Glawischnig" alt="Eva Glawischnig" /><area shape="rect" href="/wiki/Alexander_Van_der_Bellen" coords="72,206,242,227" title="Alexander Van der Bellen" alt="Alexander Van der Bellen" /><area shape="rect" href="/wiki/Christoph_Chorherr" coords="72,299,208,319" title="Christoph Chorherr" alt="Christoph Chorherr" /><area shape="rect" href="/wiki/Madeleine_Petrovic" coords="72,320,208,341" title="Madeleine Petrovic" alt="Madeleine Petrovic" /><area shape="rect" href="/wiki/Peter_Pilz" coords="72,341,164,362" title="Peter Pilz" alt="Peter Pilz" /><area shape="rect" href="/wiki/Johannes_Voggenhuber" coords="72,384,220,405" title="Johannes Voggenhuber" alt="Johannes Voggenhuber" /><area shape="rect" href="/wiki/Freda_Meissner%2DBlau" coords="72,426,214,447" title="Freda Meissner-Blau" alt="Freda Meissner-Blau" /></map><img usemap="#timeline_23ac3bb20811e3042291a8ccaa90d5e0" src="//upload.wikimedia.org/wikipedia/en/timeline/23ac3bb20811e3042291a8ccaa90d5e0.png" /></div>
+<h3><span class="mw-headline" id="State_level">State level</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=4" title="Edit section: State level">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green party also entered the parliaments or assemblies (<i><a href="/wiki/Landtag" title="Landtag">Landtag</a></i>) of <a href="/wiki/States_of_Austria" title="States of Austria">Austrian states</a> and communal governments. Following is an analysis of the party on the <a href="/wiki/States_of_Austria" title="States of Austria">state</a> (<i>Länder</i>) level:
+</p>
+<h4><span class="mw-headline" id="Burgenland">Burgenland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=5" title="Edit section: Burgenland">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Burgenland" title="Burgenland">Burgenland</a> Greens were able to take their seats in the <i>Landtag</i> (state assembly) for the first time in 2000. The party received 5.49% of the tally, which meant two mandates. In the state elections in 2005 these two seats were reaffirmed with 5.21% received of all votes cast.
+</p>
+<h4><span class="mw-headline" id="Carinthia">Carinthia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=6" title="Edit section: Carinthia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the southernmost state of <a href="/wiki/Carinthia_(state)" class="mw-redirect" title="Carinthia (state)">Carinthia</a>, different Green parties ran state elections: the <i><a href="/w/index.php?title=KEL/AL&amp;action=edit&amp;redlink=1" class="new" title="KEL/AL (page does not exist)">KEL/AL</a></i> in 1984, <i><a href="/w/index.php?title=Anderes_K%C3%A4rnten&amp;action=edit&amp;redlink=1" class="new" title="Anderes Kärnten (page does not exist)">Anderes Kärnten</a></i> in 1989 and 1994, and <i><a href="/w/index.php?title=Demokratie_99&amp;action=edit&amp;redlink=1" class="new" title="Demokratie 99 (page does not exist)">Demokratie 99</a></i> in 1999. These parties were however never able to enter the <i>Landtag</i> (state assembly) since the Carinthian voting system requires a party to win a direct mandate in one of the four regional election districts, which means effectively a 10%-<a href="/wiki/Election_threshold" title="Election threshold">threshold</a> in order to enter. <br />
+Only in 2004 were the Carinthian Greens finally able to take their seats in the state assembly, where they are represented by the <a href="/wiki/Cabaret" title="Cabaret">cabaret</a> player <a href="/w/index.php?title=Rolf_Holub&amp;action=edit&amp;redlink=1" class="new" title="Rolf Holub (page does not exist)">Rolf Holub</a> and <a href="/w/index.php?title=Barbara_Lesjak&amp;action=edit&amp;redlink=1" class="new" title="Barbara Lesjak (page does not exist)">Barbara Lesjak</a>. On a regional level, for example in the state capital <a href="/wiki/Klagenfurt" title="Klagenfurt">Klagenfurt</a>, the Carinthian Greens have already played a political role for a longer time. In the Klagenfurt <a href="/wiki/City_council" title="City council">city council</a> the Greens are represented by <a href="/w/index.php?title=Andrea_Wulz&amp;action=edit&amp;redlink=1" class="new" title="Andrea Wulz (page does not exist)">Andrea Wulz</a>, Matthias Koechl, <a href="/w/index.php?title=Angelika_Hoedl&amp;action=edit&amp;redlink=1" class="new" title="Angelika Hoedl (page does not exist)">Angelika Hoedl</a> and <a href="/w/index.php?title=Reinhold_Gasper&amp;action=edit&amp;redlink=1" class="new" title="Reinhold Gasper (page does not exist)">Reinhold Gasper</a>. Since the local election in 2003 the Klagenfurt Greens were able to take one of nine seats in the proportional city-government, Andrea Wulz is the town councillor for issues relating to women, family matters and social <a href="/wiki/Housing_project" class="mw-redirect" title="Housing project">housing projects</a>.
+</p>
+<h4><span class="mw-headline" id="Lower_Austria">Lower Austria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=7" title="Edit section: Lower Austria">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 1998 the <a href="/wiki/Lower_Austria" title="Lower Austria">Lower Austrian</a> Greens were represented with two delegates in the state assembly. In the state elections in 2003 the Greens received 7.22% and thus won four mandates, which meant they had official club status in the assembly. With <a href="/wiki/Madeleine_Petrovic" title="Madeleine Petrovic">Madeleine Petrovic</a> the Lower Austrian Greens have a former federal spokeswoman and one of the most outspoken animal activists of Austria as their leader (<i>Klubobfrau</i>). In 2005 the Lower Austrian Greens managed to win and take their seats in 100 municipal assemblies and as of 2005 had four vice-mayors. Their managing director in Lower Austria is Thomas Huber.
+</p>
+<h4><span class="mw-headline" id="Salzburg">Salzburg</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=8" title="Edit section: Salzburg">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After the state elections in 1989 the <a href="/wiki/Salzburg_(state)" title="Salzburg (state)">Salzburg</a> Greens had two mandates in the Salzburg state assembly, in 1994 three and in 1999 again two. Under the leadership of <a href="/w/index.php?title=Cyriak_Schwaighofer&amp;action=edit&amp;redlink=1" class="new" title="Cyriak Schwaighofer (page does not exist)">Cyriak Schwaighofer</a> the Greens performed under their expectations in the 2004 state elections and could not achieve the desired club status of at least three mandates. As voter-current analyses showed, the small increases in votes were largely due to former voters of the <a href="/wiki/Liberal_Forum" title="Liberal Forum">Liberal Forum</a> (LiF), which did not run in the Salzburg elections. In March 2009 they were down from 8% to 7.3%, keeping their two seats in the Parliament of <a href="/wiki/Salzburgerland" class="mw-redirect" title="Salzburgerland">Salzburgerland</a>.
+</p><p>The Bürgerliste (Citizen List) is the common platform of the Greens of the city of <a href="/wiki/Salzburg" title="Salzburg">Salzburg</a>. Like many other autonomous municipal groups it carries its own name.
+</p>
+<h4><span class="mw-headline" id="Styria">Styria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=9" title="Edit section: Styria">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 2005, the <a href="/wiki/Styria" title="Styria">Styrian</a> Greens had three delegates sitting in the state assembly, Chairperson Ingrid Lechner Sonnek, Edith Zitz and Peter Hagenauer. There are two independent Greens parties: on the one hand the state party, on the other hand there is the <i>Die Grünen - Alternative Liste Graz</i> party for the state capital <a href="/wiki/Graz" title="Graz">Graz</a>. In the Graz city-council the Greens are represented by Sigi Binder, Lisa Rücker, Hermann Candussi and Christina Jahn.
+</p><p>Styria has the largest Austrian Green youth organization in Austria, called <i>Grüne Jugend Steiermark</i> (Green Youth Styria). Beside the Green Youth Styria there also exists Austria's first Green student's organization, the <i>ECO Students</i>.
+</p>
+<h4><span class="mw-headline" id="Tyrol">Tyrol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=10" title="Edit section: Tyrol">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In <a href="/wiki/Tyrol_(state)" title="Tyrol (state)">Tyrol</a> the Greens (official name: <i>Die Grünen – die Grüne Alternative Tirol</i>) were able to win seats and placed in 1994 <a href="/wiki/Eva_Lichtenberger" title="Eva Lichtenberger">Eva Lichtenberger</a> as Austria's first Green state <a href="/wiki/Councillor" title="Councillor">councillor</a> in a local government, responsible for environmental affairs.
+</p><p>The 2003 Tyrolean <i><a href="/wiki/Landtag" title="Landtag">Landtag</a></i> (state assembly) elections were the best ever for the Austrian Greens, winning 15.59% of all votes cast. In the capital city of <a href="/wiki/Innsbruck" title="Innsbruck">Innsbruck</a> the Greens reached approximately 27% of the vote. The Tyrolean election result also meant that the Greens could for the first time in history nominate a member to the Upper House of Parliament. Since 2003 the Green delegate to the <a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Federal Council</a> (<i>Bundesrat</i>) of Parliament is <a href="/w/index.php?title=Eva_Konrad&amp;action=edit&amp;redlink=1" class="new" title="Eva Konrad (page does not exist)">Eva Konrad</a>, former chairlady of the Austrian National Union of Students (<i>Österreichische HochschülerInnenschaft</i>) of the <a href="/wiki/University_of_Innsbruck" title="University of Innsbruck">University of Innsbruck</a>.
+</p><p>The communal elections of 2004 brought a doubling of the mandates for the Tyrolean Greens. City elections in <a href="/wiki/Innsbruck" title="Innsbruck">Innsbruck</a> in 2006 were a success for the Greens and they now have 8 of the 40 seats in the parliament of <a href="/wiki/Innsbruck" title="Innsbruck">Innsbruck</a>.
+</p><p>In the elections to the European parliament the Tyrolean Greens obtained 17.32%, their best result until then. Eva Lichtenberger subsequently changed her position to become a <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">Member of the European Parliament</a> (MEP). The results in Innsbruck were particularly good: there the Green party received 28.28%, which made it the strongest party, even before the Christian-democratic ÖVP and the social-democratic SPÖ. The Greens were able to score on a number of issues that they have been fighting for years. Besides the social topics above all the problems of transit traffic over the <a href="/wiki/Alps" title="Alps">Alps</a> was important.
+</p><p>The Tyrolean Greens have experts on traffic issues with MEP Eva Lichtenberger, the national speaker and club chairperson <a href="/w/index.php?title=Georg_Willi&amp;action=edit&amp;redlink=1" class="new" title="Georg Willi (page does not exist)">Georg Willi</a> and the speaker of group of regional of Innsbruck Gerhard Fritz. The issue of transit traffic through the Tyrol is of great importance, because the state is troubled by the massive transit traffic between Germany and Italy over the <a href="/wiki/Brenner_Pass" title="Brenner Pass">Brenner Pass</a>. Since the Tyrol sits right in between Germany and Italy, the bulk of the commercial traffic passes through there. This heavy-duty traffic has devastating effects on the fragile alpine environment and decreases the quality of life for the inhabitants. Since the entry to the European Union, Austria had to give up any quota limitations on how much international traffic coming from EU-countries is allowed to pass through its territory.
+</p><p>The Tyrolean Greens accused to federal government of not having pushed for a better deal with the European Union concerning transit-traffic and in effect abandoning the concerns of the citizens. They also heavily criticised the government's failure to negotiate a follow-up of the 1994 transit-treaty signed with the EU. Apart from the Greens, various anti-transit <a href="/w/index.php?title=Civic_movement&amp;action=edit&amp;redlink=1" class="new" title="Civic movement (page does not exist)">civic movements</a> have formed to protest against the environmental damages caused by the traffic.
+</p><p>Sitting in the National Council is <a href="/w/index.php?title=Kurt_Gr%C3%BCnewald&amp;action=edit&amp;redlink=1" class="new" title="Kurt Grünewald (page does not exist)">Kurt Grünewald</a>, a Tyrolean member of parliament, as well as the former leader of the Greens <a href="/wiki/Alexander_Van_der_Bellen" title="Alexander Van der Bellen">Alexander Van der Bellen</a>, who has Tyrolean roots (he spent a part of his youth there and went to high school in Innsbruck).
+</p><p>The results of the Tyrolean <i>Landtag</i> elections:
+</p>
+<table class="wikitable" style="margin:auto;">
+
+<tbody><tr bgcolor="#DDDDDD">
+<th colspan="3">Results of the Greens in Tyrolean State Assembly elections
+</th></tr>
+<tr>
+<th align="center">Year
+</th>
+<th align="center">Percentage of votes received
+</th>
+<th align="center">Mandates out of total of 36 seats
+</th></tr>
+<tr>
+<td align="center">2003
+</td>
+<td align="center">15.59% (+7.57)
+</td>
+<td align="center">5 (+2)
+</td></tr>
+<tr>
+<td align="center">1999
+</td>
+<td align="center">8.02% (-2.66)
+</td>
+<td align="center">3 (-1)
+</td></tr>
+<tr>
+<td align="center">1994
+</td>
+<td align="center">10.68% (+2.42)
+</td>
+<td align="center">4 (+1)
+</td></tr>
+<tr>
+<td align="center">1989
+</td>
+<td align="center">8.26% (+5.34)
+</td>
+<td align="center">3 (+3)
+</td></tr>
+<tr>
+<td align="center">1984
+</td>
+<td align="center">2.92%
+</td>
+<td align="center">0
+</td></tr></tbody></table>
+<p>2003 delegates: <a href="/w/index.php?title=Sepp_Brugger&amp;action=edit&amp;redlink=1" class="new" title="Sepp Brugger (page does not exist)">Sepp Brugger</a>, Maria Scheiber, <a href="/w/index.php?title=Uschi_Schwarzl&amp;action=edit&amp;redlink=1" class="new" title="Uschi Schwarzl (page does not exist)">Uschi Schwarzl</a>, Elisabeth Wiesmüller und Georg Willi (club chairman);<br />
+1999 delegates: <a href="/w/index.php?title=Maria_Scheiber&amp;action=edit&amp;redlink=1" class="new" title="Maria Scheiber (page does not exist)">Maria Scheiber</a>, <a href="/w/index.php?title=Elisabeth_Wiesm%C3%BCller&amp;action=edit&amp;redlink=1" class="new" title="Elisabeth Wiesmüller (page does not exist)">Elisabeth Wiesmüller</a>, Georg Willi (club chairman); <br />
+1994 delegates: <a href="/w/index.php?title=Bernhard_Ernst&amp;action=edit&amp;redlink=1" class="new" title="Bernhard Ernst (page does not exist)">Bernhard Ernst</a>, Franz Klug, Max Schneider und Georg Willi (club chairman [<i>Klubobmann</i>]); <br />
+1989 delegates: Eva Lichtenberger, <a href="/w/index.php?title=Jutta_Seethaler&amp;action=edit&amp;redlink=1" class="new" title="Jutta Seethaler (page does not exist)">Jutta Seethaler</a>, <a href="/w/index.php?title=Franz_Klug&amp;action=edit&amp;redlink=1" class="new" title="Franz Klug (page does not exist)">Franz Klug</a>.
+</p>
+<h4><span class="mw-headline" id="Upper_Austria">Upper Austria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=11" title="Edit section: Upper Austria">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 1997 the <a href="/wiki/Upper_Austria" title="Upper Austria">Upper Austrian</a> Greens successfully entered the Upper Austrian <i>Landtag</i> (state assembly) for the first time. After the state elections in 2003 (state elections in Upper Austria are held every six years, not five like in the other states), the Greens were able to win even further seats. The campaign was already aimed at gaining ministerial seats in the state government. Since the conservative Christian-democratic ÖVP was the strongest party, this would have meant for the Greens to enter into a coalition government with them (the so-called "<i>Schwarz-Grün</i>" [Black-Green] coalition, named after the party-colours). This new political constellation was quite controversial amongst party members on both sides. In the Green party, the leader <a href="/w/index.php?title=Rudi_Anschober&amp;action=edit&amp;redlink=1" class="new" title="Rudi Anschober (page does not exist)">Rudi Anschober</a> was able to convince party members and after some dealing became state councillor for environmental affairs. The Greens of the state capital of <a href="/wiki/Linz" title="Linz">Linz</a> under the leadership of city councillor <a href="/wiki/J%C3%BCrgen_Himmelbauer" title="Jürgen Himmelbauer">Jürgen Himmelbauer</a> were most against this black-green project.
+</p><p>On the national level, the Upper Austrian Greens were able to nominate and send to the parliamentary Upper House <a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Federal Council</a> (<i>Bundesrat</i>) councillor <a href="/w/index.php?title=Ruperta_Lichtenecker&amp;action=edit&amp;redlink=1" class="new" title="Ruperta Lichtenecker (page does not exist)">Ruperta Lichtenecker</a>.
+</p>
+<h4><span class="mw-headline" id="Vorarlberg">Vorarlberg</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=12" title="Edit section: Vorarlberg">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Vorarlberg" title="Vorarlberg">Vorarlberg</a> Greens were the first to ever win mandates in an Austrian state assembly election. Already in 1984 they were able to win 13% of the votes in the Vorarlberg state assembly elections, which for that time was an absolute sensation. The charismatic alpine farmer <a href="/w/index.php?title=Kaspanaze_Simma&amp;action=edit&amp;redlink=1" class="new" title="Kaspanaze Simma (page does not exist)">Kaspanaze Simma</a> from <a href="/wiki/Bregenzerwald" class="mw-redirect" title="Bregenzerwald">Bregenzerwald</a> was the leading candidate, it was mainly due to his efforts why the party was so instantly successful.  Because of their strength, the Greens were allowed to form their own parliamentary fraction (<i>Klub</i>), which caused some logistical problems as the newly constructed <i>Landtag</i> building in 1981 only provided space for the traditional three parties (ÖVP, SPÖ, FPÖ), not four.  Since the traditional <a href="/wiki/Organic_farming" title="Organic farming">organic farming</a> sector is important in the western Austrian regions, the Greens were able to gain support.
+</p><p>In the following years the Greens were able to consolidate their position by gaining seats on the communal and municipal level.  Occasionally they lost their official club status in the state assembly, when they fared poorly from 1999 to 2004.  In 2006 the speaker of the Vorarlberg Greens was <a href="/w/index.php?title=Johannes_Rauch&amp;action=edit&amp;redlink=1" class="new" title="Johannes Rauch (page does not exist)">Johannes Rauch</a>.
+</p><p>The results of the Vorarlberg <i>Landtag</i> elections:
+</p>
+<table class="wikitable" style="margin:auto;">
+
+<tbody><tr bgcolor="#DDDDDD">
+<th colspan="3">Results of the Greens in the Vorarlberg State Assembly elections
+</th></tr>
+<tr>
+<th align="center">Year
+</th>
+<th align="center">Percentage of votes received
+</th>
+<th align="center">Mandates out of total of 36 seats
+</th></tr>
+<tr>
+<td align="center">2004
+</td>
+<td align="center">10,2% (+4.17)
+</td>
+<td align="center">4 (+2)
+</td></tr>
+<tr>
+<td align="center">1999
+</td>
+<td align="center">6,03% (-1.73)
+</td>
+<td align="center">2 (-1)
+</td></tr>
+<tr>
+<td align="center">1994
+</td>
+<td align="center">7,76% (+2.58)
+</td>
+<td align="center">3 (+1)
+</td></tr>
+<tr>
+<td align="center">1989
+</td>
+<td align="center">5,18% (-7.82)
+</td>
+<td align="center">2 (-2)
+</td></tr>
+<tr>
+<td align="center">1984<sup>1</sup>
+</td>
+<td align="center">13,00%
+</td>
+<td align="center">4
+</td></tr></tbody></table>
+<p><sup>1</sup> Combined result of ALÖ and VGÖ
+</p>
+<h4><span class="mw-headline" id="Vienna">Vienna</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=13" title="Edit section: Vienna">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Vienna" title="Vienna">Viennese</a> Greens started nominating candidates in the Vienna <i>Gemeinderat</i> (municipal council or state assembly) in 1983 and were able to enter in 1991. Over the years they have been able to continually gather support. A lot of support has been coming from former <a href="/wiki/Liberal_Forum" title="Liberal Forum">Liberal Forum</a> voters, after the liberals failed to enter any legislature. The traditional strongholds in Vienna for the Greens are the districts of <a href="/wiki/Neubau" title="Neubau">Neubau</a> (2005: 43.26%), <a href="/wiki/Josefstadt" title="Josefstadt">Josefstadt</a> (32.26%), <a href="/wiki/Alsergrund" title="Alsergrund">Alsergrund</a> (29.43%), <a href="/wiki/Mariahilf" title="Mariahilf">Mariahilf</a> (28.97%) and <a href="/wiki/Wieden" title="Wieden">Wieden</a> (25.14%).
+</p><p>In the 2001 <i>Gemeinderat</i> elections, the Greens were able to win the majority of a district for the first time. In the district of <a href="/wiki/Neubau" title="Neubau">Neubau</a> they won 32.55% and were able to nominate the <i>Bezirksvorsteher</i> (mayor of the district). The results of 2001 also allowed the Viennese Greens to nominate <a href="/w/index.php?title=Stefan_Schennach&amp;action=edit&amp;redlink=1" class="new" title="Stefan Schennach (page does not exist)">Stefan Schennach</a> as federal councilor to the Upper House of Parliament (<i><a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Bundesrat</a></i>). But despite the strong gains, the Greens were not able to enter into a coalition government with the SPÖ, since the social-democrats were able to win an absolute majority.
+</p><p>The <a href="/wiki/European_Parliament_election,_2004" title="European Parliament election, 2004">European Parliament election, 2004</a> were the best for the Viennese Greens so far. From the total tally, they received 22%, which put them ahead of the Christian-democratic ÖVP and placed them on second position behind the SPÖ (37.7%). In Neubau the Greens received 41%. They were also able to win first place in the districts of Wieden, Mariahilf, Josefstadt and Alsergrund.
+</p><p>In the 2005 <i>Gemeinderat</i> elections, the Greens were able to win votes, but missed their target of becoming the second most powerful party and ended up on fourth place, right behind the right-wing <a href="/wiki/Freedom_Party_of_Austria" title="Freedom Party of Austria">Freedom Party</a> (FPÖ). Because of the different weighing by districts, the Greens received 14 mandates, one more than the FPÖ. They were also able to place another city-councillor. In the districts, the party was able to consolidate their holding on Neubau, as well as win the majority of votes in Josefstadt. With that, the Greens were able to nominate a second Green district-mayor. The second place was won in the districts of <a href="/wiki/Leopoldstadt" title="Leopoldstadt">Leopoldstadt</a>, <a href="/wiki/Margareten" title="Margareten">Margareten</a>, Mariahilf, <a href="/wiki/Rudolfsheim-F%C3%BCnfhaus" title="Rudolfsheim-Fünfhaus">Rudolfsheim-Fünfhaus</a> and <a href="/wiki/Alsergrund" title="Alsergrund">Alsergrund</a>.
+</p><p>The Green delegates to the Viennese <i>Gemeinderat</i> or <i>Landtag</i> as of 2006 were: <a href="/wiki/Maria_Vassilakou" title="Maria Vassilakou">Maria Vassilakou</a> (club-chairlady [<i>Klubobfrau</i>]), <a href="/w/index.php?title=Waltraut_Antonov&amp;action=edit&amp;redlink=1" class="new" title="Waltraut Antonov (page does not exist)">Waltraut Antonov</a>, <a href="/w/index.php?title=Heidi_Cammerlander&amp;action=edit&amp;redlink=1" class="new" title="Heidi Cammerlander (page does not exist)">Heidi Cammerlander</a>, <a href="/wiki/Christoph_Chorherr" title="Christoph Chorherr">Christoph Chorherr</a>, <a href="/w/index.php?title=Sabine_Gretner&amp;action=edit&amp;redlink=1" class="new" title="Sabine Gretner (page does not exist)">Sabine Gretner</a>, <a href="/w/index.php?title=Susanne_Jerusalem&amp;action=edit&amp;redlink=1" class="new" title="Susanne Jerusalem (page does not exist)">Susanne Jerusalem</a>, <a href="/wiki/Alev_Korun" title="Alev Korun">Alev Korun</a>, <a href="/w/index.php?title=R%C3%BCdiger_Maresch&amp;action=edit&amp;redlink=1" class="new" title="Rüdiger Maresch (page does not exist)">Rüdiger Maresch</a>, <a href="/wiki/Martin_Margulies" title="Martin Margulies">Martin Margulies</a>, <a href="/w/index.php?title=Sigrid_Pilz&amp;action=edit&amp;redlink=1" class="new" title="Sigrid Pilz (page does not exist)">Sigrid Pilz</a>, <a href="/w/index.php?title=Ingrid_Puller&amp;action=edit&amp;redlink=1" class="new" title="Ingrid Puller (page does not exist)">Ingrid Puller</a>, <a href="/w/index.php?title=Marie_Ringler&amp;action=edit&amp;redlink=1" class="new" title="Marie Ringler (page does not exist)">Marie Ringler</a>, <a href="/w/index.php?title=Marco_Schreuder&amp;action=edit&amp;redlink=1" class="new" title="Marco Schreuder (page does not exist)">Marco Schreuder</a>, <a href="/w/index.php?title=Claudia_Sommer-Smolik&amp;action=edit&amp;redlink=1" class="new" title="Claudia Sommer-Smolik (page does not exist)">Claudia Sommer-Smolik</a>. The two city-councillors are <a href="/w/index.php?title=David_Ellensohn&amp;action=edit&amp;redlink=1" class="new" title="David Ellensohn (page does not exist)">David Ellensohn</a> and <a href="/wiki/Monika_Vana" title="Monika Vana">Monika Vana</a>.
+</p><p>The <a href="/wiki/Viennese_state_election,_2010" title="Viennese state election, 2010">2010 results</a> meant that the SPÖ was unable to hold the majority of seats in the Vienna city council and therefore had to rule together with the Greens performing for the first time as coalition partner. The current vice-governor/vice-mayor of Vienna is Maria Vassilakou.
+</p><p>The results of the Viennese <i>Gemeinderat</i> elections:
+</p>
+<table class="wikitable" style="margin:auto;">
+
+<tbody><tr bgcolor="#DDDDDD">
+<th colspan="5">Results of the Greens in the Viennese State Assembly elections
+</th></tr>
+<tr>
+<th align="center">Year
+</th>
+<th align="center">Percentage of votes received
+</th>
+<th align="center">Mandates out of total of 100 seats
+</th>
+<th align="center">Further information
+</th></tr>
+<tr>
+<td style="text-align:center;">2010
+</td>
+<td align="center">12,64% (-1.99)
+</td>
+<td align="center">11 (-3)
+</td>
+<td align="center">1 <a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Federal Councillor</a>, 1 City Councillor
+</td></tr>
+
+<tr>
+<td align="center">2005
+</td>
+<td align="center">14,63% (+2.18)
+</td>
+<td align="center">14 (+3)
+</td>
+<td align="center">1 <a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Federal Councillor</a>, 2 City Councillors
+</td></tr>
+<tr>
+<td align="center">2001
+</td>
+<td align="center">12,45% (+4.51)
+</td>
+<td align="center">11 (+4)
+</td>
+<td align="center">1 Federal Councillor, 1 City Councillor
+</td></tr>
+<tr>
+<td align="center">1996
+</td>
+<td align="center">7,94% (-1.14)
+</td>
+<td align="center">7 (±0)
+</td>
+<td align="center">1 City Councillor
+</td></tr>
+<tr>
+<td align="center">1991
+</td>
+<td align="center">9,08% (+4.68)
+</td>
+<td align="center">7 (+7)
+</td>
+<td align="center">1 City Councillor
+</td></tr>
+<tr>
+<td align="center">1987
+</td>
+<td align="center">4,4% (+1.9)
+</td>
+<td align="center">0
+</td>
+<td align="center">
+</td></tr>
+<tr>
+<td align="center">1983<sup>1</sup>
+</td>
+<td align="center">2,5% (+2.5)
+</td>
+<td align="center">0
+</td>
+<td align="center">
+</td></tr></tbody></table>
+<p><sup>1</sup> ran as <a href="/w/index.php?title=Alternative_Liste_Wien&amp;action=edit&amp;redlink=1" class="new" title="Alternative Liste Wien (page does not exist)">Alternative Liste Wien</a> (ALW)
+</p>
+<h2><span class="mw-headline" id="Organisation">Organisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=14" title="Edit section: Organisation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2004 the Greens had about 3,000 members nationwide, although at present there are no uniform regulations for membership. Apart from the members, the Greens rely on a large number of volunteers. The party used to function on the principles of <a href="/wiki/Grassroots_democracy" title="Grassroots democracy">grassroots democracy</a> (<i>Basisdemokratie</i>) and <a href="/w/index.php?title=Rotation_principle&amp;action=edit&amp;redlink=1" class="new" title="Rotation principle (page does not exist)">rotation principle</a> (<i>Rotationsprinzip</i>), but this was stopped in the course of the time. The last basic-democratic element is the <i><a href="/w/index.php?title=Urabstimmung&amp;action=edit&amp;redlink=1" class="new" title="Urabstimmung (page does not exist)">Urabstimmung</a></i>, which is a vote on any issue that can be initiated with the petition of at least 100 members. As of 2003 however, no such vote has taken place.
+</p><p>The highest body is the <i>Bundeskongress</i> (Federal Congress), which convenes at least once a year. All state organisations send delegates, also the immigrants-organisation is allowed to send delegates as "the tenth <a href="/wiki/States_of_Austria" title="States of Austria">Austrian state</a>". The Federal Congress decides the electoral lists for the <a href="/wiki/National_Council_of_Austria" class="mw-redirect" title="National Council of Austria">National Council</a> elections or elections to the <a href="/wiki/European_parliament" class="mw-redirect" title="European parliament">European parliament</a>. The congress also elects the federal spokesperson (<i>BundesprecherIn</i>). The congress also decides the party program and sets the party guidelines.
+</p><p>The <i>Bundesvorstand</i> (Federal <a href="/wiki/Board_of_Trustees" class="mw-redirect" title="Board of Trustees">Board of Trustees</a>) has in the last few years developed itself into the actual decision-making centre. It meets at least once a week, mostly on Tuesdays, and determines the guidelines of the daily politics. The board also has decides over the party finances.
+The extended federal board of trustees (<i>Erweiterter Bundesvorstand</i>) consists of a smaller number of delegates from each state and meets at least once a month. It takes care of the implementation of the party-guidelines, which were set by the party congress. It also chooses the representatives of the party spokesperson.
+</p><p>The state organisations (<i>Landesorganisationen</i>) are for their most part organised similarly: There are state meetings, which sometimes convene as a members meeting or a delegates meeting. Similar to the Federal Board of Trustees, there are the State Board of Trustees (<i>Landesvorstände</i>). The party charter also allows for each state group to hold a vote on basic issues as well that affect the whole party.
+</p><p>Independently in the <a href="/wiki/National_Council_of_Austria" class="mw-redirect" title="National Council of Austria">National Council</a> there also exists a Green National Council Club (faction), which can independently specify its guidelines. In the last years however an increasing fusion of the work between party and its club was noticeable. <a href="/w/index.php?title=Michaela_Sburny&amp;action=edit&amp;redlink=1" class="new" title="Michaela Sburny (page does not exist)">Michaela Sburny</a>, successor of <a href="/w/index.php?title=Franz_Raft&amp;action=edit&amp;redlink=1" class="new" title="Franz Raft (page does not exist)">Franz Raft</a> since June 2004 as federal executive manager of the Greens, was allowed to keep her National Council mandate. This means she is allowed to hold two offices at the same time, something that was frowned upon by the Greens previously.
+</p><p>There are different Green or Greenish organisations within the party and associated with it. These include:
+</p>
+<ul><li>The <i>Grünen Andersrum</i> is the <a href="/wiki/Gay" title="Gay">gay</a>-, <a href="/wiki/Lesbian" title="Lesbian">lesbian</a> and <a href="/wiki/Transgender" title="Transgender">transgender</a> organisation, which is organised differently from state to state, and exists in all states except Vorarlberg and Burgenland. In Vienna, the <i>Grünen Andersrum</i> are a part of the party itself.</li>
+<li>The <i><a href="/w/index.php?title=Gr%C3%BCnen_SeniorInnen&amp;action=edit&amp;redlink=1" class="new" title="Grünen SeniorInnen (page does not exist)">Grünen SeniorInnen</a></i> (DGS) is the organisation for <a href="/wiki/Senior_citizen" class="mw-redirect" title="Senior citizen">senior citizens</a>. It was founded on March 9, 2001 in Vienna. The DGS fights for a policy more friendly to senior citizens and their right to lead an active, fulfilling and self-determined life.</li>
+<li>The <i><a href="/w/index.php?title=Initiative_Gr%C3%BCne_MigrantInnen&amp;action=edit&amp;redlink=1" class="new" title="Initiative Grüne MigrantInnen (page does not exist)">Initiative Grüne MigrantInnen</a></i> (IGM) is the Green group for <a href="/wiki/Immigrant" class="mw-redirect" title="Immigrant">immigrants</a> in Austria. Their demands are a facilitation of <a href="/wiki/Racial_integration" title="Racial integration">integration</a> into life in Austria, <a href="/wiki/Civil_rights" class="mw-redirect" title="Civil rights">equal rights</a> and <a href="/wiki/Equal_opportunity" title="Equal opportunity">equal opportunities</a>, fight against <a href="/wiki/Racism" title="Racism">racism</a> and other issues concerning migrants.</li>
+<li>The <i><a href="/w/index.php?title=Gr%C3%BCne_und_Alternative_Studierende&amp;action=edit&amp;redlink=1" class="new" title="Grüne und Alternative Studierende (page does not exist)">Grüne und Alternative Studierende</a></i> (GRAS) is a separate party which candidates in the elections for the <a href="/wiki/Austrian_National_Union_of_Students" class="mw-redirect" title="Austrian National Union of Students">Austrian National Union of Students</a> (<i>Österreichische HochschülerInnenschaft</i> – ÖH). There they are the biggest faction, together with the <a href="/wiki/Socialist_Students_of_Austria" title="Socialist Students of Austria">Socialist Students of Austria</a> (<i>Verband Sozialistischer StudentInnen Österreichs</i> – VSStÖ) they form the executive committee of the Austrian National Union for Students.</li>
+<li>The <i><a href="/w/index.php?title=Gr%C3%BCnalternative_Jugend&amp;action=edit&amp;redlink=1" class="new" title="Grünalternative Jugend (page does not exist)">Grünalternative Jugend</a></i> (GAJ) is the youth organisation of the Green party. The GAJ existed since the 1990s. It is a member of the <a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a> (FYEG). The GAJ sees itself rather as extreme left. The organisation is subdivided into smaller groups for each state.</li>
+<li>The <i><a href="/w/index.php?title=Gr%C3%BCne_Frauenorganisation&amp;action=edit&amp;redlink=1" class="new" title="Grüne Frauenorganisation (page does not exist)">Grüne Frauenorganisation</a></i> is the organisation for women. As of 2005, it does not exist yet in every state.</li>
+<li><i>ECO Students</i> is a Green student's organisation, which currently only exists in <a href="/wiki/Styria" title="Styria">Styria</a>.</li>
+<li>The <i>Grüne Wirtschaft</i> is the Green economic organisation and runs in the elections for the Economic Parliament of the <a href="/wiki/Austrian_Federal_Economic_Chamber" class="mw-redirect" title="Austrian Federal Economic Chamber">Austrian Federal Economic Chamber</a> (<i>Wirtschaftskammer Österreich</i> – WKÖ).</li>
+<li>The <i><a href="/w/index.php?title=Alternative_und_Unabh%C3%A4ngige_GewerkschafterInnen&amp;action=edit&amp;redlink=1" class="new" title="Alternative und Unabhängige GewerkschafterInnen (page does not exist)">Alternative und Unabhängige GewerkschafterInnen</a></i> (AUGE/UG) is the Green <a href="/wiki/Labour_union" class="mw-redirect" title="Labour union">labour union</a>. It runs in the elections for the labour parliament of the <a href="/w/index.php?title=Austrian_Labour_Chamber&amp;action=edit&amp;redlink=1" class="new" title="Austrian Labour Chamber (page does not exist)">Austrian Labour Chamber</a> (<i>Arbeiterkammer</i> – AK).</li></ul>
+<p>The education and training of new Green politicians is done by the <i><a href="/w/index.php?title=Gr%C3%BCne_Bildungswerkstatt&amp;action=edit&amp;redlink=1" class="new" title="Grüne Bildungswerkstatt (page does not exist)">Grüne Bildungswerkstatt</a></i>, which is an independent <a href="/wiki/Voluntary_association" title="Voluntary association">voluntary association</a>. The <i>Grüne Bildungswerkstatt</i> is financed by the republic, as regulated by Austrian law for the equal treatment of all parliamentary parties.
+</p>
+<h2><span class="mw-headline" id="Electoral_results">Electoral results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=15" title="Edit section: Electoral results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Parliament_.28Parlament.29"></span><span class="mw-headline" id="Parliament_(Parlament)">Parliament (<i>Parlament</i>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=16" title="Edit section: Parliament (Parlament)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<td colspan="7"><a href="/wiki/National_Council_of_Austria" class="mw-redirect" title="National Council of Austria">National Council</a> (<i>Nationalrat</i>)
+</td></tr>
+<tr>
+<th>Election year
+</th>
+<th># of<br />overall votes
+</th>
+<th>% of<br />overall vote
+</th>
+<th># of<br />overall seats won
+</th>
+<th>+/–
+</th>
+<th>Government
+</th></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_1983" title="Austrian legislative election, 1983">1983</a>
+</th>
+<td>159,616
+</td>
+<td>3.4
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>0
+</td>
+<td style="background:#FA8072; color:black; vertical-align: middle; text-align: center;" class="table-no">Extra-parliamentary
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_1986" title="Austrian legislative election, 1986">1986</a>
+</th>
+<td>234,028
+</td>
+<td>4.8 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">8 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 8
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_1990" title="Austrian legislative election, 1990">1990</a>
+</th>
+<td>225,084
+</td>
+<td>4.8 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">10 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_1994" title="Austrian legislative election, 1994">1994</a>
+</th>
+<td>338,538
+</td>
+<td>7.3 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">13 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 7%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_1995" title="Austrian legislative election, 1995">1995</a>
+</th>
+<td>233,208
+</td>
+<td>4.8 (#5)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">9 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 4
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_1999" title="Austrian legislative election, 1999">1999</a>
+</th>
+<td>342,260
+</td>
+<td>7.4 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">14 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 8%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 5
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_2002" title="Austrian legislative election, 2002">2002</a>
+</th>
+<td>464,980
+</td>
+<td>9.5 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">17 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 9%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_2006" title="Austrian legislative election, 2006">2006</a>
+</th>
+<td>520,130
+</td>
+<td>11.1 (#3)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">21 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 11%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 4
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_2008" title="Austrian legislative election, 2008">2008</a>
+</th>
+<td>509,936
+</td>
+<td>10.4 (#5)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">20 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 11%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_2013" title="Austrian legislative election, 2013">2013</a>
+</th>
+<td>582,657
+</td>
+<td>12.4 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">24 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 13%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 4
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">in opposition
+</td></tr>
+<tr>
+<th><a href="/wiki/Austrian_legislative_election,_2017" title="Austrian legislative election, 2017">2017</a>
+</th>
+<td>192,638
+</td>
+<td>3.8 (#6)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 183</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 24
+</td>
+<td style="background:#FA8072; color:black; vertical-align: middle; text-align: center;" class="table-no">Extra-parliamentary
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="President">President</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=17" title="Edit section: President">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/Austrian_presidential_election,_2016" title="Austrian presidential election, 2016">2016 Austrian presidential election</a>, <a href="/wiki/Alexander_Van_der_Bellen" title="Alexander Van der Bellen">Alexander Van der Bellen</a> won the election with 50.35% of the votes and defeated <a href="/wiki/Norbert_Hofer" title="Norbert Hofer">Norbert Hofer</a> the <a href="/wiki/Freedom_Party_of_Austria" title="Freedom Party of Austria">Freedom Party of Austria</a> politician who received 49.65% of the vote.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Van der Bellen will become the first president from the Greens. On 1 July, the Constitutional Court overturned the result of the election and ordered a re-do because of irregularities during the counting process. On 4 December 2016 Van der Bellen won the re-run of the second round with 53.79% of the votes to Hofer's 46.21%.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="2">Election
+</th>
+<th rowspan="2">Candidate
+</th>
+<th colspan="3">First round result
+</th>
+<th colspan="3">Second round result
+</th></tr>
+<tr>
+<th>Votes
+</th>
+<th>%
+</th>
+<th>Result
+</th>
+<th>Votes
+</th>
+<th>%
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td><a href="/wiki/Austrian_presidential_election,_1986" title="Austrian presidential election, 1986">1986</a>
+</td>
+<td><a href="/wiki/Freda_Meissner-Blau" title="Freda Meissner-Blau">Freda Meissner-Blau</a>
+</td>
+<td>259,689
+</td>
+<td>5.5%
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">3rd place
+</td>
+<td colspan="3" bgcolor="lightgrey">
+</td></tr>
+<tr>
+<td><a href="/wiki/Austrian_presidential_election,_1992" title="Austrian presidential election, 1992">1992</a>
+</td>
+<td><a href="/wiki/Robert_Jungk" title="Robert Jungk">Robert Jungk</a>
+</td>
+<td>266,954
+</td>
+<td>5.7%
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">4th place
+</td>
+<td colspan="3" bgcolor="lightgrey">
+</td></tr>
+<tr>
+<td><a href="/wiki/Austrian_presidential_election,_1998" title="Austrian presidential election, 1998">1998</a>
+</td>
+<td><a href="/w/index.php?title=Gertraud_Knoll&amp;action=edit&amp;redlink=1" class="new" title="Gertraud Knoll (page does not exist)">Gertraud Knoll</a>
+</td>
+<td>566,551
+</td>
+<td>13.59%
+</td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">2nd place
+</td>
+<td colspan="3" bgcolor="lightgrey">
+</td></tr>
+<tr>
+<td><a href="/wiki/Austrian_presidential_election,_2004" title="Austrian presidential election, 2004">2004</a>
+</td>
+<td colspan="7" bgcolor="lightgrey">No candidate
+</td></tr>
+<tr>
+<td><a href="/wiki/Austrian_presidential_election,_2010" title="Austrian presidential election, 2010">2010</a>
+</td>
+<td colspan="7" bgcolor="lightgrey">No candidate
+</td></tr>
+<tr>
+<td><a href="/wiki/Austrian_presidential_election,_2016" title="Austrian presidential election, 2016">2016</a>
+</td>
+<td><a href="/wiki/Alexander_Van_der_Bellen" title="Alexander Van der Bellen">Alexander Van der Bellen</a>
+</td>
+<td>913,218
+</td>
+<td>21.3%
+</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Runner-up
+</td>
+<td>2,472,892
+</td>
+<td>53.8%
+</td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Won
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="European_Parliament">European Parliament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=18" title="Edit section: European Parliament">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Election year
+</th>
+<th># of<br />overall votes
+</th>
+<th>% of<br />overall vote
+</th>
+<th># of<br />overall seats won
+</th>
+<th>+/–
+</th></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_1996_(Austria)" title="European Parliament election, 1996 (Austria)">1996</a>
+</th>
+<td>258,250
+</td>
+<td>6.8 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_1999_(Austria)" title="European Parliament election, 1999 (Austria)">1999</a>
+</th>
+<td>260,273
+</td>
+<td>9.3 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 10%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_2004_(Austria)" title="European Parliament election, 2004 (Austria)">2004</a>
+</th>
+<td>322,429
+</td>
+<td>12.9 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 18</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 11%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_2009_(Austria)" title="European Parliament election, 2009 (Austria)">2009</a>
+</th>
+<td>284,505
+</td>
+<td>9.9 (#5)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 17</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 12%; height: 100%;"></div></div></div><span style="font-size:85%;"><div style="width: 100px;"><span class="nowrap">2 / 19</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 11%; height: 100%;"></div></div></div></span>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0<br /><span style="font-size:85%;"><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0</span>
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_2014_(Austria)" title="European Parliament election, 2014 (Austria)">2014</a>
+</th>
+<td>410,089
+</td>
+<td>14.5 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">3 / 18</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6BA325; width: 17%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Prominent_members">Prominent members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=19" title="Edit section: Prominent members">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Among the most notable founding members and mentors are or were Professor <a href="/wiki/Alexander_Tollmann" title="Alexander Tollmann">Alexander Tollmann</a>, the painter <a href="/wiki/Friedensreich_Hundertwasser" title="Friedensreich Hundertwasser">Friedensreich Hundertwasser</a>, the late actor <a href="/wiki/Herbert_Fux" title="Herbert Fux">Herbert Fux</a>, the mayor of <a href="/wiki/Steyregg" title="Steyregg">Steyregg</a> <a href="/wiki/Josef_Buchner" title="Josef Buchner">Josef Buchner</a> (the first Green mayor in Austria – in 1987 excluded from the Green parliamentary club), <a href="/wiki/Freda_Meissner-Blau" title="Freda Meissner-Blau">Freda Meissner-Blau</a> and <a href="/wiki/G%C3%BCnther_Nenning" title="Günther Nenning">Günther Nenning</a>, with <a href="/wiki/Nobel_prize" class="mw-redirect" title="Nobel prize">Nobel prize</a> laureate <a href="/wiki/Konrad_Lorenz" title="Konrad Lorenz">Konrad Lorenz</a> supporting the 1984 protests at Hainburg.
+</p><p>Today, Green politicians include (in alphabetical order)
+</p>
+<ul><li><a href="/w/index.php?title=Rudolf_Anschober&amp;action=edit&amp;redlink=1" class="new" title="Rudolf Anschober (page does not exist)">Rudolf Anschober</a> (State councillor of Upper Austria)</li>
+<li><a href="/w/index.php?title=Thomas_Blimlinger&amp;action=edit&amp;redlink=1" class="new" title="Thomas Blimlinger (page does not exist)">Thomas Blimlinger</a> (Mayor of the Viennese district Neubau)</li>
+<li><a href="/w/index.php?title=Dieter_Brosz&amp;action=edit&amp;redlink=1" class="new" title="Dieter Brosz (page does not exist)">Dieter Brosz</a> (former <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">MP</a> (former member of the lower house National Council), spokesman for education)</li>
+<li><a href="/wiki/Christoph_Chorherr" title="Christoph Chorherr">Christoph Chorherr</a> (Member of the state assembly of Vienna)</li>
+<li><a href="/wiki/Eva_Glawischnig" class="mw-redirect" title="Eva Glawischnig">Eva Glawischnig-Piesczek</a> (former MP, former federal spokeswoman)</li>
+<li><a href="/wiki/Ulrike_Lunacek" title="Ulrike Lunacek">Ulrike Lunacek</a> (MEP, spokeswoman for foreign policy)</li>
+<li><a href="/w/index.php?title=Karl_Oellinger&amp;action=edit&amp;redlink=1" class="new" title="Karl Oellinger (page does not exist)">Karl Oellinger</a> (former MP, deputy federal speaker)</li>
+<li><a href="/wiki/Madeleine_Petrovic" title="Madeleine Petrovic">Madeleine Petrovic</a> (Club chairperson of the Lower Austrian Greens)</li>
+<li><a href="/w/index.php?title=Johannes_Rauch&amp;action=edit&amp;redlink=1" class="new" title="Johannes Rauch (page does not exist)">Johannes Rauch</a>, (Club chairperson and state speaker for Vorarlberg)</li>
+<li><a href="/w/index.php?title=Marie_Ringler&amp;action=edit&amp;redlink=1" class="new" title="Marie Ringler (page does not exist)">Marie Ringler</a>, (former Member of the Viennese state assembly, spokeswoman for culture and technology)</li>
+<li><a href="/w/index.php?title=Michaela_Sburny&amp;action=edit&amp;redlink=1" class="new" title="Michaela Sburny (page does not exist)">Michaela Sburny</a> (former MP, Spokeswoman for the economy, former Federal Executive Manager of the party)</li>
+<li><a href="/wiki/Terezija_Stoisits" title="Terezija Stoisits">Terezija Stoisits</a> (<a href="/wiki/Ombudswoman" class="mw-redirect" title="Ombudswoman">Ombudswoman</a>, former MP and spokeswoman for minorities)</li>
+<li><a href="/w/index.php?title=Ingrid_Lechner_Sonnek&amp;action=edit&amp;redlink=1" class="new" title="Ingrid Lechner Sonnek (page does not exist)">Ingrid Lechner Sonnek</a> (Club chairperson of the Styrian Greens)</li>
+<li><a href="/wiki/Alexander_Van_der_Bellen" title="Alexander Van der Bellen">Alexander Van der Bellen</a> (former Federal Speaker, club chairman in the National Council), President of Austria</li>
+<li><a href="/wiki/Maria_Vassilakou" title="Maria Vassilakou">Maria Vassilakou</a> (Club chairperson of the Viennese Greens, Vice Mayor)</li>
+<li><a href="/w/index.php?title=Georg_Willi&amp;action=edit&amp;redlink=1" class="new" title="Georg Willi (page does not exist)">Georg Willi</a> (Club chairperson and state speaker for the Tyrol)</li></ul>
+<h3><span class="mw-headline" id="Members_of_the_European_Parliament">Members of the European Parliament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=20" title="Edit section: Members of the European Parliament">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Mercedes_Echerer" title="Mercedes Echerer">Mercedes Echerer</a> (<a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">MEP</a> from 1999–2004)</li>
+<li><a href="/wiki/Eva_Lichtenberger" title="Eva Lichtenberger">Eva Lichtenberger</a> (MEP since 2004, member of the Austrian national convention)</li>
+<li><a href="/wiki/Johannes_Voggenhuber" title="Johannes Voggenhuber">Johannes Voggenhuber</a> (MEP from 1995–2009, Member of the <a href="/wiki/European_Convention_(1999%E2%80%932000)" title="European Convention (1999–2000)">European Convention</a>, member of the <a href="/wiki/Charter_of_Fundamental_Rights_of_the_European_Union" title="Charter of Fundamental Rights of the European Union">Charter of Fundamental Rights of the European Union</a>)</li>
+<li><a href="/wiki/Ulrike_Lunacek" title="Ulrike Lunacek">Ulrike Lunacek</a> (2009-2017)</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/List_of_environmental_organizations" title="List of environmental organizations">List of environmental organizations</a></li>
+<li><a href="/wiki/Anti-nuclear_movement_in_Austria" title="Anti-nuclear movement in Austria">Anti-nuclear movement in Austria</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Nordsieck, Wolfram (2017). <a rel="nofollow" class="external text" href="http://parties-and-elections.eu/austria.html">"Austria"</a>. <i>Parties and Elections in Europe</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Parties+and+Elections+in+Europe&amp;rft.atitle=Austria&amp;rft.date=2017&amp;rft.aulast=Nordsieck&amp;rft.aufirst=Wolfram&amp;rft_id=http%3A%2F%2Fparties-and-elections.eu%2Faustria.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Greens+%E2%80%93+The+Green+Alternative" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.europarl.europa.eu/news/en/news-room/20170213STO62291/alexander-van-der-bellen-the-european-idea-is-worth-the-effort">"Alexander Van der Bellen: "The European idea is worth the effort" - News - European Parliament"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alexander+Van+der+Bellen%3A+%22The+European+idea+is+worth+the+effort%22+-+News+-+European+Parliament&amp;rft_id=http%3A%2F%2Fwww.europarl.europa.eu%2Fnews%2Fen%2Fnews-room%2F20170213STO62291%2Falexander-van-der-bellen-the-european-idea-is-worth-the-effort&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Greens+%E2%80%93+The+Green+Alternative" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090420005517/https://www.gruene.at/uploads/media/grundsatzprogramm2001.pdf">"Grundsatzprogramm der Grünen"</a> &#91;Basic Programme of the Greens&#93; <span class="cs1-format">(PDF)</span> (in German). 20th National Congress of the Greens. July 7–8, 2001. Archived from <a rel="nofollow" class="external text" href="https://www.gruene.at/uploads/media/grundsatzprogramm2001.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2009-04-20.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grundsatzprogramm+der+Gr%C3%BCnen&amp;rft.pub=20th+National+Congress+of+the+Greens&amp;rft.date=2001-07-07%2F2001-07-08&amp;rft_id=https%3A%2F%2Fwww.gruene.at%2Fuploads%2Fmedia%2Fgrundsatzprogramm2001.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Greens+%E2%80%93+The+Green+Alternative" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.parlament.gv.at/WWER/NR/SITZPLANNR/index.shtml">https://www.parlament.gv.at/WWER/NR/SITZPLANNR/index.shtml</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.thelocal.at/20171015/live-austria-goes-to-the-polls-with-whizz-kid-kurz-predicted-to-win">"AS IT HAPPENED: 'Whizz-kid' Kurz's ÖVP clearly wins Austrian election, as voters turn right"</a>. <i>The Local</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Local&amp;rft.atitle=AS+IT+HAPPENED%3A+%27Whizz-kid%27+Kurz%27s+%C3%96VP+clearly+wins+Austrian+election%2C+as+voters+turn+right&amp;rft_id=https%3A%2F%2Fwww.thelocal.at%2F20171015%2Flive-austria-goes-to-the-polls-with-whizz-kid-kurz-predicted-to-win&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Greens+%E2%80%93+The+Green+Alternative" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.parlament.gv.at/WWER/BR/SITZPLANBR/index.shtml">https://www.parlament.gv.at/WWER/BR/SITZPLANBR/index.shtml</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.parlament.gv.at/WWER/BR/SITZPLANBR/index.shtml">https://www.parlament.gv.at/WWER/BR/SITZPLANBR/index.shtml</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-europe-36362505">"Austria far-right narrowly loses poll, Van der Bellen elected president - BBC News"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=Austria+far-right+narrowly+loses+poll%2C+Van+der+Bellen+elected+president+-+BBC+News&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-36362505&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Greens+%E2%80%93+The+Green+Alternative" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Austrian_Green_Party" class="extiw" title="commons:Category:Austrian Green Party">Austrian Green Party</a> at Wikimedia Commons
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.gruene.at/">Die Grünen</a> - official website (in German)</li>
+<li><a rel="nofollow" class="external text" href="http://www.europa.gruene.at">Austrian Greens in the European Parliament</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20031206081955/http://www.europeangreens.org/peopleandparties/members/austria.html">Die Grünen Austria at European Greens</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.photoglobe.info/ebooks/austria/cstudies_austria_0140.html">The Green Parties</a> Country Studies - Austria</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Leaders_of_the_Austrian_Green_Party" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Austrian_Green_Leaders" title="Template:Austrian Green Leaders"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Austrian_Green_Leaders" title="Template talk:Austrian Green Leaders"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Austrian_Green_Leaders&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Leaders_of_the_Austrian_Green_Party" style="font-size:114%;margin:0 4em">Leaders of the <a class="mw-selflink selflink">Austrian Green Party</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Johannes_Voggenhuber" title="Johannes Voggenhuber">Johannes Voggenhuber</a></li>
+<li><a href="/wiki/Peter_Pilz" title="Peter Pilz">Peter Pilz</a></li>
+<li><a href="/wiki/Madeleine_Petrovic" title="Madeleine Petrovic">Madeleine Petrovic</a></li>
+<li><a href="/wiki/Christoph_Chorherr" title="Christoph Chorherr">Christoph Chorherr</a></li>
+<li><a href="/wiki/Alexander_Van_der_Bellen" title="Alexander Van der Bellen">Alexander Van der Bellen</a></li>
+<li><a href="/wiki/Eva_Glawischnig-Piesczek" title="Eva Glawischnig-Piesczek">Eva Glawischnig-Piesczek</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Political_parties_in_Austria" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Austrian_political_parties" title="Template:Austrian political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Austrian_political_parties" title="Template talk:Austrian political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Austrian_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Political_parties_in_Austria" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Austria" title="List of political parties in Austria">Political parties in Austria</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/National_Council_of_Austria" class="mw-redirect" title="National Council of Austria">National Council</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrian_People%27s_Party" title="Austrian People&#39;s Party">Austrian People's Party</a> (62)</li>
+<li><a href="/wiki/Social_Democratic_Party_of_Austria" title="Social Democratic Party of Austria">Social Democratic Party of Austria</a> (52)</li>
+<li><a href="/wiki/Freedom_Party_of_Austria" title="Freedom Party of Austria">Freedom Party of Austria</a> (51)</li>
+<li><a href="/wiki/NEOS_%E2%80%93_The_New_Austria_and_Liberal_Forum" title="NEOS – The New Austria and Liberal Forum">NEOS – The New Austria and Liberal Forum</a> (10)</li>
+<li><a href="/wiki/Peter_Pilz_List" title="Peter Pilz List">Peter Pilz List</a> (8)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Federal_Council_of_Austria" class="mw-redirect" title="Federal Council of Austria">Federal Council</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrian_People%27s_Party" title="Austrian People&#39;s Party">Austrian People's Party</a> (22)</li>
+<li><a href="/wiki/Social_Democratic_Party_of_Austria" title="Social Democratic Party of Austria">Social Democratic Party of Austria</a> (20)</li>
+<li><a href="/wiki/Freedom_Party_of_Austria" title="Freedom Party of Austria">Freedom Party of Austria</a> (12)</li>
+<li><a class="mw-selflink selflink">The Greens – The Green Alternative</a> (4)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_Austria,_2014%E2%80%9319" title="List of members of the European Parliament for Austria, 2014–19">European Parliament</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrian_People%27s_Party" title="Austrian People&#39;s Party">Austrian People's Party</a> (5)</li>
+<li><a href="/wiki/Social_Democratic_Party_of_Austria" title="Social Democratic Party of Austria">Social Democratic Party of Austria</a> (5)</li>
+<li><a href="/wiki/Freedom_Party_of_Austria" title="Freedom Party of Austria">Freedom Party of Austria</a> (4)</li>
+<li><a class="mw-selflink selflink">The Greens – The Green Alternative</a> (3)</li>
+<li><a href="/wiki/NEOS_%E2%80%93_The_New_Austria_and_Liberal_Forum" title="NEOS – The New Austria and Liberal Forum">NEOS – The New Austria and Liberal Forum</a> (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Minor, regional<br />or historical</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Party_of_Labour_of_Austria" title="Party of Labour of Austria">Party of Labour of Austria</a></li>
+<li><a href="/wiki/Animal_Rights_Party" title="Animal Rights Party">Animal Rights Party</a></li>
+<li><a href="/wiki/Black-Yellow_Alliance" title="Black-Yellow Alliance">Black-Yellow Alliance</a></li>
+<li><a href="/wiki/Christian_Party_of_Austria" title="Christian Party of Austria">Christian Party of Austria</a></li>
+<li><a href="/wiki/Citizens%27_Forum_Austria" title="Citizens&#39; Forum Austria">Citizens' Forum Austria</a></li>
+<li><a href="/wiki/Communist_Party_of_Austria" title="Communist Party of Austria">Communist Party of Austria</a>/<a href="/wiki/KP%C3%96_Plus" title="KPÖ Plus">KPÖ Plus</a></li>
+<li><a href="/wiki/Enotna_Lista" class="mw-redirect" title="Enotna Lista">Enotna Lista</a></li>
+<li><a href="/wiki/Hans-Peter_Martin%27s_List" title="Hans-Peter Martin&#39;s List">Hans-Peter Martin's List</a></li>
+<li><a href="/wiki/Left_(Austria)" title="Left (Austria)">Left</a></li>
+<li><a href="/wiki/Alliance_for_the_Future_of_Austria" title="Alliance for the Future of Austria">Alliance for the Future of Austria</a></li>
+<li><a href="/wiki/List_Burgenland" title="List Burgenland">List Burgenland</a></li>
+<li><a href="/wiki/My_Vote_Counts!" title="My Vote Counts!">My Vote Counts!</a></li>
+<li><a href="/wiki/Neutral_Free_Austria_Federation" title="Neutral Free Austria Federation">Neutral Free Austria Federation</a></li>
+<li><a href="/wiki/Pirate_Party_of_Austria" title="Pirate Party of Austria">Pirate Party of Austria</a></li>
+<li><a href="/wiki/Save_Austria" title="Save Austria">Save Austria</a></li>
+<li><a href="/wiki/Socialist_Left_Party_(Austria)" title="Socialist Left Party (Austria)">Socialist Left Party</a></li>
+<li><a href="/wiki/The_Reform_Conservatives" title="The Reform Conservatives">The Reform Conservatives</a></li>
+<li><a href="/wiki/The_Social_Liberals_(Austria)" title="The Social Liberals (Austria)">The Social Liberals</a></li>
+<li><a href="/wiki/EU_Exit_Party" title="EU Exit Party">EU Exit Party</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Politics_of_Austria" title="Politics of Austria">Politics of Austria</a></li>
+<li><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></li>
+<li><a href="/wiki/List_of_political_parties_by_country" class="mw-redirect" title="List of political parties by country">List of political parties by country</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_parties_by_country" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_parties" title="Template:Green parties"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_parties" title="Template talk:Green parties"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_parties&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_parties_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_party" title="Green party">Green parties</a> by country</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/w/index.php?title=Ecology_and_Liberty_Party&amp;action=edit&amp;redlink=1" class="new" title="Ecology and Liberty Party (page does not exist)">Algeria</a></i></li>
+<li><a href="/w/index.php?title=Partido_Nacional_Ecol%C3%B3gico_de_Angola&amp;action=edit&amp;redlink=1" class="new" title="Partido Nacional Ecológico de Angola (page does not exist)">Angola</a></li>
+<li><a href="/wiki/The_Greens_(Benin)" title="The Greens (Benin)">Benin</a></li>
+<li>Burkina Faso
+<ul><li><a href="/wiki/Ecologist_Party_for_the_Development_of_Burkina" title="Ecologist Party for the Development of Burkina">Ecologist Party</a></li>
+<li><a href="/wiki/Greens_of_Burkina" title="Greens of Burkina">Greens of Burkina</a></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Burkina" title="Rally of the Ecologists of Burkina">Rally of the Ecologists</a></li></ul></li>
+<li><a href="/w/index.php?title=Burundi_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Burundi Green Movement (page does not exist)">Burundi</a></li>
+<li><a href="/w/index.php?title=Mouvement_des_Verts_de_Centrafique&amp;action=edit&amp;redlink=1" class="new" title="Mouvement des Verts de Centrafique (page does not exist)">Central African Republic</a></li>
+<li><a href="/w/index.php?title=Union_des_Ecologistes_Tchadiens_-_LES_VERTS&amp;action=edit&amp;redlink=1" class="new" title="Union des Ecologistes Tchadiens - LES VERTS (page does not exist)">Chad</a></li>
+<li><a href="/w/index.php?title=Defense_de_l%27Environment_Camerounais&amp;action=edit&amp;redlink=1" class="new" title="Defense de l&#39;Environment Camerounais (page does not exist)">Cameroon</a></li>
+<li><a href="/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens" title="Rally of Congolese Ecologists – The Greens">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Egyptian_Green_Party" title="Egyptian Green Party">Egypt</a></li>
+<li><a href="/w/index.php?title=Gabon_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Gabon Green Party (page does not exist)">Gabon</a></li>
+<li><a href="/w/index.php?title=Ghana_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Ghana Green Movement (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Parti_des_Ecologistes_Guineens&amp;action=edit&amp;redlink=1" class="new" title="Parti des Ecologistes Guineens (page does not exist)">Guinea</a></li>
+<li><i><a href="/w/index.php?title=Liga_Guineense_de_Protec%C3%A7ao_Ecologica&amp;action=edit&amp;redlink=1" class="new" title="Liga Guineense de Protecçao Ecologica (page does not exist)">Guinea-Bissau</a></i></li>
+<li><a href="/w/index.php?title=Parti_pour_la_Protection_de_l%27Environnement&amp;action=edit&amp;redlink=1" class="new" title="Parti pour la Protection de l&#39;Environnement (page does not exist)">Ivory Coast</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Kenya</a></li>
+<li><a href="/w/index.php?title=Parti_Vert_Hasin%27l_Madagasikara&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Hasin&#39;l Madagasikara (page does not exist)">Madagascar</a></li>
+<li><a href="/wiki/Ecologist_Party_of_Mali" title="Ecologist Party of Mali">Mali</a></li>
+<li><a href="/wiki/Les_Verts_Fraternels" title="Les Verts Fraternels">Mauritius</a></li>
+<li>Morocco
+<ul><li><a href="/w/index.php?title=The_Greens_(Morocco)&amp;action=edit&amp;redlink=1" class="new" title="The Greens (Morocco) (page does not exist)">The Greens</a></li>
+<li><i><a href="/wiki/Izigzawen" title="Izigzawen">Izigzawen</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Party_of_Mozambique" title="Greens Party of Mozambique">Mozambique</a></li>
+<li><a href="/w/index.php?title=Rassemblement_pour_un_Sahel_Vert&amp;action=edit&amp;redlink=1" class="new" title="Rassemblement pour un Sahel Vert (page does not exist)">Niger</a></li>
+<li><a href="/w/index.php?title=Green_Party_of_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Green Party of Nigeria (page does not exist)">Nigeria</a></li>
+<li><i><a href="/wiki/Democratic_Green_Party_of_Rwanda" title="Democratic Green Party of Rwanda">Rwanda</a></i></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Senegal" title="Rally of the Ecologists of Senegal">Senegal</a></li>
+<li><a href="/w/index.php?title=Sierra_Leone_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Sierra Leone Green Party (page does not exist)">Sierra Leone</a></li>
+<li>Somalia
+<ul><li><i><a href="/wiki/Somalia_Green_Party" title="Somalia Green Party">Green Party</a></i></li>
+<li><a href="/w/index.php?title=Democratic_Green_Party_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Democratic Green Party of Somalia (page does not exist)">Democratic Green Party</a></li></ul></li>
+<li>South Africa
+<ul><li><a href="/w/index.php?title=South_African_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="South African Green Alliance (page does not exist)">Green Alliance</a></li>
+<li><i><a href="/wiki/Green_Party_of_South_Africa" title="Green Party of South Africa">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=Afrique_Togo_Ecologie&amp;action=edit&amp;redlink=1" class="new" title="Afrique Togo Ecologie (page does not exist)">Togo</a></li>
+<li><a href="/wiki/Green_Tunisia_Party" title="Green Tunisia Party">Tunisia</a></li>
+<li>Uganda
+<ul><li><a href="/w/index.php?title=Ecological_Party_of_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Ecological Party of Uganda (page does not exist)">Ecological Party</a></li>
+<li><i><a href="/wiki/Uganda_Green_Party" title="Uganda Green Party">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=National_Revolution_Green_Party_Zambia&amp;action=edit&amp;redlink=1" class="new" title="National Revolution Green Party Zambia (page does not exist)">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Americas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Initiative" title="Green Initiative">Argentina</a></li>
+<li><i><a href="/wiki/Belize_Green_Independent_Party" title="Belize Green Independent Party">Belize</a></i></li>
+<li><a href="/wiki/Green_Party_of_Bolivia" title="Green Party of Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Green_Party_(Brazil)" title="Green Party (Brazil)">Brazil</a></li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Canada</a></li>
+<li><a href="/wiki/Green_Ecologist_Party_(Chile)" title="Green Ecologist Party (Chile)">Chile</a></li>
+<li><a href="/wiki/Green_Alliance_(Colombia)" title="Green Alliance (Colombia)">Colombia</a></li>
+<li><i><a href="/wiki/Cartago_Green_Party" title="Cartago Green Party">Costa Rica</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Democratic_Unity" class="mw-redirect" title="Green Party of Democratic Unity">Dominican Republic</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_Los_Verdes_de_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Partido Los Verdes de Guatemala (page does not exist)">Guatemala</a></i></li>
+<li><i><a href="/w/index.php?title=Les_Verts_de_Guyane&amp;action=edit&amp;redlink=1" class="new" title="Les Verts de Guyane (page does not exist)">French Guyana</a></i></li>
+<li><i><a href="/w/index.php?title=Parti_Vert_Ha%C3%AFtien&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Haïtien (page does not exist)">Haiti</a></i></li>
+<li><a href="/wiki/Ecologist_Green_Party_of_Mexico" title="Ecologist Green Party of Mexico">Mexico</a></li>
+<li><i><a href="/wiki/Ecologist_Green_Party_of_Nicaragua" title="Ecologist Green Party of Nicaragua">Nicaragua</a></i></li>
+<li><a href="/wiki/Green_Alternative_Ecologist_Party_of_Peru" title="Green Alternative Ecologist Party of Peru">Peru</a></li>
+<li><i><a href="/wiki/Puerto_Ricans_for_Puerto_Rico_Party" title="Puerto Ricans for Puerto Rico Party">Puerto Rico</a></i></li>
+<li><i><a href="/wiki/Saint_Vincent_and_the_Grenadines_Green_Party" title="Saint Vincent and the Grenadines Green Party">Saint Vincent and the Grenadines</a></i></li>
+<li><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">United States</a></li>
+<li>Uruguay
+<ul><li><i><a href="/wiki/Partido_Verde_Eto-Ecologista" title="Partido Verde Eto-Ecologista">Green</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_del_Sol_(Uruguay)&amp;action=edit&amp;redlink=1" class="new" title="Partido del Sol (Uruguay) (page does not exist)">Sol</a></i></li>
+<li><i><a href="/wiki/Partido_Ecologista_Radical_Intransigente" title="Partido Ecologista Radical Intransigente">PERI</a></i></li></ul></li>
+<li><a href="/wiki/Ecological_Movement_of_Venezuela" title="Ecological Movement of Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia-Pacific</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Australia
+<ul><li><a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a></li>
+<li><i><a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">Nuclear Disarmament</a> (defunct)</i></li>
+<li><i><a href="/wiki/United_Tasmania_Group" title="United Tasmania Group">United Tasmania Group</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Fiji" title="Green Party of Fiji">Fiji</a></i></li>
+<li><i><a href="/w/index.php?title=Heiura_Les_Verts_Polynesiens&amp;action=edit&amp;redlink=1" class="new" title="Heiura Les Verts Polynesiens (page does not exist)">French Polynesia</a></i></li>
+<li><a href="/w/index.php?title=Green_Party_Hong_Kong&amp;action=edit&amp;redlink=1" class="new" title="Green Party Hong Kong (page does not exist)">Hong Kong</a></li>
+<li><a href="/w/index.php?title=Uttarakhand_Parivartan_Party&amp;action=edit&amp;redlink=1" class="new" title="Uttarakhand Parivartan Party (page does not exist)">India</a></li>
+<li><i><a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Iran</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Iraq" title="Green Party of Iraq">Iraq</a></i></li>
+<li>Israel
+<ul><li><i><a href="/wiki/Green_Movement_(Israel)" title="Green Movement (Israel)">The Green Movement</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens</a></i></li>
+<li><i><a href="/wiki/Meretz" title="Meretz">Meretz</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Japan" title="Greens Japan">Japan</a></li>
+<li><i>Kurdistan</i></li>
+<li><i><a href="/wiki/Green_Party_of_Lebanon" title="Green Party of Lebanon">Lebanon</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Malaysia</a></i></li>
+<li>Mongolia
+<ul><li><a href="/wiki/Civil_Will%E2%80%93Green_Party" title="Civil Will–Green Party">Civil Will–Green</a></li>
+<li><a href="/wiki/Mongolian_Green_Party" title="Mongolian Green Party">Green Party</a></li></ul></li>
+<li>Nepal
+<ul><li><i><a href="/wiki/Hariyali_Nepal_Party" title="Hariyali Nepal Party">Hariyali</a></i></li>
+<li><a href="/w/index.php?title=Green_Civil_Society&amp;action=edit&amp;redlink=1" class="new" title="Green Civil Society (page does not exist)">Green Civil Society</a></li></ul></li>
+<li><i><a href="/w/index.php?title=The_Pacific_Greens&amp;action=edit&amp;redlink=1" class="new" title="The Pacific Greens (page does not exist)">New Caledonia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Papua_New_Guinea_Greens" title="Papua New Guinea Greens">Papua New Guinea</a></li>
+<li><a href="/w/index.php?title=Green_politics_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Green politics in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Green_Party_Korea" title="Green Party Korea">South Korea</a></li>
+<li><i><a href="/w/index.php?title=Sri_Lanka_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Sri Lanka Green Alliance (page does not exist)">Sri Lanka</a></i></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Taiwan</a></li>
+<li><i><a href="/wiki/Ecological_Movement_of_Uzbekistan" title="Ecological Movement of Uzbekistan">Uzbekistan</a></i></li>
+<li><i><a href="/wiki/Green_Confederation" title="Green Confederation">Vanuatu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">Europe</a><br />
+<div class="hlist">
+<ul><li>(<i><a href="/wiki/European_Green_Party" title="European Green Party">EGP</a></i></li>
+<li><i><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">FYEG</a></i>)</li></ul>
+</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Albania" title="Green Party of Albania">Albania</a></li>
+<li><a href="/wiki/Greens_of_Andorra" title="Greens of Andorra">Andorra</a></li>
+<li><a class="mw-selflink selflink">Austria</a></li>
+<li><i><a href="/wiki/Belarusian_Green_Party" title="Belarusian Green Party">Belarus</a></i></li>
+<li>Belgium
+<ul><li><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Flanders and Brussels</a></li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Wallonia and Brussels</a></li></ul></li>
+<li><i><a href="/wiki/Greens_of_Bosnia_and_Herzegovina" title="Greens of Bosnia and Herzegovina">Bosnia and Herzegovina</a></i></li>
+<li>Bulgaria
+<ul><li><i><a href="/wiki/Green_Party_of_Bulgaria" title="Green Party of Bulgaria">Green Party</a></i></li>
+<li><a href="/wiki/The_Greens_(Bulgaria)" title="The Greens (Bulgaria)">The Greens</a></li></ul></li>
+<li><i><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Croatia</a></i></li>
+<li><a href="/wiki/Movement_of_Ecologists_-_Citizens%27_Cooperation" class="mw-redirect" title="Movement of Ecologists - Citizens&#39; Cooperation">Cyprus</a></li>
+<li>Czech Republic
+<ul><li><i><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party</a></i></li>
+<li><i><a href="/wiki/Liberal-Environmental_Party" title="Liberal-Environmental Party">Liberal-Environmental Party</a></i></li></ul></li>
+<li>Denmark
+<ul><li><a href="/wiki/The_Alternative_(Denmark)" title="The Alternative (Denmark)">The Alternative</a></li>
+<li><i><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Denmark)" title="The Greens (Denmark)">The Greens</a></i></li></ul></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonia</a></li>
+<li><a href="/wiki/Green_League" title="Green League">Finland</a></li>
+<li>France
+<ul><li><i><a href="/wiki/Citizenship,_Action,_Participation_for_the_21st_Century" class="mw-redirect" title="Citizenship, Action, Participation for the 21st Century">CAP21</a></i></li>
+<li><i><a href="/wiki/G%C3%A9n%C3%A9ration_%C3%89cologie" class="mw-redirect" title="Génération Écologie">Génération Écologie</a></i></li>
+<li><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></li>
+<li><i><a href="/wiki/Mouvement_Ecologiste_Ind%C3%A9pendant" class="mw-redirect" title="Mouvement Ecologiste Indépendant">Mouvement Ecologiste Indépendant</a></i></li>
+<li><a href="/wiki/Ecologist_Party" title="Ecologist Party">Ecologist Party</a></li></ul></li>
+<li><a href="/wiki/Green_Party_of_Georgia" title="Green Party of Georgia">Georgia</a></li>
+<li>Germany
+<ul><li><a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a></li>
+<li><i><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></i></li></ul></li>
+<li>Greece
+<ul><li><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></li>
+<li><a href="/wiki/Greens_(Greece)" title="Greens (Greece)">Greens</a></li></ul></li>
+<li>Hungary
+<ul><li><i><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></i></li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></li></ul></li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Iceland</a></li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Ireland</a></li>
+<li>Italy
+<ul><li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><i><a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Kosovo" title="Green Party of Kosovo">Kosovo</a></i></li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvia</a></li>
+<li><i><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Liechtenstein</a></i></li>
+<li>Lithuania
+<ul><li><i><a href="/wiki/Lithuanian_Green_Party" title="Lithuanian Green Party">Green Party</a></i></li>
+<li><i><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></i></li></ul></li>
+<li><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">Luxembourg</a></li>
+<li><i><a href="/wiki/Democratic_Renewal_of_Macedonia" title="Democratic Renewal of Macedonia">Macedonia</a></i></li>
+<li><a href="/wiki/Democratic_Alternative_(Malta)" title="Democratic Alternative (Malta)">Malta</a></li>
+<li><a href="/wiki/Ecologist_Green_Party_(Moldova)" title="Ecologist Green Party (Moldova)">Moldova</a></li>
+<li><i><a href="/wiki/Greens_of_Montenegro" title="Greens of Montenegro">Montenegro</a></i></li>
+<li>Netherlands
+<ul><li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a></li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Norway</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">Poland</a></li>
+<li>Portugal
+<ul><li><i><a href="/wiki/Earth_Party" title="Earth Party">Earth Party</a></i></li>
+<li><a href="/wiki/Ecologist_Party_%22The_Greens%22" title="Ecologist Party &quot;The Greens&quot;">The Greens</a></li>
+<li><i><a href="/wiki/LIVRE" title="LIVRE">LIVRE</a></i></li></ul></li>
+<li>Romania
+<ul><li><i><a href="/wiki/Ecologist_Party_of_Romania" title="Ecologist Party of Romania">Ecologist Party</a></i></li>
+<li><a href="/wiki/Green_Party_(Romania)" title="Green Party (Romania)">Green Party</a></li></ul></li>
+<li>Russia
+<ul><li><a href="/wiki/Civil_United_Green_Alternative" title="Civil United Green Alternative">Civil United Green Alternative</a></li>
+<li><i><a href="/wiki/Russian_Ecological_Party_%22The_Greens%22" title="Russian Ecological Party &quot;The Greens&quot;">Ecological Party "The Greens"</a></i></li>
+<li><i><a href="/wiki/Union_of_Greens_of_Russia" title="Union of Greens of Russia">Union of Greens</a></i></li>
+<li><i><a href="/wiki/Alliance_of_Greens_and_Social_Democrats" class="mw-redirect" title="Alliance of Greens and Social Democrats">Alliance of Greens and Social Democrats</a></i></li></ul></li>
+<li>Serbia
+<ul><li><i><a href="/wiki/Green_Party_(Serbia)" title="Green Party (Serbia)">Green Party</a></i></li>
+<li><i><a href="/wiki/Greens_of_Serbia" title="Greens of Serbia">Greens of Serbia</a></i></li></ul></li>
+<li><a href="/wiki/Green_Party_(Slovakia)" title="Green Party (Slovakia)">Slovakia</a></li>
+<li>Slovenia
+<ul><li><i><a href="/wiki/Greens_of_Slovenia" class="mw-redirect" title="Greens of Slovenia">Greens</a></i></li>
+<li><a href="/wiki/Youth_Party_%E2%80%93_European_Greens" title="Youth Party – European Greens">Youth Party</a></li></ul></li>
+<li>Spain
+<ul><li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Catalonia Greens</a></li>
+<li><i><a href="/wiki/Confederation_of_the_Greens" title="Confederation of the Greens">Confederation of the Greens</a></i></li>
+<li><a href="/wiki/Equo" title="Equo">Equo</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Sweden)" title="Green Party (Sweden)">Sweden</a></li>
+<li><a href="/wiki/Green_Party_of_Switzerland" title="Green Party of Switzerland">Switzerland</a></li>
+<li><i><a href="/wiki/Green_Left_Party" title="Green Left Party">Turkey</a></i></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Ukraine</a></li>
+<li>United Kingdom
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">England and Wales</a> <i>(<a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales</a>)</i></li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scotland</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:lightgreen;"><div><i>Italic</i> links indicate non-members or observers of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_Austria.svg" class="image"><img alt="Flag of Austria.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/24px-Flag_of_Austria.svg.png" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/36px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/48px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/Portal:Austria" title="Portal:Austria">Austria portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="A coloured voting box.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/21px-A_coloured_voting_box.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/42px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" width="24" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/36px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Earth_Day_Flag.png" class="image"><img alt="Earth Day Flag.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/24px-Earth_Day_Flag.png" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/36px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></a></span><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li></ul></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2192
+Cached time: 20180930233000
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.632 seconds
+Real time usage: 0.884 seconds
+Preprocessor visited node count: 3942/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 112655/2097152 bytes
+Template argument size: 6817/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16694/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.237/10.000 seconds
+Lua memory usage: 13.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  626.337      1 -total
+ 18.65%  116.829      1 Template:Lang-de
+ 17.19%  107.649      1 Template:Infobox_political_party
+ 14.19%   88.852      1 Template:Infobox
+ 12.95%   81.095      1 Template:Reflist
+ 11.01%   68.944      5 Template:Cite_web
+  7.76%   48.584     23 Template:Composition_bar
+  4.66%   29.195     23 Template:Min
+  4.28%   26.830      1 Template:More_citations_needed
+  3.69%   23.126      1 Template:Commonscat-inline
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:403401-0!canonical and timestamp 20180930232959 and revision id 860372021
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Greens_–_The_Green_Alternative&amp;oldid=860372021">https://en.wikipedia.org/w/index.php?title=The_Greens_–_The_Green_Alternative&amp;oldid=860372021</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1993_establishments_in_Austria" title="Category:1993 establishments in Austria">1993 establishments in Austria</a></li><li><a href="/wiki/Category:European_Green_Party" title="Category:European Green Party">European Green Party</a></li><li><a href="/wiki/Category:Global_Greens_member_parties" title="Category:Global Greens member parties">Global Greens member parties</a></li><li><a href="/wiki/Category:Green_parties_in_Europe" title="Category:Green parties in Europe">Green parties in Europe</a></li><li><a href="/wiki/Category:Parties_represented_in_the_European_Parliament" title="Category:Parties represented in the European Parliament">Parties represented in the European Parliament</a></li><li><a href="/wiki/Category:Political_parties_established_in_1993" title="Category:Political parties established in 1993">Political parties established in 1993</a></li><li><a href="/wiki/Category:Political_parties_in_Austria" title="Category:Political parties in Austria">Political parties in Austria</a></li><li><a href="/wiki/Category:Pro-European_political_parties" title="Category:Pro-European political parties">Pro-European political parties</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_Timeline" title="Category:Pages using Timeline">Pages using Timeline</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2016" title="Category:Articles needing additional references from October 2016">Articles needing additional references from October 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Greens+%E2%80%93+The+Green+Alternative" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Greens+%E2%80%93+The+Green+Alternative" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:The_Greens_%E2%80%93_The_Green_Alternative" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Greens_%E2%80%93_The_Green_Alternative" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Greens_%E2%80%93_The_Green_Alternative" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;oldid=860372021" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q193178" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Greens_%E2%80%93_The_Green_Alternative&amp;id=860372021" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Greens+%E2%80%93+The+Green+Alternative">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Greens+%E2%80%93+The+Green+Alternative&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Austrian_Green_Party" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D8%B6%D8%B1_-_%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1" title="الخضر - البديل الخضر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF" title="অস্ট্রীয় গ্রীন পার্টি – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/De_Greanan_(%C3%96stareich)" title="De Greanan (Östareich) – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Els_Verds_(%C3%80ustria)" title="Els Verds (Àustria) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Zelen%C3%AD_%E2%80%93_Zelen%C3%A1_alternativa" title="Zelení – Zelená alternativa – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Die_Gr%C3%BCnen_(%C3%98strig)" title="Die Grünen (Østrig) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Die_Gr%C3%BCnen_%E2%80%93_Die_Gr%C3%BCne_Alternative" title="Die Grünen – Die Grüne Alternative – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9F%CE%B9_%CE%A0%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%BF%CE%B9_-_%CE%97_%CE%A0%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%B7_%CE%95%CE%BD%CE%B1%CE%BB%CE%BB%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AE" title="Οι Πράσινοι - Η Πράσινη Εναλλακτική – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Los_Verdes-La_Alternativa_Verde" title="Los Verdes-La Alternativa Verde – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/La_Verduloj_%E2%80%93_La_Verda_Alternativo" title="La Verduloj – La Verda Alternativo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A8%D8%B2%D9%87%D8%A7_%E2%80%93_%D8%B3%D8%A8%D8%B2%D9%87%D8%A7%DB%8C_%D8%A2%D9%84%D8%AA%D8%B1%D9%86%D8%A7%D8%AA%DB%8C%D9%88" title="سبزها – سبزهای آلترناتیو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Les_Verts_-_L%27Alternative_verte" title="Les Verts - L&#039;Alternative verte – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%85%B9%EC%83%89_-_%EB%85%B9%EC%83%89_%EB%8C%80%EC%95%88" title="녹색 - 녹색 대안 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%93%E0%A4%82_-_%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA" title="हरयालीओं - हरा विकल्प – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Partai_Hijau_Austria" title="Partai Hijau Austria – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/I_Verdi_(Austria)" title="I Verdi (Austria) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA_%D7%94%D7%99%D7%A8%D7%95%D7%A7%D7%99%D7%9D_(%D7%90%D7%95%D7%A1%D7%98%D7%A8%D7%99%D7%94)" title="מפלגת הירוקים (אוסטריה) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D1%81%D1%8B%D0%BB%D0%B4%D0%B0%D1%80" title="Жасылдар – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Virides_%E2%80%93_Optio_viridis" title="Virides – Optio viridis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Osztr%C3%A1k_Z%C3%B6ld_P%C3%A1rt" title="Osztrák Zöld Párt – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Die_Gr%C3%BCnen_-_Die_Gr%C3%BCne_Alternative" title="Die Grünen - Die Grüne Alternative – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%B7%91%E3%81%AE%E5%85%9A_(%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2)" title="緑の党 (オーストリア) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Die_Gr%C3%BCnen_%E2%80%93_Die_gr%C3%BCne_Alternative" title="Die Grünen – Die grüne Alternative – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Gr%C3%BCnen" title="Grünen – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zieloni_(Austria)" title="Zieloni (Austria) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Os_Verdes_-_Alternativa_Verde" title="Os Verdes - Alternativa Verde – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Verzii_-_Alternativa_Verde" title="Verzii - Alternativa Verde – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5_(%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F)" title="Зелёные (Австрия) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Green_pairty_o_Austrick" title="Green pairty o Austrick – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Die_Gr%C3%BCnen_(Austria)" title="Die Grünen (Austria) – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Vihre%C3%A4t_(It%C3%A4valta)" title="Vihreät (Itävalta) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/De_gr%C3%B6na_(%C3%96sterrike)" title="De gröna (Österrike) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Die_Gr%C3%BCnen_-_Die_Gr%C3%BCne_Alternative" title="Die Grünen - Die Grüne Alternative – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%9A%E0%AF%81%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF" title="ஆஸ்திரியப் பசுமைக் கட்சி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ye%C5%9Filler_-_Ye%C5%9Fil_Alternatif" title="Yeşiller - Yeşil Alternatif – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D1%96%D1%8F_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%85_(%D0%90%D0%B2%D1%81%D1%82%D1%80%D1%96%D1%8F)" title="Партія Зелених (Австрія) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BB%BF%E5%85%9A%EF%BC%8D%E7%BB%BF%E8%89%B2%E6%9B%BF%E4%BB%A3" title="绿党－绿色替代 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q193178#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 06:25<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Greens_%E2%80%93_The_Green_Alternative&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.632","walltime":"0.884","ppvisitednodes":{"value":3942,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":112655,"limit":2097152},"templateargumentsize":{"value":6817,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16694,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  626.337      1 -total"," 18.65%  116.829      1 Template:Lang-de"," 17.19%  107.649      1 Template:Infobox_political_party"," 14.19%   88.852      1 Template:Infobox"," 12.95%   81.095      1 Template:Reflist"," 11.01%   68.944      5 Template:Cite_web","  7.76%   48.584     23 Template:Composition_bar","  4.66%   29.195     23 Template:Min","  4.28%   26.830      1 Template:More_citations_needed","  3.69%   23.126      1 Template:Commonscat-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":14173208,"limit":52428800}},"cachereport":{"origin":"mw2192","timestamp":"20180930233000","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":978,"wgHostname":"mw2192"});});</script>
+	</body>
+</html>

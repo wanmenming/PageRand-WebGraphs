@@ -1,0 +1,477 @@
+https://en.wikipedia.org/wiki/Jungle_green
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Jungle green - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jungle_green","wgTitle":"Jungle green","wgCurRevisionId":831792664,"wgRevisionId":831792664,"wgArticleId":10387133,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Shades of cyan","Shades of green"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jungle_green","wgRelevantArticleId":10387133,"wgRequestId":"W7FI-ArAIDUAAHX2pMwAAAAN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q373658","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Jungle_green"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jungle_green&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Jungle_green&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jungle_green"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Jungle_green rootpage-Jungle_green skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Jungle green</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Jungle green</th></tr><tr><td colspan="2" style="text-align:center;line-height:12px; background-color:#29AB87; border: 0.1px solid #000000">
+&#160;</td></tr><tr><th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th></tr><tr><th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th><td>
+&#35;29AB87</td></tr><tr><th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th><td>
+(41, 171, 135)</td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a href="/wiki/Magenta" title="Magenta">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th><td>
+<span class="nowrap">(76, 0, 21, 33)</span></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th><td>
+<span class="nowrap">(163°, 76%, 67<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>%)</span></td></tr><tr><th scope="row">Source</th><td>
+<a href="/wiki/List_of_Crayola_crayon_colors" title="List of Crayola crayon colors">Crayola</a></td></tr><tr><td colspan="2" style="text-align:center">
+<b>B</b>: Normalized to [0–255] (byte)<br /><b>H</b>: Normalized to [0–100] (hundred)</td></tr></tbody></table>
+<p><b>Jungle green</b> is a <a href="/wiki/Color" title="Color">color</a> that is a rich tone of medium <a href="/wiki/Spring_green" title="Spring green">spring green</a>.
+</p><p>The specific tone of the color <i>jungle green</i> called "jungle green" by Crayola, displayed at right, was formulated by Crayola in 1990.
+</p><p>The first recorded use of <i>jungle green</i> as a color name in <a href="/wiki/English_language" title="English language">English</a> was in 1926.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Variations_of_jungle_green"><span class="tocnumber">1</span> <span class="toctext">Variations of jungle green</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Tropical_rainforest"><span class="tocnumber">1.1</span> <span class="toctext">Tropical rainforest</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Amazon"><span class="tocnumber">1.2</span> <span class="toctext">Amazon</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Deep_jungle_green"><span class="tocnumber">1.3</span> <span class="toctext">Deep jungle green</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Medium_jungle_green"><span class="tocnumber">1.4</span> <span class="toctext">Medium jungle green</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Dark_jungle_green"><span class="tocnumber">1.5</span> <span class="toctext">Dark jungle green</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#In_culture"><span class="tocnumber">2</span> <span class="toctext">In culture</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Variations_of_jungle_green">Variations of jungle green</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=1" title="Edit section: Variations of jungle green">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Tropical_rainforest">Tropical rainforest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=2" title="Edit section: Tropical rainforest">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Tropical Rainforest</th></tr><tr><td colspan="2" style="text-align:center;line-height:12px; background-color:#00755E; border: 0.1px solid #000000">
+&#160;</td></tr><tr><th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th></tr><tr><th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th><td>
+&#35;00755E</td></tr><tr><th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th><td>
+(0, 117, 94)</td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a href="/wiki/Magenta" title="Magenta">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th><td>
+<span class="nowrap">(60, 0, 40, 2)</span></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th><td>
+<span class="nowrap">(120°, 70%, 60%)</span></td></tr><tr><th scope="row">Source</th><td>
+<a href="/wiki/List_of_Crayola_crayon_colors" title="List of Crayola crayon colors">Crayola</a></td></tr><tr><td colspan="2" style="text-align:center">
+<b>B</b>: Normalized to [0–255] (byte)<br /><b>H</b>: Normalized to [0–100] (hundred)</td></tr></tbody></table>
+<p>Displayed at right is the color <b>tropical rainforest</b>.
+</p><p>The color <i>tropical rainforest</i> was formulated by Crayola in 1993.
+</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Amazon">Amazon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=3" title="Edit section: Amazon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Amazon</th></tr><tr><td colspan="2" style="text-align:center;line-height:12px; background-color:#3B7A57; border: 0.1px solid #000000">
+&#160;</td></tr><tr><th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th></tr><tr><th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th><td>
+&#35;3B7A57</td></tr><tr><th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th><td>
+(59, 122, 87)</td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a href="/wiki/Magenta" title="Magenta">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th><td>
+<span class="nowrap">(80, 31, 75, 17)</span></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th><td>
+<span class="nowrap">(147°, 52%, 48<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>%)</span></td></tr><tr><th scope="row">Source</th><td>
+<a rel="nofollow" class="external text" href="http://xona.com/colorlist/">Xona.com</a></td></tr><tr><td colspan="2" style="text-align:center">
+<b>B</b>: Normalized to [0–255] (byte)<br /><b>H</b>: Normalized to [0–100] (hundred)</td></tr></tbody></table>
+<p>Displayed at right is the color <b>amazon</b>.
+</p><p>The first recorded use of <i>amazon</i> as a color name in <a href="/wiki/English_language" title="English language">English</a> was in 1924.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>When the <a rel="nofollow" class="external text" href="http://xona.com/colorlist/">Xona.com Color List</a> was formulated in 2001, "Amazon" was included as one of the colors. 
+</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Deep_jungle_green">Deep jungle green</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=4" title="Edit section: Deep jungle green">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Jungle Green (ISCC-NBS #165)</th></tr><tr><td colspan="2" style="text-align:center;line-height:12px; background-color:#004B49; border: 0.1px solid #000000">
+&#160;</td></tr><tr><th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th></tr><tr><th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th><td>
+&#35;004B49</td></tr><tr><th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th><td>
+(0, 75, 73)</td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a href="/wiki/Magenta" title="Magenta">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th><td>
+<span class="nowrap">(100, 0, 3, 71)</span></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th><td>
+<span class="nowrap">(178°, 100%, 29%)</span></td></tr><tr><th scope="row">Source</th><td>
+<a rel="nofollow" class="external text" href="http://tx4.us/nbs/nbs-j.htm">ISCC-NBS</a></td></tr><tr><td colspan="2" style="text-align:center">
+<b>B</b>: Normalized to [0–255] (byte)<br /><b>H</b>: Normalized to [0–100] (hundred)</td></tr></tbody></table>
+<p>Displayed at right is the color <b>deep jungle green</b>, that tone of jungle green shown as <i>jungle green</i> on color sample #165 of the ISCC-NBS color list.  
+</p><p>The source of this color is the following website, the <a href="/wiki/ISCC-NBS" class="mw-redirect" title="ISCC-NBS">ISCC-NBS</a> Dictionary of Color Names (1955) (a site for <a href="/wiki/Stamp_collector" class="mw-redirect" title="Stamp collector">stamp collectors</a> to identify the colors of their stamps)--Color Sample of [Deep] Jungle Green (color sample #165):
+<a rel="nofollow" class="external autonumber" href="http://tx4.us/nbs/nbs-j.htm">[1]</a>
+</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Medium_jungle_green">Medium jungle green</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=5" title="Edit section: Medium jungle green">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Jungle Green (ISCC-NBS #147)</th></tr><tr><td colspan="2" style="text-align:center;line-height:12px; background-color:#1C352D; border: 0.1px solid #000000">
+&#160;</td></tr><tr><th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th></tr><tr><th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th><td>
+&#35;1C352D</td></tr><tr><th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th><td>
+(28, 53, 45)</td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a href="/wiki/Magenta" title="Magenta">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th><td>
+<span class="nowrap">(30, 0, 40, 30)</span></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th><td>
+<span class="nowrap">(120°, 20%, 20%)</span></td></tr><tr><th scope="row">Source</th><td>
+<a rel="nofollow" class="external text" href="http://tx4.us/nbs/nbs-j.htm">ISCC-NBS</a></td></tr><tr><td colspan="2" style="text-align:center">
+<b>B</b>: Normalized to [0–255] (byte)<br /><b>H</b>: Normalized to [0–100] (hundred)</td></tr></tbody></table>
+<p>Displayed at right is the color <b>medium jungle green</b>, that tone of jungle green shown as <i>jungle green</i> in color sample #147 on the ISCC-NBS color list.
+</p><p>The source of this color is the following website, the ISCC-NBS Dictionary of Color Names (1955) (a site for stamp collectors to identify the colors of their stamps)--Color Sample of [Medium] Jungle Green (color sample #147):
+<a rel="nofollow" class="external autonumber" href="http://tx4.us/nbs/nbs-j.htm">[2]</a>
+</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Dark_jungle_green">Dark jungle green</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=6" title="Edit section: Dark jungle green">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Jungle Green (ISCC-NBS #152)</th></tr><tr><td colspan="2" style="text-align:center;line-height:12px; background-color:#1A2421; border: 0.1px solid #000000">
+&#160;</td></tr><tr><th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th></tr><tr><th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th><td>
+&#35;1A2421</td></tr><tr><th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th><td>
+(26, 36, 33)</td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a href="/wiki/Magenta" title="Magenta">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th><td>
+<span class="nowrap">(28, 0, 8, 86)</span></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th><td>
+<span class="nowrap">(162°, 28%, 14%)</span></td></tr><tr><th scope="row">Source</th><td>
+<a rel="nofollow" class="external text" href="http://tx4.us/nbs/nbs-j.htm">ISCC-NBS</a></td></tr><tr><td colspan="2" style="text-align:center">
+<b>B</b>: Normalized to [0–255] (byte)<br /><b>H</b>: Normalized to [0–100] (hundred)</td></tr></tbody></table>
+<p>Displayed at right is the color <b>dark jungle green</b>, that tone of jungle green called <i>jungle green</i> in color sample #152 on the ISCC-NBS color list. 
+</p><p>The source of this color is the following website, the ISCC-NBS Dictionary of Color Names (1955) (a site for stamp collectors to identify the colors of their stamps)--Color Sample of [Dark] Jungle Green (color sample #152):
+<a rel="nofollow" class="external autonumber" href="http://tx4.us/nbs/nbs-j.htm">[3]</a>
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="In_culture">In culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=7" title="Edit section: In culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Military</dt></dl>
+<p><i>See also <a href="/wiki/Green_Berets_in_popular_culture" class="mw-redirect" title="Green Berets in popular culture">Green Berets in popular culture</a></i>
+</p>
+<ul><li>In the <a href="/wiki/United_States_Army" title="United States Army">United States Army</a>, <i>jungle green</i> is the color used for the uniforms and berets of the <a href="/wiki/United_States_Army_Special_Forces" class="mw-redirect" title="United States Army Special Forces">United States Army Special Forces</a>.  (The shade of jungle green used in the uniforms and berets of the U.S. Army <i>Green Berets</i> is closely equivalent to the color shown above as <i>deep jungle green</i>.) In the <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a> <i>jungle green</i> is the color of the combat or working uniform worn in the <a href="/wiki/Far_East" title="Far East">Far East</a> and in parts of <a href="/wiki/Africa" title="Africa">Africa</a>.  The uniform was often called "jaygees" in <a href="/wiki/Australia" title="Australia">Australia</a>. Green berets are also used by the elite forces of a number of other nations--see the article on <a href="/wiki/Green_berets" class="mw-redirect" title="Green berets">green berets</a>.  The berets used by these various elite military forces are usually a tone of <i>jungle green</i> or <a href="/wiki/Forest_green" title="Forest green">forest green</a>.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"> <a rel="nofollow" class="external text" href="http://web.forret.com/tools/color.asp?RGB=%2329AB87">web.forret.com Color Conversion Tool set to hex code of color #29AB87 (Jungle Green):</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Maerz and Paul <i>A Dictionary of Color</i> New York:1930 McGraw-Hill Page 201; color sample of Jungle Green: Page 87 Plate 32 Color Sample L12 Note: The Color Sample shown as Jungle Green in Maerz and Paul is the color shown above as Dark Jungle Green.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"> <a rel="nofollow" class="external text" href="http://web.forret.com/tools/color.asp?RGB=%233B7A57">web.forret.com Color Conversion Tool set to hex code of color #3B7A57 (Amazon):</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Maerz and Paul <i>A Dictionary of Color</i> New York:1930 McGraw-Hill Page 189; color sample of Amazon: Page 87 Plate 29 Color Sample J10 </span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jungle_green&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_colors" class="mw-redirect" title="List of colors">List of colors</a></li>
+<li><a href="/wiki/List_of_Crayola_crayon_colors" title="List of Crayola crayon colors">List of Crayola crayon colors</a></li></ul>
+<p><br />
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Shades_of_cyan" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:cyan; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Shades_of_cyan" title="Template:Shades of cyan"><abbr title="View this template" style=";background:cyan; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Shades_of_cyan" title="Template talk:Shades of cyan"><abbr title="Discuss this template" style=";background:cyan; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shades_of_cyan&amp;action=edit"><abbr title="Edit this template" style=";background:cyan; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Shades_of_cyan" style="font-size:114%;margin:0 4em"><a href="/wiki/Shades_of_cyan" title="Shades of cyan"><span style="color:black">Shades of cyan</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0"><table style="background:transparent; width:100%">
+<tbody><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Alice_blue" title="Alice blue">Alice blue</a></td><td style="width:5%"><a href="/wiki/Aquamarine_(color)" title="Aquamarine (color)">Aquamarine</a></td><td style="width:5%"><a href="/wiki/Capri_(color)" title="Capri (color)">Capri</a></td><td style="width:5%"><a href="/wiki/Celeste_(colour)" class="mw-redirect" title="Celeste (colour)">Celeste</a></td><td style="width:5%"><a href="/wiki/Cerulean" title="Cerulean">Cerulean</a></td><td style="width:5%"><a href="/wiki/Cyan" title="Cyan">Aqua/Cyan</a></td><td style="width:5%"><a href="/wiki/Electric_blue_(color)" title="Electric blue (color)">Electric blue</a></td><td style="width:5%"><a class="mw-selflink selflink">Jungle green</a></td><td style="width:5%"><a href="/wiki/Magic_mint_(color)" class="mw-redirect" title="Magic mint (color)">Magic mint</a></td><td style="width:5%"><a href="/w/index.php?title=Medium_turquoise&amp;action=edit&amp;redlink=1" class="new" title="Medium turquoise (page does not exist)">Medium turquoise</a></td></tr><tr><td style="background:#F0F8FF;border:1px solid;">&#160;</td><td style="background:#00FFBF;border:1px solid;">&#160;</td><td style="background:#00BFFF;border:1px solid;">&#160;</td><td style="background:#B2FFFF;border:1px solid;">&#160;</td><td style="background:#007BA7;border:1px solid;">&#160;</td><td style="background:#00FFFF;border:1px solid;">&#160;</td><td style="background:#7DF9FF;border:1px solid;">&#160;</td><td style="background:#29AB87;border:1px solid;">&#160;</td><td style="background:#AAF0D1;border:1px solid;">&#160;</td><td style="background:#48D1CC;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Mint_(color)" class="mw-redirect" title="Mint (color)">Mint</a></td><td style="width:5%"><a href="/wiki/Persian_green" title="Persian green">Persian green</a></td><td style="width:5%"><a href="/wiki/Pine_green" class="mw-redirect" title="Pine green">Pine green</a></td><td style="width:5%"><a href="/wiki/Robin_egg_blue" title="Robin egg blue">Robin egg blue</a></td><td style="width:5%"><a href="/wiki/Sea_green" class="mw-redirect" title="Sea green">Sea green</a></td><td style="width:5%"><a href="/wiki/Skobeloff" class="mw-redirect" title="Skobeloff">Skobeloff</a></td><td style="width:5%"><a href="/wiki/Sky_blue" title="Sky blue">Sky blue</a></td><td style="width:5%"><a href="/wiki/Spring_green" title="Spring green">Spring green</a></td><td style="width:5%"><a href="/wiki/Tiffany_Blue" title="Tiffany Blue">Tiffany Blue</a></td><td style="width:5%"><a href="/wiki/Teal" title="Teal">Teal</a></td></tr><tr><td style="background:#3EB489;border:1px solid;">&#160;</td><td style="background:#00A693;border:1px solid;">&#160;</td><td style="background:#01796F;border:1px solid;">&#160;</td><td style="background:#00CCCC;border:1px solid;">&#160;</td><td style="background:#2E8B57;border:1px solid;">&#160;</td><td style="background:#007A74;border:1px solid;">&#160;</td><td style="background:#87CEEB;border:1px solid;">&#160;</td><td style="background:#00FF7F;border:1px solid;">&#160;</td><td style="background:#81D8D0;border:1px solid;">&#160;</td><td style="background:#008080;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Turquoise_(color)" title="Turquoise (color)">Turquoise</a></td><td style="width:5%"><a href="/wiki/Turquoise_Blue" class="mw-redirect" title="Turquoise Blue">Turqouise Blue</a></td><td style="width:5%"><a href="/wiki/Verdigris" title="Verdigris">Verdigris</a></td></tr><tr><td style="background:#40E0D0;border:1px solid;">&#160;</td><td style="background:#00FFEF;border:1px solid;">&#160;</td><td style="background:#43B3AE;border:1px solid;">&#160;</td></tr>
+</tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-size:smaller; background:transparent; -moz-box-shadow: inset 0 1px 0 0 cyan; -webkit-box-shadow: inset 0 1px 0 0 cyan; box-shadow: inset 0 1px 0 0 cyan;"><div>A typical sample is shown for each name; a range of color-variations is commonly associated with each color-name.</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Shades_of_green" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#00FF00; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Shades_of_green" title="Template:Shades of green"><abbr title="View this template" style=";background:#00FF00; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Shades_of_green" title="Template talk:Shades of green"><abbr title="Discuss this template" style=";background:#00FF00; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shades_of_green&amp;action=edit"><abbr title="Edit this template" style=";background:#00FF00; color:black; -moz-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; -webkit-box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000; box-shadow: inset 1px 1px 0 #000000, inset -1px -1px 0 #000000;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Shades_of_green" style="font-size:114%;margin:0 4em"><a href="/wiki/Shades_of_green" title="Shades of green"><span style="color:black">Shades of green</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0"><table style="background:transparent; width:100%">
+<tbody><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Apple_green" class="mw-redirect" title="Apple green">Apple green</a></td><td style="width:5%"><a href="/wiki/Aquamarine_(color)" title="Aquamarine (color)">Aquamarine</a></td><td style="width:5%"><a href="/wiki/Asparagus_(color)" class="mw-redirect" title="Asparagus (color)">Asparagus</a></td><td style="width:5%"><a href="/wiki/Avocado_(color)" class="mw-redirect" title="Avocado (color)">Avocado</a></td><td style="width:5%"><a href="/wiki/Bright_green" class="mw-redirect" title="Bright green">Bright green</a></td><td style="width:5%"><a href="/wiki/British_racing_green" title="British racing green">British racing green</a></td><td style="width:5%"><a href="/wiki/Brunswick_green" class="mw-redirect" title="Brunswick green">Brunswick green</a></td><td style="width:5%"><a href="/wiki/Cal_Poly_Pomona_green" class="mw-redirect" title="Cal Poly Pomona green">Cal Poly green</a></td><td style="width:5%"><a href="/wiki/Castleton_green" class="mw-redirect" title="Castleton green">Castleton green</a></td><td style="width:5%"><a href="/wiki/Chartreuse_(color)" title="Chartreuse (color)">Chartreuse</a></td></tr><tr><td style="background:#8DB600;border:1px solid;">&#160;</td><td style="background:#00FFBF;border:1px solid;">&#160;</td><td style="background:#7BA05B;border:1px solid;">&#160;</td><td style="background:#568203;border:1px solid;">&#160;</td><td style="background:#66FF00;border:1px solid;">&#160;</td><td style="background:#004225;border:1px solid;">&#160;</td><td style="background:#1B4D3E;border:1px solid;">&#160;</td><td style="background:#1E4D2B;border:1px solid;">&#160;</td><td style="background:#00563B;border:1px solid;">&#160;</td><td style="background:#80FF00;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Cyan" title="Cyan">Cyan</a></td><td style="width:5%"><a href="/wiki/Midnight_green" title="Midnight green">Midnight green</a></td><td style="width:5%"><a href="/wiki/Dark_green" class="mw-redirect" title="Dark green">Dark green</a></td><td style="width:5%"><a href="/wiki/Dark_moss_green" class="mw-redirect" title="Dark moss green">Dark moss green</a></td><td style="width:5%"><a href="/wiki/Dark_olive_green" class="mw-redirect" title="Dark olive green">Dark olive green</a></td><td style="width:5%"><a href="/wiki/Dark_spring_green" class="mw-redirect" title="Dark spring green">Dark spring green</a></td><td style="width:5%"><a href="/wiki/Dartmouth_green" class="mw-redirect" title="Dartmouth green">Dartmouth green</a></td><td style="width:5%"><a href="/wiki/Emerald_(color)" class="mw-redirect" title="Emerald (color)">Emerald</a></td><td style="width:5%"><a href="/wiki/Erin_(color)" title="Erin (color)">Erin</a></td><td style="width:5%"><a href="/wiki/Fern_green" class="mw-redirect" title="Fern green">Fern green</a></td></tr><tr><td style="background:#00FFFF;border:1px solid;">&#160;</td><td style="background:#004953;border:1px solid;">&#160;</td><td style="background:#013220;border:1px solid;">&#160;</td><td style="background:#4A5D23;border:1px solid;">&#160;</td><td style="background:#556B2F;border:1px solid;">&#160;</td><td style="background:#177245;border:1px solid;">&#160;</td><td style="background:#00693E;border:1px solid;">&#160;</td><td style="background:#50C878;border:1px solid;">&#160;</td><td style="background:#00FF40;border:1px solid;">&#160;</td><td style="background:#4F7942;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Forest_green" title="Forest green">Forest green</a></td><td style="width:5%"><a href="/wiki/Green" title="Green">Green</a></td><td style="width:5%"><a href="/wiki/Yellow-green" class="mw-redirect" title="Yellow-green">Green-yellow</a></td><td style="width:5%"><a href="/wiki/Harlequin_(color)" class="mw-redirect" title="Harlequin (color)">Harlequin</a></td><td style="width:5%"><a href="/wiki/Hooker%27s_green" class="mw-redirect" title="Hooker&#39;s green">Hooker's green</a></td><td style="width:5%"><a href="/wiki/Honeydew_(color)" class="mw-redirect" title="Honeydew (color)">Honeydew</a></td><td style="width:5%"><a href="/wiki/Hunter_green" class="mw-redirect" title="Hunter green">Hunter green</a></td><td style="width:5%"><a href="/wiki/India_green" class="mw-redirect" title="India green">India green</a></td><td style="width:5%"><a href="/wiki/Islamic_green" class="mw-redirect" title="Islamic green">Islamic green</a></td><td style="width:5%"><a class="mw-selflink selflink">Jungle green</a></td></tr><tr><td style="background:#228B22;border:1px solid;">&#160;</td><td style="background:#00FF00;border:1px solid;">&#160;</td><td style="background:#ADFF2F;border:1px solid;">&#160;</td><td style="background:#3FFF00;border:1px solid;">&#160;</td><td style="background:#49796B;border:1px solid;">&#160;</td><td style="background:#F0FFF0;border:1px solid;">&#160;</td><td style="background:#355E3B;border:1px solid;">&#160;</td><td style="background:#138808;border:1px solid;">&#160;</td><td style="background:#009900;border:1px solid;">&#160;</td><td style="background:#29AB87;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Kelly_green" class="mw-redirect" title="Kelly green">Kelly green</a></td><td style="width:5%"><a href="/wiki/Laurel_green" class="mw-redirect" title="Laurel green">Laurel green</a></td><td style="width:5%"><a href="/wiki/Lawn_green" class="mw-redirect" title="Lawn green">Lawn green</a></td><td style="width:5%"><a href="/wiki/Light_green" class="mw-redirect" title="Light green">Light green</a></td><td style="width:5%"><a href="/wiki/Lime_(color)" title="Lime (color)">Lime</a></td><td style="width:5%"><a href="/wiki/Web_color_lime_green" class="mw-redirect" title="Web color lime green">Lime green</a></td><td style="width:5%"><a href="/wiki/Mantis_(color)" class="mw-redirect" title="Mantis (color)">Mantis</a></td><td style="width:5%"><a href="/wiki/Malachite_(color)" class="mw-redirect" title="Malachite (color)">Malachite</a></td><td style="width:5%"><a href="/wiki/Mint_(color)" class="mw-redirect" title="Mint (color)">Mint</a></td><td style="width:5%"><a href="/wiki/Mint_cream" class="mw-redirect" title="Mint cream">Mint cream</a></td></tr><tr><td style="background:#4CBB17;border:1px solid;">&#160;</td><td style="background:#A9BA9D;border:1px solid;">&#160;</td><td style="background:#7CFC00;border:1px solid;">&#160;</td><td style="background:#90EE90;border:1px solid;">&#160;</td><td style="background:#C0FF00;border:1px solid;">&#160;</td><td style="background:#32CD32;border:1px solid;">&#160;</td><td style="background:#74C365;border:1px solid;">&#160;</td><td style="background:#0BDA51;border:1px solid;">&#160;</td><td style="background:#3EB489;border:1px solid;">&#160;</td><td style="background:#F5FFFA;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Moss_green" class="mw-redirect" title="Moss green">Moss green</a></td><td style="width:5%"><a href="/wiki/Myrtle_green" class="mw-redirect" title="Myrtle green">Myrtle green</a></td><td style="width:5%"><a href="/wiki/Neon_green" class="mw-redirect" title="Neon green">Neon green</a></td><td style="width:5%"><a href="/wiki/Office_green" class="mw-redirect" title="Office green">Office green</a></td><td style="width:5%"><a href="/wiki/Olive_(color)" title="Olive (color)">Olive</a></td><td style="width:5%"><a href="/wiki/Pakistan_green" class="mw-redirect" title="Pakistan green">Pakistan green</a></td><td style="width:5%"><a href="/wiki/Paris_green" title="Paris green">Paris green</a></td><td style="width:5%"><a href="/wiki/Persian_green" title="Persian green">Persian green</a></td><td style="width:5%"><a href="/wiki/Phthalocyanine_Green_G" title="Phthalocyanine Green G">Phthalo green</a></td><td style="width:5%"><a href="/wiki/Pigment_green" class="mw-redirect" title="Pigment green">Pigment green</a></td></tr><tr><td style="background:#8A9A5B;border:1px solid;">&#160;</td><td style="background:#317873;border:1px solid;">&#160;</td><td style="background:#39FF14;border:1px solid;">&#160;</td><td style="background:#008000;border:1px solid;">&#160;</td><td style="background:#808000;border:1px solid;">&#160;</td><td style="background:#006600;border:1px solid;">&#160;</td><td style="background:#50C878;border:1px solid;">&#160;</td><td style="background:#00A693;border:1px solid;">&#160;</td><td style="background:#123524;border:1px solid;">&#160;</td><td style="background:#00A550;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/wiki/Pine_green" class="mw-redirect" title="Pine green">Pine green</a></td><td style="width:5%"><a href="/wiki/Pistachio_(color)" class="mw-redirect" title="Pistachio (color)">Pistachio</a></td><td style="width:5%"><a href="/wiki/Reseda_green" title="Reseda green">Reseda green</a></td><td style="width:5%"><a href="/wiki/Sage_(color)" title="Sage (color)">Sage</a></td><td style="width:5%"><a href="/wiki/Screamin%27_green" class="mw-redirect" title="Screamin&#39; green">Screamin' green</a></td><td style="width:5%"><a href="/wiki/Sea_green" class="mw-redirect" title="Sea green">Sea green</a></td><td style="width:5%"><a href="/wiki/Shamrock_green" class="mw-redirect" title="Shamrock green">Shamrock green</a></td><td style="width:5%"><a href="/wiki/Spring_bud" title="Spring bud">Spring bud</a></td><td style="width:5%"><a href="/wiki/Spring_green" title="Spring green">Spring green</a></td><td style="width:5%"><a href="/wiki/Teal" title="Teal">Teal</a></td></tr><tr><td style="background:#01796F;border:1px solid;">&#160;</td><td style="background:#93C572;border:1px solid;">&#160;</td><td style="background:#6c7c59;border:1px solid;">&#160;</td><td style="background:#BCB88A;border:1px solid;">&#160;</td><td style="background:#76FF7A;border:1px solid;">&#160;</td><td style="background:#2E8B57;border:1px solid;">&#160;</td><td style="background:#009E60;border:1px solid;">&#160;</td><td style="background:#A7FC00;border:1px solid;">&#160;</td><td style="background:#00FF7F;border:1px solid;">&#160;</td><td style="background:#008080;border:1px solid;">&#160;</td></tr><tr style="vertical-align:bottom;font-size:90%"><td style="width:5%"><a href="/w/index.php?title=Tender_shoots_(color)&amp;action=edit&amp;redlink=1" class="new" title="Tender shoots (color) (page does not exist)">Tender Shoots</a></td><td style="width:5%"><a href="/wiki/Turquoise_(color)" title="Turquoise (color)">Turquoise</a></td><td style="width:5%"><a href="/w/index.php?title=Light_turquoise&amp;action=edit&amp;redlink=1" class="new" title="Light turquoise (page does not exist)">Light turquoise</a></td><td style="width:5%"><a href="/wiki/Viridian" title="Viridian">Viridian</a></td><td style="width:5%"><a href="/wiki/Yellow-green" class="mw-redirect" title="Yellow-green">Yellow-green</a></td></tr><tr><td style="background:#B3E612;border:1px solid;">&#160;</td><td style="background:#40E0D0;border:1px solid;">&#160;</td><td style="background:#4FFFEF;border:1px solid;">&#160;</td><td style="background:#40826D;border:1px solid;">&#160;</td><td style="background:#9ACD32;border:1px solid;">&#160;</td></tr>
+</tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-size:smaller; background:transparent; -moz-box-shadow: inset 0 1px 0 0 #00FF00; -webkit-box-shadow: inset 0 1px 0 0 #00FF00; box-shadow: inset 0 1px 0 0 #00FF00;"><div>A typical sample is shown for each name; a range of color-variations is commonly associated with each color-name.</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Color_topics" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Color_topics" title="Template:Color topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Color_topics" title="Template talk:Color topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Color_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Color_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Color" title="Color">Color</a> topics</div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="*_Red&amp;#10;*_Orange&amp;#10;*_Yellow&amp;#10;*_Green&amp;#10;*_Cyan&amp;#10;*_Blue&amp;#10;*_Indigo&amp;#10;*_Violet&amp;#10;*_Purple&amp;#10;*_Magenta&amp;#10;*_Pink&amp;#10;*_Brown&amp;#10;*_White&amp;#10;*_Gray&amp;#10;*_Black">
+<ul><li><a href="/wiki/Shades_of_red" title="Shades of red">Red</a></li>
+<li><a href="/wiki/Shades_of_orange" title="Shades of orange">Orange</a></li>
+<li><a href="/wiki/Shades_of_yellow" title="Shades of yellow">Yellow</a></li>
+<li><a href="/wiki/Shades_of_green" title="Shades of green">Green</a></li>
+<li><a href="/wiki/Shades_of_cyan" title="Shades of cyan">Cyan</a></li>
+<li><a href="/wiki/Shades_of_blue" title="Shades of blue">Blue</a></li>
+<li><a href="/wiki/Indigo" title="Indigo">Indigo</a></li>
+<li><a href="/wiki/Shades_of_violet" title="Shades of violet">Violet</a></li>
+<li><a href="/wiki/Shades_of_purple" title="Shades of purple">Purple</a></li>
+<li><a href="/wiki/Shades_of_magenta" title="Shades of magenta">Magenta</a></li>
+<li><a href="/wiki/Shades_of_pink" title="Shades of pink">Pink</a></li>
+<li><a href="/wiki/Shades_of_brown" title="Shades of brown">Brown</a></li>
+<li><a href="/wiki/Shades_of_white" title="Shades of white">White</a></li>
+<li><a href="/wiki/Shades_of_gray" title="Shades of gray">Gray</a></li>
+<li><a href="/wiki/Shades_of_black" title="Shades of black">Black</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Colorimetry" title="Colorimetry">Color science</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Color physics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">Electromagnetic spectrum</a>
+<ul><li><a href="/wiki/Light" title="Light">Light</a></li>
+<li><a href="/wiki/Rainbow" title="Rainbow">Rainbow</a></li>
+<li><a href="/wiki/Visible_spectrum" title="Visible spectrum">Visible</a></li></ul></li>
+<li><a href="/wiki/Spectral_color" title="Spectral color">Spectral colors</a></li>
+<li><a href="/wiki/Chromophore" title="Chromophore">Chromophore</a>
+<ul><li><a href="/wiki/Structural_coloration" title="Structural coloration">Structural coloration</a></li>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li></ul></li>
+<li><a href="/wiki/On_Vision_and_Colors" title="On Vision and Colors">On Vision and Colors</a></li>
+<li><a href="/wiki/Metamerism_(color)" title="Metamerism (color)">Metamerism</a>
+<ul><li><a href="/wiki/Spectral_power_distribution" title="Spectral power distribution">Spectral power distribution</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Color perception</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Color_vision" title="Color vision">Color vision</a>
+<ul><li><a href="/wiki/Color_blindness" title="Color blindness">Color blindness</a>
+<ul><li><a href="/wiki/Achromatopsia" title="Achromatopsia">Achromatopsia</a></li></ul></li>
+<li><a href="/wiki/Ishihara_test" title="Ishihara test">test</a></li></ul></li>
+<li><a href="/wiki/Tetrachromacy" title="Tetrachromacy">Tetrachromacy</a>
+<ul><li><a href="/wiki/Color_constancy" title="Color constancy">Color constancy</a></li>
+<li><a href="/wiki/Color_term" title="Color term">Color term</a></li></ul></li>
+<li><a href="/wiki/Color_depth" title="Color depth">Color depth</a>
+<ul><li><a href="/wiki/Color_photography" title="Color photography">Color photography</a></li>
+<li><a href="/wiki/Spot_color" title="Spot color">Spot color</a></li>
+<li><a href="/wiki/Color_printing" title="Color printing">Color printing</a></li>
+<li><a href="/wiki/Web_colors" title="Web colors">Web colors</a></li>
+<li><a href="/wiki/Color_mapping" title="Color mapping">Color mapping</a></li>
+<li><a href="/wiki/Color_code" title="Color code">Color code</a></li>
+<li><a href="/wiki/Color_management" title="Color management">Color management</a></li>
+<li><a href="/wiki/Chrominance" title="Chrominance">Chrominance</a></li>
+<li><a href="/wiki/False_color" title="False color">False color</a></li></ul></li>
+<li><a href="/wiki/Chroma_key" title="Chroma key">Chroma key</a></li>
+<li><a href="/wiki/Color_balance" title="Color balance">Color balance</a></li>
+<li><a href="/wiki/Colour_cast" title="Colour cast">Color cast</a></li>
+<li><a href="/wiki/Color_temperature" title="Color temperature">Color temperature</a></li>
+<li><a href="/wiki/Eigengrau" title="Eigengrau">Eigengrau</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_psychology" title="Color psychology">Color psychology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Color_symbolism" title="Color symbolism">Color symbolism</a></li>
+<li><a href="/wiki/Color_preferences" title="Color preferences">Color preferences</a></li>
+<li><a href="/wiki/L%C3%BCscher_color_test" title="Lüscher color test">Lüscher color test</a></li>
+<li><a href="/wiki/Kruithof_curve" title="Kruithof curve">Kruithof curve</a></li>
+<li><a href="/wiki/Political_color" class="mw-redirect" title="Political color">Political color</a></li>
+<li><a href="/wiki/National_colors" class="mw-redirect" title="National colors">National colors</a></li>
+<li><a href="/wiki/Chromophobia" title="Chromophobia">Chromophobia</a></li>
+<li><a href="/wiki/Chromotherapy" title="Chromotherapy">Chromotherapy</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:RBG_color_wheel.svg" class="image"><img alt="RBG color wheel.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/100px-RBG_color_wheel.svg.png" width="100" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/150px-RBG_color_wheel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/200px-RBG_color_wheel.svg.png 2x" data-file-width="600" data-file-height="500" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Philosophy_of_color" title="Philosophy of color">Color<br />philosophy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_space" title="Color space">Color space</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Color_model" title="Color model">Color model</a>
+<ul><li><a href="/wiki/Additive_color" title="Additive color">additive</a></li>
+<li><a href="/wiki/Subtractive_color" title="Subtractive color">subtractive</a></li></ul></li>
+<li><a href="/wiki/Color_mixing" title="Color mixing">Color mixing</a>
+<ul><li><a href="/wiki/Primary_color" title="Primary color">Primary color</a></li>
+<li><a href="/wiki/Secondary_color" title="Secondary color">Secondary color</a></li>
+<li><a href="/wiki/Tertiary_color" title="Tertiary color">Tertiary color (intermediate)</a></li>
+<li><a href="/wiki/Tertiary_color#Tertiary-_and_quaternary-color_terms" title="Tertiary color">Quaternary color</a></li>
+<li><a href="/wiki/Tertiary_color#Tertiary-_and_quaternary-color_terms" title="Tertiary color">Quinary color</a></li>
+<li><a href="/wiki/Color_theory#Warm_vs._cool_colors" title="Color theory">Aggressive color (warm)</a></li>
+<li><a href="/wiki/Color_theory#Warm_vs._cool_colors" title="Color theory">Receding color (cool)</a></li></ul></li>
+<li><a href="/wiki/Pastel_(color)" title="Pastel (color)">Pastel colors</a></li>
+<li><a href="/wiki/Color_gradient" title="Color gradient">Color gradient</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_scheme" title="Color scheme">Color scheme</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Color_tool" class="mw-redirect" title="Color tool">Color tool</a>
+<ul><li><a href="/wiki/Monochromatic_color" title="Monochromatic color">Monochromatic colors</a></li>
+<li><a href="/wiki/Complementary_colors" title="Complementary colors">Complementary colors</a></li>
+<li><a href="/wiki/Analogous_colors" title="Analogous colors">Analogous colors</a></li>
+<li><a href="/wiki/Grey" title="Grey">Achromatic colors (Neutral)</a></li>
+<li><a href="/wiki/Polychrome" title="Polychrome">Polychromatic colors</a></li></ul></li>
+<li><a href="/wiki/Impossible_color" title="Impossible color">Impossible colors</a></li>
+<li><a href="/wiki/Light-on-dark_color_scheme" title="Light-on-dark color scheme">Light-on-dark</a></li>
+<li><a href="/wiki/Tincture_(heraldry)" title="Tincture (heraldry)">Tinctures in heraldry</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_theory" title="Color theory">Color theory</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromaticity" title="Chromaticity">Chromaticity diagram</a></li>
+<li><a href="/wiki/Color_solid" title="Color solid">Color solid</a></li>
+<li><a href="/wiki/Color_wheel" title="Color wheel">Color wheel</a></li>
+<li><a href="/wiki/Color_triangle" title="Color triangle">Color triangle</a></li>
+<li><a href="/wiki/Color_analysis_(art)" title="Color analysis (art)">Color analysis (art)</a></li>
+<li><a href="/wiki/Color_realism_(art_style)" title="Color realism (art style)">Color realism (art style)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_term" title="Color term">Color terms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_color_term" class="mw-redirect" title="Basic color term">Basic terms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blue" title="Blue">Blue</a></li>
+<li><a href="/wiki/Green" title="Green">Green</a></li>
+<li><a href="/wiki/Red" title="Red">Red</a></li>
+<li><a href="/wiki/Yellow" title="Yellow">Yellow</a></li>
+<li><a href="/wiki/Pink" title="Pink">Pink</a></li>
+<li><a href="/wiki/Purple" title="Purple">Purple</a></li>
+<li><a href="/wiki/Orange_(colour)" title="Orange (colour)">Orange</a></li>
+<li><a href="/wiki/Black" title="Black">Black</a></li>
+<li><a href="/wiki/Grey" title="Grey">Gray</a></li>
+<li><a href="/wiki/White" title="White">White</a></li>
+<li><a href="/wiki/Brown" title="Brown">Brown</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Color_in_culture" title="Category:Color in culture">Cultural differences</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Linguistic_relativity_and_the_color_naming_debate" title="Linguistic relativity and the color naming debate">Linguistic relativity and the color naming debate</a>
+<ul><li><a href="/wiki/Blue%E2%80%93green_distinction_in_language" title="Blue–green distinction in language">Blue–green distinction in language</a></li></ul></li>
+<li>Color history
+<ul><li><a href="/wiki/Color_in_Chinese_culture" title="Color in Chinese culture">Color in Chinese culture</a></li>
+<li><a href="/wiki/Traditional_colors_of_Japan" title="Traditional colors of Japan">Traditional colors of Japan</a></li>
+<li><a href="/wiki/Human_skin_color" title="Human skin color">Human skin color</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Color dimensions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hue" title="Hue">Hue</a>
+<ul><li><a href="/wiki/Dichromatism" title="Dichromatism">Dichromatism</a></li></ul></li>
+<li><a href="/wiki/Colorfulness" title="Colorfulness">Colorfulness (chroma and saturation)</a></li>
+<li><a href="/wiki/Tints_and_shades" title="Tints and shades">Tints and shades</a></li>
+<li><a href="/wiki/Lightness" title="Lightness">Lightness (tone and value)</a></li>
+<li><a href="/wiki/Grayscale" title="Grayscale">Grayscale</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Color<br />organizations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pantone" title="Pantone">Pantone</a></li>
+<li><a href="/wiki/Color_Marketing_Group" title="Color Marketing Group">Color Marketing Group</a></li>
+<li><a href="/wiki/The_Color_Association_of_the_United_States" title="The Color Association of the United States">The Color Association of the United States</a></li>
+<li><a href="/wiki/International_Colour_Authority" title="International Colour Authority">International Colour Authority</a></li>
+<li><a href="/wiki/International_Commission_on_Illumination" title="International Commission on Illumination">International Commission on Illumination (CIE)</a></li>
+<li><a href="/wiki/International_Color_Consortium" title="International Color Consortium">International Color Consortium</a></li>
+<li><a href="/wiki/International_Colour_Association" title="International Colour Association">International Colour Association</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lists_of_colors" title="Lists of colors">Lists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_colors:_A%E2%80%93F" title="List of colors: A–F">List of colors: A–F</a></li>
+<li><a href="/wiki/List_of_colors:_G%E2%80%93M" title="List of colors: G–M">List of colors: G–M</a></li>
+<li><a href="/wiki/List_of_colors:_N%E2%80%93Z" title="List of colors: N–Z">List of colors: N–Z</a></li>
+<li><a href="/wiki/List_of_colors_(compact)" title="List of colors (compact)">List of colors (compact)</a></li>
+<li><a href="/wiki/List_of_colors_by_shade" title="List of colors by shade">List of colors by shade</a></li>
+<li><a href="/wiki/List_of_color_palettes" title="List of color palettes">List of color palettes</a></li>
+<li><a href="/wiki/List_of_color_spaces_and_their_uses" title="List of color spaces and their uses">List of color spaces</a></li>
+<li><a href="/wiki/List_of_Crayola_crayon_colors" title="List of Crayola crayon colors">List of Crayola crayon colors</a>
+<ul><li><a href="/wiki/History_of_Crayola_crayons" title="History of Crayola crayons">history</a></li></ul></li>
+<li><a href="/wiki/Color_chart" title="Color chart">Color chart</a></li>
+<li><a href="/wiki/List_of_fictional_colors" title="List of fictional colors">List of fictional colors</a></li>
+<li><a href="/wiki/List_of_RAL_colors" title="List of RAL colors">List of RAL colors</a></li>
+<li><a href="/wiki/Web_colors" title="Web colors">List of web colors</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Index_of_color-related_articles" title="Index of color-related articles">Related</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Visual_perception" title="Visual perception">Vision</a></li>
+<li><a href="/wiki/Image_processing" class="mw-redirect" title="Image processing">Image processing</a></li>
+<li><a href="/wiki/Multi-primary_color_display" title="Multi-primary color display">Multi-primary color display</a>
+<ul><li><a href="/wiki/Quattron" title="Quattron">Quattron</a></li></ul></li>
+<li><a href="/wiki/Qualia" title="Qualia">Qualia</a></li>
+<li><a href="/wiki/Lighting" title="Lighting">Lighting</a></li>
+<li><a href="/wiki/Local_color_(visual_art)" title="Local color (visual art)">Local color (visual art)</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Color" title="Category:Color">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Color" title="Portal:Color">Portal</a></b></li>
+<li><a href="/wiki/Index_of_color-related_articles" title="Index of color-related articles">Index of color-related articles</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2260
+Cached time: 20180930215308
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.358 seconds
+Preprocessor visited node count: 6283/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 183095/2097152 bytes
+Template argument size: 14885/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1722/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.076/10.000 seconds
+Lua memory usage: 1.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  224.571      1 -total
+ 49.26%  110.632      6 Template:Infobox_color
+ 46.71%  104.898      6 Template:Infobox
+ 39.65%   89.046      6 Template:Navbox
+ 31.67%   71.113      2 Template:Shades_of_color
+ 21.66%   48.639      1 Template:Shades_of_cyan
+ 17.27%   38.786     14 Template:Shades_of_color/10
+ 14.73%   33.071      1 Template:Shades_of_green
+ 10.50%   23.580      1 Template:Color_topics
+  6.54%   14.681    100 Template:Shades_of_color/link
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10387133-0!canonical and timestamp 20180930215308 and revision id 831792664
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jungle_green&amp;oldid=831792664">https://en.wikipedia.org/w/index.php?title=Jungle_green&amp;oldid=831792664</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Shades_of_cyan" title="Category:Shades of cyan">Shades of cyan</a></li><li><a href="/wiki/Category:Shades_of_green" title="Category:Shades of green">Shades of green</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jungle+green" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jungle+green" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Jungle_green" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Jungle_green" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Jungle_green">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Jungle_green&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Jungle_green&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jungle_green" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jungle_green" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jungle_green&amp;oldid=831792664" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jungle_green&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373658" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jungle_green&amp;id=831792664" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Jungle+green">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Jungle+green&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jungle_green&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Oerwoudgroen" title="Oerwoudgroen – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Jungle_green" title="Jungle green – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Jungle_green" title="Jungle green – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373658#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 March 2018, at 06:25<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jungle_green&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.358","ppvisitednodes":{"value":6283,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":183095,"limit":2097152},"templateargumentsize":{"value":14885,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1722,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  224.571      1 -total"," 49.26%  110.632      6 Template:Infobox_color"," 46.71%  104.898      6 Template:Infobox"," 39.65%   89.046      6 Template:Navbox"," 31.67%   71.113      2 Template:Shades_of_color"," 21.66%   48.639      1 Template:Shades_of_cyan"," 17.27%   38.786     14 Template:Shades_of_color/10"," 14.73%   33.071      1 Template:Shades_of_green"," 10.50%   23.580      1 Template:Color_topics","  6.54%   14.681    100 Template:Shades_of_color/link"]},"scribunto":{"limitreport-timeusage":{"value":"0.076","limit":"10.000"},"limitreport-memusage":{"value":1718514,"limit":52428800}},"cachereport":{"origin":"mw2260","timestamp":"20180930215308","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw2165"});});</script>
+	</body>
+</html>

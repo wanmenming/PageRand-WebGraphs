@@ -1,0 +1,844 @@
+https://en.wikipedia.org/wiki/Carbon_suboxide
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Carbon suboxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carbon_suboxide","wgTitle":"Carbon suboxide","wgCurRevisionId":855459214,"wgRevisionId":855459214,"wgArticleId":2208893,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","CS1 Italian-language sources (it)","Chemical articles with multiple compound IDs","Multiple chemicals in an infobox that need indexing","Articles without KEGG source","Articles without UNII source","Articles containing unverified chemical infoboxes","Chembox image size set","Wikipedia articles with GND identifiers","Oxocarbons","Gaseous signaling molecules","Heterocumulenes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carbon_suboxide","wgRelevantArticleId":2208893,"wgRequestId":"W8HjjgpAAD4AADCfZuoAAACQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q411352","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/83/Carbon-suboxide-3D-vdW.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carbon_suboxide"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Carbon_suboxide&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Carbon_suboxide&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Carbon_suboxide"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carbon_suboxide rootpage-Carbon_suboxide skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Carbon suboxide</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left;&#32;;">
+<caption style="text-align:center;">Carbon suboxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:Carbon-suboxide-2D-dimensions.png" class="image" title="Stick model of carbon suboxide"><img alt="Stick model of carbon suboxide" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Carbon-suboxide-2D-dimensions.png/200px-Carbon-suboxide-2D-dimensions.png" width="200" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Carbon-suboxide-2D-dimensions.png/300px-Carbon-suboxide-2D-dimensions.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Carbon-suboxide-2D-dimensions.png/400px-Carbon-suboxide-2D-dimensions.png 2x" data-file-width="1100" data-file-height="393" /></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:Carbon-suboxide-3D-vdW.png" class="image" title="Spacefill model of carbon suboxide"><img alt="Spacefill model of carbon suboxide" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Carbon-suboxide-3D-vdW.png/200px-Carbon-suboxide-3D-vdW.png" width="200" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Carbon-suboxide-3D-vdW.png/300px-Carbon-suboxide-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Carbon-suboxide-3D-vdW.png/400px-Carbon-suboxide-3D-vdW.png 2x" data-file-width="1100" data-file-height="553" /></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">1,2-Propadiene-1,3-dione</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=504-64-3">504-64-3</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a href="/wiki/JSmol" class="mw-redirect" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a rel="nofollow" class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DC%3DC%3DC%3DO">Interactive image</a></span></li></ul></div>
+</td></tr>
+
+
+
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=30086">CHEBI:30086</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a rel="nofollow" class="external text" href="http://www.chemspider.com/Chemical-Structure.120106.html">120106</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a>
+</td>
+<td><span title="www.nlm.nih.gov"><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?mode=&amp;term=Carbon+suboxide">Carbon+suboxide</a></span>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/136332">136332</a></span></li></ul></div>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/C3O2/c4-2-1-3-5<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;GNEVIACKFGQMHB-UHFFFAOYSA-N<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/C3O2/c4-2-1-3-5</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;GNEVIACKFGQMHB-UHFFFAOYSA-N</div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1/C3O2/c4-2-1-3-5</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;GNEVIACKFGQMHB-UHFFFAOYAU</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">O=C=C=C=O</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td><span title="Carbon">C</span><sub>3</sub><span title="Oxygen">O</span><sub>2</sub>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>68.03&#160;g·mol<sup>−1</sup> &#x20;
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>colorless gas
+</td></tr>
+<tr>
+<td><a href="/wiki/Odor" title="Odor">Odor</a>
+</td>
+<td>strong, pungent odor
+</td></tr>
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>3.0 kg/m<sup>3</sup>, gas<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+<p>1.114 g/cm<sup>3</sup>, liquid<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td>&#x20;−111.3&#160;°C (−168.3&#160;°F; 161.8&#160;K)&#x20;
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td>&#x20;6.8&#160;°C (44.2&#160;°F; 279.9&#160;K)&#x20;
+</td></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>reacts
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Solubility" title="Solubility">Solubility</a>
+</td>
+<td>soluble in <a href="/wiki/1,4-dioxane" class="mw-redirect" title="1,4-dioxane">1,4-dioxane</a>, <a href="/wiki/Ether" title="Ether">ether</a>, <a href="/wiki/Xylene" title="Xylene">xylene</a>, <a href="/wiki/Carbon_disulfide" title="Carbon disulfide">CS<sub>2</sub></a>, <a href="/wiki/Tetrahydrofuran" title="Tetrahydrofuran">tetrahydrofuran</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Refractive_index" title="Refractive index">Refractive index</a> (<i>n</i><sub>D</sub>)</div>
+</td>
+<td>1.4538 (6&#160;°C)
+</td></tr>
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Dipole#Molecular_dipoles" title="Dipole">Dipole moment</a></div>
+</td>
+<td>0 D
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Structure
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Crystal_structure" title="Crystal structure">Crystal structure</a></div>
+</td>
+<td>rhombic
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Molecular_geometry" title="Molecular geometry">Molecular shape</a></div>
+</td>
+<td>quasilinear (phase dependent)
+</td></tr>
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Thermochemistry
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Heat_capacity" title="Heat capacity">Heat capacity</a> (<i>C</i>)</div>
+</td>
+<td>66.99 J/mol K
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_molar_entropy" title="Standard molar entropy">Std molar<br />entropy</a> (<i>S</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>276.1 J/mol K
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_enthalpy_change_of_formation" class="mw-redirect" title="Standard enthalpy change of formation">Std enthalpy of<br />formation</a> (Δ<sub>f</sub><i>H</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>-93.6 kJ/mol
+</td></tr>
+
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related oxides</div>
+</td>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a><br /><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a><br /><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">dicarbon monoxide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related compounds</div>
+</td>
+<td><a href="/wiki/Carbon_subsulfide" title="Carbon subsulfide">carbon subsulfide</a><br /><a href="/wiki/Carbon_subnitride" class="mw-redirect" title="Carbon subnitride">carbon subnitride</a>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25&#160;°C [77&#160;°F], 100&#160;kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/12px-Yes_check.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/18px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/24px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>&#160;<span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=445986520&amp;page2=Carbon+suboxide">verify</a></span>&#160;(<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a>&#160;<sup><img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup>&#160;?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox&#160;references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Carbon suboxide</b>, or <b>tricarbon dioxide</b>, is an <a href="/wiki/Oxide" title="Oxide">oxide</a> of <a href="/wiki/Carbon" title="Carbon">carbon</a> with <a href="/wiki/Chemical_formula" title="Chemical formula">chemical formula</a> C<sub>3</sub>O<sub>2</sub>  or O=C=C=C=O.  Its four cumulative double bonds make it a <a href="/wiki/Cumulene" title="Cumulene">cumulene</a>. It is one of the stable members of the series of linear <a href="/wiki/Oxocarbon" title="Oxocarbon">oxocarbons</a> O=C<sub><i>n</i></sub>=O, which also includes <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>) and <a href="/wiki/Pentacarbon_dioxide" title="Pentacarbon dioxide">pentacarbon dioxide</a> (C<sub>5</sub>O<sub>2</sub>). Although if carefully purified it can exist at room temperature in the dark without decomposing, it will polymerize under certain conditions.
+</p><p>The substance was discovered in 1873 by <a href="/wiki/Sir_Benjamin_Collins_Brodie,_2nd_Baronet" title="Sir Benjamin Collins Brodie, 2nd Baronet">Benjamin Brodie</a> by subjecting <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> to an electric current. He claimed that the product was part of a series of "oxycarbons" with formulas C<sub><i>x</i>+1</sub>O<sub><i>x</i></sub>, namely C, C<sub>2</sub>O, C<sub>3</sub>O<sub>2</sub>, C<sub>4</sub>O<sub>3</sub>, C<sub>5</sub>O<sub>4</sub>, ..., and to have identified the last two;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> however only C<sub>3</sub>O<sub>2</sub> is known. In 1891 <a href="/wiki/Marcellin_Berthelot" title="Marcellin Berthelot">Marcellin Berthelot</a> observed that heating pure carbon monoxide at about 550&#160;°C created small amounts of carbon dioxide but no trace of carbon, and assumed that a carbon-rich oxide was created instead, which he named "sub-oxide".  He assumed it was the same product obtained by electric discharge and proposed the formula C<sub>2</sub>O.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>  <a href="/wiki/Otto_Diels" title="Otto Diels">Otto Diels</a> later stated that the more organic names dicarbonylmethane and dioxallene were also correct.
+</p><p>It is commonly described as an oily liquid or gas at room temperature with an extremely noxious odor.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Synthesis"><span class="tocnumber">1</span> <span class="toctext">Synthesis</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Polymerization"><span class="tocnumber">2</span> <span class="toctext">Polymerization</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Uses"><span class="tocnumber">3</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Biological_role"><span class="tocnumber">4</span> <span class="toctext">Biological role</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Structure_and_bonding"><span class="tocnumber">5</span> <span class="toctext">Structure and bonding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Synthesis">Synthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit&amp;section=1" title="Edit section: Synthesis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is synthesized by warming a dry mixture of <a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">phosphorus pentoxide</a> (P<sub>4</sub>O<sub>10</sub>) and <a href="/wiki/Malonic_acid" title="Malonic acid">malonic acid</a> or the <a href="/wiki/Ester" title="Ester">esters</a> of <a href="/wiki/Malonic_acid" title="Malonic acid">malonic acid</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+Therefore, it can be also considered as the anhydride of <a href="/wiki/Malonic_anhydride" title="Malonic anhydride">malonic anhydride</a>, i.e. the "second anhydride" of <a href="/wiki/Malonic_acid" title="Malonic acid">malonic acid</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Several other ways for synthesis and reactions of carbon suboxide can be found in a review from 1930 by Reyerson.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Polymerization">Polymerization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit&amp;section=2" title="Edit section: Polymerization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carbon suboxide polymerizes spontaneously to a red, yellow, or black solid. The structure is postulated to be poly(α-pyronic), similar to the structure in <a href="/wiki/2-pyrone" class="mw-redirect" title="2-pyrone">2-pyrone</a> (α-pyrone).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The number of monomers in the polymers is variable (see <a href="/wiki/Oxocarbon#Polymeric_carbon_oxides" title="Oxocarbon">Oxocarbon#Polymeric carbon oxides</a>).
+In 1969, it was hypothesized that the color of the Martian surface was caused by this compound; this was disproved by the <a href="/wiki/Viking_program" title="Viking program">Viking Mars probes</a> (the red color is instead due to <a href="/wiki/Iron_oxide" title="Iron oxide">iron oxide</a>).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit&amp;section=3" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carbon suboxide is used in the preparation of <a href="/wiki/Malonate" title="Malonate">malonates</a>; and as an auxiliary to improve the dye affinity of furs.
+</p>
+<h2><span class="mw-headline" id="Biological_role">Biological role</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit&amp;section=4" title="Edit section: Biological role">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Carbon_suboxide_macrocyclic_polymers.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carbon_suboxide_macrocyclic_polymers.gif/220px-Carbon_suboxide_macrocyclic_polymers.gif" width="220" height="100" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carbon_suboxide_macrocyclic_polymers.gif/330px-Carbon_suboxide_macrocyclic_polymers.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d9/Carbon_suboxide_macrocyclic_polymers.gif 2x" data-file-width="364" data-file-height="166" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Carbon_suboxide_macrocyclic_polymers.gif" class="internal" title="Enlarge"></a></div>Those are 6- or 8-ring macrocyclic polymers of carbon suboxide that were found in living organisms. They are acting as an endogenous digoxin-like Na+/K+-ATP-ase and Ca-dependent ATP-ase inhibitors, endogenous natriuretics, antioxidants and antihypertensives</div></div></div>
+<p>Carbon suboxide, C<sub>3</sub>O<sub>2</sub>, can be produced in small amounts in any biochemical process that normally produces <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>, CO, for example, during heme oxidation by heme oxygenase-1. It can also be formed from malonic acid. It has been shown that carbon suboxide in an organism can quickly polymerize into macrocyclic polycarbon structures with the common formula (C<sub>3</sub>O<sub>2</sub>)<sub>n</sub> (mostly (C<sub>3</sub>O<sub>2</sub>)<sub>6</sub> and (C<sub>3</sub>O<sub>2</sub>)<sub>8</sub>), and that those macrocyclic compounds are potent inhibitors of Na<sup>+</sup>/K<sup>+</sup>-ATP-ase and Ca-dependent ATP-ase, and have <a href="/wiki/Digoxin" title="Digoxin">digoxin</a>-like physiological properties and natriuretic and antihypertensive actions. Those macrocyclic carbon suboxide polymer compounds are thought to be endogenous digoxin-like regulators of Na<sup>+</sup>/K<sup>+</sup>-ATP-ases and Ca-dependent ATP-ases, and endogenous natriuretics and antihypertensives.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Other than that, some authors think also that those macrocyclic compounds of carbon suboxide can possibly diminish free radical formation and oxidative stress and play a role in endogenous anticancer protective mechanisms, for example in the <a href="/wiki/Retina" title="Retina">retina</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Structure_and_bonding">Structure and bonding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit&amp;section=5" title="Edit section: Structure and bonding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The structure of carbon suboxide has been the subject of experimental and computation scrutiny since the 1970s.  The central issue is the question of whether the molecule is linear or bent (i.e., whether <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\ce {\theta _{C2}=\angle C1C2C3\ {\overset {?}{=}}\ 180\!^{\circ }}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mmultiscripts>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>=</mo>
+            </mrow>
+            <none />
+            <none />
+            <mprescripts />
+            <msubsup>
+              <mtext>C</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+            <mspace width="0pt" height="0pt" depth=".2em" />
+          </mmultiscripts>
+          <mi mathvariant="normal">&#x2220;<!-- ∠ --></mi>
+          <msubsup>
+            <mtext>C</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>1</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <msubsup>
+            <mtext>C</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <msubsup>
+            <mtext>C</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>3</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mtext>&#xA0;</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>=</mo>
+              </mrow>
+              <mo>?</mo>
+            </mover>
+          </mrow>
+          <mtext>&#xA0;</mtext>
+          <mn>180</mn>
+          <mspace width="thinmathspace" />
+          <msup>
+            <mspace width="negativethinmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2218;<!-- ∘ --></mo>
+            </mrow>
+          </msup>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {\theta _{C2}=\angle C1C2C3\ {\overset {?}{=}}\ 180\!^{\circ }}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d65584a203298a50918e00c074fd25ea6c64a4cb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:22.477ex; height:4.676ex;" alt="{\displaystyle {\ce {\theta _{C2}=\angle C1C2C3\ {\overset {?}{=}}\ 180\!^{\circ }}}}"/></span>).  Studies general agreed that the molecule is highly non-rigid, with a very shallow barrier to bending (&lt; 0.5 kcal/mol for 140° ≤ <i>θ</i><sub>C<sub>2</sub></sub> ≤ 180°).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>  The small energetic barrier to bending is around the same order of magnitude as the <a href="/wiki/Zero-point_energy" title="Zero-point energy">zero-point energy</a> of the vibrational ground state.  Therefore, the molecule is best described as <i>quasilinear.</i>  While infrared<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> and electron diffraction<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> studies have indicated that C<sub>3</sub>O<sub>2</sub> has a bent structure in the gas phase, the compound was found to possess at least an average linear geometry in the solid phase by X-ray crystallography, although the large thermal ellipsoids of the oxygen atoms and C<sub>2</sub> have been interpreted to be consistent with rapid bending (minimum <i>θ</i><sub>C<sub>2</sub></sub> ~ 170°), even in the solid state.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>  
+</p><p>A heterocumulene resonance form of carbon suboxide based on minimization of formal charges does not readily explain the molecule's non-rigidity and deviation from linearity. To account for the quasilinear structure of carbon suboxide, Frenking has proposed that carbon suboxide be regarded as a "coordination complex" of carbon(0) bearing two carbonyl ligands and two lone pairs: OC→:C:←CO.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> However, the contribution of dative bonding in C<sub>3</sub>O<sub>2</sub> and similar species has been criticized as chemically unreasonable by others.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:Carbon_suboxide_dative.png" class="image"><img alt="Carbon suboxide dative.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Carbon_suboxide_dative.png/567px-Carbon_suboxide_dative.png" width="567" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Carbon_suboxide_dative.png/851px-Carbon_suboxide_dative.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Carbon_suboxide_dative.png/1134px-Carbon_suboxide_dative.png 2x" data-file-width="3118" data-file-height="275" /></a></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.webelements.com/compounds/carbon/carbon_suboxide.html">WebElements</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">CRC HANDBOOK of CHEMISTRY and PHYSICS, 64th edition, (c) 1983, page B-82</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Sir_Benjamin_Collins_Brodie,_2nd_Baronet" title="Sir Benjamin Collins Brodie, 2nd Baronet">Brodie, B. C.</a> (1873). <a rel="nofollow" class="external text" href="http://rspl.royalsocietypublishing.org/content/21/139-147/245.full.pdf">"Note on the Synthesis of Marsh-Gas and Formic Acid, and on the Electric Decomposition of Carbonic Oxide"</a> <span class="cs1-format">(pdf)</span>. <i>Proceedings of the Royal Society</i>. <b>21</b> (139–147): 245–247. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1098%2Frspl.1872.0052">10.1098/rspl.1872.0052</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/113037">113037</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161227010333/http://rspl.royalsocietypublishing.org/content/21/139-147/245.full.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 2016-12-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-03</span></span>. <q>When pure and dry carbonic oxide [=carbon monoxide] is circulated through the induction-tube, and there submitted to the action of electricity, a decomposition of the gas occurs [...] Carbonic acid [=carbon dioxide] is formed, and simultaneously with its formation a solid deposit may be observed in the induction-tube. This deposit appears as a transparent film of a red-brown color, lining the walls of the tube. It is perfectly soluble in water, which is strongly colored by it. The solution has an intensely acid reaction. The solid deposit, in the dry condition before it has been in contact with the water, is an oxide of carbon.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society&amp;rft.atitle=Note+on+the+Synthesis+of+Marsh-Gas+and+Formic+Acid%2C+and+on+the+Electric+Decomposition+of+Carbonic+Oxide&amp;rft.volume=21&amp;rft.issue=139%E2%80%93147&amp;rft.pages=245-247&amp;rft.date=1873&amp;rft_id=info%3Adoi%2F10.1098%2Frspl.1872.0052&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F113037&amp;rft.au=Brodie%2C+B.+C.&amp;rft_id=http%3A%2F%2Frspl.royalsocietypublishing.org%2Fcontent%2F21%2F139-147%2F245.full.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brodie, B. C. (1873). "Ueber eine Synthese von Sumpfgas und Ameisensäure und die electrische Zersetzung des Kohlenoxyds". <i><a href="/wiki/Annalen_der_Chemie" class="mw-redirect" title="Annalen der Chemie">Annalen der Chemie</a></i>. <b>169</b> (1–2): 270–271. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fjlac.18731690119">10.1002/jlac.18731690119</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annalen+der+Chemie&amp;rft.atitle=Ueber+eine+Synthese+von+Sumpfgas+und+Ameisens%C3%A4ure+und+die+electrische+Zersetzung+des+Kohlenoxyds&amp;rft.volume=169&amp;rft.issue=1%E2%80%932&amp;rft.pages=270-271&amp;rft.date=1873&amp;rft_id=info%3Adoi%2F10.1002%2Fjlac.18731690119&amp;rft.au=Brodie%2C+B.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> <a rel="nofollow" class="external autonumber" href="https://archive.org/stream/justusliebigsan01unkngoog#page/n282/mode/2up">[1]</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Marcellin_Berthelot" title="Marcellin Berthelot">Berthelot, M.</a> (1891). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k34894x/f124.table">"Action de la chaleur sur l'oxyde de carbone"</a>. <i><a href="/wiki/Annales_de_Chimie_et_de_Physique" class="mw-redirect" title="Annales de Chimie et de Physique">Annales de Chimie et de Physique</a></i>. <b>6</b> (24): 126–132. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120217183140/http://gallica.bnf.fr/ark:/12148/bpt6k34894x/f124.table">Archived</a> from the original on 2012-02-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annales+de+Chimie+et+de+Physique&amp;rft.atitle=Action+de+la+chaleur+sur+l%27oxyde+de+carbone&amp;rft.volume=6&amp;rft.issue=24&amp;rft.pages=126-132&amp;rft.date=1891&amp;rft.au=Berthelot%2C+M.&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k34894x%2Ff124.table&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Reyerson, L. H.; Kobe, K. (1930). "Carbon Suboxide". <i><a href="/wiki/Chemical_Reviews" title="Chemical Reviews">Chemical Reviews</a></i>. <b>7</b> (4): 479–492. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1021%2Fcr60028a002">10.1021/cr60028a002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Reviews&amp;rft.atitle=Carbon+Suboxide&amp;rft.volume=7&amp;rft.issue=4&amp;rft.pages=479-492&amp;rft.date=1930&amp;rft_id=info%3Adoi%2F10.1021%2Fcr60028a002&amp;rft.au=Reyerson%2C+L.+H.&amp;rft.au=Kobe%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Otto_Diels" title="Otto Diels">Diels, O.</a>; Wolf, B. (1906). "Ueber das Kohlensuboxyd. I". <i><a href="/wiki/Chemische_Berichte" title="Chemische Berichte">Chemische Berichte</a></i>. <b>39</b>: 689–697. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fcber.190603901103">10.1002/cber.190603901103</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemische+Berichte&amp;rft.atitle=Ueber+das+Kohlensuboxyd.+I&amp;rft.volume=39&amp;rft.pages=689-697&amp;rft.date=1906&amp;rft_id=info%3Adoi%2F10.1002%2Fcber.190603901103&amp;rft.au=Diels%2C+O.&amp;rft.au=Wolf%2C+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Perks, H. M.; Liebman, J. F. (2000). "Paradigms and Paradoxes: Aspects of the Energetics of Carboxylic Acids and Their Anhydrides". <i>Structural Chemistry</i>. <b>11</b> (4): 265–269. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1023%2FA%3A1009270411806">10.1023/A:1009270411806</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Structural+Chemistry&amp;rft.atitle=Paradigms+and+Paradoxes%3A+Aspects+of+the+Energetics+of+Carboxylic+Acids+and+Their+Anhydrides&amp;rft.volume=11&amp;rft.issue=4&amp;rft.pages=265-269&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1009270411806&amp;rft.au=Perks%2C+H.+M.&amp;rft.au=Liebman%2C+J.+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Reyerson, L. H.; Kobe, K. (1930). "Carbon Suboxide". <i><a href="/wiki/Chemical_Reviews" title="Chemical Reviews">Chemical Reviews</a></i>. <b>7</b> (4): 479–492. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1021%2Fcr60028a002">10.1021/cr60028a002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Reviews&amp;rft.atitle=Carbon+Suboxide&amp;rft.volume=7&amp;rft.issue=4&amp;rft.pages=479-492&amp;rft.date=1930&amp;rft_id=info%3Adoi%2F10.1021%2Fcr60028a002&amp;rft.au=Reyerson%2C+L.+H.&amp;rft.au=Kobe%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ballauff, M.; Li, L.; Rosenfeldt, S.; Dingenouts, N.; Beck, J.; Krieger-Beck, P. (2004). "Analysis of Poly(carbon suboxide) by Small-Angle X-ray Scattering". <i><a href="/wiki/Angewandte_Chemie_International_Edition" class="mw-redirect" title="Angewandte Chemie International Edition">Angewandte Chemie International Edition</a></i>. <b>43</b> (43): 5843–5846. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fanie.200460263">10.1002/anie.200460263</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15523711">15523711</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.atitle=Analysis+of+Poly%28carbon+suboxide%29+by+Small-Angle+X-ray+Scattering&amp;rft.volume=43&amp;rft.issue=43&amp;rft.pages=5843-5846&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.200460263&amp;rft_id=info%3Apmid%2F15523711&amp;rft.au=Ballauff%2C+M.&amp;rft.au=Li%2C+L.&amp;rft.au=Rosenfeldt%2C+S.&amp;rft.au=Dingenouts%2C+N.&amp;rft.au=Beck%2C+J.&amp;rft.au=Krieger-Beck%2C+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ellern, A.; Drews, T.; Seppelt, K. (2001). "The Structure of Carbon Suboxide, C<sub>3</sub>O<sub>2</sub>, in the Solid State". <i>Zeitschrift für anorganische und allgemeine Chemie</i>. <b>627</b> (1): 73–76. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2F1521-3749%28200101%29627%3A1%3C73%3A%3AAID-ZAAC73%3E3.0.CO%3B2-A">10.1002/1521-3749(200101)627:1&#60;73::AID-ZAAC73&#62;3.0.CO;2-A</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zeitschrift+f%C3%BCr+anorganische+und+allgemeine+Chemie&amp;rft.atitle=The+Structure+of+Carbon+Suboxide%2C+C%3Csub%3E3%3C%2Fsub%3EO%3Csub%3E2%3C%2Fsub%3E%2C+in+the+Solid+State&amp;rft.volume=627&amp;rft.issue=1&amp;rft.pages=73-76&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1002%2F1521-3749%28200101%29627%3A1%3C73%3A%3AAID-ZAAC73%3E3.0.CO%3B2-A&amp;rft.au=Ellern%2C+A.&amp;rft.au=Drews%2C+T.&amp;rft.au=Seppelt%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Plummer, W. T.; Carsont, R. K. (1969). "Mars: Is the Surface Colored by Carbon Suboxide?". <i>Science</i>. <b>166</b> (3909): 1141–1142. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.166.3909.1141">10.1126/science.166.3909.1141</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17775571">17775571</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Mars%3A+Is+the+Surface+Colored+by+Carbon+Suboxide%3F&amp;rft.volume=166&amp;rft.issue=3909&amp;rft.pages=1141-1142&amp;rft.date=1969&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.166.3909.1141&amp;rft_id=info%3Apmid%2F17775571&amp;rft.au=Plummer%2C+W.+T.&amp;rft.au=Carsont%2C+R.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Franz Kerek (Sep 2000). <a rel="nofollow" class="external text" href="https://www.jstage.jst.go.jp/article/hypres1992/23/Supplement/23_Supplement_S33/_pdf">"The structure of the digitalislike and natriuretic factors identified as macrocyclic derivatives of the inorganic carbon suboxide"</a>. <i>Hypertension Research</i>. <b>23</b> (Suppl S33): S33-38. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1291%2Fhypres.23.Supplement_S33">10.1291/hypres.23.Supplement_S33</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11016817">11016817</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402152253/https://www.jstage.jst.go.jp/article/hypres1992/23/Supplement/23_Supplement_S33/_pdf">Archived</a> from the original on 2015-04-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hypertension+Research&amp;rft.atitle=The+structure+of+the+digitalislike+and+natriuretic+factors+identified+as+macrocyclic+derivatives+of+the+inorganic+carbon+suboxide.&amp;rft.volume=23&amp;rft.issue=Suppl+S33&amp;rft.pages=S33-38.&amp;rft.date=2000-09&amp;rft_id=info%3Adoi%2F10.1291%2Fhypres.23.Supplement_S33&amp;rft_id=info%3Apmid%2F11016817&amp;rft_id=https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fhypres1992%2F23%2FSupplement%2F23_Supplement_S33%2F_pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Robert Stimac, Franz Kerek, Hans-Jurgen Apell (Apr 2003). "Macrocyclic carbon suboxide oligomers as potent inhibitors of the Na,K-ATPase". <i>Annals of the New York Academy of Sciences</i>. <b>986</b>: 327–329. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1749-6632.2003.tb07204.x">10.1111/j.1749-6632.2003.tb07204.x</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12763840">12763840</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+the+New+York+Academy+of+Sciences&amp;rft.atitle=Macrocyclic+carbon+suboxide+oligomers+as+potent+inhibitors+of+the+Na%2CK-ATPase.&amp;rft.volume=986&amp;rft.pages=327-329&amp;rft.date=2003-04&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1749-6632.2003.tb07204.x&amp;rft_id=info%3Apmid%2F12763840&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Franz Kerek, Robert Stimac, Hans-Jürgen Apell, Frank Freudenmann, Luis Moroder (23 December 2002). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0005273602006090">"Characterization of the macrocyclic carbon suboxide factors as potent Na,K-ATPase and SR Ca-ATPase inhibitors"</a>. <i>Biochimica et Biophysica Acta (BBA) - Biomembranes</i>. <b>1567</b> (1–2): 213–220. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0005-2736%2802%2900609-0">10.1016/S0005-2736(02)00609-0</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12488055">12488055</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924150941/http://www.sciencedirect.com/science/article/pii/S0005273602006090">Archived</a> from the original on 24 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochimica+et+Biophysica+Acta+%28BBA%29+-+Biomembranes&amp;rft.atitle=Characterization+of+the+macrocyclic+carbon+suboxide+factors+as+potent+Na%2CK-ATPase+and+SR+Ca-ATPase+inhibitors.&amp;rft.volume=1567&amp;rft.issue=1%E2%80%932&amp;rft.pages=213-220&amp;rft.date=2002-12-23&amp;rft_id=info%3Adoi%2F10.1016%2FS0005-2736%2802%2900609-0&amp;rft_id=info%3Apmid%2F12488055&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0005273602006090&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tubaro E. (Jun 1966). "Carbon suboxide, the probable precursor of an antitumor cellular substance: retina". <i>Boll Chim Farm</i> (in Italian). <b>105</b> (6): 415–416. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/6005012">6005012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Boll+Chim+Farm&amp;rft.atitle=Carbon+suboxide%2C+the+probable+precursor+of+an+antitumor+cellular+substance%3A+retina&amp;rft.volume=105&amp;rft.issue=6&amp;rft.pages=415-416&amp;rft.date=1966-06&amp;rft_id=info%3Apmid%2F6005012&amp;rft.au=Tubaro+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Brown, R. D. (1993-01-01).  Laane, Jaan; Dakkouri, Marwan; Veken, Ben van der; Oberhammer, Heinz, eds. <a rel="nofollow" class="external text" href="https://link.springer.com/chapter/10.1007/978-94-011-2074-6_5"><i>Structures and Conformations of Non-Rigid Molecules</i></a>. NATO ASI Series. Springer Netherlands. pp.&#160;99–112. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F978-94-011-2074-6_5">10.1007/978-94-011-2074-6_5</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789401049207" title="Special:BookSources/9789401049207">9789401049207</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180104011156/https://link.springer.com/chapter/10.1007/978-94-011-2074-6_5">Archived</a> from the original on 2018-01-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Structures+and+Conformations+of+Non-Rigid+Molecules&amp;rft.series=NATO+ASI+Series&amp;rft.pages=99-112&amp;rft.pub=Springer+Netherlands&amp;rft.date=1993-01-01&amp;rft_id=info%3Adoi%2F10.1007%2F978-94-011-2074-6_5&amp;rft.isbn=9789401049207&amp;rft.aulast=Brown&amp;rft.aufirst=R.+D.&amp;rft_id=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-94-011-2074-6_5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jensen, Per; Johns, J. W. C. (1986-07-01). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/0022285286902390">"The infrared spectrum of carbon suboxide in the ν6 fundamental region: Experimental observation and semirigid bender analysis"</a>. <i>Journal of Molecular Spectroscopy</i>. <b>118</b> (1): 248–266. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0022-2852%2886%2990239-0">10.1016/0022-2852(86)90239-0</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180103091055/http://www.sciencedirect.com/science/article/pii/0022285286902390">Archived</a> from the original on 2018-01-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Molecular+Spectroscopy&amp;rft.atitle=The+infrared+spectrum+of+carbon+suboxide+in+the+%CE%BD6+fundamental+region%3A+Experimental+observation+and+semirigid+bender+analysis&amp;rft.volume=118&amp;rft.issue=1&amp;rft.pages=248-266&amp;rft.date=1986-07-01&amp;rft_id=info%3Adoi%2F10.1016%2F0022-2852%2886%2990239-0&amp;rft.aulast=Jensen&amp;rft.aufirst=Per&amp;rft.au=Johns%2C+J.+W.+C.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2F0022285286902390&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Clark, Allan (1970). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/0009261470851909">"The potential function for the CCC bending in carbon suboxide"</a>. <i>Chemical Physics Letters</i>. <b>6</b>: 452–456. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0009-2614%2870%2985190-9">10.1016/0009-2614(70)85190-9</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180103091641/http://www.sciencedirect.com/science/article/pii/0009261470851909">Archived</a> from the original on 2018-01-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Physics+Letters&amp;rft.atitle=The+potential+function+for+the+CCC+bending+in+carbon+suboxide&amp;rft.volume=6&amp;rft.pages=452-456&amp;rft.date=1970&amp;rft_id=info%3Adoi%2F10.1016%2F0009-2614%2870%2985190-9&amp;rft.aulast=Clark&amp;rft.aufirst=Allan&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2F0009261470851909&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ellern, Arkady; Drews, Thomas; Seppelt, Konrad (2001-01-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/1521-3749(200101)627:13.0.CO;2-A/abstract">"The Structure of Carbon Suboxide, C3O2, in the Solid State"</a>. <i>Zeitschrift für anorganische und allgemeine Chemie</i>. <b>627</b> (1): 73–76. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2F1521-3749%28200101%29627%3A1%3C73%3A%3Aaid-zaac73%3E3.0.co%3B2-a">10.1002/1521-3749(200101)627:1&#60;73::aid-zaac73&#62;3.0.co;2-a</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1521-3749">1521-3749</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zeitschrift+f%C3%BCr+anorganische+und+allgemeine+Chemie&amp;rft.atitle=The+Structure+of+Carbon+Suboxide%2C+C3O2%2C+in+the+Solid+State&amp;rft.volume=627&amp;rft.issue=1&amp;rft.pages=73-76&amp;rft.date=2001-01-01&amp;rft_id=info%3Adoi%2F10.1002%2F1521-3749%28200101%29627%3A1%3C73%3A%3Aaid-zaac73%3E3.0.co%3B2-a&amp;rft.issn=1521-3749&amp;rft.aulast=Ellern&amp;rft.aufirst=Arkady&amp;rft.au=Drews%2C+Thomas&amp;rft.au=Seppelt%2C+Konrad&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F1521-3749%28200101%29627%3A13.0.CO%3B2-A%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Frenking, Gernot; Tonner, Ralf (2009-01-01). <a rel="nofollow" class="external text" href="http://www.degruyter.com/view/j/pac.2009.81.issue-4/pac-con-08-11-03/pac-con-08-11-03.xml">"Divalent carbon(0) compounds"</a>. <i>Pure and Applied Chemistry</i>. <b>81</b> (4). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1351%2Fpac-con-08-11-03">10.1351/pac-con-08-11-03</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1365-3075">1365-3075</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180614234539/https://www.degruyter.com/view/j/pac.2009.81.issue-4/pac-con-08-11-03/pac-con-08-11-03.xml">Archived</a> from the original on 2018-06-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pure+and+Applied+Chemistry&amp;rft.atitle=Divalent+carbon%280%29+compounds&amp;rft.volume=81&amp;rft.issue=4&amp;rft.date=2009-01-01&amp;rft_id=info%3Adoi%2F10.1351%2Fpac-con-08-11-03&amp;rft.issn=1365-3075&amp;rft.aulast=Frenking&amp;rft.aufirst=Gernot&amp;rft.au=Tonner%2C+Ralf&amp;rft_id=http%3A%2F%2Fwww.degruyter.com%2Fview%2Fj%2Fpac.2009.81.issue-4%2Fpac-con-08-11-03%2Fpac-con-08-11-03.xml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Himmel, Daniel; Krossing, Ingo; Schnepf, Andreas (2014-01-07). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201300461/abstract">"Dative Bonds in Main-Group Compounds: A Case for Fewer Arrows!"</a>. <i>Angewandte Chemie International Edition</i>. <b>53</b> (2): 370–374. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fanie.201300461">10.1002/anie.201300461</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1521-3773">1521-3773</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170113170726/http://onlinelibrary.wiley.com/doi/10.1002/anie.201300461/abstract">Archived</a> from the original on 2017-01-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.atitle=Dative+Bonds+in+Main-Group+Compounds%3A+A+Case+for+Fewer+Arrows%21&amp;rft.volume=53&amp;rft.issue=2&amp;rft.pages=370-374&amp;rft.date=2014-01-07&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.201300461&amp;rft.issn=1521-3773&amp;rft.aulast=Himmel&amp;rft.aufirst=Daniel&amp;rft.au=Krossing%2C+Ingo&amp;rft.au=Schnepf%2C+Andreas&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fanie.201300461%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+suboxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.webelements.com/webelements/compounds/text/C/C3O2-504643.html">WebElements page on compound's properties</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Oxocarbons" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides_of_carbon" title="Template:Oxides of carbon"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides_of_carbon" title="Template talk:Oxides of carbon"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides_of_carbon&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxocarbons" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbons</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Common oxides</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide"><span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Exotic oxides</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide"><span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a></li>
+<li><a href="/wiki/Carbon_tetroxide" title="Carbon tetroxide"><span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a></li>
+<li><a href="/wiki/Carbon_pentoxide" title="Carbon pentoxide"><span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span></span></a></li>
+<li><a href="/wiki/Carbon_hexoxide" title="Carbon hexoxide"><span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a></li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></a></li>
+<li><a href="/wiki/Ethylene_dione" title="Ethylene dione"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Oxalic_anhydride" title="Oxalic anhydride"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a></li>
+<li><a href="/wiki/1,2-Dioxetanedione" title="1,2-Dioxetanedione"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a></li>
+<li><a href="/wiki/1,3-Dioxetanedione" title="1,3-Dioxetanedione"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a></li>
+<li><a href="/wiki/Tricarbon_monoxide" title="Tricarbon monoxide"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O</span></a></li>
+<li><a class="mw-selflink selflink"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Cyclopropanetrione" title="Cyclopropanetrione"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a></li>
+<li><a href="/wiki/1,3,5-Trioxanetrione" title="1,3,5-Trioxanetrione"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a></li>
+<li><a href="/wiki/Tetracarbon_dioxide" title="Tetracarbon dioxide"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Cyclobutanetetrone" title="Cyclobutanetetrone"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a></li>
+<li><a href="/wiki/Dioxane_tetraketone" title="Dioxane tetraketone"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a></li>
+<li><a href="/wiki/Pentacarbon_dioxide" title="Pentacarbon dioxide"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Cyclopentanepentone" title="Cyclopentanepentone"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span></span></a></li>
+<li><a href="/wiki/Cyclohexanehexone" title="Cyclohexanehexone"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a></li>
+<li><a href="/wiki/Ethylenetetracarboxylic_dianhydride" title="Ethylenetetracarboxylic dianhydride"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a></li>
+<li><a href="/wiki/Tetrahydroxy-1,4-benzoquinone_biscarbonate" title="Tetrahydroxy-1,4-benzoquinone biscarbonate"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">8</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">8</sub></span></span></a></li>
+<li><a href="/wiki/Hexahydroxybenzene_triscarbonate" title="Hexahydroxybenzene triscarbonate"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">9</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">9</sub></span></span></a></li>
+<li><a href="/wiki/Benzoquinonetetracarboxylic_dianhydride" title="Benzoquinonetetracarboxylic dianhydride"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">10</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">8</sub></span></span></a></li>
+<li><a href="/wiki/Tetrahydroxy-1,4-benzoquinone_bisoxalate" title="Tetrahydroxy-1,4-benzoquinone bisoxalate"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">10</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">10</sub></span></span></a></li>
+<li><a href="/wiki/Hexaoxotricyclobutabenzene" title="Hexaoxotricyclobutabenzene"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">12</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a></li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">12</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">9</sub></span></span></a></li>
+<li><a href="/wiki/Hexahydroxybenzene_trisoxalate" title="Hexahydroxybenzene trisoxalate"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">12</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">12</sub></span></span></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Polymers</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Graphite_oxide" title="Graphite oxide">Graphite oxide</a></li>
+<li><a href="/w/index.php?title=Polymeric_carbon_suboxide&amp;action=edit&amp;redlink=1" class="new" title="Polymeric carbon suboxide (page does not exist)">C<sub>3</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Polycarbonyl" title="Polycarbonyl">CO</a></li>
+<li><a href="/w/index.php?title=Polymeric_carbon_dioxide&amp;action=edit&amp;redlink=1" class="new" title="Polymeric carbon dioxide (page does not exist)">CO<sub>2</sub></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Compounds derived from oxides</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metal_carbonyl" title="Metal carbonyl">Metal carbonyls</a></li>
+<li><a href="/wiki/Carbonic_acid" title="Carbonic acid">Carbonic acid</a></li>
+<li><a href="/wiki/Bicarbonate" title="Bicarbonate">Bicarbonates</a></li>
+<li><a href="/wiki/Carbonate" title="Carbonate">Carbonates</a></li>
+<li><a href="/wiki/Dicarbonate" title="Dicarbonate">Dicarbonates</a></li>
+<li><a href="/wiki/Tricarbonate" title="Tricarbonate">Tricarbonates</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Inorganic_compounds_of_carbon_and_related_ions" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Inorganic_compounds_of_carbon" title="Template:Inorganic compounds of carbon"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Inorganic_compounds_of_carbon" title="Template talk:Inorganic compounds of carbon"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Inorganic_compounds_of_carbon&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Inorganic_compounds_of_carbon_and_related_ions" style="font-size:114%;margin:0 4em"><a href="/wiki/Compounds_of_carbon" title="Compounds of carbon">Inorganic compounds of</a> <a href="/wiki/Carbon" title="Carbon">carbon</a> and related ions</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Compounds</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tetrabromomethane" title="Tetrabromomethane">CBr<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride">CCl<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_monofluoride" title="Carbon monofluoride">CF</a></li>
+<li><a href="/wiki/Tetrafluoromethane" title="Tetrafluoromethane">CF<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_tetraiodide" title="Carbon tetraiodide">CI<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">CO<sub>3</sub></a></li>
+<li><a href="/wiki/Carbonyl_sulfide" title="Carbonyl sulfide">COS</a></li>
+<li><a href="/wiki/Carbon_monosulfide" title="Carbon monosulfide">CS</a></li>
+<li><a href="/wiki/Carbon_disulfide" title="Carbon disulfide">CS<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_diselenide" title="Carbon diselenide">CSe<sub>2</sub></a></li>
+<li><a class="mw-selflink selflink">C<sub>3</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_subsulfide" title="Carbon subsulfide">C<sub>3</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">SiC</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Carbon ions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbide" title="Carbide">Carbides</a> [:C≡C:]<sup>2&#8211;</sup>, [::C::]<sup>4&#8211;</sup>, [:C=C=C:]<sup>4&#8211;</sup></li>
+<li><a href="/wiki/Cyanide" title="Cyanide">Cyanides</a> [:C≡N:]<sup>&#8211;</sup></li>
+<li><a href="/wiki/Cyanate" title="Cyanate">Cyanates</a> [:O-C≡N:]<sup>&#8211;</sup></li>
+<li><a href="/wiki/Thiocyanate" title="Thiocyanate">Thiocyanates</a> [:S-C≡N:]<sup>&#8211;</sup></li>
+<li><a href="/wiki/Fulminate" title="Fulminate">Fulminates</a> [:C≡N-O:]<sup>&#8211;</sup></li>
+<li><a href="/w/index.php?title=Thiofulminate&amp;action=edit&amp;redlink=1" class="new" title="Thiofulminate (page does not exist)">Thiofulminates</a> [:C≡N-S:]<sup>&#8211;</sup></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oxides and related</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxides</a></li>
+<li><a href="/wiki/Metal_carbonyl" title="Metal carbonyl">Metal carbonyls</a></li>
+<li><a href="/wiki/Carbonic_acid" title="Carbonic acid">Carbonic acid</a></li>
+<li><a href="/wiki/Bicarbonate" title="Bicarbonate">Bicarbonates</a></li>
+<li><a href="/wiki/Carbonate" title="Carbonate">Carbonates</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxides" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a class="mw-selflink selflink">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Hafnium(IV)_oxide" class="mw-redirect" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tin_dioxide" class="mw-redirect" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q411352&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q411352&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q411352" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4419344-0">4419344-0</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20181010201606
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.024 seconds
+Real time usage: 1.373 seconds
+Preprocessor visited node count: 12830/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 410396/2097152 bytes
+Template argument size: 35510/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 61996/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.432/10.000 seconds
+Lua memory usage: 8.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  989.051      1 -total
+ 50.16%  496.075      1 Template:Chembox
+ 28.71%  283.993      1 Template:Reflist
+ 25.08%  248.089      1 Template:Chembox_Identifiers
+ 23.74%  234.761     19 Template:Cite_journal
+ 16.80%  166.187      6 Template:Chembox_headerbar
+ 16.44%  162.630     18 Template:Trim
+ 16.23%  160.565      3 Template:Navbox
+ 15.42%  152.492      1 Template:Oxides_of_carbon
+ 13.69%  135.445     28 Template:Chem
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2208893-0!canonical!math=5 and timestamp 20181010201605 and revision id 855459214
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carbon_suboxide&amp;oldid=855459214">https://en.wikipedia.org/w/index.php?title=Carbon_suboxide&amp;oldid=855459214</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Oxocarbons" title="Category:Oxocarbons">Oxocarbons</a></li><li><a href="/wiki/Category:Gaseous_signaling_molecules" title="Category:Gaseous signaling molecules">Gaseous signaling molecules</a></li><li><a href="/wiki/Category:Heterocumulenes" title="Category:Heterocumulenes">Heterocumulenes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li><li><a href="/wiki/Category:Chemical_articles_with_multiple_compound_IDs" title="Category:Chemical articles with multiple compound IDs">Chemical articles with multiple compound IDs</a></li><li><a href="/wiki/Category:Multiple_chemicals_in_an_infobox_that_need_indexing" title="Category:Multiple chemicals in an infobox that need indexing">Multiple chemicals in an infobox that need indexing</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Chembox_image_size_set" title="Category:Chembox image size set">Chembox image size set</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carbon+suboxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carbon+suboxide" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Carbon_suboxide" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Carbon_suboxide" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Carbon_suboxide">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Carbon_suboxide&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Carbon_suboxide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Carbon_suboxide" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Carbon_suboxide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carbon_suboxide&amp;oldid=855459214" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carbon_suboxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411352" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carbon_suboxide&amp;id=855459214" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carbon+suboxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Carbon+suboxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Carbon_suboxide&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Carbon_suboxide" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Koolstofsuboksied" title="Koolstofsuboksied – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D8%AA_%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%86" title="تحت أكسيد الكربون – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A8%D9%88%D9%86_%D8%B3%D8%A7%D8%A8%D9%88%DA%A9%D8%B3%DB%8C%D8%AF" title="کربون سابوکسید – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kohlenstoffsuboxid" title="Kohlenstoffsuboxid – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A5%CF%80%CE%BF%CE%BE%CE%B5%CE%AF%CE%B4%CE%B9%CE%BF_%CF%84%CE%BF%CF%85_%CE%AC%CE%BD%CE%B8%CF%81%CE%B1%CE%BA%CE%B1" title="Υποξείδιο του άνθρακα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Di%C3%B3xido_de_tricarbono" title="Dióxido de tricarbono – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A8%D9%86_%D8%B3%D8%A7%D8%A8%D9%88%DA%A9%D8%B3%DB%8C%D8%AF" title="کربن سابوکسید – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Suboxyde_de_carbone" title="Suboxyde de carbone – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EC%82%B0%ED%99%94_%ED%83%84%EC%86%8C" title="아산화 탄소 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Karbon_suboksida" title="Karbon suboksida – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Subossido_di_carbonio" title="Subossido di carbonio – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Oglek%C4%BCa_suboks%C4%ABds" title="Oglekļa suboksīds – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Sz%C3%A9n-szuboxid" title="Szén-szuboxid – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%BA%9C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0" title="亜酸化炭素 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Podtlenek_w%C4%99gla" title="Podtlenek węgla – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Suboxid_de_carbon" title="Suboxid de carbon – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D1%82%D1%80%D0%B8%D1%83%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4%D0%B0" title="Диоксид триуглерода – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A3%D0%B3%D1%99%D0%B5%D0%BD%D0%B8%D0%BA_%D1%81%D1%83%D0%B1%D0%BE%D0%BA%D1%81%D0%B8%D0%B4" title="Угљеник субоксид – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ugljenik_suboksid" title="Ugljenik suboksid – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hiilisuboksidi" title="Hiilisuboksidi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%8B%E0%B8%84%E0%B9%8C" title="คาร์บอนซับออกไซค์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Cacbon_suboxit" title="Cacbon suboxit – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%B0%A7%E5%8C%96%E4%B8%89%E7%A2%B3" title="二氧化三碳 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411352#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 August 2018, at 13:04<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Carbon_suboxide&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.024","walltime":"1.373","ppvisitednodes":{"value":12830,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":410396,"limit":2097152},"templateargumentsize":{"value":35510,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":61996,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  989.051      1 -total"," 50.16%  496.075      1 Template:Chembox"," 28.71%  283.993      1 Template:Reflist"," 25.08%  248.089      1 Template:Chembox_Identifiers"," 23.74%  234.761     19 Template:Cite_journal"," 16.80%  166.187      6 Template:Chembox_headerbar"," 16.44%  162.630     18 Template:Trim"," 16.23%  160.565      3 Template:Navbox"," 15.42%  152.492      1 Template:Oxides_of_carbon"," 13.69%  135.445     28 Template:Chem"]},"scribunto":{"limitreport-timeusage":{"value":"0.432","limit":"10.000"},"limitreport-memusage":{"value":8701708,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20181010201606","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>
+

@@ -1,0 +1,470 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Prince_Edward_Island
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Prince Edward Island - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Prince_Edward_Island","wgTitle":"Green Party of Prince Edward Island","wgCurRevisionId":854797568,"wgRevisionId":854797568,"wgArticleId":4321913,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia introduction cleanup from December 2015","All pages needing cleanup","Articles covered by WikiProject Wikify from December 2015","All articles covered by WikiProject Wikify","Articles needing additional references from December 2015","All articles needing additional references","Wikipedia articles in need of updating from December 2015","All Wikipedia articles in need of updating","Articles with multiple maintenance issues","Use mdy dates from December 2011","Green Party of Prince Edward Island","Provincial political parties in Prince Edward Island","Political parties established in 2005","2005 establishments in Prince Edward Island"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Prince_Edward_Island","wgRelevantArticleId":4321913,"wgRequestId":"W7FeDgrAIDoAAIvKLGsAAAAL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5603035","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Prince_Edward_Island"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Prince_Edward_Island"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Prince_Edward_Island rootpage-Green_Party_of_Prince_Edward_Island skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Prince Edward Island</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Green_Party_of_Prince_Edward_Island" title="Talk:Green Party of Prince Edward Island">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="plainlinks metadata ambox ambox-content ambox-lead_too_short" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> does not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> key points of its contents</b>.<span class="hide-when-compact"> Please consider expanding the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article. Please discuss this issue on the article's <a href="/wiki/Talk:Green_Party_of_Prince_Edward_Island" title="Talk:Green Party of Prince Edward Island">talk page</a>.</span>  <small><i>(December 2015)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(December 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small><i>(December 2015)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #99C955; border-bottom:2px solid #99C955; line-height: 1;"><span class="fn org">Green Party of Prince Edward Island</span></div></th></tr><tr><td colspan="2" style="text-align:center">
+Active&#160;provincial&#160;party</td></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Gp-pei.png" class="image"><img alt="Gp-pei.png" src="//upload.wikimedia.org/wikipedia/en/thumb/0/00/Gp-pei.png/180px-Gp-pei.png" width="180" height="49" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/00/Gp-pei.png/270px-Gp-pei.png 1.5x, //upload.wikimedia.org/wikipedia/en/0/00/Gp-pei.png 2x" data-file-width="300" data-file-height="82" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Peter Bevan-Baker</a></td></tr><tr><th scope="row" style="line-height:1.3em;">President</th><td class="agent" style="line-height:1.3em;">
+<a href="/w/index.php?title=Anna_Keenan&amp;action=edit&amp;redlink=1" class="new" title="Anna Keenan (page does not exist)">Anna Keenan</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Deputy leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/w/index.php?title=Lynne_Lund&amp;action=edit&amp;redlink=1" class="new" title="Lynne Lund (page does not exist)">Lynne Lund</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+2005</td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+<a href="/wiki/Hampton,_Prince_Edward_Island" title="Hampton, Prince Edward Island">Hampton</a>, <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centrism" title="Centrism">Centre</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<a href="/wiki/Green_and_White" class="mw-redirect" title="Green and White">Green and White</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats in <a href="/wiki/Legislative_Assembly_of_Prince_Edward_Island" title="Legislative Assembly of Prince Edward Island">Legislature</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">2 / 27</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99C955; width: 7%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.greenparty.pe.ca">www<wbr />.greenparty<wbr />.pe<wbr />.ca</a></span></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #99C955;"><ul><li><a href="/wiki/Politics_of_Prince_Edward_Island" title="Politics of Prince Edward Island">Politics of Prince Edward Island</a></li><li><a href="/wiki/List_of_political_parties_in_Prince_Edward_Island" title="List of political parties in Prince Edward Island">Political parties</a></li><li><a href="/wiki/List_of_post-confederation_Prince_Edward_Island_general_elections" title="List of post-confederation Prince Edward Island general elections">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party of Prince Edward Island</b> is a registered provincial <a href="/wiki/Political_party" title="Political party">political party</a> in <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a>, <a href="/wiki/Canada" title="Canada">Canada</a> founded by <a href="/wiki/Sharon_Labchuk" title="Sharon Labchuk">Sharon Labchuk</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The party was registered in 2005 and ran candidates in the <a href="/wiki/Prince_Edward_Island_general_election,_2007" title="Prince Edward Island general election, 2007">2007</a> and <a href="/wiki/Prince_Edward_Island_general_election,_2011" title="Prince Edward Island general election, 2011">2011 elections</a>. In the <a href="/wiki/Prince_Edward_Island_general_election,_2015" title="Prince Edward Island general election, 2015">2015 election</a>, the party elected its first member of the legislature, leader <a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Peter Bevan-Baker</a>, with 54% of the vote.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Current_MLAs"><span class="tocnumber">2</span> <span class="toctext">Current MLAs</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Leaders"><span class="tocnumber">3</span> <span class="toctext">Leaders</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Electoral_record"><span class="tocnumber">4</span> <span class="toctext">Electoral record</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Party of PEI  ran 18 candidates during its <a href="/wiki/Prince_Edward_Island_general_election,_2007" title="Prince Edward Island general election, 2007">first election</a>, in May 2007, winning 3.04% of the vote or 4.44% in ridings contested, and replacing the <a href="/wiki/Island_New_Democrats" class="mw-redirect" title="Island New Democrats">Island New Democrats</a> as the Island's third party.  The result had marked the first time a Green Party has bested a New Democratic Party at the federal or provincial level in Canada at that time.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>A third of all candidates won more than 5.40%.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Jamie Larkin had the best result of 8.45% followed by dentist Peter Bevan-Baker 6.84%, Cindy Burton 6.68%, Party leader <a href="/wiki/Sharon_Labchuk" title="Sharon Labchuk">Sharon Labchuk</a> 6.03%, Denise Reiser 5.79%, and Jodie Bowmaster 5.40%.
+</p><p>All other candidates captured less than 5.0%, however 14 out of the 18 candidates had placed ahead of the NDP, two of the four candidates who finished fourth did so by just one and two votes.
+</p><p>The party ran a candidate in the 2007 by-election<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> to replace <a href="/wiki/Pat_Binns" title="Pat Binns">Pat Binns</a> in the riding of <a href="/wiki/Belfast-Murray_River" title="Belfast-Murray River">Belfast-Murray River</a>. Candidate Ahmon Katz finished 3.2% ahead of NDP candidate Jane McNeil.
+</p><p>In the <a href="/wiki/Prince_Edward_Island_general_election,_2007" title="Prince Edward Island general election, 2007">2011 general election</a> the party increased its number of candidates from 18 in the 2007 election to 22, and upped the vote share from 3% to 4.4%, or 5.3% in ridings contested, beating out the PEI New Democrats for third place again. The party increased its votes per riding from 138 to 147, even though turnout in the province fell from 84 to 77%.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Party leader Sharon Labchuk running in <a href="/wiki/Charlottetown-Victoria_Park" title="Charlottetown-Victoria Park">Charlottetown-Victoria Park</a> had the best result at 12.82%, followed by Elizabeth Schoales in <a href="/wiki/Charlottetown-Brighton" title="Charlottetown-Brighton">Charlottetown-Brighton</a> at 10.17%, and Peter Bevan-Baker in <a href="/wiki/Kellys_Cross-Cumberland" title="Kellys Cross-Cumberland">Kellys Cross-Cumberland</a> at 9.36%.
+</p><p>At 59%, the party had the highest number of women candidates in the 2011 election.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  The Green Party of PEI is the first Canadian political party to run more than 50% women candidates.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p><a href="/wiki/Sharon_Labchuk" title="Sharon Labchuk">Sharon Labchuk</a> resigned the <a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">leadership</a> of the Green Party of PEI on 12 July 2012.<sup id="cite_ref-TGC_9-0" class="reference"><a href="#cite_note-TGC-9">&#91;9&#93;</a></sup> She was succeeded by <a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Peter Bevan-Baker</a> on November 3, 2012.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>The party released its platform for the 2015 election on March 20, 2015.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> In that election, leader Bevan-Baker was elected in the district of <a href="/wiki/Kellys_Cross-Cumberland" title="Kellys Cross-Cumberland">Kellys Cross-Cumberland</a> with 54% of the vote, and won the party's first seat.
+</p><p>The party secured their second seat in a by-election to fill a vacancy left by retiring <a href="/wiki/Charlottetown-Parkdale" title="Charlottetown-Parkdale">Charlottetown-Parkdale</a> MLA, <a href="/wiki/Doug_Currie" title="Doug Currie">Doug Currie</a>, on November 27, 2017.<sup id="cite_ref-CBCPEI17_12-0" class="reference"><a href="#cite_note-CBCPEI17-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Current_MLAs">Current MLAs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit&amp;section=2" title="Edit section: Current MLAs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Hannah_Bell" title="Hannah Bell">Hannah Bell</a>, <a href="/wiki/Charlottetown-Parkdale" title="Charlottetown-Parkdale">Charlottetown-Parkdale</a></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Peter Bevan-Baker</a>, <a href="/wiki/Kellys_Cross-Cumberland" title="Kellys Cross-Cumberland">Kellys Cross-Cumberland</a></li></ul>
+<h2><span class="mw-headline" id="Leaders">Leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit&amp;section=3" title="Edit section: Leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Sharon_Labchuk" title="Sharon Labchuk">Sharon Labchuk</a>, 2005–2012</li>
+<li><a href="/wiki/Darcie_Lanthier" title="Darcie Lanthier">Darcie Lanthier</a>, 2012 <small>(interim)</small><sup id="cite_ref-TGC2_13-0" class="reference"><a href="#cite_note-TGC2-13">&#91;13&#93;</a></sup></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Peter Bevan-Baker</a>, 2012–present</li></ul>
+<h2><span class="mw-headline" id="Electoral_record">Electoral record</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit&amp;section=4" title="Edit section: Electoral record">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>General election
+</th>
+<th># of candidates
+</th>
+<th># of elected candidates
+</th>
+<th>% of popular vote
+</th>
+<th>% of vote in contested ridings
+</th>
+<th># of votes
+</th></tr>
+<tr>
+<th><a href="/wiki/Prince_Edward_Island_general_election,_2007" title="Prince Edward Island general election, 2007">2007</a>
+</th>
+<td>18
+</td>
+<td>0
+</td>
+<td>3.04%
+</td>
+<td>4.44%
+</td>
+<td>2,482
+</td></tr>
+<tr>
+<th><a href="/wiki/Prince_Edward_Island_general_election,_2011" title="Prince Edward Island general election, 2011">2011</a>
+</th>
+<td>22
+</td>
+<td>0
+</td>
+<td>4.36%
+</td>
+<td>5.30%
+</td>
+<td>3,254
+</td></tr>
+<tr>
+<th><a href="/wiki/Prince_Edward_Island_general_election,_2015" title="Prince Edward Island general election, 2015">2015</a>
+</th>
+<td><b>24</b>
+</td>
+<td><b>1</b>
+</td>
+<td><b>10.81%</b>
+</td>
+<td><b>12.01%</b>
+</td>
+<td><b>8,857</b>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">List of Green party leaders in Canada</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">Green Party of Prince Edward Island leadership election, 2012</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.collectionscanada.gc.ca/eppp-archive/100/205/300/green_party-ef/06-01-09/www.greenparty.ca/page109.html">"Green Party works on provincial status - Green Party of Canada"</a>. <i>Collectionscanada.gc.ca</i>. 2005-06-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Collectionscanada.gc.ca&amp;rft.atitle=Green+Party+works+on+provincial+status+-+Green+Party+of+Canada&amp;rft.date=2005-06-29&amp;rft_id=http%3A%2F%2Fwww.collectionscanada.gc.ca%2Feppp-archive%2F100%2F205%2F300%2Fgreen_party-ef%2F06-01-09%2Fwww.greenparty.ca%2Fpage109.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/elections/prince-edward-island-votes/green-party-leader-peter-bevan-baker-makes-p-e-i-political-history-1.3060491?cmp=rss">"Green Party Leader Peter Bevan-Baker makes P.E.I. political history - CBC News &#124; Elections PEI"</a>. <i>Cbc.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cbc.ca&amp;rft.atitle=Green+Party+Leader+Peter+Bevan-Baker+makes+P.E.I.+political+history+-+CBC+News+%26%23124%3B+Elections+PEI&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Felections%2Fprince-edward-island-votes%2Fgreen-party-leader-peter-bevan-baker-makes-p-e-i-political-history-1.3060491%3Fcmp%3Drss&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.electionspei.ca/provincial/general/2007/results/index.php">[1]</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090522142348/http://www.electionspei.ca/provincial/general/2007/results/index.php">Archived</a> May 22, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cbc.ca/peivotes2007/ridings/">"Prince Edward Island Votes 2007 &#124; District Profiles"</a>. CBC.ca. 2007-11-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prince+Edward+Island+Votes+2007+%26%23124%3B+District+Profiles&amp;rft.pub=CBC.ca&amp;rft.date=2007-11-29&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fpeivotes2007%2Fridings%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.electionspei.ca/provincial/historical/ceoreports/byelections/byelection-2007-10-15.pdf">[2]</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110605182120/http://www.electionspei.ca/provincial/historical/ceoreports/byelections/byelection-2007-10-15.pdf">Archived</a> June 5, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.huffingtonpost.ca/2011/10/14/green-party-loses-support_n_1009699.html">"Green Party Loses Support Provincially After Electing First Ever MP Elizabeth May"</a>. <i>Huffingtonpost.ca</i>. 2011-10-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Huffingtonpost.ca&amp;rft.atitle=Green+Party+Loses+Support+Provincially+After+Electing+First+Ever+MP+Elizabeth+May&amp;rft.date=2011-10-14&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.ca%2F2011%2F10%2F14%2Fgreen-party-loses-support_n_1009699.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.womeningovernmentpei.ca/content/page/front_news/id/72">"PEI Coalition for Women in Government - News - PEI Coalition for Women in Government"</a>. <i>Womeningovernmentpei.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Womeningovernmentpei.ca&amp;rft.atitle=PEI+Coalition+for+Women+in+Government+-+News+-+PEI+Coalition+for+Women+in+Government&amp;rft_id=http%3A%2F%2Fwww.womeningovernmentpei.ca%2Fcontent%2Fpage%2Ffront_news%2Fid%2F72&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://greenparty.pe.ca/media/green-party-leader-sharon-labchuk-steps-down">"Green Party leader Sharon Labchuk steps down &#124; Green Party of PEI"</a>. <i>Greenparty.pe.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Greenparty.pe.ca&amp;rft.atitle=Green+Party+leader+Sharon+Labchuk+steps+down+%26%23124%3B+Green+Party+of+PEI&amp;rft_id=http%3A%2F%2Fgreenparty.pe.ca%2Fmedia%2Fgreen-party-leader-sharon-labchuk-steps-down&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TGC-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-TGC_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Wright, Teresa (July 12, 2012). <a rel="nofollow" class="external text" href="https://www.webcitation.org/69BMEbq1N?url=http://www.theguardian.pe.ca/News/Local/2012-07-12/article-3029384/Labchuk-steps-down-as-Green-Party-leader/1">"Labchuk steps down as Green Party leader"</a>. <a href="/wiki/Charlottetown" title="Charlottetown">Charlottetown</a>: <a href="/wiki/The_Guardian_(Charlottetown)" title="The Guardian (Charlottetown)">The Guardian</a>. Archived from <a rel="nofollow" class="external text" href="http://www.theguardian.pe.ca/News/Local/2012-07-12/article-3029384/Labchuk-steps-down-as-Green-Party-leader/1">the original</a> on July 15, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Labchuk+steps+down+as+Green+Party+leader&amp;rft.place=Charlottetown&amp;rft.pub=The+Guardian&amp;rft.date=2012-07-12&amp;rft.aulast=Wright&amp;rft.aufirst=Teresa&amp;rft_id=http%3A%2F%2Fwww.theguardian.pe.ca%2FNews%2FLocal%2F2012-07-12%2Farticle-3029384%2FLabchuk-steps-down-as-Green-Party-leader%2F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theguardian.pe.ca/News/Local/2012-11-03/article-3113547/Bevan-Baker-acclaimed-as-P.E.I.-Green-Party-leader/1">"Bevan-Baker acclaimed as P.E.I. Green Party leader"</a>. <a href="/wiki/Charlottetown" title="Charlottetown">Charlottetown</a>: <a href="/wiki/The_Guardian_(Charlottetown)" title="The Guardian (Charlottetown)">The Guardian</a>. 3 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bevan-Baker+acclaimed+as+P.E.I.+Green+Party+leader&amp;rft.place=Charlottetown&amp;rft.pub=The+Guardian&amp;rft.date=2012-11-03&amp;rft_id=http%3A%2F%2Fwww.theguardian.pe.ca%2FNews%2FLocal%2F2012-11-03%2Farticle-3113547%2FBevan-Baker-acclaimed-as-P.E.I.-Green-Party-leader%2F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/elections/prince-edward-island-votes/green-party-of-p-e-i-releases-election-platform-1.3003195">"Green Party of P.E.I. releases election platform - CBC News &#124; Elections PEI"</a>. <i>Cbc.ca</i>. 2015-03-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cbc.ca&amp;rft.atitle=Green+Party+of+P.E.I.+releases+election+platform+-+CBC+News+%26%23124%3B+Elections+PEI&amp;rft.date=2015-03-20&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Felections%2Fprince-edward-island-votes%2Fgreen-party-of-p-e-i-releases-election-platform-1.3003195&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CBCPEI17-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-CBCPEI17_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Fraser, Sara (28 November 2017). <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/prince-edward-island/pei-district-11-win-byelection-polls-polling-station-eastlink-centre-1.4421127">"Green's Hannah Bell wins District 11 byelection by 157 votes"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green%27s+Hannah+Bell+wins+District+11+byelection+by+157+votes&amp;rft.date=2017-11-28&amp;rft.aulast=Fraser&amp;rft.aufirst=Sara&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fprince-edward-island%2Fpei-district-11-win-byelection-polls-polling-station-eastlink-centre-1.4421127&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TGC2-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-TGC2_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Wright, Teresa (July 17, 2012). <a rel="nofollow" class="external text" href="https://www.webcitation.org/69EYYloGK?url=http://www.theguardian.pe.ca/News/Local/2012-07-17/article-3032874/Green-Party-of-P.E.I.-appoints-interim-leader/1">"Green Party of P.E.I. appoints interim leader"</a>. <a href="/wiki/Charlottetown" title="Charlottetown">Charlottetown</a>: <a href="/wiki/The_Guardian_(Charlottetown)" title="The Guardian (Charlottetown)">The Guardian</a>. Archived from <a rel="nofollow" class="external text" href="http://www.theguardian.pe.ca/News/Local/2012-07-17/article-3032874/Green-Party-of-P.E.I.-appoints-interim-leader/1">the original</a> on July 17, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+of+P.E.I.+appoints+interim+leader&amp;rft.place=Charlottetown&amp;rft.pub=The+Guardian&amp;rft.date=2012-07-17&amp;rft.aulast=Wright&amp;rft.aufirst=Teresa&amp;rft_id=http%3A%2F%2Fwww.theguardian.pe.ca%2FNews%2FLocal%2F2012-07-17%2Farticle-3032874%2FGreen-Party-of-P.E.I.-appoints-interim-leader%2F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Prince+Edward+Island" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.greenparty.pe.ca">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_Canada" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#289728;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPC" title="Template:GPC"><abbr title="View this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPC" title="Template talk:GPC"><abbr title="Discuss this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPC&amp;action=edit"><abbr title="Edit this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_Canada" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Party wings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/Green_Party_of_Canada#Provincial_&amp;_territorial_parties" title="Green Party of Canada">Provincial &amp; territorial</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta" title="Green Party of Alberta">Alberta</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">British Columbia</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba" title="Green Party of Manitoba">Manitoba</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick" title="Green Party of New Brunswick">New Brunswick</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia" title="Green Party of Nova Scotia">Nova Scotia</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Ontario</a></li>
+<li><a class="mw-selflink selflink">Prince Edward Island</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec" title="Green Party of Quebec">Quebec</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan" title="Green Party of Saskatchewan">Saskatchewan</a></li>
+<li><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Municipal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burnaby_Municipal_Green_Party" title="Burnaby Municipal Green Party">Burnaby</a></li>
+<li><a href="/wiki/Green_Party_of_Vancouver" title="Green Party of Vancouver">Vancouver</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Former parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alberta_Greens" title="Alberta Greens">Alberta</a></li>
+<li><a href="/wiki/Montr%C3%A9al_%C3%89cologique" title="Montréal Écologique">Montreal</a></li>
+<li><a href="/wiki/Winnipeg_Green_Party" title="Winnipeg Green Party">Winnipeg</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Green_Maple_Leaf.svg" class="image"><img alt="Green Maple Leaf.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/60px-Green_Maple_Leaf.svg.png" width="60" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/90px-Green_Maple_Leaf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/120px-Green_Maple_Leaf.svg.png 2x" data-file-width="300" data-file-height="325" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Federal level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leaders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trevor_Hancock" title="Trevor Hancock">Hancock</a></li>
+<li><a href="/wiki/Seymour_Trieger" title="Seymour Trieger">Trieger</a></li>
+<li><a href="/wiki/Kathryn_Cholette" title="Kathryn Cholette">Cholette</a></li>
+<li><a href="/wiki/Chris_Lea" title="Chris Lea">Lea</a></li>
+<li><a href="/wiki/Wendy_Priesnitz" title="Wendy Priesnitz">Priesnitz</a></li>
+<li>Garfinkle (<i>interim</i>)</li>
+<li><a href="/wiki/Joan_Russow" title="Joan Russow">Russow</a></li>
+<li><a href="/wiki/Chris_Bradshaw" title="Chris Bradshaw">Bradshaw</a> (<i>interim</i>)</li>
+<li><a href="/wiki/Jim_Harris_(politician)" title="Jim Harris (politician)">Harris</a></li>
+<li><a href="/wiki/Elizabeth_May" title="Elizabeth May">May</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leadership elections</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_leadership_election,_2006" title="Green Party of Canada leadership election, 2006">2006</a></li>
+<li><i><a href="/wiki/Green_Party_of_Canada_leadership_elections" title="Green Party of Canada leadership elections">list</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Parliamentary election<br />candidates</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_candidates,_1984_Canadian_federal_election" title="Green Party of Canada candidates, 1984 Canadian federal election">1984</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1988_Canadian_federal_election" title="Green Party of Canada candidates, 1988 Canadian federal election">1988</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1993_Canadian_federal_election" title="Green Party of Canada candidates, 1993 Canadian federal election">1993</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1997_Canadian_federal_election" title="Green Party of Canada candidates, 1997 Canadian federal election">1997</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2000_Canadian_federal_election" title="Green Party of Canada candidates, 2000 Canadian federal election">2000</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2004_Canadian_federal_election" title="Green Party of Canada candidates, 2004 Canadian federal election">2004</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2006_Canadian_federal_election" title="Green Party of Canada candidates, 2006 Canadian federal election">2006</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2008_Canadian_federal_election" title="Green Party of Canada candidates, 2008 Canadian federal election">2008</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2011_Canadian_federal_election" title="Green Party of Canada candidates, 2011 Canadian federal election">2011</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2015_Canadian_federal_election" title="Green Party of Canada candidates, 2015 Canadian federal election">2015</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Provincial level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">Current leaders</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cheryle_Chagnon-Greyeyes" title="Cheryle Chagnon-Greyeyes">Chagnon-Greyeyes – AB</a></li>
+<li><a href="/wiki/Andrew_Weaver" title="Andrew Weaver">Weaver – BC</a></li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">Beddome – MB</a></li>
+<li><a href="/wiki/David_Coon" title="David Coon">Coon – NB</a></li>
+<li><a href="/wiki/Thomas_Trappenberg" title="Thomas Trappenberg">Trappenberg – NS</a></li>
+<li><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Schreiner – ON</a></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Bevan-Baker – PE</a></li>
+<li><a href="/wiki/Alex_Tyrrell" title="Alex Tyrrell">Tyrrell – QC</a></li>
+<li><a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Setyo – SK</a></li>
+<li><a href="/wiki/Frank_de_Jong" title="Frank de Jong">de Jong – YT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Upcoming or most recent<br />leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta_leadership_election,_2018" title="Green Party of Alberta leadership election, 2018">Alberta 2018</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia#Sterk_and_Weaver_(2007-present)" title="Green Party of British Columbia">British Columbia 2015</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba#Leaders" title="Green Party of Manitoba">Manitoba 2014</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick#2012_leadership_election" title="Green Party of New Brunswick">New Brunswick 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia#Leadership" title="Green Party of Nova Scotia">Nova Scotia 2016</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario_leadership_election,_2009" title="Green Party of Ontario leadership election, 2009">Ontario 2009</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">Prince Edward Island 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec#Current_Green_Party_of_Quebec_(2001–present)" title="Green Party of Quebec">Quebec 2013</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan#Party_leaders" title="Green Party of Saskatchewan">Saskatchewan 2016</a></li>
+<li><i><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon 2017</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_Canada" title="History of the Green Party of Canada">History</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li>
+<li><a href="/wiki/Young_Greens_of_Canada" title="Young Greens of Canada">Young Greens of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Provincial_political_parties_in_Prince_Edward_Island_23x15px&amp;#124;border_&amp;#124;alt=Prince_Edward_Island&amp;#124;link=Prince_Edward_Island" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:PEI_provincial_political_parties" title="Template:PEI provincial political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:PEI_provincial_political_parties" title="Template talk:PEI provincial political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:PEI_provincial_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Provincial_political_parties_in_Prince_Edward_Island_23x15px&amp;#124;border_&amp;#124;alt=Prince_Edward_Island&amp;#124;link=Prince_Edward_Island" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Prince_Edward_Island" title="List of political parties in Prince Edward Island">Provincial political parties in Prince Edward Island</a> <span class="flagicon"><a href="/wiki/Prince_Edward_Island" title="Prince Edward Island"><img alt="Prince Edward Island" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/23px-Flag_of_Prince_Edward_Island.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/35px-Flag_of_Prince_Edward_Island.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/45px-Flag_of_Prince_Edward_Island.svg.png 2x" data-file-width="1800" data-file-height="1200" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Represented in the <a href="/wiki/Legislative_Assembly_of_Prince_Edward_Island" title="Legislative Assembly of Prince Edward Island">Legislative Assembly</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Prince_Edward_Island_Liberal_Party" title="Prince Edward Island Liberal Party">Liberal</a> (16)</li>
+<li><a href="/wiki/Progressive_Conservative_Party_of_Prince_Edward_Island" title="Progressive Conservative Party of Prince Edward Island">Progressive Conservative</a> (8)</li>
+<li><a class="mw-selflink selflink">Green</a> (2) <br /></li>
+<li><a href="/wiki/Independent_politician" title="Independent politician">Independent</a> (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other parties recognized by <br /> <a href="/wiki/Elections_Prince_Edward_Island" title="Elections Prince Edward Island">Elections PEI</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/New_Democratic_Party_of_Prince_Edward_Island" title="New Democratic Party of Prince Edward Island">New Democratic</a></li>
+<li><a href="/wiki/Island_Party_of_Prince_Edward_Island" class="mw-redirect" title="Island Party of Prince Edward Island">Island Party</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Politics" title="Portal:Politics">Portal:Politics</a></li>
+<li><a href="/wiki/List_of_political_parties_by_country" class="mw-redirect" title="List of political parties by country">List of political parties</a></li>
+<li><a href="/wiki/Politics_of_Canada" title="Politics of Canada">Politics of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="36px&amp;#124;Flag_of_Prince_Edward_Island_Politics_of_Prince_Edward_Island" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Politics_of_Prince_Edward_Island" title="Template:Politics of Prince Edward Island"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Politics_of_Prince_Edward_Island" title="Template talk:Politics of Prince Edward Island"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_of_Prince_Edward_Island&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="36px&amp;#124;Flag_of_Prince_Edward_Island_Politics_of_Prince_Edward_Island" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Prince_Edward_Island.svg" class="image" title="Flag of Prince Edward Island"><img alt="Flag of Prince Edward Island" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/36px-Flag_of_Prince_Edward_Island.svg.png" width="36" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/54px-Flag_of_Prince_Edward_Island.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/72px-Flag_of_Prince_Edward_Island.svg.png 2x" data-file-width="1800" data-file-height="1200" /></a>    <a href="/wiki/Politics_of_Prince_Edward_Island" title="Politics of Prince Edward Island">Politics of Prince Edward Island</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;"><a href="/wiki/Lieutenant_Governor_of_Prince_Edward_Island" title="Lieutenant Governor of Prince Edward Island">Lieutenant Governor</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antoinette_Perry_(vicereine)" title="Antoinette Perry (vicereine)">Antoinette Perry</a></li>
+<li><a href="/wiki/List_of_lieutenant_governors_of_Prince_Edward_Island" title="List of lieutenant governors of Prince Edward Island">Former lieutenant governors</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;"><a href="/wiki/Premier_of_Prince_Edward_Island" title="Premier of Prince Edward Island">Premier</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wade_MacLauchlan" title="Wade MacLauchlan">Wade MacLauchlan</a></li>
+<li><a href="/wiki/List_of_premiers_of_Prince_Edward_Island" title="List of premiers of Prince Edward Island">Former premiers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;">Opposition Leader</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/James_Aylward_(politician)" title="James Aylward (politician)">James Aylward</a></li>
+<li><a href="/wiki/Leader_of_the_Opposition_(Prince_Edward_Island)" title="Leader of the Opposition (Prince Edward Island)">Former Opposition Leaders</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;"><a href="/wiki/Speaker_of_the_Legislative_Assembly_of_Prince_Edward_Island" title="Speaker of the Legislative Assembly of Prince Edward Island">Speaker of the Assembly</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buck_Watts" title="Buck Watts">Buck Watts</a></li>
+<li><a href="/wiki/List_of_Speakers_of_the_Prince_Edward_Island_legislative_assembly" class="mw-redirect" title="List of Speakers of the Prince Edward Island legislative assembly">Former speakers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;"><a href="/wiki/Legislative_Assembly_of_Prince_Edward_Island" title="Legislative Assembly of Prince Edward Island">Legislative Assembly</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/65th_General_Assembly_of_Prince_Edward_Island" title="65th General Assembly of Prince Edward Island">Current assembly</a></li>
+<li><a href="/wiki/List_of_Prince_Edward_Island_General_Assemblies" class="mw-redirect" title="List of Prince Edward Island General Assemblies">Former Assemblies</a></li>
+<li><a href="/wiki/Executive_Council_of_Prince_Edward_Island" title="Executive Council of Prince Edward Island">Executive Council (Cabinet)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;"><a href="/wiki/List_of_political_parties_in_Canada#Prince_Edward_Island" title="List of political parties in Canada">Political parties</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Liberal_Party_of_Prince_Edward_Island" class="mw-redirect" title="Liberal Party of Prince Edward Island">Liberal</a></li>
+<li><a href="/wiki/Progressive_Conservative_Party_of_Prince_Edward_Island" title="Progressive Conservative Party of Prince Edward Island">Progressive Conservative</a></li>
+<li><a class="mw-selflink selflink">Green</a></li>
+<li><a href="/wiki/New_Democratic_Party_of_Prince_Edward_Island" title="New Democratic Party of Prince Edward Island">New Democratic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;"><a href="/wiki/List_of_Prince_Edward_Island_general_elections_(post-Confederation)" class="mw-redirect" title="List of Prince Edward Island general elections (post-Confederation)">Elections</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Prince_Edward_Island_general_elections_(post-Confederation)" class="mw-redirect" title="List of Prince Edward Island general elections (post-Confederation)">Past elections</a></li>
+<li><i><a href="/wiki/66th_Prince_Edward_Island_general_election" title="66th Prince Edward Island general election">Next election</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;">Current issues</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><small><a href="/wiki/Equalization_payments" title="Equalization payments">Equalization payments</a></small></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:180px;">Other Canadian politics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Politics_of_Canada" title="Politics of Canada">Federal</a></li>
+<li><a href="/wiki/Politics_of_British_Columbia" title="Politics of British Columbia">BC</a></li>
+<li><a href="/wiki/Politics_of_Alberta" title="Politics of Alberta">AB</a></li>
+<li><a href="/wiki/Politics_of_Saskatchewan" title="Politics of Saskatchewan">SK</a></li>
+<li><a href="/wiki/Politics_of_Manitoba" title="Politics of Manitoba">MB</a></li>
+<li><a href="/wiki/Politics_of_Ontario" title="Politics of Ontario">ON</a></li>
+<li><a href="/wiki/Politics_of_Quebec" title="Politics of Quebec">QC</a></li>
+<li><a href="/wiki/Politics_of_New_Brunswick" title="Politics of New Brunswick">NB</a></li>
+<li><a href="/wiki/Politics_of_Nova_Scotia" title="Politics of Nova Scotia">NS</a></li>
+<li><a href="/wiki/Politics_of_Prince_Edward_Island" title="Politics of Prince Edward Island">PEI</a></li>
+<li><a href="/wiki/Politics_of_Newfoundland_and_Labrador" title="Politics of Newfoundland and Labrador">NL</a></li>
+<li><a href="/wiki/Politics_of_Yukon" class="mw-redirect" title="Politics of Yukon">YU</a></li>
+<li><a href="/wiki/Politics_of_the_Northwest_Territories" title="Politics of the Northwest Territories">NT</a></li>
+<li><a href="/wiki/Politics_of_Nunavut" class="mw-redirect" title="Politics of Nunavut">NU</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2170
+Cached time: 20180930233646
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.396 seconds
+Real time usage: 0.500 seconds
+Preprocessor visited node count: 2636/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 129567/2097152 bytes
+Template argument size: 10825/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31309/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.177/10.000 seconds
+Lua memory usage: 5.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  409.862      1 -total
+ 31.12%  127.530      1 Template:Reflist
+ 30.28%  124.088      4 Template:Ambox
+ 25.32%  103.792      1 Template:Infobox_political_party
+ 23.50%   96.309      1 Template:Multiple_issues
+ 21.37%   87.596      9 Template:Cite_web
+ 20.88%   85.576      1 Template:Infobox
+  9.11%   37.357      6 Template:Navbox
+  6.84%   28.041      1 Template:Lead_too_short
+  5.56%   22.793      1 Template:Official_website
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4321913-0!canonical and timestamp 20180930233646 and revision id 854797568
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;oldid=854797568">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;oldid=854797568</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_Party_of_Prince_Edward_Island" title="Category:Green Party of Prince Edward Island">Green Party of Prince Edward Island</a></li><li><a href="/wiki/Category:Provincial_political_parties_in_Prince_Edward_Island" title="Category:Provincial political parties in Prince Edward Island">Provincial political parties in Prince Edward Island</a></li><li><a href="/wiki/Category:Political_parties_established_in_2005" title="Category:Political parties established in 2005">Political parties established in 2005</a></li><li><a href="/wiki/Category:2005_establishments_in_Prince_Edward_Island" title="Category:2005 establishments in Prince Edward Island">2005 establishments in Prince Edward Island</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_December_2015" title="Category:Wikipedia introduction cleanup from December 2015">Wikipedia introduction cleanup from December 2015</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_December_2015" title="Category:Articles covered by WikiProject Wikify from December 2015">Articles covered by WikiProject Wikify from December 2015</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2015" title="Category:Articles needing additional references from December 2015">Articles needing additional references from December 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2015" title="Category:Wikipedia articles in need of updating from December 2015">Wikipedia articles in need of updating from December 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_December_2011" title="Category:Use mdy dates from December 2011">Use mdy dates from December 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Prince+Edward+Island" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Prince+Edward+Island" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Prince_Edward_Island" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Prince_Edward_Island" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Prince_Edward_Island">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Prince_Edward_Island" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Prince_Edward_Island" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;oldid=854797568" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603035" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Prince_Edward_Island&amp;id=854797568" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Prince+Edward+Island">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Prince+Edward+Island&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_vert_de_l%27%C3%8Ele-du-Prince-%C3%89douard" title="Parti vert de l&#039;Île-du-Prince-Édouard – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603035#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 August 2018, at 21:05<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Prince_Edward_Island&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.396","walltime":"0.500","ppvisitednodes":{"value":2636,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":129567,"limit":2097152},"templateargumentsize":{"value":10825,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31309,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  409.862      1 -total"," 31.12%  127.530      1 Template:Reflist"," 30.28%  124.088      4 Template:Ambox"," 25.32%  103.792      1 Template:Infobox_political_party"," 23.50%   96.309      1 Template:Multiple_issues"," 21.37%   87.596      9 Template:Cite_web"," 20.88%   85.576      1 Template:Infobox","  9.11%   37.357      6 Template:Navbox","  6.84%   28.041      1 Template:Lead_too_short","  5.56%   22.793      1 Template:Official_website"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":5672871,"limit":52428800}},"cachereport":{"origin":"mw2170","timestamp":"20180930233646","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":598,"wgHostname":"mw2170"});});</script>
+	</body>
+</html>

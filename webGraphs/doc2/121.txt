@@ -1,0 +1,511 @@
+https://en.wikipedia.org/wiki/Green_Party_(Slovakia)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party (Slovakia) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_(Slovakia)","wgTitle":"Green Party (Slovakia)","wgCurRevisionId":862206829,"wgRevisionId":862206829,"wgArticleId":1973981,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from October 2016","All articles lacking sources","Articles containing Slovak-language text","All stub articles","Green parties in Europe","Political parties in Slovakia","1989 establishments in Czechoslovakia","Political parties established in 1989","European Green Party","Global Greens member parties","Eastern European political party stubs","Slovakia politics stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_(Slovakia)","wgRelevantArticleId":1973981,"wgRequestId":"W7Pe6QrAIFAAAK7F9bIAAABU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q259098","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_(Slovakia)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_(Slovakia)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_Slovakia rootpage-Green_Party_Slovakia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party (Slovakia)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small><i>(October 2016)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><i>not to be confused with <a href="/wiki/Slovak_Green_Party" title="Slovak Green Party">Slovak Green Party</a></i>
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid Green; border-bottom:2px solid Green; line-height: 1;"><span class="fn org">Green Party</span><br /><span class="nickname" style="font-size: 0.8em;">Strana zelených</span></div></th></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+Pavel Petrik</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+1989</td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+<a href="/wiki/Bratislava" title="Bratislava">Bratislava</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><br /><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centre-left_politics" title="Centre-left politics">Centre-left</a></td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Common_Choice" title="Common Choice">Common Choice</a><br /><small>(1994–1997)</small><br /><span class="nowrap"><a href="/wiki/Slovak_Democratic_Coalition" title="Slovak Democratic Coalition">Slovak Democratic Coalition</a></span> <small>(1997–2002)</small></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_political_party" title="European political party">European affiliation</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td></tr><tr><th scope="row" style="line-height:1.3em;">International affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">European Parliament group</a></th><td class="category" style="line-height:1.3em;">
+<i>None</i></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<a rel="nofollow" class="external text" href="http://www.szonline.sk/">www.szonline.sk</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid Green;"><ul><li><a href="/wiki/Politics_of_Slovakia" title="Politics of Slovakia">Politics of Slovakia</a></li><li><a href="/wiki/List_of_political_parties_in_Slovakia" title="List of political parties in Slovakia">Political parties</a></li><li><a href="/wiki/Elections_in_Slovakia" title="Elections in Slovakia">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party</b> (<a href="/wiki/Slovak_language" title="Slovak language">Slovak</a>: <i lang="sk">Strana zelených</i>, SZ), until January 2006 called Green Party in Slovakia (Slovak: <i lang="sk">Strana zelených na Slovensku</i>), is an environmentalist <a href="/wiki/Political_party" title="Political party">political party</a> in <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> without parliamentary representation.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Party was founded on 9 December 1989  as a <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a>-wide party, and was the second green party in post-communist countries. It was registered on 3 February 1990 and three branches were set up – <a href="/wiki/Bohemia" title="Bohemia">Bohemian</a>, <a href="/wiki/Moravia" title="Moravia">Moravian</a>-<a href="/wiki/Silesia" title="Silesia">Silesian</a> and Slovak. The first congress of the Slovak branch was held in February 1990 in <a href="/wiki/Banska_Bystrica" class="mw-redirect" title="Banska Bystrica">Banska Bystrica</a>, with Juraj Mesík elected as chairman.
+</p><p>In the <a href="/wiki/Slovak_parliamentary_election,_1990" title="Slovak parliamentary election, 1990">1990 Slovak elections</a> the party received 3.1% of the vote, winning six of the 150 seats in the <a href="/wiki/National_Council_(Slovakia)" title="National Council (Slovakia)">National Council</a>. The combined party failed to win any seats in the <a href="/wiki/Czechoslovak_parliamentary_election,_1990" title="Czechoslovak parliamentary election, 1990">nationwide elections</a>. On 21 October 1991 the Slovak branch of the party was officially registered as a separate party with the Ministry of the Interior as the <b>Green Party of Slovakia</b>.
+</p><p>In the <a href="/wiki/Slovak_parliamentary_election,_1992" title="Slovak parliamentary election, 1992">1992 Slovak elections</a> the party's vote share fell to 1.1% and it lost all six seats. Prior to the <a href="/wiki/Slovak_parliamentary_election,_1994" title="Slovak parliamentary election, 1994">1994 elections</a> the party joined the <a href="/wiki/Common_Choice" title="Common Choice">Common Choice</a> alliance. The alliance finished in second place, winning 18 seats, of which two were taken by the Greens.
+</p><p>In June 1995 the party became the 28th full member of the <a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a>. It joined the <a href="/wiki/Slovak_Democratic_Coalition" title="Slovak Democratic Coalition">Slovak Democratic Coalition</a> (SDK) in the build up to the <a href="/wiki/Slovak_parliamentary_election,_1998" title="Slovak parliamentary election, 1998">1998 elections</a>. With the SDK winning 42 seats, the Greens took four seats. The party contested the <a href="/wiki/Slovak_parliamentary_election,_2002" title="Slovak parliamentary election, 2002">2002 elections</a> alone, but received only 1% of the vote and failing to win a seat.
+</p><p>In 2006 it changed its name from the Green Party of Slovakia to the Green Party. It had some candidates on the <a href="/wiki/Free_Forum" title="Free Forum">Free Forum</a> list in the <a href="/wiki/Slovak_parliamentary_election,_2006" title="Slovak parliamentary election, 2006">2006 elections</a>, but failed to win a seat. In the <a href="/wiki/Slovak_parliamentary_election,_2010" title="Slovak parliamentary election, 2010">2010 elections</a> it had candidates on the <a href="/wiki/Party_of_the_Democratic_Left_(Slovakia)" title="Party of the Democratic Left (Slovakia)">Party of the Democratic Left</a> list, again failing to win a seat. They contested the <a href="/wiki/Slovak_parliamentary_election,_2012" title="Slovak parliamentary election, 2012">2012 elections</a> alone, receiving 0.4% of the vote, remaining seatless.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/List_of_environmental_organizations" title="List of environmental organizations">List of environmental organizations</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.szonline.sk/">Official website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Political_parties_in_Slovakia_23x15px&amp;#124;border_&amp;#124;alt=Slovakia&amp;#124;link=Slovakia" style="padding:3px"><table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Political_parties_in_Slovakia" title="Template:Political parties in Slovakia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Political_parties_in_Slovakia" title="Template talk:Political parties in Slovakia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Political_parties_in_Slovakia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Political_parties_in_Slovakia_23x15px&amp;#124;border_&amp;#124;alt=Slovakia&amp;#124;link=Slovakia" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Slovakia" title="List of political parties in Slovakia">Political parties in Slovakia</a> <span class="flagicon"><a href="/wiki/Slovakia" title="Slovakia"><img alt="Slovakia" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">In the <a href="/wiki/National_Council_of_the_Slovak_Republic" class="mw-redirect" title="National Council of the Slovak Republic">National Council</a> <br /> <small>(150 seats)</small></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Direction_%E2%80%93_Social_Democracy" title="Direction – Social Democracy">Direction – Social Democracy</a> (49)</li>
+<li><a href="/wiki/Freedom_and_Solidarity" title="Freedom and Solidarity">Freedom and Solidarity</a> (18)</li>
+<li><a href="/wiki/Ordinary_People_(Slovakia)" title="Ordinary People (Slovakia)">Ordinary People and Independent Personalities</a> (16)</li>
+<li><a href="/wiki/Slovak_National_Party" title="Slovak National Party">Slovak National Party</a> (15)</li>
+<li><a href="/wiki/Kotleba_%E2%80%93_People%27s_Party_Our_Slovakia" title="Kotleba – People&#39;s Party Our Slovakia">Kotleba – People's Party Our Slovakia</a> (14)</li>
+<li><a href="/wiki/Most%E2%80%93H%C3%ADd" title="Most–Híd">Most–Híd</a> (13)</li>
+<li><a href="/wiki/We_Are_Family_(Slovakia)" title="We Are Family (Slovakia)">We Are Family</a> (8)</li>
+<li><a href="/wiki/TOGETHER_-_Civic_Democracy" title="TOGETHER - Civic Democracy">TOGETHER - Civic Democracy</a> (7)</li>
+<li><a href="/wiki/Progressive_Slovakia" title="Progressive Slovakia">Progressive Slovakia</a> (1)</li>
+<li><a href="/wiki/Independent_politician" title="Independent politician">Independent</a> (8)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">In the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> <br /> <small>(13 seats)</small></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Direction_%E2%80%93_Social_Democracy" title="Direction – Social Democracy">Direction – Social Democracy</a> (4)</li>
+<li><a href="/wiki/Christian_Democratic_Movement" title="Christian Democratic Movement">Christian Democratic Movement</a> (2)</li>
+<li><a href="/wiki/Slovak_Democratic_and_Christian_Union_%E2%80%93_Democratic_Party" title="Slovak Democratic and Christian Union – Democratic Party">Slovak Democratic and Christian Union – Democratic Party</a> (2)</li>
+<li><a href="/wiki/Freedom_and_Solidarity" title="Freedom and Solidarity">Freedom and Solidarity</a> (1)</li>
+<li><a href="/wiki/Most%E2%80%93H%C3%ADd" title="Most–Híd">Most–Híd</a> (1)</li>
+<li><a href="/wiki/Party_of_the_Hungarian_Community" title="Party of the Hungarian Community">Party of the Hungarian Community</a> (1)</li>
+<li><a href="/wiki/New_Majority_(Slovakia)" title="New Majority (Slovakia)">New Majority</a> (1)</li>
+<li><a href="/wiki/Ordinary_People_(Slovakia)" title="Ordinary People (Slovakia)">Ordinary People and Independent Personalities</a> (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Extra-parliamentary parties</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agrarian_and_Countryside_Party" title="Agrarian and Countryside Party">ASV</a></li>
+<li><a href="/wiki/Dawn_(Slovakia)" title="Dawn (Slovakia)">Dawn</a></li>
+<li><a href="/w/index.php?title=Democratic_Union_of_Slovakia_(2000)&amp;action=edit&amp;redlink=1" class="new" title="Democratic Union of Slovakia (2000) (page does not exist)">DÚ</a></li>
+<li><a href="/wiki/Forward_Movement" title="Forward Movement">Forward</a></li>
+<li><a href="/wiki/Hope_(political_party)" title="Hope (political party)">Hope</a></li>
+<li><a href="/wiki/Movement_for_Democracy_(Slovakia)" title="Movement for Democracy (Slovakia)">HZD</a></li>
+<li><a href="/wiki/Idea_(political_party)" title="Idea (political party)">IDEA</a></li>
+<li><a href="/w/index.php?title=Coalition_of_Czechs_and_Slovaks&amp;action=edit&amp;redlink=1" class="new" title="Coalition of Czechs and Slovaks (page does not exist)">KČaS</a></li>
+<li><a href="/wiki/Conservative_Democrats_of_Slovakia" title="Conservative Democrats of Slovakia">KDS</a></li>
+<li><a href="/w/index.php?title=Christian_People%27s_Party_(Slovakia)&amp;action=edit&amp;redlink=1" class="new" title="Christian People&#39;s Party (Slovakia) (page does not exist)">KĽS</a></li>
+<li><a href="/wiki/Communist_Party_of_Slovakia" title="Communist Party of Slovakia">KSS</a></li>
+<li><a href="/w/index.php?title=Left_Bloc_(Slovakia)&amp;action=edit&amp;redlink=1" class="new" title="Left Bloc (Slovakia) (page does not exist)">ĽB</a></li>
+<li><a href="/w/index.php?title=People%27s_Party_(Slovakia)&amp;action=edit&amp;redlink=1" class="new" title="People&#39;s Party (Slovakia) (page does not exist)">ĽS</a></li>
+<li><a href="/wiki/Liberal_Party_(Slovakia)" title="Liberal Party (Slovakia)">LS</a></li>
+<li><a href="/w/index.php?title=Mission_21_%E2%80%93_New_Christian_Democracy&amp;action=edit&amp;redlink=1" class="new" title="Mission 21 – New Christian Democracy (page does not exist)">Mission 21</a></li>
+<li><a href="/w/index.php?title=Independent_Forum&amp;action=edit&amp;redlink=1" class="new" title="Independent Forum (page does not exist)">NF</a></li>
+<li><a href="/w/index.php?title=Nez%C3%A1visl%C3%A1_ob%C4%8Dianska_strana_nezamestnan%C3%BDch_a_po%C5%A1koden%C3%BDch&amp;action=edit&amp;redlink=1" class="new" title="Nezávislá občianska strana nezamestnaných a poškodených (page does not exist)">NOSNP</a></li>
+<li><a href="/wiki/Civic_Conservative_Party" class="mw-redirect" title="Civic Conservative Party">OKS</a></li>
+<li><a href="/w/index.php?title=Civic_Liberals&amp;action=edit&amp;redlink=1" class="new" title="Civic Liberals (page does not exist)">OL</a></li>
+<li><a href="/w/index.php?title=Slovak_Prosperity&amp;action=edit&amp;redlink=1" class="new" title="Slovak Prosperity (page does not exist)">PS</a></li>
+<li><a href="/w/index.php?title=Roma_Initiative_of_Slovakia&amp;action=edit&amp;redlink=1" class="new" title="Roma Initiative of Slovakia (page does not exist)">RIS</a></li>
+<li><a href="/wiki/Party_of_the_Democratic_Left_(2005)" title="Party of the Democratic Left (2005)">SDĽ</a></li>
+<li><a href="/wiki/Free_Forum" title="Free Forum">SF</a></li>
+<li><a href="/w/index.php?title=Slovensk%C3%A1_n%C3%A1rodn%C3%A1_koal%C3%ADcia_-_Slovensk%C3%A1_vz%C3%A1jomnos%C5%A5&amp;action=edit&amp;redlink=1" class="new" title="Slovenská národná koalícia - Slovenská vzájomnosť (page does not exist)">SLNKO</a></li>
+<li><a href="/w/index.php?title=Slovak_People%27s_Party_(1990)&amp;action=edit&amp;redlink=1" class="new" title="Slovak People&#39;s Party (1990) (page does not exist)">SĽS</a></li>
+<li><a href="/w/index.php?title=Party_of_Slovak_National_Unity&amp;action=edit&amp;redlink=1" class="new" title="Party of Slovak National Unity (page does not exist)">SNJ</a></li>
+<li><a href="/w/index.php?title=Party_of_Civil_Solidarity&amp;action=edit&amp;redlink=1" class="new" title="Party of Civil Solidarity (page does not exist)">S.O.S.</a></li>
+<li><a href="/wiki/Slovak_Pirate_Party" class="mw-redirect" title="Slovak Pirate Party">SPS</a></li>
+<li><a href="/wiki/Labour_Party_(Slovakia)" title="Labour Party (Slovakia)">SP</a></li>
+<li><a href="/w/index.php?title=Wine_Friends_Party&amp;action=edit&amp;redlink=1" class="new" title="Wine Friends Party (page does not exist)">SPV-G3000</a></li>
+<li><a href="/w/index.php?title=Strana_r%C3%B3mskej_koal%C3%ADcie_v_Slovenskej_republike&amp;action=edit&amp;redlink=1" class="new" title="Strana rómskej koalície v Slovenskej republike (page does not exist)">SRK</a></li>
+<li><a href="/w/index.php?title=Party_of_the_Regions_(Slovakia)&amp;action=edit&amp;redlink=1" class="new" title="Party of the Regions (Slovakia) (page does not exist)">SRS</a></li>
+<li><a class="mw-selflink selflink">SZ</a></li>
+<li><a href="/wiki/Slovak_Green_Party" title="Slovak Green Party">SZS</a></li>
+<li><a href="/wiki/Slovak_Conservative_Party" title="Slovak Conservative Party">SKS</a></li>
+<li><a href="/w/index.php?title=Resistance_-_Party_of_Labour&amp;action=edit&amp;redlink=1" class="new" title="Resistance - Party of Labour (page does not exist)">VZDOR</a></li>
+<li><a href="/wiki/Union_of_the_Workers_of_Slovakia" title="Union of the Workers of Slovakia">ZRS</a></li>
+<li><a href="/w/index.php?title=Zelen%C3%AD-Strana_n%C3%A1rodnej_prosperity&amp;action=edit&amp;redlink=1" class="new" title="Zelení-Strana národnej prosperity (page does not exist)">Z-SNP</a></li>
+<li><a href="/w/index.php?title=Craftsmen_Party_of_Slovakia&amp;action=edit&amp;redlink=1" class="new" title="Craftsmen Party of Slovakia (page does not exist)">ŽS</a></li>
+<li><a href="/w/index.php?title=United_Slovak_National_Party&amp;action=edit&amp;redlink=1" class="new" title="United Slovak National Party (page does not exist)">ZSNS</a></li>
+<li><a href="/wiki/99_Percent_%E2%80%93_Civic_Voice" title="99 Percent – Civic Voice">99%</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Politics" title="Portal:Politics">Portal:Politics</a></li>
+<li><a href="/wiki/List_of_political_parties_by_country" class="mw-redirect" title="List of political parties by country">List of political parties</a></li>
+<li><a href="/wiki/Politics_of_Slovakia" title="Politics of Slovakia">Politics of Slovakia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_parties_by_country" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_parties" title="Template:Green parties"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_parties" title="Template talk:Green parties"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_parties&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_parties_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_party" title="Green party">Green parties</a> by country</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/w/index.php?title=Ecology_and_Liberty_Party&amp;action=edit&amp;redlink=1" class="new" title="Ecology and Liberty Party (page does not exist)">Algeria</a></i></li>
+<li><a href="/w/index.php?title=Partido_Nacional_Ecol%C3%B3gico_de_Angola&amp;action=edit&amp;redlink=1" class="new" title="Partido Nacional Ecológico de Angola (page does not exist)">Angola</a></li>
+<li><a href="/wiki/The_Greens_(Benin)" title="The Greens (Benin)">Benin</a></li>
+<li>Burkina Faso
+<ul><li><a href="/wiki/Ecologist_Party_for_the_Development_of_Burkina" title="Ecologist Party for the Development of Burkina">Ecologist Party</a></li>
+<li><a href="/wiki/Greens_of_Burkina" title="Greens of Burkina">Greens of Burkina</a></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Burkina" title="Rally of the Ecologists of Burkina">Rally of the Ecologists</a></li></ul></li>
+<li><a href="/w/index.php?title=Burundi_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Burundi Green Movement (page does not exist)">Burundi</a></li>
+<li><a href="/w/index.php?title=Mouvement_des_Verts_de_Centrafique&amp;action=edit&amp;redlink=1" class="new" title="Mouvement des Verts de Centrafique (page does not exist)">Central African Republic</a></li>
+<li><a href="/w/index.php?title=Union_des_Ecologistes_Tchadiens_-_LES_VERTS&amp;action=edit&amp;redlink=1" class="new" title="Union des Ecologistes Tchadiens - LES VERTS (page does not exist)">Chad</a></li>
+<li><a href="/w/index.php?title=Defense_de_l%27Environment_Camerounais&amp;action=edit&amp;redlink=1" class="new" title="Defense de l&#39;Environment Camerounais (page does not exist)">Cameroon</a></li>
+<li><a href="/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens" title="Rally of Congolese Ecologists – The Greens">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Egyptian_Green_Party" title="Egyptian Green Party">Egypt</a></li>
+<li><a href="/w/index.php?title=Gabon_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Gabon Green Party (page does not exist)">Gabon</a></li>
+<li><a href="/w/index.php?title=Ghana_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Ghana Green Movement (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Parti_des_Ecologistes_Guineens&amp;action=edit&amp;redlink=1" class="new" title="Parti des Ecologistes Guineens (page does not exist)">Guinea</a></li>
+<li><i><a href="/w/index.php?title=Liga_Guineense_de_Protec%C3%A7ao_Ecologica&amp;action=edit&amp;redlink=1" class="new" title="Liga Guineense de Protecçao Ecologica (page does not exist)">Guinea-Bissau</a></i></li>
+<li><a href="/w/index.php?title=Parti_pour_la_Protection_de_l%27Environnement&amp;action=edit&amp;redlink=1" class="new" title="Parti pour la Protection de l&#39;Environnement (page does not exist)">Ivory Coast</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Kenya</a></li>
+<li><a href="/w/index.php?title=Parti_Vert_Hasin%27l_Madagasikara&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Hasin&#39;l Madagasikara (page does not exist)">Madagascar</a></li>
+<li><a href="/wiki/Ecologist_Party_of_Mali" title="Ecologist Party of Mali">Mali</a></li>
+<li><a href="/wiki/Les_Verts_Fraternels" title="Les Verts Fraternels">Mauritius</a></li>
+<li>Morocco
+<ul><li><a href="/w/index.php?title=The_Greens_(Morocco)&amp;action=edit&amp;redlink=1" class="new" title="The Greens (Morocco) (page does not exist)">The Greens</a></li>
+<li><i><a href="/wiki/Izigzawen" title="Izigzawen">Izigzawen</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Party_of_Mozambique" title="Greens Party of Mozambique">Mozambique</a></li>
+<li><a href="/w/index.php?title=Rassemblement_pour_un_Sahel_Vert&amp;action=edit&amp;redlink=1" class="new" title="Rassemblement pour un Sahel Vert (page does not exist)">Niger</a></li>
+<li><a href="/w/index.php?title=Green_Party_of_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Green Party of Nigeria (page does not exist)">Nigeria</a></li>
+<li><i><a href="/wiki/Democratic_Green_Party_of_Rwanda" title="Democratic Green Party of Rwanda">Rwanda</a></i></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Senegal" title="Rally of the Ecologists of Senegal">Senegal</a></li>
+<li><a href="/w/index.php?title=Sierra_Leone_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Sierra Leone Green Party (page does not exist)">Sierra Leone</a></li>
+<li>Somalia
+<ul><li><i><a href="/wiki/Somalia_Green_Party" title="Somalia Green Party">Green Party</a></i></li>
+<li><a href="/w/index.php?title=Democratic_Green_Party_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Democratic Green Party of Somalia (page does not exist)">Democratic Green Party</a></li></ul></li>
+<li>South Africa
+<ul><li><a href="/w/index.php?title=South_African_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="South African Green Alliance (page does not exist)">Green Alliance</a></li>
+<li><i><a href="/wiki/Green_Party_of_South_Africa" title="Green Party of South Africa">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=Afrique_Togo_Ecologie&amp;action=edit&amp;redlink=1" class="new" title="Afrique Togo Ecologie (page does not exist)">Togo</a></li>
+<li><a href="/wiki/Green_Tunisia_Party" title="Green Tunisia Party">Tunisia</a></li>
+<li>Uganda
+<ul><li><a href="/w/index.php?title=Ecological_Party_of_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Ecological Party of Uganda (page does not exist)">Ecological Party</a></li>
+<li><i><a href="/wiki/Uganda_Green_Party" title="Uganda Green Party">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=National_Revolution_Green_Party_Zambia&amp;action=edit&amp;redlink=1" class="new" title="National Revolution Green Party Zambia (page does not exist)">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Americas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Initiative" title="Green Initiative">Argentina</a></li>
+<li><i><a href="/wiki/Belize_Green_Independent_Party" title="Belize Green Independent Party">Belize</a></i></li>
+<li><a href="/wiki/Green_Party_of_Bolivia" title="Green Party of Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Green_Party_(Brazil)" title="Green Party (Brazil)">Brazil</a></li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Canada</a></li>
+<li><a href="/wiki/Green_Ecologist_Party_(Chile)" title="Green Ecologist Party (Chile)">Chile</a></li>
+<li><a href="/wiki/Green_Alliance_(Colombia)" title="Green Alliance (Colombia)">Colombia</a></li>
+<li><i><a href="/wiki/Cartago_Green_Party" title="Cartago Green Party">Costa Rica</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Democratic_Unity" class="mw-redirect" title="Green Party of Democratic Unity">Dominican Republic</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_Los_Verdes_de_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Partido Los Verdes de Guatemala (page does not exist)">Guatemala</a></i></li>
+<li><i><a href="/w/index.php?title=Les_Verts_de_Guyane&amp;action=edit&amp;redlink=1" class="new" title="Les Verts de Guyane (page does not exist)">French Guyana</a></i></li>
+<li><i><a href="/w/index.php?title=Parti_Vert_Ha%C3%AFtien&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Haïtien (page does not exist)">Haiti</a></i></li>
+<li><a href="/wiki/Ecologist_Green_Party_of_Mexico" title="Ecologist Green Party of Mexico">Mexico</a></li>
+<li><i><a href="/wiki/Ecologist_Green_Party_of_Nicaragua" title="Ecologist Green Party of Nicaragua">Nicaragua</a></i></li>
+<li><a href="/wiki/Green_Alternative_Ecologist_Party_of_Peru" title="Green Alternative Ecologist Party of Peru">Peru</a></li>
+<li><i><a href="/wiki/Puerto_Ricans_for_Puerto_Rico_Party" title="Puerto Ricans for Puerto Rico Party">Puerto Rico</a></i></li>
+<li><i><a href="/wiki/Saint_Vincent_and_the_Grenadines_Green_Party" title="Saint Vincent and the Grenadines Green Party">Saint Vincent and the Grenadines</a></i></li>
+<li><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">United States</a></li>
+<li>Uruguay
+<ul><li><i><a href="/wiki/Partido_Verde_Eto-Ecologista" title="Partido Verde Eto-Ecologista">Green</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_del_Sol_(Uruguay)&amp;action=edit&amp;redlink=1" class="new" title="Partido del Sol (Uruguay) (page does not exist)">Sol</a></i></li>
+<li><i><a href="/wiki/Partido_Ecologista_Radical_Intransigente" title="Partido Ecologista Radical Intransigente">PERI</a></i></li></ul></li>
+<li><a href="/wiki/Ecological_Movement_of_Venezuela" title="Ecological Movement of Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia-Pacific</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Australia
+<ul><li><a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a></li>
+<li><i><a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">Nuclear Disarmament</a> (defunct)</i></li>
+<li><i><a href="/wiki/United_Tasmania_Group" title="United Tasmania Group">United Tasmania Group</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Fiji" title="Green Party of Fiji">Fiji</a></i></li>
+<li><i><a href="/w/index.php?title=Heiura_Les_Verts_Polynesiens&amp;action=edit&amp;redlink=1" class="new" title="Heiura Les Verts Polynesiens (page does not exist)">French Polynesia</a></i></li>
+<li><a href="/w/index.php?title=Green_Party_Hong_Kong&amp;action=edit&amp;redlink=1" class="new" title="Green Party Hong Kong (page does not exist)">Hong Kong</a></li>
+<li><a href="/w/index.php?title=Uttarakhand_Parivartan_Party&amp;action=edit&amp;redlink=1" class="new" title="Uttarakhand Parivartan Party (page does not exist)">India</a></li>
+<li><i><a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Iran</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Iraq" title="Green Party of Iraq">Iraq</a></i></li>
+<li>Israel
+<ul><li><i><a href="/wiki/Green_Movement_(Israel)" title="Green Movement (Israel)">The Green Movement</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens</a></i></li>
+<li><i><a href="/wiki/Meretz" title="Meretz">Meretz</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Japan" title="Greens Japan">Japan</a></li>
+<li><i>Kurdistan</i></li>
+<li><i><a href="/wiki/Green_Party_of_Lebanon" title="Green Party of Lebanon">Lebanon</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Malaysia</a></i></li>
+<li>Mongolia
+<ul><li><a href="/wiki/Civil_Will%E2%80%93Green_Party" title="Civil Will–Green Party">Civil Will–Green</a></li>
+<li><a href="/wiki/Mongolian_Green_Party" title="Mongolian Green Party">Green Party</a></li></ul></li>
+<li>Nepal
+<ul><li><i><a href="/wiki/Hariyali_Nepal_Party" title="Hariyali Nepal Party">Hariyali</a></i></li>
+<li><a href="/w/index.php?title=Green_Civil_Society&amp;action=edit&amp;redlink=1" class="new" title="Green Civil Society (page does not exist)">Green Civil Society</a></li></ul></li>
+<li><i><a href="/w/index.php?title=The_Pacific_Greens&amp;action=edit&amp;redlink=1" class="new" title="The Pacific Greens (page does not exist)">New Caledonia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Papua_New_Guinea_Greens" title="Papua New Guinea Greens">Papua New Guinea</a></li>
+<li><a href="/w/index.php?title=Green_politics_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Green politics in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Green_Party_Korea" title="Green Party Korea">South Korea</a></li>
+<li><i><a href="/w/index.php?title=Sri_Lanka_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Sri Lanka Green Alliance (page does not exist)">Sri Lanka</a></i></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Taiwan</a></li>
+<li><i><a href="/wiki/Ecological_Movement_of_Uzbekistan" title="Ecological Movement of Uzbekistan">Uzbekistan</a></i></li>
+<li><i><a href="/wiki/Green_Confederation" title="Green Confederation">Vanuatu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">Europe</a><br />
+<div class="hlist">
+<ul><li>(<i><a href="/wiki/European_Green_Party" title="European Green Party">EGP</a></i></li>
+<li><i><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">FYEG</a></i>)</li></ul>
+</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Albania" title="Green Party of Albania">Albania</a></li>
+<li><a href="/wiki/Greens_of_Andorra" title="Greens of Andorra">Andorra</a></li>
+<li><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative">Austria</a></li>
+<li><i><a href="/wiki/Belarusian_Green_Party" title="Belarusian Green Party">Belarus</a></i></li>
+<li>Belgium
+<ul><li><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Flanders and Brussels</a></li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Wallonia and Brussels</a></li></ul></li>
+<li><i><a href="/wiki/Greens_of_Bosnia_and_Herzegovina" title="Greens of Bosnia and Herzegovina">Bosnia and Herzegovina</a></i></li>
+<li>Bulgaria
+<ul><li><i><a href="/wiki/Green_Party_of_Bulgaria" title="Green Party of Bulgaria">Green Party</a></i></li>
+<li><a href="/wiki/The_Greens_(Bulgaria)" title="The Greens (Bulgaria)">The Greens</a></li></ul></li>
+<li><i><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Croatia</a></i></li>
+<li><a href="/wiki/Movement_of_Ecologists_-_Citizens%27_Cooperation" class="mw-redirect" title="Movement of Ecologists - Citizens&#39; Cooperation">Cyprus</a></li>
+<li>Czech Republic
+<ul><li><i><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party</a></i></li>
+<li><i><a href="/wiki/Liberal-Environmental_Party" title="Liberal-Environmental Party">Liberal-Environmental Party</a></i></li></ul></li>
+<li>Denmark
+<ul><li><a href="/wiki/The_Alternative_(Denmark)" title="The Alternative (Denmark)">The Alternative</a></li>
+<li><i><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Denmark)" title="The Greens (Denmark)">The Greens</a></i></li></ul></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonia</a></li>
+<li><a href="/wiki/Green_League" title="Green League">Finland</a></li>
+<li>France
+<ul><li><i><a href="/wiki/Citizenship,_Action,_Participation_for_the_21st_Century" class="mw-redirect" title="Citizenship, Action, Participation for the 21st Century">CAP21</a></i></li>
+<li><i><a href="/wiki/G%C3%A9n%C3%A9ration_%C3%89cologie" class="mw-redirect" title="Génération Écologie">Génération Écologie</a></i></li>
+<li><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></li>
+<li><i><a href="/wiki/Mouvement_Ecologiste_Ind%C3%A9pendant" class="mw-redirect" title="Mouvement Ecologiste Indépendant">Mouvement Ecologiste Indépendant</a></i></li>
+<li><a href="/wiki/Ecologist_Party" title="Ecologist Party">Ecologist Party</a></li></ul></li>
+<li><a href="/wiki/Green_Party_of_Georgia" title="Green Party of Georgia">Georgia</a></li>
+<li>Germany
+<ul><li><a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a></li>
+<li><i><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></i></li></ul></li>
+<li>Greece
+<ul><li><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></li>
+<li><a href="/wiki/Greens_(Greece)" title="Greens (Greece)">Greens</a></li></ul></li>
+<li>Hungary
+<ul><li><i><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></i></li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></li></ul></li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Iceland</a></li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Ireland</a></li>
+<li>Italy
+<ul><li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><i><a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Kosovo" title="Green Party of Kosovo">Kosovo</a></i></li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvia</a></li>
+<li><i><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Liechtenstein</a></i></li>
+<li>Lithuania
+<ul><li><i><a href="/wiki/Lithuanian_Green_Party" title="Lithuanian Green Party">Green Party</a></i></li>
+<li><i><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></i></li></ul></li>
+<li><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">Luxembourg</a></li>
+<li><i><a href="/wiki/Democratic_Renewal_of_Macedonia" title="Democratic Renewal of Macedonia">Macedonia</a></i></li>
+<li><a href="/wiki/Democratic_Alternative_(Malta)" title="Democratic Alternative (Malta)">Malta</a></li>
+<li><a href="/wiki/Ecologist_Green_Party_(Moldova)" title="Ecologist Green Party (Moldova)">Moldova</a></li>
+<li><i><a href="/wiki/Greens_of_Montenegro" title="Greens of Montenegro">Montenegro</a></i></li>
+<li>Netherlands
+<ul><li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a></li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Norway</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">Poland</a></li>
+<li>Portugal
+<ul><li><i><a href="/wiki/Earth_Party" title="Earth Party">Earth Party</a></i></li>
+<li><a href="/wiki/Ecologist_Party_%22The_Greens%22" title="Ecologist Party &quot;The Greens&quot;">The Greens</a></li>
+<li><i><a href="/wiki/LIVRE" title="LIVRE">LIVRE</a></i></li></ul></li>
+<li>Romania
+<ul><li><i><a href="/wiki/Ecologist_Party_of_Romania" title="Ecologist Party of Romania">Ecologist Party</a></i></li>
+<li><a href="/wiki/Green_Party_(Romania)" title="Green Party (Romania)">Green Party</a></li></ul></li>
+<li>Russia
+<ul><li><a href="/wiki/Civil_United_Green_Alternative" title="Civil United Green Alternative">Civil United Green Alternative</a></li>
+<li><i><a href="/wiki/Russian_Ecological_Party_%22The_Greens%22" title="Russian Ecological Party &quot;The Greens&quot;">Ecological Party "The Greens"</a></i></li>
+<li><i><a href="/wiki/Union_of_Greens_of_Russia" title="Union of Greens of Russia">Union of Greens</a></i></li>
+<li><i><a href="/wiki/Alliance_of_Greens_and_Social_Democrats" class="mw-redirect" title="Alliance of Greens and Social Democrats">Alliance of Greens and Social Democrats</a></i></li></ul></li>
+<li>Serbia
+<ul><li><i><a href="/wiki/Green_Party_(Serbia)" title="Green Party (Serbia)">Green Party</a></i></li>
+<li><i><a href="/wiki/Greens_of_Serbia" title="Greens of Serbia">Greens of Serbia</a></i></li></ul></li>
+<li><a class="mw-selflink selflink">Slovakia</a></li>
+<li>Slovenia
+<ul><li><i><a href="/wiki/Greens_of_Slovenia" class="mw-redirect" title="Greens of Slovenia">Greens</a></i></li>
+<li><a href="/wiki/Youth_Party_%E2%80%93_European_Greens" title="Youth Party – European Greens">Youth Party</a></li></ul></li>
+<li>Spain
+<ul><li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Catalonia Greens</a></li>
+<li><i><a href="/wiki/Confederation_of_the_Greens" title="Confederation of the Greens">Confederation of the Greens</a></i></li>
+<li><a href="/wiki/Equo" title="Equo">Equo</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Sweden)" title="Green Party (Sweden)">Sweden</a></li>
+<li><a href="/wiki/Green_Party_of_Switzerland" title="Green Party of Switzerland">Switzerland</a></li>
+<li><i><a href="/wiki/Green_Left_Party" title="Green Left Party">Turkey</a></i></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Ukraine</a></li>
+<li>United Kingdom
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">England and Wales</a> <i>(<a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales</a>)</i></li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scotland</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:lightgreen;"><div><i>Italic</i> links indicate non-members or observers of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Red_Checkmark.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Checkmark.svg/25px-Red_Checkmark.svg.png" width="25" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Checkmark.svg/38px-Red_Checkmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Checkmark.svg/50px-Red_Checkmark.svg.png 2x" data-file-width="227" data-file-height="283" /></a></td><td><i>This article about a Slovak political party is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Slovakia-party-stub" title="Template:Slovakia-party-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Slovakia-party-stub" title="Template talk:Slovakia-party-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Slovakia-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2231
+Cached time: 20181002210809
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.312 seconds
+Real time usage: 0.379 seconds
+Preprocessor visited node count: 1392/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63771/2097152 bytes
+Template argument size: 1016/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.169/10.000 seconds
+Lua memory usage: 9.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.642      1 -total
+ 42.92%  128.190      2 Template:Lang-sk
+ 29.14%   87.039      1 Template:Infobox_political_party
+ 21.15%   63.160      1 Template:Infobox
+ 15.07%   45.009      1 Template:Unreferenced
+ 10.29%   30.722      1 Template:Ambox
+  5.69%   16.991      1 Template:Br_separated_entries
+  5.53%   16.530      2 Template:Navbox
+  4.64%   13.869      1 Template:Political_parties_in_Slovakia
+  3.59%   10.713      1 Template:If_empty
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1973981-0!canonical and timestamp 20181002210808 and revision id 862206829
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_(Slovakia)&amp;oldid=862206829">https://en.wikipedia.org/w/index.php?title=Green_Party_(Slovakia)&amp;oldid=862206829</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_parties_in_Europe" title="Category:Green parties in Europe">Green parties in Europe</a></li><li><a href="/wiki/Category:Political_parties_in_Slovakia" title="Category:Political parties in Slovakia">Political parties in Slovakia</a></li><li><a href="/wiki/Category:1989_establishments_in_Czechoslovakia" title="Category:1989 establishments in Czechoslovakia">1989 establishments in Czechoslovakia</a></li><li><a href="/wiki/Category:Political_parties_established_in_1989" title="Category:Political parties established in 1989">Political parties established in 1989</a></li><li><a href="/wiki/Category:European_Green_Party" title="Category:European Green Party">European Green Party</a></li><li><a href="/wiki/Category:Global_Greens_member_parties" title="Category:Global Greens member parties">Global Greens member parties</a></li><li><a href="/wiki/Category:Eastern_European_political_party_stubs" title="Category:Eastern European political party stubs">Eastern European political party stubs</a></li><li><a href="/wiki/Category:Slovakia_politics_stubs" title="Category:Slovakia politics stubs">Slovakia politics stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_October_2016" title="Category:Articles lacking sources from October 2016">Articles lacking sources from October 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Articles_containing_Slovak-language_text" title="Category:Articles containing Slovak-language text">Articles containing Slovak-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+%28Slovakia%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+%28Slovakia%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_(Slovakia)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_(Slovakia)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_(Slovakia)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_(Slovakia)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_(Slovakia)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;oldid=862206829" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q259098" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_%28Slovakia%29&amp;id=862206829" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+%28Slovakia%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+%28Slovakia%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_(Slovakia)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Strana_zelen%C3%BDch_(Slovensko)" title="Strana zelených (Slovensko) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Partio_Verda_(Slovakio)" title="Partio Verda (Slovakio) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_vert_(Slovaquie)" title="Parti vert (Slovaquie) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Z%C3%B6ld_P%C3%A1rt_(Szlov%C3%A1kia)" title="Zöld Párt (Szlovákia) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Partia_Zielonych_(S%C5%82owacja)" title="Partia Zielonych (Słowacja) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Strana_zelen%C3%BDch_(Slovensko)" title="Strana zelených (Slovensko) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q259098#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 October 2018, at 21:08<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_(Slovakia)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.379","ppvisitednodes":{"value":1392,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63771,"limit":2097152},"templateargumentsize":{"value":1016,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  298.642      1 -total"," 42.92%  128.190      2 Template:Lang-sk"," 29.14%   87.039      1 Template:Infobox_political_party"," 21.15%   63.160      1 Template:Infobox"," 15.07%   45.009      1 Template:Unreferenced"," 10.29%   30.722      1 Template:Ambox","  5.69%   16.991      1 Template:Br_separated_entries","  5.53%   16.530      2 Template:Navbox","  4.64%   13.869      1 Template:Political_parties_in_Slovakia","  3.59%   10.713      1 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.169","limit":"10.000"},"limitreport-memusage":{"value":10044421,"limit":52428800}},"cachereport":{"origin":"mw2231","timestamp":"20181002210809","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw2192"});});</script>
+	</body>
+</html>

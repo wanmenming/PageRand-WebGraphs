@@ -1,0 +1,346 @@
+https://en.wikipedia.org/wiki/Green_Italy_%E2%80%93_European_Greens
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Italy – European Greens - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Italy_–_European_Greens","wgTitle":"Green Italy – European Greens","wgCurRevisionId":828425144,"wgRevisionId":828425144,"wgArticleId":42944313,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing cleanup from June 2014","All pages needing cleanup","Cleanup tagged articles with a reason field from June 2014","Wikipedia pages needing cleanup from June 2014","Articles containing Italian-language text","2014 establishments in Italy","Green political parties in Italy","Political parties established in 2014","Political party alliances in Italy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Italy_–_European_Greens","wgRelevantArticleId":42944313,"wgRequestId":"W7Fg6wrAIEwAALDcw1YAAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17511792","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/eb/Green_Italia_-_Verdi_Europei.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Italy_%E2%80%93_European_Greens"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Italy_%E2%80%93_European_Greens"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Italy_–_European_Greens rootpage-Green_Italy_–_European_Greens skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Italy – European Greens</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. The specific problem is: <b>poor English</b><span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;action=edit">improve this article</a> if you can.</span>  <small><i>(June 2014)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #32CD32; border-bottom:2px solid #32CD32; line-height: 1;"><span class="fn org">Green Italy – European Greens</span><br /><span class="nickname" style="font-size: 0.8em;">Green Italia - Verdi Europei</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Green_Italia_-_Verdi_Europei.png" class="image"><img alt="Green Italia - Verdi Europei.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Green_Italia_-_Verdi_Europei.png/160px-Green_Italia_-_Verdi_Europei.png" width="160" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Green_Italia_-_Verdi_Europei.png/240px-Green_Italia_-_Verdi_Europei.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Green_Italia_-_Verdi_Europei.png/320px-Green_Italia_-_Verdi_Europei.png 2x" data-file-width="510" data-file-height="510" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leaders</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Monica_Frassoni" title="Monica Frassoni">Monica Frassoni</a><br /><a href="/wiki/Angelo_Bonelli" title="Angelo Bonelli">Angelo Bonelli</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+2 April 2014<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_political_party" title="European political party">European affiliation</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">0 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #6CC417; width: 0%; height: 100%;"></div></div></div></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #32CD32;"><ul><li><a href="/wiki/Politics_of_Italy" title="Politics of Italy">Politics of Italy</a></li><li><a href="/wiki/List_of_political_parties_in_Italy" title="List of political parties in Italy">Political parties</a></li><li><a href="/wiki/Elections_in_Italy" title="Elections in Italy">Elections</a></li></ul></div></td></tr></tbody></table>
+<p><b>Green Italy – European Greens</b>  (<a href="/wiki/Italian_language" title="Italian language">Italian</a>: <i lang="it">Green Italia – Verdi Europei</i>) has been a  <a href="/wiki/Political_alliance" title="Political alliance">political alliance</a> in <a href="/wiki/Italy" title="Italy">Italy</a> between the <a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a> and <a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a>, constituted for the <a href="/wiki/European_Parliament_election,_2014_(Italy)" title="European Parliament election, 2014 (Italy)">2014 European election</a>.   
+</p><p>The list was initially excluded to not have picked up the 30,000 signatures necessary for the candidacy in every of the five Italian districts.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The list has subsequently been readmitted to the electoral competition following provision of the Court of Cassation that has recognized the exemption from the obligation of harvest of the signatures because the list is already expression of the present <a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a> in the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>The list finally got 0.9% of the vote and no seats in the European Parliament. However it came fifth with 6.0% among Italians abroad, with particularly good results in <a href="/wiki/Austria" title="Austria">Austria</a> (12.2%), <a href="/wiki/Spain" title="Spain">Spain</a> (8.8%) and <a href="/wiki/France" title="France">France</a> (7.5%).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.europaquotidiano.it/2014/04/02/europee-la-lista-green-italia-verdi-europei/">Europee, la lista Green Italia-Verdi Europei</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ilfattoquotidiano.it/2014/04/18/europee-2014-bonelli-gravita-inaudita-esclusione-liste-green-italia-verdi-europei/957026/">"Europee 2014, Bonelli: "Gravità inaudita esclusione liste Green Italia-Verdi europei" - Il Fatto Quotidiano"</a>. 18 April 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Europee+2014%2C+Bonelli%3A+%22Gravit%C3%A0+inaudita+esclusione+liste+Green+Italia-Verdi+europei%22+-+Il+Fatto+Quotidiano&amp;rft.date=2014-04-18&amp;rft_id=http%3A%2F%2Fwww.ilfattoquotidiano.it%2F2014%2F04%2F18%2Feuropee-2014-bonelli-gravita-inaudita-esclusione-liste-green-italia-verdi-europei%2F957026%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Italy+%E2%80%93+European+Greens" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ilfattoquotidiano.it/2014/04/19/europee-2014-cassazione-riammette-le-liste-ecologiste-i-verdi-decisione-storica/">"Europee 2014, Cassazione riammette le liste ecologiste. I Verdi: "Decisione storica" - Il Fatto Quotidiano"</a>. 19 April 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Europee+2014%2C+Cassazione+riammette+le+liste+ecologiste.+I+Verdi%3A+%22Decisione+storica%22+-+Il+Fatto+Quotidiano&amp;rft.date=2014-04-19&amp;rft_id=http%3A%2F%2Fwww.ilfattoquotidiano.it%2F2014%2F04%2F19%2Feuropee-2014-cassazione-riammette-le-liste-ecologiste-i-verdi-decisione-storica%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Italy+%E2%80%93+European+Greens" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://elezioni.interno.it/europee/scrutini/20140525/EJ0000.htm">"Dipartimento per gli Affari Interni e Territoriali"</a>. <i>elezioni.interno.it</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=elezioni.interno.it&amp;rft.atitle=Dipartimento+per+gli+Affari+Interni+e+Territoriali&amp;rft_id=http%3A%2F%2Felezioni.interno.it%2Feuropee%2Fscrutini%2F20140525%2FEJ0000.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Italy+%E2%80%93+European+Greens" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Italy&amp;#124;link=Italy_Political_parties_in_Italy" style="padding:3px"><table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Italian_political_parties" title="Template:Italian political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Italian_political_parties" title="Template talk:Italian political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Italian_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Italy&amp;#124;link=Italy_Political_parties_in_Italy" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/List_of_political_parties_in_Italy" title="List of political parties in Italy">Political parties in Italy</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Five_Star_Movement" title="Five Star Movement">Five Star Movement</a></li>
+<li><a href="/wiki/Democratic_Party_(Italy)" title="Democratic Party (Italy)">Democratic Party</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Medium</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Lega (<a href="/wiki/Lega_Nord" title="Lega Nord">Lega Nord</a></li>
+<li><a href="/wiki/Us_with_Salvini" title="Us with Salvini">Us with Salvini</a>)</li>
+<li><a href="/wiki/Forza_Italia_(2013)" title="Forza Italia (2013)">Forza Italia</a></li>
+<li><a href="/wiki/Brothers_of_Italy" title="Brothers of Italy">Brothers of Italy</a></li>
+<li><a href="/wiki/Free_and_Equal_(Italy)" title="Free and Equal (Italy)">Free and Equal</a> (<a href="/wiki/Article_1_%E2%80%93_Democratic_and_Progressive_Movement" title="Article 1 – Democratic and Progressive Movement">Democratic and Progressive Movement</a></li>
+<li><a href="/wiki/Italian_Left" title="Italian Left">Italian Left</a></li>
+<li><a href="/wiki/Possible_(Italy)" title="Possible (Italy)">Possible</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Minor</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/More_Europe" title="More Europe">More Europe</a> (<a href="/wiki/Italian_Radicals" title="Italian Radicals">Italian Radicals</a></li>
+<li><a href="/wiki/Democratic_Centre_(Italy)" title="Democratic Centre (Italy)">Democratic Centre</a>)</li>
+<li><a href="/wiki/Us_with_Italy" title="Us with Italy">Us with Italy</a> (<a href="/wiki/Direction_Italy" title="Direction Italy">Direction Italy</a></li>
+<li><a href="/wiki/Civic_Choice" title="Civic Choice">Civic Choice</a></li>
+<li><a href="/wiki/Popular_Construction" title="Popular Construction">Popular Construction</a></li>
+<li><a href="/wiki/Movement_for_the_Autonomies" title="Movement for the Autonomies">Movement for the Autonomies</a>)</li>
+<li><a href="/wiki/Power_to_the_People_(Italy)" title="Power to the People (Italy)">Power to the People</a> (<a href="/wiki/Communist_Refoundation_Party" title="Communist Refoundation Party">Communist Refoundation Party</a></li>
+<li><a href="/wiki/Italian_Communist_Party_(2016)" title="Italian Communist Party (2016)">Italian Communist Party</a>)</li>
+<li><a href="/wiki/CasaPound" title="CasaPound">CasaPound Italy</a></li>
+<li><a href="/wiki/The_People_of_Family" title="The People of Family">The People of Family</a></li>
+<li><a href="/wiki/Popular_Civic_List" title="Popular Civic List">Popular Civic List</a> (<a href="/wiki/Popular_Alternative" title="Popular Alternative">Popular Alternative</a></li>
+<li><a href="/wiki/Italy_of_Values" title="Italy of Values">Italy of Values</a></li>
+<li><a href="/wiki/Solidary_Democracy" title="Solidary Democracy">Solidary Democracy</a>)</li>
+<li><a href="/wiki/Union_of_the_Centre_(2002)" title="Union of the Centre (2002)">Union of the Centre</a></li>
+<li><a href="/wiki/Italian_Liberal_Party_(1997)" title="Italian Liberal Party (1997)">Italian Liberal Party</a></li>
+<li><a href="/wiki/Italian_Socialist_Party_(2007)" title="Italian Socialist Party (2007)">Italian Socialist Party</a></li>
+<li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><a href="/wiki/Energies_for_Italy" title="Energies for Italy">Energies for Italy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Aosta Valley
+<ul><li><a href="/wiki/Valdostan_Union" title="Valdostan Union">Valdostan Union</a></li>
+<li><a href="/wiki/Lega_Nord_Valle_d%27Aosta" title="Lega Nord Valle d&#39;Aosta">Lega Nord Valle d'Aosta</a></li>
+<li><a href="/wiki/Progressive_Valdostan_Union_(2013)" title="Progressive Valdostan Union (2013)">Progressive Valdostan Union</a></li>
+<li><a href="/wiki/Edelweiss_(Aosta_Valley)" title="Edelweiss (Aosta Valley)">Edelweiss</a></li>
+<li><a href="/wiki/For_Our_Valley" title="For Our Valley">For Our Valley</a></li>
+<li><a href="/wiki/Autonomy_Liberty_Participation_Ecology" title="Autonomy Liberty Participation Ecology">Autonomy Liberty Participation Ecology</a></li>
+<li><a href="/w/index.php?title=Civic_Commitment&amp;action=edit&amp;redlink=1" class="new" title="Civic Commitment (page does not exist)">Civic Commitment</a></li>
+<li><a href="/wiki/Mouv%27_(Aosta_Valley)" title="Mouv&#39; (Aosta Valley)">Mouv'</a></li></ul></li>
+<li>Piedmont
+<ul><li><a href="/wiki/Lega_Nord_Piemont" title="Lega Nord Piemont">Lega Nord Piemont</a></li>
+<li><a href="/wiki/Moderates_(Italy)" title="Moderates (Italy)">Moderates</a></li></ul></li>
+<li>Lombardy
+<ul><li><a href="/wiki/Lega_Lombarda" title="Lega Lombarda">Lega Lombarda</a></li></ul></li>
+<li>South Tyrol
+<ul><li><a href="/wiki/South_Tyrolean_People%27s_Party" title="South Tyrolean People&#39;s Party">South Tyrolean People's Party</a></li>
+<li><a href="/wiki/Die_Freiheitlichen" title="Die Freiheitlichen">Die Freiheitlichen</a></li>
+<li><a href="/wiki/Greens_(South_Tyrol)" title="Greens (South Tyrol)">Greens</a></li>
+<li><a href="/wiki/South_Tyrolean_Freedom" title="South Tyrolean Freedom">South Tyrolean Freedom</a></li>
+<li><a href="/wiki/Citizens%27_Union_for_South_Tyrol" title="Citizens&#39; Union for South Tyrol">Citizens' Union for South Tyrol</a></li>
+<li><a href="/wiki/Alto_Adige_in_the_Heart" title="Alto Adige in the Heart">Alto Adige in the Heart</a></li></ul></li>
+<li>Trentino
+<ul><li><a href="/wiki/Trentino_Tyrolean_Autonomist_Party" title="Trentino Tyrolean Autonomist Party">Trentino Tyrolean Autonomist Party</a></li>
+<li><a href="/wiki/Union_for_Trentino" title="Union for Trentino">Union for Trentino</a></li>
+<li><a href="/wiki/Trentino_Project" title="Trentino Project">Trentino Project</a></li>
+<li><a href="/wiki/Lega_Nord_Trentino" title="Lega Nord Trentino">Lega Nord Trentino</a></li>
+<li><a href="/wiki/Trentino_Civic_List" title="Trentino Civic List">Trentino Civic List</a></li>
+<li><a href="/wiki/Administer_Trentino" title="Administer Trentino">Administer Trentino</a></li>
+<li><a href="/wiki/Ladin_Autonomist_Union" title="Ladin Autonomist Union">Ladin Autonomist Union</a></li></ul></li>
+<li>Veneto
+<ul><li><a href="/wiki/Liga_Veneta" title="Liga Veneta">Liga Veneta</a></li>
+<li><a href="/wiki/Veneto_for_Autonomy" title="Veneto for Autonomy">Veneto for Autonomy</a></li>
+<li><a href="/wiki/Independence_We_Veneto" title="Independence We Veneto">Independence We Veneto</a></li>
+<li><a href="/wiki/Venetian_Independence" title="Venetian Independence">Venetian Independence</a></li>
+<li><a href="/wiki/Venetian_Centre-Right" title="Venetian Centre-Right">Venetian Centre-Right</a></li></ul></li>
+<li>Friuli-Venezia Giulia
+<ul><li><a href="/wiki/Lega_Nord_Friuli-Venezia_Giulia" title="Lega Nord Friuli-Venezia Giulia">Lega Nord FVG</a></li>
+<li><a href="/wiki/Pact_for_Autonomy" title="Pact for Autonomy">Pact for Autonomy</a></li>
+<li><a href="/wiki/Responsible_Autonomy" title="Responsible Autonomy">Responsible Autonomy</a></li>
+<li><a href="/wiki/Slovene_Union" title="Slovene Union">Slovene Union</a></li></ul></li>
+<li>Emilia-Romagna
+<ul><li><a href="/wiki/Lega_Nord_Emilia" title="Lega Nord Emilia">Lega Nord Emilia</a></li>
+<li><a href="/wiki/Lega_Nord_Romagna" title="Lega Nord Romagna">Lega Nord Romagna</a></li></ul></li>
+<li>Liguria
+<ul><li><a href="/wiki/Lega_Nord_Liguria" title="Lega Nord Liguria">Lega Nord Liguria</a></li></ul></li>
+<li>Tuscany
+<ul><li><a href="/wiki/Lega_Nord_Toscana" title="Lega Nord Toscana">Lega Nord Toscana</a></li></ul></li>
+<li>Marche
+<ul><li><a href="/wiki/Lega_Nord_Marche" title="Lega Nord Marche">Lega Nord Marche</a></li></ul></li>
+<li>Umbria
+<ul><li><a href="/wiki/Lega_Nord_Umbria" title="Lega Nord Umbria">Lega Nord Umbria</a></li></ul></li>
+<li>Campania
+<ul><li><a href="/wiki/Democracy_and_Autonomy" title="Democracy and Autonomy">Democracy and Autonomy</a></li>
+<li><a href="/wiki/We_the_South" title="We the South">We the South</a></li></ul></li>
+<li>Apulia
+<ul><li><a href="/wiki/Schittulli_Political_Movement" title="Schittulli Political Movement">Schittulli Political Movement</a></li></ul></li>
+<li>Basilicata
+<ul><li><a href="/wiki/Reality_Italy" title="Reality Italy">Reality Italy</a></li></ul></li>
+<li>Calabria
+<ul><li><a href="/wiki/The_DemoKRats" title="The DemoKRats">The DemoKRats</a></li>
+<li><a href="/wiki/Autonomy_and_Rights" title="Autonomy and Rights">Autonomy and Rights</a></li></ul></li>
+<li>Sicily
+<ul><li><a href="/wiki/Diventer%C3%A0_Bellissima" title="Diventerà Bellissima">Diventerà Bellissima</a></li>
+<li><a href="/wiki/Party_of_Sicilians" title="Party of Sicilians">Party of Sicilians</a></li>
+<li><a href="/wiki/Pact_of_Democrats_for_Reforms" title="Pact of Democrats for Reforms">Pact of Democrats for Reforms</a></li></ul></li>
+<li>Sardinia
+<ul><li><a href="/wiki/Sardinian_Reformers" title="Sardinian Reformers">Sardinian Reformers</a></li>
+<li><a href="/wiki/Sardinian_Action_Party" title="Sardinian Action Party">Sardinian Action Party</a></li>
+<li><a href="/wiki/Unidos" title="Unidos">Unidos</a></li>
+<li><a href="/wiki/Project_Republic_of_Sardinia" title="Project Republic of Sardinia">Project Republic of Sardinia</a></li>
+<li><a href="/wiki/Party_of_Sardinians" title="Party of Sardinians">Party of Sardinians</a></li>
+<li><a href="/wiki/Red_Moors" title="Red Moors">Red Moors</a></li>
+<li><a href="/wiki/Sardinian_Democratic_Union" title="Sardinian Democratic Union">Sardinian Democratic Union</a></li>
+<li><a href="/wiki/Christian_Popular_Union" title="Christian Popular Union">Christian Popular Union</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Abroad</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>South America
+<ul><li><a href="/wiki/Associative_Movement_Italians_Abroad" title="Associative Movement Italians Abroad">Associative Movement Italians Abroad</a></li>
+<li><a href="/wiki/South_American_Union_Italian_Emigrants" title="South American Union Italian Emigrants">South American Union Italian Emigrants</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Parliament</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Chamber and Senate
+<ul><li><a href="/wiki/Mixed_Group" title="Mixed Group">Mixed Group</a></li></ul></li>
+<li>Senate
+<ul><li><a href="/wiki/For_the_Autonomies" title="For the Autonomies">For the Autonomies</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Template:Historical_Italian_political_parties" title="Template:Historical Italian political parties">Historical Italian political parties</a></li>
+<li><a href="/wiki/Template:19th-century_Italian_political_groups" title="Template:19th-century Italian political groups">19th-century Italian political groups</a></li>
+<li><a href="/wiki/Template:Early_20th-century_Italian_political_parties" title="Template:Early 20th-century Italian political parties">Early 20th-century Italian political parties</a></li>
+<li><a href="/wiki/Template:1950s%E2%80%931990s_Italian_political_parties" title="Template:1950s–1990s Italian political parties">1950s–1990s Italian political parties</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2188
+Cached time: 20180930234900
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.467 seconds
+Preprocessor visited node count: 1669/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41704/2097152 bytes
+Template argument size: 2236/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8266/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 11.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  409.954      1 -total
+ 28.56%  117.086      1 Template:Lang-it
+ 25.38%  104.046      1 Template:Cleanup
+ 24.15%   98.998      1 Template:Infobox_political_party
+ 19.29%   79.082      1 Template:Infobox
+ 16.59%   68.014      1 Template:Reflist
+ 14.81%   60.733      3 Template:Cite_web
+ 13.53%   55.462      4 Template:Main_other
+ 12.82%   52.562      1 Template:Ambox
+  7.99%   32.757      1 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42944313-0!canonical and timestamp 20180930234859 and revision id 828425144
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Italy_–_European_Greens&amp;oldid=828425144">https://en.wikipedia.org/w/index.php?title=Green_Italy_–_European_Greens&amp;oldid=828425144</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2014_establishments_in_Italy" title="Category:2014 establishments in Italy">2014 establishments in Italy</a></li><li><a href="/wiki/Category:Green_political_parties_in_Italy" title="Category:Green political parties in Italy">Green political parties in Italy</a></li><li><a href="/wiki/Category:Political_parties_established_in_2014" title="Category:Political parties established in 2014">Political parties established in 2014</a></li><li><a href="/wiki/Category:Political_party_alliances_in_Italy" title="Category:Political party alliances in Italy">Political party alliances in Italy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_cleanup_from_June_2014" title="Category:Articles needing cleanup from June 2014">Articles needing cleanup from June 2014</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_with_a_reason_field_from_June_2014" title="Category:Cleanup tagged articles with a reason field from June 2014">Cleanup tagged articles with a reason field from June 2014</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_June_2014" title="Category:Wikipedia pages needing cleanup from June 2014">Wikipedia pages needing cleanup from June 2014</a></li><li><a href="/wiki/Category:Articles_containing_Italian-language_text" title="Category:Articles containing Italian-language text">Articles containing Italian-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Italy+%E2%80%93+European+Greens" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Italy+%E2%80%93+European+Greens" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Italy_%E2%80%93_European_Greens" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Italy_%E2%80%93_European_Greens" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Italy_%E2%80%93_European_Greens">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Italy_%E2%80%93_European_Greens" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Italy_%E2%80%93_European_Greens" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;oldid=828425144" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17511792" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Italy_%E2%80%93_European_Greens&amp;id=828425144" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Italy+%E2%80%93+European+Greens">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Italy+%E2%80%93+European+Greens&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Verdi_Europei_-_Green_Italia" title="Verdi Europei - Green Italia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17511792#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 March 2018, at 13:22<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Italy_%E2%80%93_European_Greens&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.467","ppvisitednodes":{"value":1669,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41704,"limit":2097152},"templateargumentsize":{"value":2236,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8266,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  409.954      1 -total"," 28.56%  117.086      1 Template:Lang-it"," 25.38%  104.046      1 Template:Cleanup"," 24.15%   98.998      1 Template:Infobox_political_party"," 19.29%   79.082      1 Template:Infobox"," 16.59%   68.014      1 Template:Reflist"," 14.81%   60.733      3 Template:Cite_web"," 13.53%   55.462      4 Template:Main_other"," 12.82%   52.562      1 Template:Ambox","  7.99%   32.757      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":12433959,"limit":52428800}},"cachereport":{"origin":"mw2188","timestamp":"20180930234900","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":567,"wgHostname":"mw2188"});});</script>
+	</body>
+</html>

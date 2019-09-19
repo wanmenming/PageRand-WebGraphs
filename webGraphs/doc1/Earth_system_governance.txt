@@ -1,0 +1,526 @@
+https://en.wikipedia.org/wiki/Earth_system_governance
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Earth system governance - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Earth_system_governance","wgTitle":"Earth system governance","wgCurRevisionId":857851745,"wgRevisionId":857851745,"wgArticleId":33853457,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2013","Environmental policy","Environmental social science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Earth_system_governance","wgRelevantArticleId":33853457,"wgRequestId":"W8J7ygpAMFoAALRyVH8AAABG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5327175","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Earth_system_governance"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Earth_system_governance&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Earth_system_governance&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Earth_system_governance"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Earth_system_governance rootpage-Earth_system_governance skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Earth system governance</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Governance" title="Category:Governance">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Governance" title="Governance">Governance</a></th></tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Models</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul><li><a href="/wiki/Collaborative_governance" title="Collaborative governance">Collaborative</a></li>
+<li><a href="/wiki/Good_governance" title="Good governance">Good</a></li>
+<li><a href="/wiki/Multistakeholder_governance_model" title="Multistakeholder governance model">Multistakeholder</a></li>
+<li><a href="/wiki/Open-source_governance" title="Open-source governance">Open-source</a></li>
+<li><a href="/wiki/Private_governance" class="mw-redirect" title="Private governance">Private</a></li>
+<li><a href="/wiki/Self-governance" title="Self-governance">Self</a></li></ul>
+</div></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+By level</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul><li><a href="/wiki/Local_governance" class="mw-redirect" title="Local governance">Local</a></li>
+<li><a href="/wiki/Global_governance" title="Global governance">Global</a></li></ul>
+</div></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+By field</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul><li><a href="/wiki/Climate_governance" title="Climate governance">Climate</a></li>
+<li><a href="/wiki/Clinical_governance" title="Clinical governance">Clinical</a></li>
+<li><a href="/wiki/Corporate_governance" title="Corporate governance">Corporate</a></li>
+<li><a href="/wiki/Cultural_governance" title="Cultural governance">Cultural</a></li>
+<li><a href="/wiki/Data_governance" title="Data governance">Data</a></li>
+<li><a class="mw-selflink selflink">Earth system</a></li>
+<li><a href="/wiki/Ecclesiastical_polity" title="Ecclesiastical polity">Ecclesiastical</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental</a></li>
+<li><a href="/wiki/Governance_in_higher_education" title="Governance in higher education">Higher education</a></li>
+<li><a href="/wiki/Information_governance" title="Information governance">Information</a></li>
+<li><a href="/wiki/Network_governance" title="Network governance">Network</a></li>
+<li><a href="/wiki/Ocean_governance" title="Ocean governance">Ocean</a></li>
+<li><a href="/wiki/Political_party_governance" class="mw-redirect" title="Political party governance">Political party</a></li>
+<li><a href="/wiki/Project_governance" title="Project governance">Project</a></li>
+<li><a href="/wiki/Security_sector_governance_and_reform" title="Security sector governance and reform">Security sector</a></li>
+<li><a href="/wiki/Self-governance" title="Self-governance">Self</a></li>
+<li><a href="/wiki/Simulation_governance" title="Simulation governance">Simulation</a></li>
+<li><a href="/wiki/SOA_governance" title="SOA governance">Service-oriented architecture</a></li>
+<li><a href="/wiki/Soil_governance" title="Soil governance">Soil</a></li>
+<li><a href="/wiki/Technology_governance" title="Technology governance">Technology</a></li>
+<li><a href="/wiki/Transnational_governance" title="Transnational governance">Transnational</a></li>
+<li><a href="/wiki/Website_governance" title="Website governance">Website</a></li></ul>
+</div></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Measures</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/World_Governance_Index" title="World Governance Index">World Governance Index</a></li>
+<li><a href="/wiki/Sustainable_Governance_Indicators" title="Sustainable Governance Indicators">Sustainable Governance Indicators</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Related topics</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Chief_governance_officer" title="Chief governance officer">Chief governance officer</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Governance,_risk_management,_and_compliance" title="Governance, risk management, and compliance">Governance, risk management<br />and compliance</a></div></li>
+<li><a href="/wiki/E-governance" title="E-governance">E-governance</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Environmental,_social_and_corporate_governance" title="Environmental, social and corporate governance">Environmental, social and<br />corporate governance</a></div></li>
+<li><a href="/wiki/Market_governance_mechanism" title="Market governance mechanism">Market governance mechanism</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Governance" title="Template:Governance"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Governance" title="Template talk:Governance"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Governance&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Earth system governance</b> is a recently developed <a href="/wiki/Paradigm_shift" title="Paradigm shift">paradigm</a> that builds on earlier notions of <a href="/wiki/Environmental_policy" title="Environmental policy">environmental policy</a> and <a href="/wiki/Environmental_protection" title="Environmental protection">nature conservation</a>, but puts these into the broader context of human-induced transformations of the entire <a href="/wiki/Earth_system_science" title="Earth system science">earth system</a>. It conceptualizes the system of formal and informal rules, rule-making mechanisms and actor-networks at all levels of human society (from local to global) that are set up to steer societies towards preventing, mitigating, and adapting to global and local environmental change and earth system transformation, within the normative context of <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Conferences"><span class="tocnumber">2</span> <span class="toctext">Conferences</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Policy_engagement"><span class="tocnumber">3</span> <span class="toctext">Policy engagement</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#The_Earth_System_Governance_Project"><span class="tocnumber">5</span> <span class="toctext">The Earth System Governance Project</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Publications"><span class="tocnumber">6</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Conceptual_framework"><span class="tocnumber">7</span> <span class="toctext">Conceptual framework</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Related_projects"><span class="tocnumber">8</span> <span class="toctext">Related projects</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Selected_publications"><span class="tocnumber">11</span> <span class="toctext">Selected publications</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The notion of governance refers to forms of steering that are less hierarchical than traditional governmental policy-making (even though most modern governance arrangements will also include some degree of hierarchy), rather decentralized, open to self-organization, and inclusive of non-state actors that range from industry and non-governmental organizations to scientists, indigenous communities, city governments and international organizations.
+</p><p>The integrative new paradigm of earth system governance has evolved into an active research area that brings together a variety of social science disciplines including political science, sociology, economics, ecology, policy studies, geography, <a href="/wiki/Sustainability_science" title="Sustainability science">sustainability science</a>, and law.
+</p>
+<h2><span class="mw-headline" id="Conferences">Conferences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=2" title="Edit section: Conferences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Major international conferences on ‘Earth System Governance’ have been held in Amsterdam (2007, 2009), Berlin (2008, 2010), Colorado (2011), Lund (2012, 2017), Tokyo (2013), Norwich (2014), Canberra (2015) and Nairobi (2016). In 2017, the 8th Annual Earth System Governance Conference took place in Lund, Sweden. This conference was co-hosted by Lund University during its 350 year celebration.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> In 2018 it is due to be held in Utrecht, The Netherlands<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Policy_engagement">Policy engagement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=3" title="Edit section: Policy engagement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 16–19 May 2011, more than twenty Nobel Laureates, several leading policy-makers and some of the world’s most renowned thinkers and experts on global sustainability met for the Third Nobel Laureate Symposium on Global Sustainability<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> at the <a href="/wiki/Royal_Swedish_Academy_of_Sciences" title="Royal Swedish Academy of Sciences">Royal Swedish Academy of Sciences</a> in Stockholm. The Nobel Laureate Symposium concluded with the <a href="/wiki/Stockholm_Memorandum" title="Stockholm Memorandum">Stockholm Memorandum</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> calling for "strengthening of Earth System Governance" as a priority for coherent global action.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> This memorandum has been submitted to the High-level Panel on Global Sustainability appointed by the UN Secretary General and fed into the preparations for the <a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">2012 UN Conference on Sustainable Development</a> (Rio+20).
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The new paradigm of earth system governance was originally developed in the Netherlands by Professor <a rel="nofollow" class="external text" href="http://www.earthsystemgovernance.org/people/person/frank-biermann">Frank Biermann</a> in his inaugural lecture at the VU University Amsterdam, which was published later in 2007<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Based on this pioneering contribution, Biermann was invited by the <a href="/wiki/International_Human_Dimensions_Programme" title="International Human Dimensions Programme">International Human Dimensions Programme on Global Environmental Change</a> to develop a long-term comprehensive international programme in this field, which became in 2009 the global <a href="/wiki/Earth_System_Governance_Project" title="Earth System Governance Project">Earth System Governance Project</a>.
+</p><p>Key researchers who have applied the earth system governance framework in their work include <a rel="nofollow" class="external text" href="http://www.colostate.edu/academics/michele-betsill.aspx">Michele Betsill</a>, <a href="/wiki/John_Dryzek" title="John Dryzek">John Dryzek</a>, <a href="/wiki/Peter_M._Haas" title="Peter M. Haas">Peter M. Haas</a>, <a rel="nofollow" class="external text" href="http://unu.edu/faculty/norichika-kanie">Norichika Kanie</a>, <a rel="nofollow" class="external text" href="http://www.lucsus.lu.se/html/lennart_olsson.aspx">Lennart Olsson</a>, and <a rel="nofollow" class="external text" href="http://www.bren.ucsb.edu/people/Faculty/oran_young.htm">Oran Young</a>. In 2011, Lund University appointed Biermann as guest professor of Earth System Governance, making him the worldwide first chair holder in this rapidly developing field of research.
+</p>
+<h2><span class="mw-headline" id="The_Earth_System_Governance_Project">The Earth System Governance Project</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=5" title="Edit section: The Earth System Governance Project">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Earth_System_Governance_Project" title="Earth System Governance Project">Earth System Governance Project</a></div>
+<p>In 2009, the UN-sponsored global change research networks have set up a long-term research programme in earth system governance, the <a href="/wiki/Earth_System_Governance_Project" title="Earth System Governance Project">Earth System Governance Project</a>.
+The Earth System Governance Project currently consists of a network of ca. 300 active and about 2,300 indirectly involved scholars from all continents, and is the largest social science research network in the area of governance and global environmental change. The Earth System Governance Project is essentially a scientific effort, but also aims to assist policy responses to the pressing problems of global environmental change.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> The <a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/ipo">International Project Office</a> of the Earth System Governance Project is based at Lund University, Sweden.
+</p><p>Research centres on ‘Earth System Governance’ have been set up or designated at <a href="/wiki/VU_University_Amsterdam" title="VU University Amsterdam">VU University Amsterdam</a>; the <a href="/wiki/Australian_National_University" title="Australian National University">Australian National University</a>; <a href="/wiki/Chiang_Mai_University" title="Chiang Mai University">Chiang Mai University</a>; <a href="/wiki/Colorado_State_University" title="Colorado State University">Colorado State University</a>; <a href="/wiki/Lund_University" title="Lund University">Lund University</a>; <a href="/wiki/University_of_East_Anglia" title="University of East Anglia">University of East Anglia</a>; <a href="/wiki/University_of_Oldenburg" title="University of Oldenburg">University of Oldenburg</a>; the <a href="/wiki/Stockholm_Resilience_Centre" title="Stockholm Resilience Centre">Stockholm Resilience Centre</a>; the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a>; the <a href="/wiki/Tokyo_Institute_of_Technology" title="Tokyo Institute of Technology">Tokyo Institute of Technology</a> and <a href="/wiki/Yale_University" title="Yale University">Yale University</a>. In addition, strong networks on earth system governance research exist in China, Latin America, Central and Eastern Europe, and Russia.
+</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=6" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>MIT Press launched in 2009 a new <a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/esg%20and%20mit%20press%20book%20series">book series</a> on Earth System Governance. Recent papers drawing on the paradigm of integrated earth system governance research have analysed issues as diverse as river basin management in Hungary,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> deforestation policies in the Amazon,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> and climate change adaptation in Australia.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Conceptual_framework">Conceptual framework</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=7" title="Edit section: Conceptual framework">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Earth System Governance Project builds on a conceptual framework that is organized into five <a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/about/analytical-problems">analytical problems</a>. The five analytical problems identified in the Science and Implementation Plan of the <a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/">Earth System Governance Project</a> are:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> 
+</p>
+<ul><li>The overall <i><a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/about/analytical-problems/architecture">architecture</a></i> of earth system governance</li>
+<li><i><a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/about/analytical-problems/agency">Agency</a></i> beyond the state and of the state</li>
+<li>The <i><a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/about/analytical-problems/adaptiveness">adaptiveness</a></i> of governance mechanisms</li>
+<li>The <i><a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/about/analytical-problems/accountability">accountability and legitimacy</a></i> of governance mechanisms</li>
+<li>The modes of <i><a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/about/analytical-problems/allocation%20and%20access">allocation and access</a></i> in earth system governance</li></ul>
+<h2><span class="mw-headline" id="Related_projects">Related projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=8" title="Edit section: Related projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Earth_System_Science_Partnership" title="Earth System Science Partnership">Earth System Science Partnership</a></li>
+<li><a href="/wiki/International_Geosphere-Biosphere_Programme" title="International Geosphere-Biosphere Programme">International Geosphere-Biosphere Programme</a></li>
+<li><a href="/wiki/International_Human_Dimensions_Programme" title="International Human Dimensions Programme">International Human Dimensions Programme</a></li>
+<li><a href="/wiki/World_Climate_Research_Programme" title="World Climate Research Programme">World Climate Research Programme</a></li>
+<li><a href="/wiki/Diversitas" title="Diversitas">DIVERSITAS, an international programme for biodiversity research</a></li>
+<li><a href="/wiki/Global_Carbon_Project" title="Global Carbon Project">Global Carbon Project</a></li>
+<li><a href="/w/index.php?title=LOICZ&amp;action=edit&amp;redlink=1" class="new" title="LOICZ (page does not exist)">Land-Ocean Interactions in the Coastal Zone</a></li>
+<li><a href="/wiki/Global_Land_Project" title="Global Land Project">Global Land Project</a></li>
+<li><a href="/wiki/Urbanization_and_Global_Environmental_Change_Project" title="Urbanization and Global Environmental Change Project">Urbanization and Global Environmental Change Project (UGEC)</a></li>
+<li>Global Water System Project (GWSP)</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Earth_System_Governance_Project" title="Earth System Governance Project">Earth System Governance Project</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Global_governance" title="Global governance">Global governance</a></li>
+<li><a href="/wiki/Social_science" title="Social science">Social science</a></li>
+<li><a href="/wiki/Sustainability_governance" class="mw-redirect" title="Sustainability governance">Sustainability governance</a></li>
+<li><a href="/wiki/Earth_System_Science" class="mw-redirect" title="Earth System Science">Earth System Analysis/ Earth System Science</a></li>
+<li><a href="/wiki/Environmental_Science" class="mw-redirect" title="Environmental Science">Environmental Science</a></li>
+<li><a href="/wiki/Global_change" title="Global change">Global Change</a></li>
+<li><a href="/wiki/Global_governance" title="Global governance">Global governance</a></li>
+<li><a href="/wiki/Global_governance#Environmental_governance_and_managing_the_planet" title="Global governance">Global environmental governance</a></li>
+<li><a href="/wiki/Multi-level_governance" title="Multi-level governance">Multi-level governance</a></li>
+<li><a href="/wiki/Climate_governance" title="Climate governance">Climate Governance</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental Governance</a></li>
+<li><a href="/wiki/Environmental_Policy" class="mw-redirect" title="Environmental Policy">Environmental Policy</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Sustainability science</a></li>
+<li><a href="/wiki/Sustainable_Development" class="mw-redirect" title="Sustainable Development">Sustainable Development</a></li>
+<li><a href="/wiki/Transition_Management" class="mw-redirect" title="Transition Management">Transition Management</a></li>
+<li><a href="/wiki/Planetary_Boundaries" class="mw-redirect" title="Planetary Boundaries">Planetary Boundaries</a></li>
+<li><a href="/wiki/The_Anthropocene" class="mw-redirect" title="The Anthropocene">The Anthropocene</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Biermann, Frank, Michele M. Betsill, Joyeeta Gupta, Norichika Kanie, Louis Lebel, Diana Liverman, Heike Schroeder, and Bernd Siebenhüner, with contributions from Ken Conca, Leila da Costa Ferreira, Bharat Desai, Simon Tay, and Ruben Zondervan. 2009. <i><a rel="nofollow" class="external text" href="http://earthsystemgovernance.org/publication/biermann-frank--earth-system-governance-science-plan">Earth System Governance: People, Places and the Planet. Science and Implementation Plan of the Earth System Governance Project</a></i>. Earth System Governance Report 1, IHDP Report 20. Bonn, IHDP: The Earth System Governance Project.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.earthsystemgovernance.net/lund2017/">2017 Lund Conference on Earth System Governance</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.earthsystemgovernance.org/events/2018-utrecht-conference-on-earth-system-governance/">"2018 Utrecht Conference on Earth System Governance"</a>. <i>www.earthsystemgovernance.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.earthsystemgovernance.org&amp;rft.atitle=2018+Utrecht+Conference+on+Earth+System+Governance&amp;rft_id=http%3A%2F%2Fwww.earthsystemgovernance.org%2Fevents%2F2018-utrecht-conference-on-earth-system-governance%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+system+governance" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://newswatch.nationalgeographic.com/2011/05/18/at-stockholm-gathering-of-minds-planet-earth-vs-humanity/">Third Nobel Laureate Symposium on Global Sustainability</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://globalsymposium2011.org/news-and-media/memorandum">Stockholm Memorandum: Tipping the Scales towards Sustainability</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sei-international.org/mediamanager/documents/News/Press-releases/TheStockholmMemorandum.pdf">The Stockholm Memorandum</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Frank Biermann. 2007. <a rel="nofollow" class="external text" href="http://www.glogov.org/images/doc/Glogov.orgWorkingPaper19EarthSystemGovernance.pdf">‘Earth system governance’ as a crosscutting theme of global change research</a>. Global Environmental Change. Volume 17, Issues 3-4, August–October 2007, pp. 326-337.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.thebrokeronline.eu/Articles/Managing-global-change/Earth-System-Governance-Project/">[1]</a> The Broker Online</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://english.cri.cn/6966/2011/05/19/1461s638279.htm">Nobel Laureates Hand in Recommendations to UN Panel on Global Sustainability</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Werners, Saskia E.., Zsuzsanna Flachner, Piotr Matczak, Maria Falaleeva, and Rik Leemans. 2009. <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0959378009000508">Exploring earth system governance: A case study of floodplain management along the Tisza river in Hungary</a>. <i>Global Environmental Change</i>, 19 (4): 503-511</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Schroeder, Heike. 2010. <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/yq78x9223664551w/">Agency in international climate negotiations: the case of indigenous peoples and avoided deforestation</a>. <i>International Environmental Agreements: Politics, Law and Economics</i>, 10 (4): 317-332</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Gero, A., Méheux, K. and Dominey-Howes, D. 2010. <a rel="nofollow" class="external text" href="http://www.nhrl.unsw.edu.au/downloads/UNSW%20DRR%20and%20CCA%20in%20the%20Pacific.pdf">Disaster risk reduction and climate change adaptation in the Pacific: The challenge of integration</a>. ATRC-NHRL Miscellaneous Report 4.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Biermann, Frank, Michele M. Betsill, Joyeeta Gupta, Norichika Kanie, Louis Lebel, Diana Liverman, Heike Schroeder, and Bernd Siebenhüner, with contributions from Ken Conca, Leila da Costa Ferreira, Bharat Desai, Simon Tay, and Ruben Zondervan. 2009. <i><a rel="nofollow" class="external text" href="http://www.earthsystemgovernance.org/publications/2009/Earth-System-Governance_Science-Plan.pdf">Earth System Governance: People, Places and the Planet. Science and Implementation Plan of the Earth System Governance Project</a></i>. Earth System Governance Report 1, IHDP Report 20. Bonn, IHDP: The Earth System Governance Project.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Selected_publications">Selected publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=11" title="Edit section: Selected publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Betsill, Michele M., Philipp Pattberg, and Eleni Dellas, 2011. Agency in Earth System Governance. <i>International Environmental Agreements: Politics, Law and Economics</i> 11 (1): 1-6.</li>
+<li>Biermann, F. 2007. ‘Earth system governance’ as a crosscutting theme of global change research. <i>Global Environmental Change</i> Nr. 17 (2007) 326–337.</li>
+<li>Biermann, F., M. M. Betsill, J. Gupta, N. Kanie, L. Lebel, D. Liverman, H. Schroeder, and B. Siebenhüner. 2009. <i>Earth System Governance. People, Places and the Planet. Science and Implementation Plan of the Earth System Governance Project</i>. International Human Dimensions Programme on Global Environmental Change, IHDP Report No. 20.</li>
+<li>Biermann, Frank, Ruben Zondervan (editors). 2010. Earth System Governance. <i>International Environmental Agreements: Politics, Law and Economics</i>, 10 (4): 273-276.</li>
+<li>Bouteligier, Sofie. 2011. Exploring the agency of global environmental consultancy firms in earth system governance. <i>International Environmental Agreements: Politics, Law and Economics</i>, 11 (1): 43-61.</li>
+<li>Bowen, Kathryn J., Sharon Friel, Kristie Ebi, Colin D. Butler, Fiona Miller and Anthony J. McMichael. 2012. Governing for a Healthy Population: Towards an Understanding of How Decision-Making Will Determine Our Global Health in a Changing Climate. <i>International Journal of Environmental Research and Public Health</i>, 9: 55-72.</li>
+<li>Dellas, Eleni., Philipp Pattberg, and Michele Betsill. 2011. Agency in earth system governance: refining a research agenda. <i>International Environmental Agreements: Politics, Law and Economics</i>, 11 (1): 85-98.</li>
+<li>Dryzek, John S., Hayley Stevenson. 2011. Global democracy and earth system governance. <i>Ecological Economics</i>, 70 (11): 1865-1874.</li>
+<li>Gupta, Joyeeta., Louis Lebel. 2010. Access and allocation in earth system governance: water and climate change compared. <i>International Environmental Agreements: Politics, Law and Economics</i>, 10 (4): 377-395.</li>
+<li>Spagnuolo, Francesca. 2011. Diversity and pluralism in earth system governance: Contemplating the role for global administrative law. <i>Ecological Economics</i>, 70 (11): 1875-1881.</li>
+<li>Werners, Saskia E., Zsuzsanna Flachner, Piotr Matczak, Maria Falaleeva, and Rik Leemans. 2009. Exploring earth system governance: A case study of floodplain management along the Tisza river in Hungary. <i>Global Environmental Change</i>, 19 (4): 503-511.</li>
+<li>Young, O.,H. Schroeder and L. A. King (eds). 2008. <i>Institutions and Environmental Change: Principal Findings, Applications, and Research Frontiers</i>. Cambridge, MA: MIT Press.</li>
+<li>Zondervan, Ruben. 2009. Looking toward the Future - The Earth System Governance Project. <i>IHDP Update</i>, 1: 47-50.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.earthsystemgovernance.org">Earth System Governance Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.glogov.org">Global Governance Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ihdp.org">International Human Dimensions Programme</a>, (<a href="/wiki/International_Human_Dimensions_Programme" title="International Human Dimensions Programme">IHDP</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.lucsus.lu.se">Lund University Centre for Sustainability Studies</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ivm.vu.nl/en/index.asp">VU University Amsterdam, Institute for Environmental Studies</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a class="mw-selflink selflink">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20181010154911
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.290 seconds
+Preprocessor visited node count: 628/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41918/2097152 bytes
+Template argument size: 2772/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9020/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 1.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  181.976      1 -total
+ 48.42%   88.112      1 Template:Reflist
+ 38.77%   70.557      1 Template:Cite_web
+ 15.48%   28.171      1 Template:Use_dmy_dates
+ 13.36%   24.311      1 Template:Sustainability
+ 11.48%   20.898      1 Template:Navbox
+ 10.89%   19.825      1 Template:Governance
+  9.31%   16.947      1 Template:Sidebar
+  7.87%   14.330      1 Template:Main
+  7.33%   13.339      1 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33853457-0!canonical and timestamp 20181010154911 and revision id 857851745
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Earth_system_governance&amp;oldid=857851745">https://en.wikipedia.org/w/index.php?title=Earth_system_governance&amp;oldid=857851745</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_policy" title="Category:Environmental policy">Environmental policy</a></li><li><a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Environmental social science</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_September_2013" title="Category:Use dmy dates from September 2013">Use dmy dates from September 2013</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Earth+system+governance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Earth+system+governance" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Earth_system_governance" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Earth_system_governance" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Earth_system_governance">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Earth_system_governance&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Earth_system_governance&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Earth_system_governance" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Earth_system_governance" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Earth_system_governance&amp;oldid=857851745" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Earth_system_governance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5327175" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Earth_system_governance&amp;id=857851745" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Earth+system+governance">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Earth+system+governance&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Earth_system_governance&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5327175#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 September 2018, at 12:58<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Earth_system_governance&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.290","ppvisitednodes":{"value":628,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41918,"limit":2097152},"templateargumentsize":{"value":2772,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9020,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  181.976      1 -total"," 48.42%   88.112      1 Template:Reflist"," 38.77%   70.557      1 Template:Cite_web"," 15.48%   28.171      1 Template:Use_dmy_dates"," 13.36%   24.311      1 Template:Sustainability"," 11.48%   20.898      1 Template:Navbox"," 10.89%   19.825      1 Template:Governance","  9.31%   16.947      1 Template:Sidebar","  7.87%   14.330      1 Template:Main","  7.33%   13.339      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"10.000"},"limitreport-memusage":{"value":2086527,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20181010154911","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>
+

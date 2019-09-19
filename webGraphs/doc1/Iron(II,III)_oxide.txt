@@ -1,0 +1,1234 @@
+https://en.wikipedia.org/wiki/Iron(II,III)_oxide
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Iron(II,III) oxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Iron(II,III)_oxide","wgTitle":"Iron(II,III) oxide","wgCurRevisionId":863788483,"wgRevisionId":863788483,"wgArticleId":1309936,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with login required references or sources","Articles without KEGG source","Articles with changed EBI identifier","ECHA InfoCard ID from Wikidata","Articles containing unverified chemical infoboxes","Oxides","Iron compounds","Semiconductor materials","Iron oxide pigments","Mixed valence compounds","Non-stoichiometric compounds","Excipients"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Iron(II,III)_oxide","wgRelevantArticleId":1309936,"wgRequestId":"W8FJ9QpAICAAALDwZ1QAAABC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q411235","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f7/Magnetite_structure.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Iron(II,III)_oxide"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Iron(II,III)_oxide"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Iron_II_III_oxide rootpage-Iron_II_III_oxide skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Iron(II,III) oxide</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left;&#32;;">
+<caption style="text-align:center;">Iron(II,III) oxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:Magnetite_structure.jpg" class="image"><img alt="Magnetite structure.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Magnetite_structure.jpg/220px-Magnetite_structure.jpg" width="220" height="198" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Magnetite_structure.jpg/330px-Magnetite_structure.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Magnetite_structure.jpg/440px-Magnetite_structure.jpg 2x" data-file-width="675" data-file-height="607" /></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">iron(II) iron(III) oxide</div>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">ferrous oxide, ferroso oxide, iron(II,III) oxide, magnetite, black iron oxide, black oxide, lodestone, iron(II) diiron(III) oxide</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=1317-61-9">1317-61-9</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a href="/wiki/JSmol" class="mw-redirect" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a rel="nofollow" class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O1%5BFe%5D2O%5BFe%5DO%5BFe%5D1O2">Interactive image</a></span></li></ul></div>
+</td></tr>
+
+
+
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=50821">CHEBI:50821</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChEMBL" title="ChEMBL">ChEMBL</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL1201867">ChEMBL1201867</a></span><sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a rel="nofollow" class="external text" href="http://www.chemspider.com/Chemical-Structure.17215625.html">17215625</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ECHA_InfoCard" class="mw-redirect" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.013.889">100.013.889</a>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/16211978">16211978</a></span></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Unique_Ingredient_Identifier" title="Unique Ingredient Identifier">UNII</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="fdasis.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=XM0M87F357">XM0M87F357</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/3Fe.4O<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;SZVJSHCCFOBDDC-UHFFFAOYSA-N<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1/3Fe.4O/rFe3O4/c1-4-2-6-3(5-1)7-2</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;SZVJSHCCFOBDDC-QXRQKJBKAR</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">O1[Fe]2O[Fe]O[Fe]1O2</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td>Fe<sub>3</sub>O<sub>4</sub><br />
+<p>FeO.Fe<sub>2</sub>O<sub>3</sub>&#x20;
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>231.533 g/mol&#x20; &#x20;
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>solid black powder
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>5 g/cm<sup>3</sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td>&#x20;1,597&#160;°C (2,907&#160;°F; 1,870&#160;K)&#x20;
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td>&#x20;2,623<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>&#160;°C (4,753&#160;°F; 2,896&#160;K)&#x20;
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Refractive_index" title="Refractive index">Refractive index</a> (<i>n</i><sub>D</sub>)</div>
+</td>
+<td>2.42<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><a href="/wiki/NFPA_704" title="NFPA 704">NFPA 704</a>
+</td>
+<td><div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div id="on_image_elements" class="nounderlines" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_1217365111"><area href="/wiki/NFPA_704#Red" shape="poly" coords="40,0,60,20,40,40,20,20" alt="Flammability code 0: Will not burn. E.g., water" title="Flammability code 0: Will not burn. E.g., water" /><area href="/wiki/NFPA_704#Blue" shape="poly" coords="20,20,40,40,20,60,0,40" alt="Health code 0: Exposure under fire conditions would offer no hazard beyond that of ordinary combustible material. E.g., sodium chloride" title="Health code 0: Exposure under fire conditions would offer no hazard beyond that of ordinary combustible material. E.g., sodium chloride" /><area href="/wiki/NFPA_704#Yellow" shape="poly" coords="60,20,80,40,60,60,40,40" alt="Reactivity code 1: Normally stable, but can become unstable at elevated temperatures and pressures. E.g., calcium" title="Reactivity code 1: Normally stable, but can become unstable at elevated temperatures and pressures. E.g., calcium" /><area href="/wiki/NFPA_704#White" shape="poly" coords="40,40,60,60,40,80,20,60" alt="Special hazard OX: Oxidizer. E.g., potassium perchlorate" title="Special hazard OX: Oxidizer. E.g., potassium perchlorate" /></map><img alt="NFPA 704 four-colored diamond" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" data-file-width="600" data-file-height="600" usemap="#ImageMap_1_1217365111" /></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 0: Will not burn. E.g., water">0</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 0: Exposure under fire conditions would offer no hazard beyond that of ordinary combustible material. E.g., sodium chloride">0</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 1: Normally stable, but can become unstable at elevated temperatures and pressures. E.g., calcium">1</span></a></div><div style="vertical-align:middle; text-align:center; line-height:80%; position:absolute; top:52px;"><a href="/wiki/NFPA_704#White" title="NFPA 704"><span style="font-size:15px; color:black; width:23px; position:absolute; left:29px;" title="Special hazard OX: Oxidizer. E.g., potassium perchlorate">OX</span></a></div></div></div></div>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25&#160;°C [77&#160;°F], 100&#160;kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/12px-X_mark.svg.png" width="12" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/18px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/24px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span>&#160;<span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=447334989&amp;page2=Iron%28II%2CIII%29+oxide">verify</a></span>&#160;(<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a>&#160;<sup><img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup>&#160;?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox&#160;references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Iron(II,III) oxide</b> is ferrous oxide, the chemical compound with formula Fe<sub>3</sub>O<sub>4</sub>. It occurs in nature as the mineral <a href="/wiki/Magnetite" title="Magnetite">magnetite</a>. It is one of a number of <a href="/wiki/Iron_oxides" class="mw-redirect" title="Iron oxides">iron oxides</a>, the others being <a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">iron(II) oxide</a> (FeO), which is rare, and <a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">iron(III) oxide</a> (Fe<sub>2</sub>O<sub>3</sub>) which is ferric oxide, also known as <a href="/wiki/Hematite" title="Hematite">hematite</a> or rust. It contains both Fe<sup>2+</sup> and Fe<sup>3+</sup> ions and is sometimes formulated as FeO ∙ Fe<sub>2</sub>O<sub>3</sub>. This iron oxide is encountered in the laboratory as a black powder. It exhibits permanent magnetism and is <a href="/wiki/Ferrimagnetic" class="mw-redirect" title="Ferrimagnetic">ferrimagnetic</a>, but is sometimes incorrectly described as <a href="/wiki/Ferromagnetic" class="mw-redirect" title="Ferromagnetic">ferromagnetic</a>.<sup id="cite_ref-Greenwood_3-0" class="reference"><a href="#cite_note-Greenwood-3">&#91;3&#93;</a></sup> Its most extensive use is as a black pigment which is synthesised rather than being extracted from the naturally occurring mineral as the particle size and shape can be varied by the method of production.<sup id="cite_ref-Cornell_4-0" class="reference"><a href="#cite_note-Cornell-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Preparation"><span class="tocnumber">1</span> <span class="toctext">Preparation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reactions"><span class="tocnumber">2</span> <span class="toctext">Reactions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Structure"><span class="tocnumber">3</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Properties"><span class="tocnumber">4</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Uses"><span class="tocnumber">5</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Biological_occurrence"><span class="tocnumber">6</span> <span class="toctext">Biological occurrence</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Preparation">Preparation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit&amp;section=1" title="Edit section: Preparation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Under <a href="/wiki/Hypoxia_(environmental)" title="Hypoxia (environmental)">anaerobic</a> conditions, <a href="/wiki/Ferrous_hydroxide" class="mw-redirect" title="Ferrous hydroxide">ferrous hydroxide</a> (Fe(OH)<sub>2</sub>) can be oxidized by water to form magnetite and molecular <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>. This process is described by the <a href="/wiki/Schikorr_reaction" title="Schikorr reaction">Schikorr reaction</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\ce {{\underset {ferrous\ hydroxide}{3Fe(OH)2}}-&gt;{\underset {magnetite}{Fe3O4}}+{\underset {hydrogen}{H2}}+{\underset {water}{2H2O}}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <munder>
+              <mrow>
+                <mn>3</mn>
+                <mspace width="thinmathspace" />
+                <mtext>Fe</mtext>
+                <msubsup>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo stretchy="false">(</mo>
+                    <mtext>OH</mtext>
+                    <mo stretchy="false">)</mo>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mspace width="0pt" height="0pt" depth=".2em" />
+                  </mrow>
+                </msubsup>
+              </mrow>
+              <mrow>
+                <mtext>ferrous</mtext>
+                <mtext>&#xA0;</mtext>
+                <mtext>hydroxide</mtext>
+              </mrow>
+            </munder>
+          </mrow>
+          <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <munder>
+              <mrow>
+                <msubsup>
+                  <mtext>Fe</mtext>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>3</mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mspace width="0pt" height="0pt" depth=".2em" />
+                  </mrow>
+                </msubsup>
+                <msubsup>
+                  <mtext>O</mtext>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>4</mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mspace width="0pt" height="0pt" depth=".2em" />
+                  </mrow>
+                </msubsup>
+              </mrow>
+              <mtext>magnetite</mtext>
+            </munder>
+          </mrow>
+          <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <munder>
+              <msubsup>
+                <mtext>H</mtext>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mspace width="0pt" height="0pt" depth=".2em" />
+                </mrow>
+              </msubsup>
+              <mtext>hydrogen</mtext>
+            </munder>
+          </mrow>
+          <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <munder>
+              <mrow>
+                <mn>2</mn>
+                <mspace width="thinmathspace" />
+                <msubsup>
+                  <mtext>H</mtext>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mspace width="0pt" height="0pt" depth=".2em" />
+                  </mrow>
+                </msubsup>
+                <mtext>O</mtext>
+              </mrow>
+              <mtext>water</mtext>
+            </munder>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {{\underset {ferrous\ hydroxide}{3Fe(OH)2}}-&gt;{\underset {magnetite}{Fe3O4}}+{\underset {hydrogen}{H2}}+{\underset {water}{2H2O}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74ddc48cf11a6124ff465559c33c1e213025f741" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:43.303ex; height:5.009ex;" alt="{\displaystyle {\ce {{\underset {ferrous\ hydroxide}{3Fe(OH)2}}-&gt;{\underset {magnetite}{Fe3O4}}+{\underset {hydrogen}{H2}}+{\underset {water}{2H2O}}}}}"/></span></dd></dl>
+<p>The well-crystallized magnetite (Fe<sub>3</sub>O<sub>4</sub>) is thermodynamically more stable than the ferrous hydroxide (Fe(OH)<sub>2</sub> ).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Magnetite can be prepared in the laboratory as a <a href="/wiki/Ferrofluid" title="Ferrofluid">ferrofluid</a> in the <a href="/w/index.php?title=Massart_method&amp;action=edit&amp;redlink=1" class="new" title="Massart method (page does not exist)">Massart method</a> by mixing <a href="/wiki/Iron(II)_chloride" title="Iron(II) chloride">iron(II) chloride</a> and <a href="/wiki/Iron(III)_chloride" title="Iron(III) chloride">iron(III) chloride</a> in the presence of <a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">sodium hydroxide</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Magnetite can also be prepared by the chemical co-precipitation in presence of ammonia, which consist in a mixture of a solution 0.1 M of FeCl<sub>3</sub>·6H<sub>2</sub>O and FeCl<sub>2</sub>·4H<sub>2</sub>O with mechanic agitation of about 2000 rpm. The molar ratio of FeCl<sub>3</sub>:FeCl<sub>2</sub> can be 2:1; heating this solution at 70&#160;°C, and immediately the speed is elevated to 7500 rpm and adding quickly a solution of NH<sub>4</sub>OH (10 volume&#160;%), immediately a dark precipitate will be formed, which consists of nanoparticles of magnetite.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> In both cases, the precipitation reaction rely on a quick transformation of acidic hydrolyzed iron ions into the spinel iron oxide structure, by hydrolysis at elevated pH values (above ca. 10).
+</p><p>Considerable efforts has been devoted towards controlling the particle formation process of magnetite nanoparticles due to the challenging and complex chemistry reactions involved in the phase transformations prior to the formation of the magnetite spinel structure.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Magnetite particles are of interests in bioscience applications such as in <a href="/wiki/Magnetic_resonance_imaging" title="Magnetic resonance imaging">magnetic resonance imaging</a> (MRI) since iron oxide magnetite nanoparticles represent a non-toxic alternative to currently employed gadolinium-based <a href="/wiki/Contrast_agents" class="mw-redirect" title="Contrast agents">contrast agents</a>. However, due to lack of control over the specific transformations involved in the formation of the particles, truly superparamagnetic particles have not yet been prepared from magnetite, i.e. magnetite nanoparticles that completely lose their permanent magnetic characteristic in the absence of an external magnetic field (which by definition show a coercivity of 0 A/m). The smallest values currently reported for nanosized magnetite particles is <i>Hc</i> = 8.5 A m<sup>−1</sup>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> whereas the largest reported magnetization value is 87 Am<sup>2</sup> kg<sup>−1</sup> for synthetic magnetite.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Pigment quality Fe<sub>3</sub>O<sub>4</sub>, so called synthetic magnetite, can be prepared using processes that use industrial wastes, scrap iron or solutions containing iron salts (e.g. those produced as by-products in industrial processes such as the acid vat treatment (<a href="/wiki/Pickling_(metal)" title="Pickling (metal)">pickling</a>) of steel):
+</p>
+<ul><li>Oxidation of Fe metal in the Laux process where <a href="/wiki/Nitrobenzene" title="Nitrobenzene">nitrobenzene</a> is treated with iron metal using FeCl<sub>2</sub> as a catalyst to produce <a href="/wiki/Aniline" title="Aniline">aniline</a>:<sup id="cite_ref-Cornell_4-1" class="reference"><a href="#cite_note-Cornell-4">&#91;4&#93;</a></sup></li></ul>
+<dl><dd>C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + 3 Fe + 2 H<sub>2</sub>O   →   C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> + Fe<sub>3</sub>O<sub>4</sub></dd></dl>
+<ul><li>Oxidation of Fe<sup>II</sup> compounds, e.g. the precipitation of iron(II) salts as hydroxides followed by oxidation by aeration where careful control of the pH determines the oxide produced.<sup id="cite_ref-Cornell_4-2" class="reference"><a href="#cite_note-Cornell-4">&#91;4&#93;</a></sup></li></ul>
+<p>Reduction of Fe<sub>2</sub>O<sub>3</sub> with hydrogen:<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<dl><dd>3Fe<sub>2</sub>O<sub>3</sub> + H<sub>2</sub> → 2Fe<sub>3</sub>O<sub>4</sub> +H<sub>2</sub>O</dd></dl>
+<p>Reduction of Fe<sub>2</sub>O<sub>3</sub> with CO:<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<dl><dd>3Fe<sub>2</sub>O<sub>3</sub> + CO → 2Fe<sub>3</sub>O<sub>4</sub> + CO<sub>2</sub></dd></dl>
+<p>Production of nano-particles can be performed chemically by taking for example mixtures of Fe<sup>II</sup> and Fe<sup>III</sup> salts and mixing them with alkali to precipitate colloidal Fe<sub>3</sub>O<sub>4</sub>. The reaction conditions are critical to the process and determine the particle size.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reactions">Reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit&amp;section=2" title="Edit section: Reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reduction of magnetite ore by <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a> in a <a href="/wiki/Blast_furnace" title="Blast furnace">blast furnace</a> is used to produce iron as part of steel production process:<sup id="cite_ref-Greenwood_3-1" class="reference"><a href="#cite_note-Greenwood-3">&#91;3&#93;</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\ce {{Fe3O4}+ 4CO -&gt; {3Fe}+ 4CO2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msubsup>
+              <mtext>Fe</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>3</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+            <msubsup>
+              <mtext>O</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>4</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+          </mrow>
+          <mo>+</mo>
+          <mn>4</mn>
+          <mspace width="thinmathspace" />
+          <mtext>CO</mtext>
+          <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+            <mspace width="thinmathspace" />
+            <mtext>Fe</mtext>
+          </mrow>
+          <mo>+</mo>
+          <mn>4</mn>
+          <mspace width="thinmathspace" />
+          <msubsup>
+            <mtext>CO</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {{Fe3O4}+ 4CO -&gt; {3Fe}+ 4CO2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5114f1c0915c4871a373928770d4d99ca81f19a4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:32.469ex; height:2.843ex;" alt="{\displaystyle {\ce {{Fe3O4}+ 4CO -&gt; {3Fe}+ 4CO2}}}"/></span></dd></dl>
+<p>Controlled oxidation of Fe<sub>3</sub>O<sub>4</sub> is used to produce brown pigment quality <a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">γ-Fe<sub>2</sub>O<sub>3</sub></a> (<a href="/wiki/Maghemite" title="Maghemite">maghemite</a>):<sup id="cite_ref-Buxbaum_16-0" class="reference"><a href="#cite_note-Buxbaum-16">&#91;16&#93;</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\ce {\underbrace{2Fe3O4}_{magnetite}+ {1/2O2}-&gt;}}\ {\color {Brown}{\ce {\underbrace{3(\lambda-Fe2O3)}_{maghemite}}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <munderover>
+            <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+              <munder>
+                <mrow>
+                  <mn>2</mn>
+                  <mspace width="thinmathspace" />
+                  <msubsup>
+                    <mtext>Fe</mtext>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>3</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mspace width="0pt" height="0pt" depth=".2em" />
+                    </mrow>
+                  </msubsup>
+                  <msubsup>
+                    <mtext>O</mtext>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>4</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mspace width="0pt" height="0pt" depth=".2em" />
+                    </mrow>
+                  </msubsup>
+                </mrow>
+                <mo>&#x23DF;<!-- ⏟ --></mo>
+              </munder>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>magnetite</mtext>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </munderover>
+          <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="false" scriptlevel="0">
+              <mfrac>
+                <mn>1</mn>
+                <mn>2</mn>
+              </mfrac>
+            </mstyle>
+            <msubsup>
+              <mtext>O</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+          </mrow>
+          <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle mathcolor="#792500">
+            <mrow class="MJX-TeXAtom-ORD">
+              <munderover>
+                <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                  <munder>
+                    <mrow>
+                      <mn>3</mn>
+                      <mspace width="thinmathspace" />
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mo stretchy="false">(</mo>
+                        <mi>&#x03BB;<!-- λ --></mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mo>&#x2212;<!-- − --></mo>
+                        </mrow>
+                        <msubsup>
+                          <mtext>Fe</mtext>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>2</mn>
+                          </mrow>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mspace width="0pt" height="0pt" depth=".2em" />
+                          </mrow>
+                        </msubsup>
+                        <msubsup>
+                          <mtext>O</mtext>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>3</mn>
+                          </mrow>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mspace width="0pt" height="0pt" depth=".2em" />
+                          </mrow>
+                        </msubsup>
+                        <mo stretchy="false">)</mo>
+                      </mrow>
+                    </mrow>
+                    <mo>&#x23DF;<!-- ⏟ --></mo>
+                  </munder>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>maghemite</mtext>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mspace width="0pt" height="0pt" depth=".2em" />
+                </mrow>
+              </munderover>
+            </mrow>
+          </mstyle>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {\underbrace{2Fe3O4}_{magnetite}+ {1/2O2}-&gt;}}\ {\color {Brown}{\ce {\underbrace{3(\lambda-Fe2O3)}_{maghemite}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3eab5f660c251496ec0776729fdd64ab141dfdd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.838ex; margin-right: -0.028ex; width:33.426ex; height:7.843ex;" alt="{\displaystyle {\ce {\underbrace{2Fe3O4}_{magnetite}+ {1/2O2}-&gt;}}\ {\color {Brown}{\ce {\underbrace{3(\lambda-Fe2O3)}_{maghemite}}}}}"/></span></dd></dl>
+<p>More vigorous calcining (roasting in air) gives red pigment quality <a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">α-Fe<sub>2</sub>O<sub>3</sub></a> (<a href="/wiki/Hematite" title="Hematite">hematite</a>):<sup id="cite_ref-Buxbaum_16-1" class="reference"><a href="#cite_note-Buxbaum-16">&#91;16&#93;</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\ce {\underbrace{2Fe3O4}_{magnetite}+ {1/2O2}-&gt;}}\ {\color {BrickRed}{\ce {\underbrace{3(\alpha-Fe2O3)}_{hematite}}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <munderover>
+            <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+              <munder>
+                <mrow>
+                  <mn>2</mn>
+                  <mspace width="thinmathspace" />
+                  <msubsup>
+                    <mtext>Fe</mtext>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>3</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mspace width="0pt" height="0pt" depth=".2em" />
+                    </mrow>
+                  </msubsup>
+                  <msubsup>
+                    <mtext>O</mtext>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>4</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mspace width="0pt" height="0pt" depth=".2em" />
+                    </mrow>
+                  </msubsup>
+                </mrow>
+                <mo>&#x23DF;<!-- ⏟ --></mo>
+              </munder>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>magnetite</mtext>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </munderover>
+          <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="false" scriptlevel="0">
+              <mfrac>
+                <mn>1</mn>
+                <mn>2</mn>
+              </mfrac>
+            </mstyle>
+            <msubsup>
+              <mtext>O</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mspace width="0pt" height="0pt" depth=".2em" />
+              </mrow>
+            </msubsup>
+          </mrow>
+          <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle mathcolor="#B6321C">
+            <mrow class="MJX-TeXAtom-ORD">
+              <munderover>
+                <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                  <munder>
+                    <mrow>
+                      <mn>3</mn>
+                      <mspace width="thinmathspace" />
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mo stretchy="false">(</mo>
+                        <mi>&#x03B1;<!-- α --></mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mo>&#x2212;<!-- − --></mo>
+                        </mrow>
+                        <msubsup>
+                          <mtext>Fe</mtext>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>2</mn>
+                          </mrow>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mspace width="0pt" height="0pt" depth=".2em" />
+                          </mrow>
+                        </msubsup>
+                        <msubsup>
+                          <mtext>O</mtext>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>3</mn>
+                          </mrow>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mspace width="0pt" height="0pt" depth=".2em" />
+                          </mrow>
+                        </msubsup>
+                        <mo stretchy="false">)</mo>
+                      </mrow>
+                    </mrow>
+                    <mo>&#x23DF;<!-- ⏟ --></mo>
+                  </munder>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>hematite</mtext>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mspace width="0pt" height="0pt" depth=".2em" />
+                </mrow>
+              </munderover>
+            </mrow>
+          </mstyle>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {\underbrace{2Fe3O4}_{magnetite}+ {1/2O2}-&gt;}}\ {\color {BrickRed}{\ce {\underbrace{3(\alpha-Fe2O3)}_{hematite}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb560901dedf21ca3cca8533aad4248d552634a9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.838ex; margin-right: -0.028ex; width:33.558ex; height:7.843ex;" alt="{\displaystyle {\ce {\underbrace{2Fe3O4}_{magnetite}+ {1/2O2}-&gt;}}\ {\color {BrickRed}{\ce {\underbrace{3(\alpha-Fe2O3)}_{hematite}}}}}"/></span></dd></dl>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit&amp;section=3" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fe<sub>3</sub>O<sub>4</sub> has a cubic inverse <a href="/wiki/Spinel_group" title="Spinel group">spinel group</a> structure which consists of a cubic close packed array of oxide ions where all of the Fe<sup>2+</sup> ions occupy half of the octahedral sites and the Fe<sup>3+</sup> are split evenly across the remaining octahedral sites and the tetrahedral sites.
+</p><p>Both <a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">FeO</a> and <a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">γ-Fe<sub>2</sub>O<sub>3</sub></a> have a similar cubic close packed array of oxide ions and this accounts for the ready interchangeability between the three compounds on oxidation and reduction as these reactions entail a relatively small change to the overall structure.<sup id="cite_ref-Greenwood_3-2" class="reference"><a href="#cite_note-Greenwood-3">&#91;3&#93;</a></sup> Fe<sub>3</sub>O<sub>4</sub> samples can be <a href="/wiki/Non-stoichiometric" class="mw-redirect" title="Non-stoichiometric">non-stoichiometric</a>.<sup id="cite_ref-Greenwood_3-3" class="reference"><a href="#cite_note-Greenwood-3">&#91;3&#93;</a></sup>
+</p><p>The <a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">ferrimagnetism</a> of Fe<sub>3</sub>O<sub>4</sub> arises because the electron spins of the Fe<sup>II</sup> and Fe<sup>III</sup> ions in the octahedral sites are coupled and the spins of the Fe<sup>III</sup> ions in the tetrahedral sites are coupled but anti-parallel to the former. The net effect is that the magnetic contributions of both sets are not balanced and there is a permanent magnetism.<sup id="cite_ref-Greenwood_3-4" class="reference"><a href="#cite_note-Greenwood-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit&amp;section=4" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Magnetite.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Magnetite.jpg/240px-Magnetite.jpg" width="240" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Magnetite.jpg/360px-Magnetite.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Magnetite.jpg/480px-Magnetite.jpg 2x" data-file-width="5977" data-file-height="3953" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Magnetite.jpg" class="internal" title="Enlarge"></a></div>Sample of <a href="/wiki/Magnetite" title="Magnetite">magnetite</a>, naturally occurring Fe<sub>3</sub>O<sub>4</sub>.</div></div></div>
+<p>Fe<sub>3</sub>O<sub>4</sub> is <a href="/wiki/Ferrimagnetic" class="mw-redirect" title="Ferrimagnetic">ferrimagnetic</a> with a <a href="/wiki/Curie_point" class="mw-redirect" title="Curie point">Curie temperature</a> of 858 K. There is a phase transition at 120K, the so-called <a href="/wiki/Verwey_transition" title="Verwey transition">Verwey transition</a> where there is a discontinuity in the structure, conductivity and magnetic properties.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> This effect has been extensively investigated and whilst various explanations have been proposed, it does not appear to be fully understood.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Fe<sub>3</sub>O<sub>4</sub> is an electrical conductor with a conductivity significantly higher (X 10<sup>6</sup>) than <a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Fe<sub>2</sub>O<sub>3</sub></a>, and this is ascribed to electron exchange between the Fe<sup>II</sup> and Fe<sup>III</sup> centres.<sup id="cite_ref-Greenwood_3-5" class="reference"><a href="#cite_note-Greenwood-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit&amp;section=5" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fe<sub>3</sub>O<sub>4</sub> is used as a black pigment and is known as <i>C.I pigment black 11</i> (C.I. No.77499) or <a href="/wiki/Mars_Black_(pigment)" title="Mars Black (pigment)">Mars Black</a>.<sup id="cite_ref-Buxbaum_16-2" class="reference"><a href="#cite_note-Buxbaum-16">&#91;16&#93;</a></sup>
+</p><p>Fe<sub>3</sub>O<sub>4</sub> is used as a catalyst in the <a href="/wiki/Haber_process" title="Haber process">Haber process</a> and in the <a href="/wiki/Water_gas_shift_reaction" class="mw-redirect" title="Water gas shift reaction">water gas shift reaction</a>.<sup id="cite_ref-Lee_19-0" class="reference"><a href="#cite_note-Lee-19">&#91;19&#93;</a></sup> The latter uses an HTS (high temperature shift catalyst) of iron oxide stabilised by chromium oxide.<sup id="cite_ref-Lee_19-1" class="reference"><a href="#cite_note-Lee-19">&#91;19&#93;</a></sup> This iron-chrome catalyst is reduced at reactor start up to generate Fe<sub>3</sub>O<sub>4</sub> from α-Fe<sub>2</sub>O<sub>3</sub>  and Cr<sub>2</sub>O<sub>3</sub> to CrO<sub>3</sub>.<sup id="cite_ref-Lee_19-2" class="reference"><a href="#cite_note-Lee-19">&#91;19&#93;</a></sup>
+</p><p>Nano particles of Fe<sub>3</sub>O<sub>4</sub> are used as contrast agents in <a href="/wiki/Magnetic_resonance_imaging" title="Magnetic resonance imaging">MRI scanning</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>Ferumoxytol, also known as Feraheme and Rienso,<sup id="cite_ref-amagpr2014_21-0" class="reference"><a href="#cite_note-amagpr2014-21">&#91;21&#93;</a></sup> is an intravenous Fe<sub>3</sub>O<sub>4</sub> preparation for treatment of <a href="/wiki/Anemia" title="Anemia">anemia</a> resulting from <a href="/wiki/Chronic_kidney_disease" title="Chronic kidney disease">chronic kidney disease</a>.<sup id="cite_ref-schwenk2010_22-0" class="reference"><a href="#cite_note-schwenk2010-22">&#91;22&#93;</a></sup>  Ferumoxytol is manufactured and globally distributed by <a href="/wiki/AMAG_Pharmaceuticals" title="AMAG Pharmaceuticals">AMAG Pharmaceuticals</a>.<sup id="cite_ref-amagpr2014_21-1" class="reference"><a href="#cite_note-amagpr2014-21">&#91;21&#93;</a></sup>
+</p><p>Along with <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> and <a href="/wiki/Aluminium" title="Aluminium">aluminium</a>, it is an ingredient in a specific type of <a href="/wiki/Thermite" title="Thermite">thermite</a> useful for cutting steel.
+</p><p><a href="/wiki/Bluing_(steel)" title="Bluing (steel)">Bluing</a> is a <a href="/wiki/Passivation_(chemistry)" title="Passivation (chemistry)">passivation</a> process that produces a layer of Fe<sub>3</sub>O<sub>4</sub> on the surface of steel to protect it from rust.
+</p>
+<h2><span class="mw-headline" id="Biological_occurrence">Biological occurrence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit&amp;section=6" title="Edit section: Biological occurrence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Magnetite has been found as nano-crystals in <a href="/wiki/Magnetotactic_bacteria" title="Magnetotactic bacteria">magnetotactic bacteria</a> (42-45&#160;nm)<sup id="cite_ref-Cornell_4-3" class="reference"><a href="#cite_note-Cornell-4">&#91;4&#93;</a></sup> and in homing pigeon beak tissue<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://preserve.lehigh.edu/cgi/viewcontent.cgi?article=1002&amp;context=cas-lehighreview-vol-15">Magnetite (Fe3O4): Properties, Synthesis, and Applications</a> Lee Blaney, Lehigh Review 15, 33-81 (2007). See Appendix A, p.77</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Pradyot Patnaik. <i>Handbook of Inorganic Chemicals</i>. McGraw-Hill, 2002, <style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-049439-8" title="Special:BookSources/0-07-049439-8">0-07-049439-8</a></span>
+</li>
+<li id="cite_note-Greenwood-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Greenwood_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Greenwood_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Greenwood_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Greenwood_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Greenwood_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Greenwood_3-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Norman_Greenwood" title="Norman Greenwood">Greenwood, Norman  N.</a>; Earnshaw, Alan (1997). <i>Chemistry of the Elements</i> (2nd ed.). <a href="/wiki/Butterworth-Heinemann" title="Butterworth-Heinemann">Butterworth-Heinemann</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-08-037941-9" title="Special:BookSources/0-08-037941-9">0-08-037941-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemistry+of+the+Elements&amp;rft.edition=2nd&amp;rft.pub=Butterworth-Heinemann&amp;rft.date=1997&amp;rft.isbn=0-08-037941-9&amp;rft.aulast=Greenwood&amp;rft.aufirst=Norman++N.&amp;rft.au=Earnshaw%2C+Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Cornell-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cornell_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cornell_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cornell_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Cornell_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Rochelle M. Cornell, Udo Schwertmann 2007 <i>The Iron Oxides: Structure, Properties, Reactions, Occurrences and Uses</i> Wiley-VCH <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-527-60644-0" title="Special:BookSources/3-527-60644-0">3-527-60644-0</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ma, Ming; Zhang, Yu; Guo, Zhirui; Gu, Ning (2013). "Facile synthesis of ultrathin magnetic iron oxide nanoplates by Schikorr reaction". <i>Nanoscale Research Letters</i>. <b>8</b> (1): 16. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1186%2F1556-276X-8-16">10.1186/1556-276X-8-16</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nanoscale+Research+Letters&amp;rft.atitle=Facile+synthesis+of+ultrathin+magnetic+iron+oxide+nanoplates+by+Schikorr+reaction&amp;rft.volume=8&amp;rft.issue=1&amp;rft.pages=16&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1186%2F1556-276X-8-16&amp;rft.aulast=Ma&amp;rft.aufirst=Ming&amp;rft.au=Zhang%2C+Yu&amp;rft.au=Guo%2C+Zhirui&amp;rft.au=Gu%2C+Ning&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Massart, R. (1981). "Preparation of aqueous magnetic liquids in alkaline and acidic media". <i>IEEE Transactions on Magnetics</i>. <b>17</b> (2): 1247–1248. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FTMAG.1981.1061188">10.1109/TMAG.1981.1061188</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Magnetics&amp;rft.atitle=Preparation+of+aqueous+magnetic+liquids+in+alkaline+and+acidic+media&amp;rft.volume=17&amp;rft.issue=2&amp;rft.pages=1247-1248&amp;rft.date=1981&amp;rft_id=info%3Adoi%2F10.1109%2FTMAG.1981.1061188&amp;rft.aulast=Massart&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Keshavarz, Sahar; Xu, Yaolin; Hrdy, Spencer; Lemley, Clay; Mewes, Tim; Bao, Yuping (2010). "Relaxation of Polymer Coated Fe<sub>3</sub>O<sub>4</sub> Magnetic Nanoparticles in Aqueous Solution". <i>IEEE Transactions on Magnetics</i>. <b>46</b> (6): 1541–1543. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FTMAG.2010.2040588">10.1109/TMAG.2010.2040588</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Magnetics&amp;rft.atitle=Relaxation+of+Polymer+Coated+Fe%3Csub%3E3%3C%2Fsub%3EO%3Csub%3E4%3C%2Fsub%3E+Magnetic+Nanoparticles+in+Aqueous+Solution&amp;rft.volume=46&amp;rft.issue=6&amp;rft.pages=1541-1543&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1109%2FTMAG.2010.2040588&amp;rft.aulast=Keshavarz&amp;rft.aufirst=Sahar&amp;rft.au=Xu%2C+Yaolin&amp;rft.au=Hrdy%2C+Spencer&amp;rft.au=Lemley%2C+Clay&amp;rft.au=Mewes%2C+Tim&amp;rft.au=Bao%2C+Yuping&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jolivet, Jean-Pierre; Chanéac, Corinne; Tronc, Elisabeth (2004). "Iron oxide chemistry. From molecular clusters to extended solid networks". <i>Chemical Communications</i> (5): 477–483. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1039%2FB304532N">10.1039/B304532N</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Communications&amp;rft.atitle=Iron+oxide+chemistry.+From+molecular+clusters+to+extended+solid+networks&amp;rft.issue=5&amp;rft.pages=477-483&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1039%2FB304532N&amp;rft.aulast=Jolivet&amp;rft.aufirst=Jean-Pierre&amp;rft.au=Chan%C3%A9ac%2C+Corinne&amp;rft.au=Tronc%2C+Elisabeth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ström, Valter; Olsson, Richard T.; Rao, K. V. (2010). "Real-time monitoring of the evolution of magnetism during precipitation of superparamagnetic nanoparticles for bioscience applications". <i>Journal of Materials Chemistry</i>. <b>20</b> (20): 4168. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1039%2FC0JM00043D">10.1039/C0JM00043D</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Materials+Chemistry&amp;rft.atitle=Real-time+monitoring+of+the+evolution+of+magnetism+during+precipitation+of+superparamagnetic+nanoparticles+for+bioscience+applications&amp;rft.volume=20&amp;rft.issue=20&amp;rft.pages=4168&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1039%2FC0JM00043D&amp;rft.aulast=Str%C3%B6m&amp;rft.aufirst=Valter&amp;rft.au=Olsson%2C+Richard+T.&amp;rft.au=Rao%2C+K.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fang, Mei; Ström, Valter; Olsson, Richard T.; Belova, Lyubov; Rao, K. V. (2011). "Rapid mixing: A route to synthesize magnetite nanoparticles with high moment". <i>Applied Physics Letters</i>. <b>99</b> (22): 222501. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1063%2F1.3662965">10.1063/1.3662965</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.atitle=Rapid+mixing%3A+A+route+to+synthesize+magnetite+nanoparticles+with+high+moment&amp;rft.volume=99&amp;rft.issue=22&amp;rft.pages=222501&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1063%2F1.3662965&amp;rft.aulast=Fang&amp;rft.aufirst=Mei&amp;rft.au=Str%C3%B6m%2C+Valter&amp;rft.au=Olsson%2C+Richard+T.&amp;rft.au=Belova%2C+Lyubov&amp;rft.au=Rao%2C+K.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fang, Mei; Ström, Valter; Olsson, Richard T; Belova, Lyubov; Rao, K. V. (2012). "Particle size and magnetic properties dependence on growth temperature for rapid mixed co-precipitated magnetite nanoparticles". <i>Nanotechnology</i>. <b>23</b> (14): 145601. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1088%2F0957-4484%2F23%2F14%2F145601">10.1088/0957-4484/23/14/145601</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nanotechnology&amp;rft.atitle=Particle+size+and+magnetic+properties+dependence+on+growth+temperature+for+rapid+mixed+co-precipitated+magnetite+nanoparticles&amp;rft.volume=23&amp;rft.issue=14&amp;rft.pages=145601&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1088%2F0957-4484%2F23%2F14%2F145601&amp;rft.aulast=Fang&amp;rft.aufirst=Mei&amp;rft.au=Str%C3%B6m%2C+Valter&amp;rft.au=Olsson%2C+Richard+T&amp;rft.au=Belova%2C+Lyubov&amp;rft.au=Rao%2C+K.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">US patent 2596954, 1947, Process for reduction of iron ore to magnetiteHeath T.D.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. Pineau; N. Kanari; I. Gaballah (2006). "Kinetics of reduction of iron oxides by H2 Part I: Low temperature reduction of hematite". <i><a href="/w/index.php?title=Thermochimica_Acta&amp;action=edit&amp;redlink=1" class="new" title="Thermochimica Acta (page does not exist)">Thermochimica Acta</a></i>. <b>447</b> (1): 89–100. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.tca.2005.10.004">10.1016/j.tca.2005.10.004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Thermochimica+Acta&amp;rft.atitle=Kinetics+of+reduction+of+iron+oxides+by+H2+Part+I%3A+Low+temperature+reduction+of+hematite&amp;rft.volume=447&amp;rft.issue=1&amp;rft.pages=89-100&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.tca.2005.10.004&amp;rft.au=A.+Pineau&amp;rft.au=N.+Kanari&amp;rft.au=I.+Gaballah&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hayes P. C.; Grieveson P. (1981). "The effects of nucleation and growth on the reduction of Fe<sub>2</sub>O<sub>3</sub> to Fe<sub>3</sub>O<sub>4</sub>". <i><a href="/wiki/Metallurgical_and_Materials_Transactions" title="Metallurgical and Materials Transactions">Metallurgical and Materials Transactions</a> B</i>. <b>12</b> (2): 319–326. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2FBF02654465">10.1007/BF02654465</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Metallurgical+and+Materials+Transactions+B&amp;rft.atitle=The+effects+of+nucleation+and+growth+on+the+reduction+of+Fe%3Csub%3E2%3C%2Fsub%3EO%3Csub%3E3%3C%2Fsub%3E+to+Fe%3Csub%3E3%3C%2Fsub%3EO%3Csub%3E4%3C%2Fsub%3E&amp;rft.volume=12&amp;rft.issue=2&amp;rft.pages=319-326&amp;rft.date=1981&amp;rft_id=info%3Adoi%2F10.1007%2FBF02654465&amp;rft.au=Hayes+P.+C.&amp;rft.au=Grieveson+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Arthur T. Hubbard (2002) <i>Encyclopedia of Surface and Colloid Science</i> CRC Press, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8247-0796-6" title="Special:BookSources/0-8247-0796-6">0-8247-0796-6</a></span>
+</li>
+<li id="cite_note-Buxbaum-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Buxbaum_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Buxbaum_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Buxbaum_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Gunter Buxbaum, Gerhard Pfaff (2005) <i>Industrial Inorganic Pigments</i> 3d edition Wiley-VCH <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-527-30363-4" title="Special:BookSources/3-527-30363-4">3-527-30363-4</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Verwey E. J. W. (1939). "Electronic Conduction of Magnetite (Fe<sub>3</sub>O<sub>4</sub>) and its Transition Point at Low Temperatures". <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>144</b> (3642): 327–328 (1939). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2F144327b0">10.1038/144327b0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Electronic+Conduction+of+Magnetite+%28Fe%3Csub%3E3%3C%2Fsub%3EO%3Csub%3E4%3C%2Fsub%3E%29+and+its+Transition+Point+at+Low+Temperatures&amp;rft.volume=144&amp;rft.issue=3642&amp;rft.pages=327-328+%281939%29&amp;rft.date=1939&amp;rft_id=info%3Adoi%2F10.1038%2F144327b0&amp;rft.au=Verwey+E.+J.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Walz, F. (2002). "The Verwey transition - a topical review". <i>Journal of Physics: Condensed Matter</i>. <b>14</b> (12): R285–R340. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1088%2F0953-8984%2F14%2F12%2F203">10.1088/0953-8984/14/12/203</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Physics%3A+Condensed+Matter&amp;rft.atitle=The+Verwey+transition+-+a+topical+review&amp;rft.volume=14&amp;rft.issue=12&amp;rft.pages=R285-R340&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1088%2F0953-8984%2F14%2F12%2F203&amp;rft.aulast=Walz&amp;rft.aufirst=F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Lee-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lee_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lee_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lee_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Sunggyu Lee (2006)  Encyclopedia of Chemical Processing CRC Press <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8247-5563-4" title="Special:BookSources/0-8247-5563-4">0-8247-5563-4</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Babes L; Denizot B; Tanguy G; Le Jeune J.J.; Jallet P. (1999). "Synthesis of Iron Oxide Nanoparticles Used as MRI Contrast Agents: A Parametric Study". <i><a href="/wiki/Journal_of_Colloid_and_Interface_Science" title="Journal of Colloid and Interface Science">Journal of Colloid and Interface Science</a></i>. <b>212</b> (2): 474–482. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1006%2Fjcis.1998.6053">10.1006/jcis.1998.6053</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10092379">10092379</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Colloid+and+Interface+Science&amp;rft.atitle=Synthesis+of+Iron+Oxide+Nanoparticles+Used+as+MRI+Contrast+Agents%3A+A+Parametric+Study&amp;rft.volume=212&amp;rft.issue=2&amp;rft.pages=474-482&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1006%2Fjcis.1998.6053&amp;rft_id=info%3Apmid%2F10092379&amp;rft.au=Babes+L&amp;rft.au=Denizot+B&amp;rft.au=Tanguy+G&amp;rft.au=Le+Jeune+J.J.&amp;rft.au=Jallet+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-amagpr2014-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-amagpr2014_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amagpr2014_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://seekingalpha.com/pr/12076125-amag-pharmaceuticals-and-takeda-announce-mutual-termination-of-agreement-to-license-develop-and-commercialize-ferumoxytol-in-ex-u-s-territories-including-europe">"AMAG Pharmaceuticals and Takeda Announce Mutual Termination of Agreement to License, Develop and Commercialize Ferumoxytol in Ex-U.S. Territories, Including Europe"</a> (Press release). <a href="/wiki/AMAG_Pharmaceuticals" title="AMAG Pharmaceuticals">AMAG Pharmaceuticals</a>. 29 December 2014  &#8211; via <a href="/wiki/Seeking_Alpha" title="Seeking Alpha">Seeking Alpha</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AMAG+Pharmaceuticals+and+Takeda+Announce+Mutual+Termination+of+Agreement+to+License%2C+Develop+and+Commercialize+Ferumoxytol+in+Ex-U.S.+Territories%2C+Including+Europe&amp;rft.pub=AMAG+Pharmaceuticals&amp;rft.date=2014-12-29&amp;rft_id=http%3A%2F%2Fseekingalpha.com%2Fpr%2F12076125-amag-pharmaceuticals-and-takeda-announce-mutual-termination-of-agreement-to-license-develop-and-commercialize-ferumoxytol-in-ex-u-s-territories-including-europe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-schwenk2010-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-schwenk2010_22-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schwenk, Michael H. (2010). <a rel="nofollow" class="external text" href="http://www.medscape.com/viewarticle/715178">"Ferumoxytol: A New Intravenous Iron Preparation for the Treatment of Iron Deficiency Anemia in Patients with Chronic Kidney Disease"</a>. <i><a href="/wiki/Pharmacother." class="mw-redirect" title="Pharmacother.">Pharmacother.</a></i> <b>30</b> (1): 70&amp;ndash, 9  &#8211; via <a href="/wiki/Medscape" title="Medscape">Medscape</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pharmacother.&amp;rft.atitle=Ferumoxytol%3A+A+New+Intravenous+Iron+Preparation+for+the+Treatment+of+Iron+Deficiency+Anemia+in+Patients+with+Chronic+Kidney+Disease&amp;rft.volume=30&amp;rft.issue=1&amp;rft.pages=70%26ndash%2C+9&amp;rft.date=2010&amp;rft.au=Schwenk%2C+Michael+H.&amp;rft_id=http%3A%2F%2Fwww.medscape.com%2Fviewarticle%2F715178&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><span style="font-size:0.95em; font-size:90%; color:#555">(<a href="/wiki/Wikipedia:Verifiability#Access_to_sources" title="Wikipedia:Verifiability">registration required</a>)</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hanzlik M.; Heunemann C.; Holtkamp-Rötzler E.; Winklhofer M.; Petersen N.; Fleissner G (2000). "Superparamagnetic Magnetite in the Upper Beak Tissue of Homing Pigeons". <i><a href="/wiki/BioMetals_(journal)" title="BioMetals (journal)">BioMetals</a></i>. <b>13</b> (4): 325–331. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1023%2FA%3A1009214526685">10.1023/A:1009214526685</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11247039">11247039</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BioMetals&amp;rft.atitle=Superparamagnetic+Magnetite+in+the+Upper+Beak+Tissue+of+Homing+Pigeons&amp;rft.volume=13&amp;rft.issue=4&amp;rft.pages=325-331&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1009214526685&amp;rft_id=info%3Apmid%2F11247039&amp;rft.au=Hanzlik+M.&amp;rft.au=Heunemann+C.&amp;rft.au=Holtkamp-R%C3%B6tzler+E.&amp;rft.au=Winklhofer+M.&amp;rft.au=Petersen+N.&amp;rft.au=Fleissner+G&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIron%28II%2CIII%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Iron_compounds" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Iron_compounds" title="Template:Iron compounds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Iron_compounds" title="Template talk:Iron compounds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Iron_compounds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Iron_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Iron_compounds" title="Category:Iron compounds">Iron compounds</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(-II)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Disodium_tetracarbonylferrate" title="Disodium tetracarbonylferrate">Na<sub>2</sub>Fe(CO)<sub>4</sub></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(0)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iron_pentacarbonyl" title="Iron pentacarbonyl">Fe(CO)<sub>5</sub></a></li>
+<li><a href="/wiki/Diiron_nonacarbonyl" title="Diiron nonacarbonyl">Fe<sub>2</sub>(CO)<sub>9</sub></a></li>
+<li><a href="/wiki/Triiron_dodecacarbonyl" title="Triiron dodecacarbonyl">Fe<sub>3</sub>(CO)<sub>12</sub></a></li>
+<li><a href="/wiki/(Benzylideneacetone)iron_tricarbonyl" title="(Benzylideneacetone)iron tricarbonyl">Fe(CO)<sub>3</sub>CH<sub>3</sub>COC<sub>2</sub>H<sub>2</sub>C<sub>6</sub>H<sub>6</sub></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(I)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iron(I)_hydride" title="Iron(I) hydride">FeH</a></li></ul></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Organoiron(I)_compounds" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Organoiron_chemistry" title="Organoiron chemistry">Organoiron</a>(I) compounds</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Cyclopentadienyliron_dicarbonyl_dimer" title="Cyclopentadienyliron dicarbonyl dimer">(C<sub>5</sub>H<sub>5</sub>FeCO)<sub>2</sub>(CO)<sub>2</sub></a></li>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(0,II)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iron_carbide" class="mw-redirect" title="Iron carbide">Fe<sub>3</sub>C</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(II)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iron(II)_bromide" title="Iron(II) bromide">FeBr<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_chloride" title="Iron(II) chloride">FeCl<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_fluoride" title="Iron(II) fluoride">FeF<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_iodide" title="Iron(II) iodide">FeI<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_hydride" title="Iron(II) hydride">FeH<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_molybdate" title="Iron(II) molybdate">FeMoO<sub>4</sub></a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">FeO</a></li>
+<li><a href="/wiki/Iron(II)_hydroxide" title="Iron(II) hydroxide">Fe(OH)<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_sulfide" title="Iron(II) sulfide">FeS</a></li>
+<li><a href="/wiki/Iron(II)_sulfate" title="Iron(II) sulfate">FeSO<sub>4</sub></a></li>
+<li><a href="/wiki/Iron(II)_selenide" title="Iron(II) selenide">FeSe</a></li>
+<li><a href="/wiki/Iron(II)_selenate" title="Iron(II) selenate">FeSeO<sub>4</sub></a></li>
+<li><a href="/w/index.php?title=Iron_disilicide&amp;action=edit&amp;redlink=1" class="new" title="Iron disilicide (page does not exist)">FeSi<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_titanate" class="mw-redirect" title="Iron(II) titanate">FeTiO<sub>3</sub></a></li>
+<li><a href="/wiki/Siderite" title="Siderite">FeCO<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(II)_oxalate" title="Iron(II) oxalate">FeC<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Iron(II)_acetate" title="Iron(II) acetate">Fe(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_lactate" title="Iron(II) lactate">Fe(C<sub>3</sub>H<sub>5</sub>O<sub>3</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Iron(II)_citrate" title="Iron(II) citrate">FeC<sub>6</sub>H<sub>6</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Iron(II)_gluconate" title="Iron(II) gluconate">FeC<sub>12</sub>H<sub>22</sub>O<sub>14</sub></a></li>
+<li><a href="/wiki/Iron(II)_chromite" title="Iron(II) chromite">Fe<sub>2</sub>CrO<sub>4</sub></a></li>
+<li><a href="/wiki/Iron(II)_phosphate" title="Iron(II) phosphate">Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Iron_tetracarbonyl_hydride" title="Iron tetracarbonyl hydride">FeH<sub>2</sub>(CO)<sub>4</sub></a></li>
+<li><a href="/w/index.php?title=Iron(II)_bicarbonate&amp;action=edit&amp;redlink=1" class="new" title="Iron(II) bicarbonate (page does not exist)">Fe(HCO<sub>3</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Magnesium_iron_hexahydride" title="Magnesium iron hexahydride">Mg<sub>2</sub>FeH<sub>6</sub></a></li></ul></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Organoiron(II)_compounds" scope="row" class="navbox-group" style="width:1%">Organoiron(II) compounds</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Ferrocene" title="Ferrocene">Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/1,1%27-Bis(diphenylphosphino)ferrocene" title="1,1&#39;-Bis(diphenylphosphino)ferrocene">Fe(C<sub>5</sub>H<sub>4</sub>P(C<sub>6</sub>H<sub>5</sub>)<sub>2</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Cyclobutadieneiron_tricarbonyl" title="Cyclobutadieneiron tricarbonyl">C<sub>4</sub>H<sub>4</sub>Fe(CO)<sub>3</sub></a></li>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(0,III)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iron_phosphide" title="Iron phosphide">Fe<sub>3</sub>P</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(II,III)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Fe<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Iron(II,III)_sulfide" title="Iron(II,III) sulfide">Fe<sub>3</sub>S<sub>4</sub></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(III)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iron(III)_bromide" title="Iron(III) bromide">FeBr<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(III)_chloride" title="Iron(III) chloride">FeCl<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(III)_fluoride" title="Iron(III) fluoride">FeF<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Iron(III)_iodide&amp;action=edit&amp;redlink=1" class="new" title="Iron(III) iodide (page does not exist)">FeI<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(III)_nitrate" title="Iron(III) nitrate">Fe(NO<sub>3</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Tris(acetylacetonato)iron(III)" title="Tris(acetylacetonato)iron(III)">Fe(acac)<sub>3</sub></a></li>
+<li><a href="/wiki/Iron_oxychloride" title="Iron oxychloride">FeOCl</a></li>
+<li><a href="/wiki/Iron(III)_oxide-hydroxide" title="Iron(III) oxide-hydroxide">FeO(OH)</a></li>
+<li><a href="/wiki/Iron(III)_phosphate" title="Iron(III) phosphate">FePO<sub>4</sub></a></li>
+<li><a href="/wiki/Iron(III)_pyrophosphate" title="Iron(III) pyrophosphate">Fe<sub>4</sub>(P<sub>2</sub>O<sub>7</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(III)_chromate" title="Iron(III) chromate">Fe<sub>2</sub>(CrO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Ferric_oxalate" title="Ferric oxalate">Fe<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Fe<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(III)_sulfide" title="Iron(III) sulfide">Fe<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(III)_sulfate" title="Iron(III) sulfate">Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Iron(III)_borite&amp;action=edit&amp;redlink=1" class="new" title="Iron(III) borite (page does not exist)">FeBO<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Iron_monoboride&amp;action=edit&amp;redlink=1" class="new" title="Iron monoboride (page does not exist)">FeB</a></li></ul></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Organoiron(III)_compounds" scope="row" class="navbox-group" style="width:1%">Organoiron(III) compounds</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Ferrocenium_tetrafluoroborate" title="Ferrocenium tetrafluoroborate">Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>BF<sub>4</sub></a></li>
+<li><a href="/wiki/Ammonium_ferric_citrate" title="Ammonium ferric citrate">C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>⋅xFe<sup>3+</sup>⋅yNH<sub>3</sub></a></li>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fe(VI)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Potassium_ferrate" title="Potassium ferrate">K<sub>2</sub>FeO<sub>4</sub></a></li>
+<li><a href="/wiki/Barium_ferrate" title="Barium ferrate">BaFeO<sub>4</sub></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxides" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a class="mw-selflink selflink">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Hafnium(IV)_oxide" class="mw-redirect" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tin_dioxide" class="mw-redirect" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxygen_compounds" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxygen_compounds" title="Template:Oxygen compounds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxygen_compounds" title="Template talk:Oxygen compounds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxygen_compounds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxygen_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> compounds</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Silver(II)_oxide" class="mw-redirect" title="Silver(II) oxide">AgO</a></li>
+<li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Al<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Americium_dioxide" title="Americium dioxide">AmO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Americium(III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Americium(III) oxide (page does not exist)">Am<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">As<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">As<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Gold(III)_oxide" title="Gold(III) oxide">Au<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">B<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">BaO</a></li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">BeO</a></li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bi<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Bismuth_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Bismuth tetroxide (page does not exist)">BiO<sub>2</sub></a></li>
+<li><a href="/wiki/Bismuth_pentoxide" title="Bismuth pentoxide">Bi<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Bromine_dioxide" title="Bromine dioxide">BrO<sub>2</sub></a></li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Br<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Dibromine_pentoxide" title="Dibromine pentoxide">Br<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">C<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">CaO</a></li>
+<li><a href="/wiki/Calcium_peroxide" title="Calcium peroxide">CaO<sub>2</sub></a></li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">CdO</a></li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">CeO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Cerium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Cerium(III,IV) oxide (page does not exist)">Ce<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Ce<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">ClO<sub>2</sub></a></li>
+<li><a href="/wiki/Chlorine_monoxide" title="Chlorine monoxide">Cl<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dichlorine_trioxide" title="Dichlorine trioxide">Cl<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_perchlorate" title="Chlorine perchlorate">Cl<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Dichlorine_hexoxide" title="Dichlorine hexoxide">Cl<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Cl<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">CoO</a></li>
+<li><a href="/wiki/Cobalt(III)_oxide" title="Cobalt(III) oxide">Co<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Co<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">CrO<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Cr<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Cr<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/w/index.php?title=Chromic_chromate&amp;action=edit&amp;redlink=1" class="new" title="Chromic chromate (page does not exist)">Cr<sub>5</sub>O<sub>12</sub></a></li>
+<li><a href="/w/index.php?title=Cesium_superoxide&amp;action=edit&amp;redlink=1" class="new" title="Cesium superoxide (page does not exist)">CsO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Cesium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Cesium trioxide (page does not exist)">Cs<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">CuO</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">D<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dy<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Er<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Eu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Oxygen_difluoride" title="Oxygen difluoride"><span class="chemf nowrap">OF<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Dioxygen_difluoride" title="Dioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Trioxygen_difluoride" class="mw-redirect" title="Trioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/w/index.php?title=Fluorine_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Fluorine tetroxide (page does not exist)"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">FeO</a></li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Fe<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="mw-selflink selflink">Fe<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Ga<sub>2</sub>O</a></li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Ga<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">GeO</a></li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">GeO<sub>2</sub></a></li>
+<li><a href="/wiki/Water" title="Water">H<sub>2</sub>O</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">H<sub>2</sub><sup>18</sup>O</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Hafnium_oxide" class="mw-redirect" title="Hafnium oxide">HfO<sub>2</sub></a></li>
+<li><a href="/wiki/Mercuric_oxide" class="mw-redirect" title="Mercuric oxide">HgO</a></li>
+<li><a href="/wiki/Mercury(I)_oxide" title="Mercury(I) oxide">Hg<sub>2</sub>O</a></li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Ho<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine tetroxide (page does not exist)">I<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Iodine_pentoxide" title="Iodine pentoxide">I<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_hexoxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine hexoxide (page does not exist)">I<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_nonaoxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine nonaoxide (page does not exist)">I<sub>4</sub>O<sub>9</sub></a></li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">In<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iridium(IV)_oxide" title="Iridium(IV) oxide">IrO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_superoxide" title="Potassium superoxide">KO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_peroxide" title="Potassium peroxide">K<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">La<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Li<sub>2</sub>O</a></li>
+<li><a href="/wiki/Lithium_peroxide" title="Lithium peroxide">Li<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">MgO</a></li>
+<li><a href="/wiki/Magnesium_peroxide" title="Magnesium peroxide">Mg<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">MnO</a></li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">MnO<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Mn<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Mn<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Molybdenum_dioxide" title="Molybdenum dioxide">MoO<sub>2</sub></a></li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">MoO<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Molybdenum(III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Molybdenum(III) oxide (page does not exist)">Mo<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">NO</a></li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">NO<sub>2</sub></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<sub>2</sub>O</a></li>
+<li><a href="/wiki/Nitrogen_trioxide" class="mw-redirect" title="Nitrogen trioxide">N<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitrogen_tetroxide" class="mw-redirect" title="Nitrogen tetroxide">N<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Nitrogen_pentoxide" class="mw-redirect" title="Nitrogen pentoxide">N<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Sodium_superoxide" title="Sodium superoxide">NaO<sub>2</sub></a></li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Na<sub>2</sub>O</a></li>
+<li><a href="/wiki/Sodium_peroxide" title="Sodium peroxide">Na<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Niobium_monoxide" title="Niobium monoxide">NbO</a></li>
+<li><a href="/wiki/Niobium_dioxide" title="Niobium dioxide">NbO<sub>2</sub></a></li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Nd<sub>2</sub>O<sub>3</sub></a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formulas</a></b></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20181013012515
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.768 seconds
+Real time usage: 0.980 seconds
+Preprocessor visited node count: 7676/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 224136/2097152 bytes
+Template argument size: 21693/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 59882/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.261/10.000 seconds
+Lua memory usage: 7.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  708.654      1 -total
+ 58.12%  411.873      1 Template:Chembox
+ 34.86%  247.055      1 Template:Chembox_Identifiers
+ 31.69%  224.596      1 Template:Reflist
+ 22.44%  159.030      4 Template:Chembox_headerbar
+ 22.22%  157.477     22 Template:Trim
+ 14.33%  101.526     13 Template:Main_other
+ 12.84%   90.986     14 Template:Cite_journal
+ 12.66%   89.689      1 Template:Chembox_parametercheck
+ 10.35%   73.378      1 Template:Chembox_Properties
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1309936-0!canonical!math=5 and timestamp 20181013012514 and revision id 863788483
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Iron(II,III)_oxide&amp;oldid=863788483">https://en.wikipedia.org/w/index.php?title=Iron(II,III)_oxide&amp;oldid=863788483</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Oxides" title="Category:Oxides">Oxides</a></li><li><a href="/wiki/Category:Iron_compounds" title="Category:Iron compounds">Iron compounds</a></li><li><a href="/wiki/Category:Semiconductor_materials" title="Category:Semiconductor materials">Semiconductor materials</a></li><li><a href="/wiki/Category:Iron_oxide_pigments" title="Category:Iron oxide pigments">Iron oxide pigments</a></li><li><a href="/wiki/Category:Mixed_valence_compounds" title="Category:Mixed valence compounds">Mixed valence compounds</a></li><li><a href="/wiki/Category:Non-stoichiometric_compounds" title="Category:Non-stoichiometric compounds">Non-stoichiometric compounds</a></li><li><a href="/wiki/Category:Excipients" title="Category:Excipients">Excipients</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_login_required_references_or_sources" title="Category:Pages with login required references or sources">Pages with login required references or sources</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_with_changed_EBI_identifier" title="Category:Articles with changed EBI identifier">Articles with changed EBI identifier</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Iron%28II%2CIII%29+oxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Iron%28II%2CIII%29+oxide" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Iron(II,III)_oxide" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Iron(II,III)_oxide" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Iron(II,III)_oxide">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Iron(II,III)_oxide" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Iron(II,III)_oxide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Iron(II,III)_oxide&amp;oldid=863788483" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Iron(II,III)_oxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411235" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Iron%28II%2CIII%29_oxide&amp;id=863788483" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Iron%28II%2CIII%29+oxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Iron%28II%2CIII%29+oxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Iron(II,III)_oxide&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Magnetite" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF_%D8%AF%D9%85%DB%8C%D8%B1_(II,_III)" title="اوکسید دمیر (II, III) – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/S%C3%B9-sng-ho%C3%A0_sam-thih" title="Sù-sng-hoà sam-thih – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Oxid_%C5%BEeleznato-%C5%BEelezit%C3%BD" title="Oxid železnato-železitý – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Eisen(II,III)-oxid" title="Eisen(II,III)-oxid – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/%C3%93xido_de_hierro_(II,_III)" title="Óxido de hierro (II, III) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF_%D8%A2%D9%87%D9%86_(II,_III)" title="اکسید آهن (II, III) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/T%C3%A9troxyde_de_trifer" title="Tétroxyde de trifer – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%AF%E0%A4%B0%E0%A4%A8(II,III)_%E0%A4%91%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%A1" title="आयरन(II,III) ऑक्साइड – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/%C5%BDeljezov(II,_III)_oksid" title="Željezov(II, III) oksid – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/IJzer(II,III)oxide" title="IJzer(II,III)oxide – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%9B%9B%E9%85%B8%E5%8C%96%E4%B8%89%E9%89%84" title="四酸化三鉄 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tlenek_%C5%BCelaza(II)_di%C5%BCelaza(III)" title="Tlenek żelaza(II) diżelaza(III) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/%C3%93xido_de_ferro(II,III)" title="Óxido de ferro(II,III) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0(II,III)" title="Оксид железа(II,III) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/%C5%BDelezov(II,III)_oksid" title="Železov(II,III) oksid – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Gvo%C5%BE%C4%91e(II,III)_oksid" title="Gvožđe(II,III) oksid – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Gvo%C5%BE%C4%91e(II,III)_oksid" title="Gvožđe(II,III) oksid – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/J%C3%A4rn(II,III)oxid" title="Järn(II,III)oxid – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%86%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AF%88%E0%AE%9F%E0%AF%81" title="இரும்பு ஆக்சைடு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D0%B7%D0%B0%D0%BB%D1%96%D0%B7%D0%B0(II,III)" title="Оксид заліза(II,III) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/S%E1%BA%AFt(II,III)_oxit" title="Sắt(II,III) oxit – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%9B%9B%E6%B0%A7%E5%8C%96%E4%B8%89%E9%93%81" title="四氧化三铁 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9B%9B%E6%B0%A7%E5%8C%96%E4%B8%89%E9%93%81" title="四氧化三铁 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411235#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 October 2018, at 01:25<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Iron(II,III)_oxide&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.768","walltime":"0.980","ppvisitednodes":{"value":7676,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":224136,"limit":2097152},"templateargumentsize":{"value":21693,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":59882,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  708.654      1 -total"," 58.12%  411.873      1 Template:Chembox"," 34.86%  247.055      1 Template:Chembox_Identifiers"," 31.69%  224.596      1 Template:Reflist"," 22.44%  159.030      4 Template:Chembox_headerbar"," 22.22%  157.477     22 Template:Trim"," 14.33%  101.526     13 Template:Main_other"," 12.84%   90.986     14 Template:Cite_journal"," 12.66%   89.689      1 Template:Chembox_parametercheck"," 10.35%   73.378      1 Template:Chembox_Properties"]},"scribunto":{"limitreport-timeusage":{"value":"0.261","limit":"10.000"},"limitreport-memusage":{"value":8346955,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20181013012515","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1330"});});</script>
+	</body>
+</html>
+

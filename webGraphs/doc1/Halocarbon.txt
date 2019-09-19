@@ -1,0 +1,798 @@
+https://en.wikipedia.org/wiki/Halocarbon
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Halocarbon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Halocarbon","wgTitle":"Halocarbon","wgCurRevisionId":855274556,"wgRevisionId":855274556,"wgArticleId":977193,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with NDL identifiers","Organohalides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Halocarbon","wgRelevantArticleId":977193,"wgRequestId":"W8LV7ApAADwAAGvqOFIAAAAC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q387914","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Halocarbon"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Halocarbon&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Halocarbon&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Halocarbon"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Halocarbon rootpage-Halocarbon skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Halocarbon</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Halocarbon</b> compounds are <a href="/wiki/Chemical" class="mw-redirect" title="Chemical">chemicals</a> in which one or more <a href="/wiki/Carbon" title="Carbon">carbon</a> <a href="/wiki/Atom" title="Atom">atoms</a> are linked by <a href="/wiki/Covalent_bond" title="Covalent bond">covalent bonds</a> with one or more <a href="/wiki/Halogen" title="Halogen">halogen</a> <a href="/wiki/Atom" title="Atom">atoms</a> (<a href="/wiki/Fluorine" title="Fluorine">fluorine</a>, <a href="/wiki/Chlorine" title="Chlorine">chlorine</a>, <a href="/wiki/Bromine" title="Bromine">bromine</a> or <a href="/wiki/Iodine" title="Iodine">iodine</a>&#160;– <span class="nowrap"><a href="/wiki/Group_(periodic_table)" title="Group (periodic table)">group</a> 17</span>) resulting in the formation of <a href="/wiki/Organofluorine_compound" class="mw-redirect" title="Organofluorine compound">organofluorine compounds</a>, <a href="/wiki/Organochlorine_compound" class="mw-redirect" title="Organochlorine compound">organochlorine compounds</a>, <a href="/wiki/Organobromine_compound" title="Organobromine compound">organobromine compounds</a>, and <a href="/wiki/Organoiodine_compound" title="Organoiodine compound">organoiodine compounds</a>. Chlorine halocarbons are the most common and are called <a href="/wiki/Organochloride" title="Organochloride">organochlorides</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Many synthetic organic compounds such as <a href="/wiki/Plastic" title="Plastic">plastic</a> <a href="/wiki/Polymers" class="mw-redirect" title="Polymers">polymers</a>, and a few natural ones, contain halogen atoms; they are known as <i>halogenated</i> compounds or <i>organohalogens</i>. Organochlorides are the most common industrially used organohalides, although the other organohalides are used commonly in organic synthesis. Except for extremely rare cases, organohalides are not produced biologically, but many pharmaceuticals are organohalides. Notably, many pharmaceuticals such as <a href="/wiki/Fluoxetine" title="Fluoxetine">Prozac</a> have trifluoromethyl groups.
+</p><p>For information on inorganic halide chemistry, see <a href="/wiki/Halide" title="Halide">halide</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Chemical_families"><span class="tocnumber">1</span> <span class="toctext">Chemical families</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_and_context"><span class="tocnumber">2</span> <span class="toctext">History and context</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Natural_halocarbons"><span class="tocnumber">2.1</span> <span class="toctext">Natural halocarbons</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Organoiodine_compounds,_including_biological_derivatives"><span class="tocnumber">3</span> <span class="toctext">Organoiodine compounds, including biological derivatives</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Uses"><span class="tocnumber">4</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Hazards"><span class="tocnumber">5</span> <span class="toctext">Hazards</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Chemical_families">Chemical families</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=1" title="Edit section: Chemical families">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Organohalogen-chlorides.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Organohalogen-chlorides.png/300px-Organohalogen-chlorides.png" width="300" height="78" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Organohalogen-chlorides.png/450px-Organohalogen-chlorides.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/19/Organohalogen-chlorides.png 2x" data-file-width="491" data-file-height="127" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Organohalogen-chlorides.png" class="internal" title="Enlarge"></a></div>Examples of organohalogens-chlorides</div></div></div>
+<p>Halocarbons are typically classified in the same ways as the similarly <a href="/wiki/Chemical_structure" title="Chemical structure">structured</a> <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a> that have <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> <a href="/wiki/Atom" title="Atom">atoms</a> occupying the <a href="/wiki/Molecular" class="mw-redirect" title="Molecular">molecular</a> sites of the <a href="/wiki/Halogen" title="Halogen">halogen</a> <a href="/wiki/Atom" title="Atom">atoms</a> in halocarbons. Among the chemical families are:<sup id="cite_ref-Ullmann_2-0" class="reference"><a href="#cite_note-Ullmann-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li><a href="/wiki/Haloalkane" title="Haloalkane">haloalkanes</a>—compounds with <a href="/wiki/Carbon" title="Carbon">carbon</a> <a href="/wiki/Atom" title="Atom">atoms</a> linked by <a href="/wiki/Chemical_bond" title="Chemical bond">single bonds</a></li>
+<li><a href="/wiki/Haloalkene" class="mw-redirect" title="Haloalkene">haloalkenes</a>—compounds with one or more <a href="/wiki/Double_bond" title="Double bond">double bonds</a> between <a href="/wiki/Carbon" title="Carbon">carbon</a> <a href="/wiki/Atom" title="Atom">atoms</a></li>
+<li><a href="/wiki/Haloaromatic" class="mw-redirect" title="Haloaromatic">haloaromatics</a>—compounds with <a href="/wiki/Carbon" title="Carbon">carbons</a> linked in one or more <a href="/wiki/Aromatic_ring" class="mw-redirect" title="Aromatic ring">aromatic rings</a> with a delocalised donut shaped pi cloud.</li></ul>
+<p>The <a href="/wiki/Halogen" title="Halogen">halogen</a> <a href="/wiki/Atom" title="Atom">atoms</a> in halocarbon <a href="/wiki/Molecule" title="Molecule">molecules</a> are often called "<a href="/wiki/Substituent" title="Substituent">substituents</a>," as though those atoms had been substituted for <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> atoms. However halocarbons are prepared in many ways that do not involve direct substitution of <a href="/wiki/Halogen" title="Halogen">halogens</a> for <a href="/wiki/Hydrogen" title="Hydrogen">hydrogens</a>.
+</p>
+<h2><span class="mw-headline" id="History_and_context">History and context</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=2" title="Edit section: History and context">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A few halocarbons are produced in massive amounts by microorganisms. For example, several million tons of <a href="/wiki/Methyl_bromide" class="mw-redirect" title="Methyl bromide">methyl bromide</a> are estimated to be produced by marine organisms annually. Most of the halocarbons encountered in everyday life – solvents, medicines, plastics – are man-made. The first synthesis of halocarbons was achieved in the early 1800s. Production began accelerating when their useful properties as solvents and anesthetics were discovered. Development of plastics and synthetic elastomers has led to greatly expanded scale of production. A substantial percentage of drugs are halocarbons.
+</p>
+<h3><span class="mw-headline" id="Natural_halocarbons">Natural halocarbons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=3" title="Edit section: Natural halocarbons">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A large amount of the naturally occurring halocarbons are created by wood fire, <a href="/wiki/Dioxine" class="mw-redirect" title="Dioxine">dioxine</a> for example, or volcanic activities. A second large source are marine algae which produce several chlorinated <a href="/wiki/Methane" title="Methane">methane</a> and <a href="/wiki/Ethane" title="Ethane">ethane</a> containing compounds. There are several thousand complex halocarbons known, produced mainly by marine species. Although chlorine compounds are the majority of the discovered compounds, bromides, iodides and fluorides have also been found. The <a href="/wiki/Tyrian_purple" title="Tyrian purple">tyrian purple</a>, which is a dibromoindigo, is representative of the bromides, while the <a href="/wiki/Thyroxine" class="mw-redirect" title="Thyroxine">thyroxine</a> secreted from the <a href="/wiki/Thyroid_gland" class="mw-redirect" title="Thyroid gland">thyroid gland</a>, is an iodide, and the highly toxic <a href="/wiki/Fluoroacetic_acid" title="Fluoroacetic acid">fluoroacetate</a> is one of the rare organofluorides. These three representatives, thyroxine from humans, tyrian purple from snails and fluoroacetate from plants, also show that unrelated species use halocarbons for several purposes.<sup id="cite_ref-Gribble98_3-0" class="reference"><a href="#cite_note-Gribble98-3">&#91;3&#93;</a></sup><sup id="cite_ref-Gribble99_4-0" class="reference"><a href="#cite_note-Gribble99-4">&#91;4&#93;</a></sup><sup id="cite_ref-Gribble02_5-0" class="reference"><a href="#cite_note-Gribble02-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span id="Organoiodine_compounds.2C_including_biological_derivatives"></span><span class="mw-headline" id="Organoiodine_compounds,_including_biological_derivatives">Organoiodine compounds, including biological derivatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=4" title="Edit section: Organoiodine compounds, including biological derivatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Organoiodine_compounds" class="mw-redirect" title="Organoiodine compounds">Organoiodine compounds</a></div>
+<p>Organoiodine compounds, called <b>organic iodides</b>, are similar in structure to organochlorine and organobromine compounds, but the C-I bond is weaker. Many organic iodides are known, but few are of major industrial importance. Iodide compounds are mainly produced as nutritional supplements.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>The <a href="/wiki/Thyroxin" class="mw-redirect" title="Thyroxin">thyroxin</a> hormones are essential for human health, hence the usefulness of <a href="/wiki/Iodized_salt" class="mw-redirect" title="Iodized salt">iodized salt</a>.
+</p><p>Six mg of iodide a day can be used to treat patients with <a href="/wiki/Hyperthyroidism" title="Hyperthyroidism">hyperthyroidism</a> due to its ability to inhibit the organification process in thyroid hormone synthesis, the so-called <a href="/wiki/Wolff-Chaikoff_effect" class="mw-redirect" title="Wolff-Chaikoff effect">Wolff-Chaikoff effect</a>. Prior to 1940, iodides were the predominant antithyroid agents. In large doses, iodides inhibit <a href="/wiki/Proteolysis" title="Proteolysis">proteolysis</a> of <a href="/wiki/Thyroglobulin" title="Thyroglobulin">thyroglobulin</a>, which permits TH to be synthesized and stored in <a href="/wiki/Colloid" title="Colloid">colloid</a>, but not released into the bloodstream.
+</p><p>This treatment is seldom used today as a stand-alone therapy despite the rapid improvement of patients immediately following administration. The major disadvantage of iodide treatment lies in the fact that excessive stores of TH accumulate, slowing the onset of action of <a href="/wiki/Thioamides" class="mw-redirect" title="Thioamides">thioamides</a> (TH synthesis blockers). In addition, the functionality of iodides fades after the initial treatment period. An "escape from block" is also a concern, as extra stored TH may spike following discontinuation of treatment.
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=5" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first halocarbon commercially used was <a href="/wiki/Tyrian_purple" title="Tyrian purple">Tyrian purple</a> a natural organobromide of the <i><a href="/wiki/Murex_brandaris" class="mw-redirect" title="Murex brandaris">Murex brandaris</a></i> marine snail.
+</p><p>Common uses for halocarbons have been as <a href="/wiki/Solvent" title="Solvent">solvents</a>, <a href="/wiki/Pesticide" title="Pesticide">pesticides</a>, <a href="/wiki/Refrigerant" title="Refrigerant">refrigerants</a>, fire-resistant oils, ingredients of <a href="/wiki/Elastomer" title="Elastomer">elastomers</a>, <a href="/wiki/Adhesive" title="Adhesive">adhesives</a> and sealants, electrically insulating coatings, <a href="/wiki/Plasticizer" title="Plasticizer">plasticizers</a>, and <a href="/wiki/Plastic" title="Plastic">plastics</a>. Many halocarbons have specialized uses in industry. One halocarbon, <a href="/wiki/Sucralose" title="Sucralose">sucralose</a>, is a sweetener.
+</p><p>Before they became strictly regulated, the general public often encountered <a href="/wiki/Haloalkane" title="Haloalkane">haloalkanes</a> as paint and cleaning solvents such as <a href="/wiki/1,1,1-Trichloroethane" title="1,1,1-Trichloroethane">trichloroethane</a> (1,1,1-trichloroethane) and <a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride">carbon tetrachloride</a> (tetrachloromethane), pesticides like <a href="/wiki/1,2-Dibromoethane" title="1,2-Dibromoethane">1,2-dibromoethane</a> (EDB, ethylene dibromide), and <a href="/wiki/Refrigerants" class="mw-redirect" title="Refrigerants">refrigerants</a> like <a href="/wiki/Freon" title="Freon">Freon</a>-22 (<a href="/wiki/DuPont" title="DuPont">duPont</a> trademark for chlorodifluoromethane). Some haloalkanes are still widely used for industrial cleaning, such as <a href="/wiki/Methylene_chloride" class="mw-redirect" title="Methylene chloride">methylene chloride</a> (dichloromethane), and as refrigerants, such as R-134a (<a href="/wiki/1,1,1,2-tetrafluoroethane" class="mw-redirect" title="1,1,1,2-tetrafluoroethane">1,1,1,2-tetrafluoroethane</a>).
+</p><p>Haloalkenes have also been used as <a href="/wiki/Solvent" title="Solvent">solvents</a>, including <a href="/wiki/Perchloroethylene" class="mw-redirect" title="Perchloroethylene">perchloroethylene</a> (Perc, tetrachloroethene), widespread in dry cleaning, and <a href="/wiki/Trichloroethylene" title="Trichloroethylene">trichloroethylene</a> (TCE, 1,1,2-trichloroethene). Other haloalkenes have been chemical building blocks of plastics such as <a href="/wiki/Polyvinyl_chloride" title="Polyvinyl chloride">polyvinyl chloride</a> ("vinyl" or PVC, polymerized chloroethene) and Teflon (<a href="/wiki/DuPont" title="DuPont">duPont</a> trademark for polymerized tetrafluoroethene, <a href="/wiki/PTFE" class="mw-redirect" title="PTFE">PTFE</a>).
+</p><p>Haloaromatics include the former <a href="/wiki/Aroclor" class="mw-redirect" title="Aroclor">Aroclors</a> (<a href="/wiki/Monsanto_Company" class="mw-redirect" title="Monsanto Company">Monsanto Company</a> trademark for <a href="/wiki/Polychlorinated_biphenyl" title="Polychlorinated biphenyl">polychlorinated biphenyls</a>, PCBs), once widely used in power transformers and capacitors and in building caulk, the former <a href="/wiki/Halowax" title="Halowax">Halowaxes</a> (<a href="/wiki/Union_Carbide" title="Union Carbide">Union Carbide</a> trademark for <a href="/wiki/Polychlorinated_naphthalene" title="Polychlorinated naphthalene">polychlorinated naphthalenes</a>, PCNs), once used for electrical insulation, and the <a href="/wiki/Chlorobenzene" title="Chlorobenzene">chlorobenzenes</a> and their derivatives, used for <a href="/wiki/Disinfectant" title="Disinfectant">disinfectants</a>, <a href="/wiki/Pesticide" title="Pesticide">pesticides</a> such as dichloro-diphenyl-trichloroethane (<a href="/wiki/DDT" title="DDT">DDT</a>, 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane), <a href="/wiki/Herbicides" class="mw-redirect" title="Herbicides">herbicides</a> such as <a href="/wiki/2,4-D" class="mw-redirect" title="2,4-D">2,4-D</a> (2,4-dichlorophenoxyacetic acid), <a href="/wiki/Askarel" class="mw-redirect" title="Askarel">askarel</a> <a href="/wiki/Dielectric" title="Dielectric">dielectrics</a> (mixed with PCBs, no longer used in most countries), and chemical feedstocks.
+</p><p>A few halocarbons, including acid halides like <a href="/wiki/Acetyl_chloride" title="Acetyl chloride">acetyl chloride</a>, are highly <a href="/wiki/Reactivity_(chemistry)" title="Reactivity (chemistry)">reactive</a>; these are rarely found outside chemical processing. The widespread uses of halocarbons were often driven by observations that most of them were more stable than other substances. They may be less affected by acids or alkalis; they may not burn as readily; they may not be attacked by <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> or <a href="/wiki/Mold" title="Mold">molds</a>; or they may not be affected as much by sun exposure.
+</p>
+<h2><span class="mw-headline" id="Hazards">Hazards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=6" title="Edit section: Hazards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The stability of halocarbons tended to encourage beliefs that they were mostly harmless, although in the mid-1920s physicians reported workers in <a href="/wiki/Polychlorinated_naphthalene" title="Polychlorinated naphthalene">polychlorinated naphthalene</a> manufacturing suffering from <a href="/wiki/Chloracne" title="Chloracne">chloracne</a> (<a href="#CITEREFTeleky1927">Teleky 1927</a>), and by the late 1930s it was known that workers exposed to <a href="/wiki/Polychlorinated_naphthalene" title="Polychlorinated naphthalene">PCNs</a> could die from <a href="/wiki/Liver_disease" title="Liver disease">liver disease</a> (<a href="#CITEREFFlinnJarvik1936">Flinn &amp; Jarvik 1936</a>) and that <a href="/wiki/DDT" title="DDT">DDT</a> would kill <a href="/wiki/Mosquito" title="Mosquito">mosquitos</a> and other <a href="/wiki/Insect" title="Insect">insects</a> (<a href="#CITEREFMüller1948">Müller 1948</a>). By the 1950s, there had been several reports and investigations of workplace hazards. In 1956, for example, after testing <a href="/wiki/Hydraulic" class="mw-redirect" title="Hydraulic">hydraulic</a> oils containing <a href="/wiki/Polychlorinated_biphenyl" title="Polychlorinated biphenyl">PCBs</a>, the U.S. Navy found that skin contact caused fatal <a href="/wiki/Liver_disease" title="Liver disease">liver disease</a> in animals and rejected them as "too toxic for use in a <a href="/wiki/Submarine" title="Submarine">submarine</a>" (<a href="#CITEREFOwens_v._Monsanto2001">Owens v. Monsanto 2001</a>).
+</p><p>In 1962 a book by U.S. biologist <a href="/wiki/Rachel_Carson" title="Rachel Carson">Rachel Carson</a> (<a href="#CITEREFCarson1962">Carson 1962</a>) started a storm of concerns about environmental <a href="/wiki/Pollution" title="Pollution">pollution</a>, first focused on <a href="/wiki/DDT" title="DDT">DDT</a> and other <a href="/wiki/Pesticide" title="Pesticide">pesticides</a>, some of them also halocarbons. These concerns were amplified when in 1966 Swedish chemist Soren Jensen reported widespread residues of <a href="/wiki/Polychlorinated_biphenyl" title="Polychlorinated biphenyl">PCBs</a> among Arctic and sub-Arctic fish and birds (<a href="#CITEREFJensen1966">Jensen 1966</a>). In 1974, Mexican chemist <a href="/wiki/Mario_Molina" class="mw-redirect" title="Mario Molina">Mario Molina</a> and U.S. chemist <a href="/wiki/Sherwood_Rowland" class="mw-redirect" title="Sherwood Rowland">Sherwood Rowland</a> predicted that common halocarbon <a href="/wiki/Refrigerant" title="Refrigerant">refrigerants</a>, the <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbons</a> (CFCs), would accumulate in the upper <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a> and destroy protective <a href="/wiki/Ozone" title="Ozone">ozone</a> (<a href="#CITEREFMolinaRowland1974">Molina &amp; Rowland 1974</a>). Within a few years, <a href="/wiki/Ozone" title="Ozone">ozone</a> depletion was being observed above <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>, leading to bans on production and use of <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbons</a> in many countries. In 2007, the <a href="/wiki/IPCC_Fourth_Assessment_Report" title="IPCC Fourth Assessment Report">Intergovernmental Panel on Climate Change</a> (IPCC) said halocarbons were a direct cause of <a href="/wiki/Global_warming" title="Global warming">global warming</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Since the 1970s there have been longstanding, unresolved controversies over potential health hazards of <a href="/wiki/Trichloroethylene" title="Trichloroethylene">trichloroethylene</a> (TCE) and other halocarbon <a href="/wiki/Solvent" title="Solvent">solvents</a> that had been widely used for industrial cleaning (<a href="#CITEREFAnderson_v._Grace1986">Anderson v. Grace 1986</a>) (<a href="#CITEREFScottCogliano2000">Scott &amp; Cogliano 2000</a>) (<a href="#CITEREFU.S._National_Academies_of_Science2004">U.S. National Academies of Science 2004</a>) (<a href="#CITEREFUnited_States2004">United States 2004</a>). More recently <a href="/wiki/Perfluorooctanoic_acid" title="Perfluorooctanoic acid">perfluorooctanoic acid</a> (PFOA), a precursor in the most common manufacturing process for Teflon and also used to make coatings for fabrics and food packaging, became a health and environmental concern starting in 2006 (<a href="#CITEREFUnited_States2010_(begun_in_2006)">United States &amp; 2010 (begun in 2006)</a>), suggesting that halocarbons, though thought to be among the most inert, may also present hazards.
+</p><p>Halocarbons, including those that might not be hazards in themselves, can present <a href="/wiki/Waste_disposal" class="mw-redirect" title="Waste disposal">waste disposal</a> issues. Because they do not readily degrade in natural environments, halocarbons tend to accumulate. <a href="/wiki/Incineration" title="Incineration">Incineration</a> and accidental fires can create <a href="/wiki/Corrosive" class="mw-redirect" title="Corrosive">corrosive</a> byproducts such as <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">hydrochloric acid</a> and <a href="/wiki/Hydrofluoric_acid" title="Hydrofluoric acid">hydrofluoric acid</a>, and <a href="/wiki/Poison" title="Poison">poisons</a> like halogenated <a href="/wiki/Polychlorinated_dibenzodioxins" title="Polychlorinated dibenzodioxins">dioxins</a> and <a href="/wiki/Furan" title="Furan">furans</a>. Species of Desulfitobacterium are being investigated for their potential in the <a href="/wiki/Bioremediation" title="Bioremediation">bioremediation</a> of halogenic organic compounds.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Halogenation" title="Halogenation">Halogenation</a></li>
+<li><a href="/wiki/Carbon%E2%80%93fluorine_bond" title="Carbon–fluorine bond">Carbon–fluorine bond</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Yoel Sasson. "Formation of Carbon–Halogen Bonds (Cl, Br, I)" in Patai's <i>Chemistry of Functional Groups</i> (2009). Wiley-VCH, Weinheim. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2F9780470682531.pat0011">10.1002/9780470682531.pat0011</a></span>
+</li>
+<li id="cite_note-Ullmann-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ullmann_2-0">^</a></b></span> <span class="reference-text">M. Rossberg et al. “Chlorinated Hydrocarbons” in Ullmann’s Encyclopedia of Industrial Chemistry 2006, Wiley-VCH, Weinheim. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2F14356007.a06_233.pub2">10.1002/14356007.a06_233.pub2</a></span>
+</li>
+<li id="cite_note-Gribble98-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gribble98_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGordon_W._Gribble1998" class="citation">Gordon W. Gribble (1998), "Naturally Occurring Organohalogen Compounds", <i><a href="/wiki/Acc._Chem._Res." class="mw-redirect" title="Acc. Chem. Res.">Acc. Chem. Res.</a></i>, <b>31</b> (3): 141–152, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1021%2Far9701777">10.1021/ar9701777</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acc.+Chem.+Res.&amp;rft.atitle=Naturally+Occurring+Organohalogen+Compounds&amp;rft.volume=31&amp;rft.issue=3&amp;rft.pages=141-152&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1021%2Far9701777&amp;rft.au=Gordon+W.+Gribble&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style>.</span>
+</li>
+<li id="cite_note-Gribble99-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gribble99_4-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGordon_W._Gribble1999" class="citation">Gordon W. Gribble (1999), "The diversity of naturally occurring organobromine compounds", <i><a href="/wiki/Chemical_Society_Reviews" title="Chemical Society Reviews">Chemical Society Reviews</a></i>, <b>28</b> (5): 335–346, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1039%2Fa900201d">10.1039/a900201d</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Society+Reviews&amp;rft.atitle=The+diversity+of+naturally+occurring+organobromine+compounds&amp;rft.volume=28&amp;rft.issue=5&amp;rft.pages=335-346&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1039%2Fa900201d&amp;rft.au=Gordon+W.+Gribble&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>.</span>
+</li>
+<li id="cite_note-Gribble02-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gribble02_5-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGordon_W._Gribble2002" class="citation">Gordon W. Gribble (2002),  Neilson, A. H., ed., "Naturally Occurring Organofluorines", <i>Organofluorines</i>, <b>3n</b>: 121–136, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F10721878">10.1007/10721878</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Organofluorines&amp;rft.atitle=Naturally+Occurring+Organofluorines&amp;rft.volume=3n&amp;rft.pages=121-136&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1007%2F10721878&amp;rft.au=Gordon+W.+Gribble&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Phyllis A. Lyday "Iodine and Iodine Compounds" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2005.<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2F14356007.a14_381">10.1002/14356007.a14_381</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ipcc.ch/SPM2feb07.pdf">Climate Change 2007: The Physical Science Basis. Summary for Policymakers</a>, page 3</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Villemur, R.; Lanthier, M.; Beaudet, R. ©J.; Lépine, F. §O. (2006). "TheDesulfitobacteriumgenus". <i>FEMS Microbiology Reviews</i>. <b>30</b> (5): 706–733. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1574-6976.2006.00029.x">10.1111/j.1574-6976.2006.00029.x</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16911041">16911041</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FEMS+Microbiology+Reviews&amp;rft.atitle=TheDesulfitobacteriumgenus&amp;rft.volume=30&amp;rft.issue=5&amp;rft.pages=706-733&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1574-6976.2006.00029.x&amp;rft_id=info%3Apmid%2F16911041&amp;rft.aulast=Villemur&amp;rft.aufirst=R.&amp;rft.au=Lanthier%2C+M.&amp;rft.au=Beaudet%2C+R.+%C2%A9J.&amp;rft.au=L%C3%A9pine%2C+F.+%C2%A7O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFAnderson_v._Grace1986" class="citation">Anderson v. Grace (1986), <i>628 F. Supp. 1219</i>, Massachusetts, USA</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=628+F.+Supp.+1219&amp;rft.place=Massachusetts%2C+USA&amp;rft.date=1986&amp;rft.au=Anderson+v.+Grace&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>, settled between the parties, reviewed in <cite id="CITEREFHarrAsher1996" class="citation">Harr, J., Ed.; Asher, M., Ed. (1996), <i>A Civil Action</i>, Minneapolis, MN, USA: Sagebrush Education Resources</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Civil+Action&amp;rft.place=Minneapolis%2C+MN%2C+USA&amp;rft.pub=Sagebrush+Education+Resources&amp;rft.date=1996&amp;rft.aulast=Harr&amp;rft.aufirst=J.%2C+Ed.&amp;rft.au=Asher%2C+M.%2C+Ed.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFCarson1962" class="citation">Carson, R. (1962), <i>Silent Spring</i>, Boston, MA, USA: Houghton Mifflin</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Silent+Spring&amp;rft.place=Boston%2C+MA%2C+USA&amp;rft.pub=Houghton+Mifflin&amp;rft.date=1962&amp;rft.aulast=Carson&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFFlinnJarvik1936" class="citation">Flinn, F.B.; Jarvik, N.E. (1936), "Action of certain chlorinated naphthalenes on the liver", <i>Proceedings of the Society for Experimental Biology and Medicine</i>, <b>35</b>: 118–120, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3181%2F00379727-35-8879p">10.3181/00379727-35-8879p</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Society+for+Experimental+Biology+and+Medicine&amp;rft.atitle=Action+of+certain+chlorinated+naphthalenes+on+the+liver&amp;rft.volume=35&amp;rft.pages=118-120&amp;rft.date=1936&amp;rft_id=info%3Adoi%2F10.3181%2F00379727-35-8879p&amp;rft.aulast=Flinn&amp;rft.aufirst=F.B.&amp;rft.au=Jarvik%2C+N.E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFJensen1966" class="citation">Jensen, S. (1966), "Report of a new chemical hazard", <i>New Scientist</i>, <b>32</b>: 612</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+Scientist&amp;rft.atitle=Report+of+a+new+chemical+hazard&amp;rft.volume=32&amp;rft.pages=612&amp;rft.date=1966&amp;rft.aulast=Jensen&amp;rft.aufirst=S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFMolinaRowland1974" class="citation">Molina, M.J.; Rowland, F.S. (1974), "Stratospheric sink for chlorofluoromethanes: chlorine atom-catalysed destruction of ozone", <i>Nature</i>, <b>249</b>: 810–812, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1974Natur.249..810M">1974Natur.249..810M</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2F249810a0">10.1038/249810a0</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Stratospheric+sink+for+chlorofluoromethanes%3A+chlorine+atom-catalysed+destruction+of+ozone&amp;rft.volume=249&amp;rft.pages=810-812&amp;rft.date=1974&amp;rft_id=info%3Adoi%2F10.1038%2F249810a0&amp;rft_id=info%3Abibcode%2F1974Natur.249..810M&amp;rft.aulast=Molina&amp;rft.aufirst=M.J.&amp;rft.au=Rowland%2C+F.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFMüller1948" class="citation">Müller, P.H. (1948), <a rel="nofollow" class="external text" href="http://nobelprize.org/medicine/laureates/1948/muller-lecture.pdf">"Dichloro-diphenyl-trichloroethane and newer insecticides"</a> <span class="cs1-format">(PDF)</span>, <i>Nobel Lecture</i></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nobel+Lecture&amp;rft.atitle=Dichloro-diphenyl-trichloroethane+and+newer+insecticides&amp;rft.date=1948&amp;rft.aulast=M%C3%BCller&amp;rft.aufirst=P.H.&amp;rft_id=http%3A%2F%2Fnobelprize.org%2Fmedicine%2Flaureates%2F1948%2Fmuller-lecture.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFOwens_v._Monsanto2001" class="citation">Owens v. Monsanto (2001), <a rel="nofollow" class="external text" href="http://www.chemicalindustryarchives.org/search/pdfs/anniston/19570121_171.pdf"><i>96-CV-440, Exhibit 3A03F</i></a> <span class="cs1-format">(PDF)</span>, Alabama, USA</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=96-CV-440%2C+Exhibit+3A03F&amp;rft.place=Alabama%2C+USA&amp;rft.date=2001&amp;rft.au=Owens+v.+Monsanto&amp;rft_id=http%3A%2F%2Fwww.chemicalindustryarchives.org%2Fsearch%2Fpdfs%2Fanniston%2F19570121_171.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>, cited in <a rel="nofollow" class="external text" href="http://www.chemicalindustryarchives.org/dirtysecrets/annistonindepth/toxicity.asp">Chemical Industry Archives, Anniston Case</a>, by Environmental Working Group, Washington, DC, 2002</li>
+<li><cite id="CITEREFScottCogliano2000" class="citation">Scott, C.S., Ed.; Cogliano, V.J., Ed. (2000), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060219101344/http://ehp.niehs.nih.gov/docs/2000/suppl-2/toc.html">"Trichloroethylene Health Risks--State of the Science"</a>, <i>Environmental Health Perspectives</i>, <b>108</b> (S2): 159–60, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1289%2Fehp.00108s2159">10.1289/ehp.00108s2159</a>, <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1637768">1637768</a></span>, <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10928830">10928830</a>, archived from <a rel="nofollow" class="external text" href="http://ehp.niehs.nih.gov/docs/2000/suppl-2/toc.html">the original</a> on 2006-02-19</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environmental+Health+Perspectives&amp;rft.atitle=Trichloroethylene+Health+Risks--State+of+the+Science&amp;rft.volume=108&amp;rft.issue=S2&amp;rft.pages=159-60&amp;rft.date=2000&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1637768&amp;rft_id=info%3Apmid%2F10928830&amp;rft_id=info%3Adoi%2F10.1289%2Fehp.00108s2159&amp;rft.aulast=Scott&amp;rft.aufirst=C.S.%2C+Ed.&amp;rft.au=Cogliano%2C+V.J.%2C+Ed.&amp;rft_id=http%3A%2F%2Fehp.niehs.nih.gov%2Fdocs%2F2000%2Fsuppl-2%2Ftoc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFTeleky1927" class="citation">Teleky, L. (1927), "<i>Die pernakrankheit</i>", <i>Klinische Wochenschrift</i>, Berlin: Springer, Jahrgänge 6: 845</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Klinische+Wochenschrift&amp;rft.atitle=Die+pernakrankheit&amp;rft.volume=Jahrg%C3%A4nge+6&amp;rft.pages=845&amp;rft.date=1927&amp;rft.aulast=Teleky&amp;rft.aufirst=L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFU.S._National_Academies_of_Science2004" class="citation">U.S. National Academies of Science, Current Projects System (2004), <a rel="nofollow" class="external text" href="http://www.nap.edu/catalog/11707/assessing-the-human-health-risks-of-trichloroethylene-key-scientific-issues"><i>Assessing the Human Health Risks of Trichloroethylene</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Assessing+the+Human+Health+Risks+of+Trichloroethylene&amp;rft.date=2004&amp;rft.aulast=U.S.+National+Academies+of+Science&amp;rft.aufirst=Current+Projects+System&amp;rft_id=http%3A%2F%2Fwww.nap.edu%2Fcatalog%2F11707%2Fassessing-the-human-health-risks-of-trichloroethylene-key-scientific-issues&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFUnited_States2004" class="citation">United States, Environmental Protection Agency (2004), <a rel="nofollow" class="external text" href="http://www.epa.gov/iris/subst/0199.htm#refinhal"><i>Integrated Risk Information System, Trichloroethylene (CASRN 79-01-6)</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Integrated+Risk+Information+System%2C+Trichloroethylene+%28CASRN+79-01-6%29&amp;rft.date=2004&amp;rft.aulast=United+States&amp;rft.aufirst=Environmental+Protection+Agency&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Firis%2Fsubst%2F0199.htm%23refinhal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="CITEREFUnited_States2010" class="citation">United States, Environmental Protection Agency (2010), <a rel="nofollow" class="external text" href="http://epa.gov/oppt/pfoa/pubs/stewardship/index.html"><i>PFOA Stewardship Program (begun in 2006)</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=PFOA+Stewardship+Program+%28begun+in+2006%29&amp;rft.date=2010&amp;rft.aulast=United+States&amp;rft.aufirst=Environmental+Protection+Agency&amp;rft_id=http%3A%2F%2Fepa.gov%2Foppt%2Fpfoa%2Fpubs%2Fstewardship%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHalocarbon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Halocarbon&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Organohalides" class="extiw" title="commons:Category:Organohalides">Organohalides</a> at Wikimedia Commons</li></ul>
+<p><br />
+</p>
+<div style="margin-left:0">
+<table class="mw-collapsible mw-collapsed" style="background: transparent; text-align: left; border: 1px solid Silver; margin: 0.2em auto auto; width:100%; clear: both; padding: 1px;">
+
+<tbody><tr>
+<th style="background: #F0F2F5; font-size:87%; padding:0.2em 0.3em; text-align:center;"><span style="font-size:115%">Compounds of carbon with other elements in the periodic table<br /><div class="plainlinks hlist navbar"><span style="word-spacing:0">This box: </span><ul><li class="nv-view"><a href="/wiki/Template:ChemicalBondsToCarbon" title="Template:ChemicalBondsToCarbon"><span title="View this template">view</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:ChemicalBondsToCarbon" title="Template talk:ChemicalBondsToCarbon"><span title="Discuss this template">talk</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ChemicalBondsToCarbon&amp;action=edit"><span title="Edit this template">edit</span></a></li></ul></div></span>
+</th></tr>
+<tr>
+<td style="border: solid 1px Silver; padding: 0.6em; background: White;">
+<table class="wikitable" style="margin-left:auto; margin-right:auto; margin-bottom:0; margin-top:0; text-align:center; background-color:white; border:0px">
+
+<tbody><tr>
+<td style="background-color:#99bbff"><a href="/wiki/Carbon%E2%80%93hydrogen_bond" title="Carbon–hydrogen bond">CH</a>
+</td>
+<td colspan="1" style="border:none">
+</td>
+<td colspan="10" style="border:none" rowspan="3">
+</td>
+<td colspan="5" style="border:none">
+</td>
+<td style="background-color:mistyrose">He
+</td></tr>
+<tr>
+<td style="background-color:#99bbff"><a href="/wiki/Organolithium_reagent" title="Organolithium reagent">CLi</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Group_2_organometallic_chemistry#Organoberyllium" title="Group 2 organometallic chemistry">CBe</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Organoboron_chemistry" title="Organoboron chemistry">CB</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Carbon%E2%80%93carbon_bond" title="Carbon–carbon bond">CC</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Carbon%E2%80%93nitrogen_bond" title="Carbon–nitrogen bond">CN</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Carbon%E2%80%93oxygen_bond" title="Carbon–oxygen bond">CO</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Carbon%E2%80%93fluorine_bond" title="Carbon–fluorine bond">CF</a>
+</td>
+<td style="background-color:mistyrose">Ne
+</td></tr>
+<tr>
+<td style="background-color:#98FF98"><a href="/wiki/Organosodium_chemistry" title="Organosodium chemistry">CNa</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Group_2_organometallic_chemistry#Organomagnesium" title="Group 2 organometallic chemistry">CMg</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organoaluminium_chemistry" title="Organoaluminium chemistry">CAl</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Organosilicon" title="Organosilicon">CSi</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Organophosphorus_compound" title="Organophosphorus compound">CP</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Organosulfur_compounds" title="Organosulfur compounds">CS</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Organochloride" title="Organochloride">CCl</a>
+</td>
+<td style="background-color:#F0DC82">CAr
+</td></tr>
+<tr>
+<td style="background-color:#F0DC82"><a href="/wiki/Organosodium_chemistry#Organic_deriatives_of_the_heavier_alkali_metals" title="Organosodium chemistry">CK</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Group_2_organometallic_chemistry#Organocalcium" title="Group 2 organometallic chemistry">CCa</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoscandium_chemistry" title="Organoscandium chemistry">CSc</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organotitanium_compound" title="Organotitanium compound">CTi</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organovanadium_chemistry" title="Organovanadium chemistry">CV</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organochromium_chemistry" title="Organochromium chemistry">CCr</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organomanganese_chemistry" title="Organomanganese chemistry">CMn</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organoiron_chemistry" title="Organoiron chemistry">CFe</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organocobalt_chemistry" title="Organocobalt chemistry">CCo</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organonickel" title="Organonickel">CNi</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organocopper_compound" title="Organocopper compound">CCu</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organozinc_compound" title="Organozinc compound">CZn</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organogallium_chemistry" title="Organogallium chemistry">CGa</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organogermanium_compound" title="Organogermanium compound">CGe</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organoarsenic_chemistry" title="Organoarsenic chemistry">CAs</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organoselenium_chemistry" title="Organoselenium chemistry">CSe</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Organobromine_compound" title="Organobromine compound">CBr</a>
+</td>
+<td style="background-color:#F0DC82">CKr
+</td></tr>
+<tr>
+<td style="background-color:#F0DC82"><a href="/wiki/Organosodium_chemistry#Organic_deriatives_of_the_heavier_alkali_metals" title="Organosodium chemistry">CRb</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Group_2_organometallic_chemistry#Organostrontium" title="Group 2 organometallic chemistry">CSr</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoyttrium_chemistry" title="Organoyttrium chemistry">CY</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organozirconium_chemistry" title="Organozirconium chemistry">CZr</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoniobium_chemistry" title="Organoniobium chemistry">CNb</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organomolybdenum_chemistry" title="Organomolybdenum chemistry">CMo</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organomanganese_chemistry#Higher_group_7_organometallics" title="Organomanganese chemistry">CTc</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organoruthenium_chemistry" title="Organoruthenium chemistry">CRu</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organorhodium_chemistry" title="Organorhodium chemistry">CRh</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organopalladium" title="Organopalladium">CPd</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organosilver_chemistry" title="Organosilver chemistry">CAg</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organocadmium_compound" title="Organocadmium compound">CCd</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organogallium_chemistry#Higher_group_13_organometallic_chemistry" title="Organogallium chemistry">CIn</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organotin_chemistry" title="Organotin chemistry">CSn</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoantimony_chemistry" title="Organoantimony chemistry">CSb</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organotellurium_chemistry" title="Organotellurium chemistry">CTe</a>
+</td>
+<td style="background-color:#99bbff"><a href="/wiki/Organoiodine_compound" title="Organoiodine compound">CI</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoxenon_compound" title="Organoxenon compound">CXe</a>
+</td></tr>
+<tr>
+<td style="background-color:#F0DC82"><a href="/wiki/Organosodium_chemistry#Organic_deriatives_of_the_heavier_alkali_metals" title="Organosodium chemistry">CCs</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Group_2_organometallic_chemistry#Organobarium" title="Group 2 organometallic chemistry">CBa</a>
+</td>
+<td rowspan="2" style="border:none">
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organohafnium_chemistry" class="mw-redirect" title="Organohafnium chemistry">CHf</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organotantalum_chemistry" title="Organotantalum chemistry">CTa</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organotungsten_chemistry" class="mw-redirect" title="Organotungsten chemistry">CW</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organorhenium_chemistry" title="Organorhenium chemistry">CRe</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoosmium_chemistry" class="mw-redirect" title="Organoosmium chemistry">COs</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoiridium_compound" title="Organoiridium compound">CIr</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoplatinum" title="Organoplatinum">CPt</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organogold_chemistry" title="Organogold chemistry">CAu</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organomercury" title="Organomercury">CHg</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organogallium_chemistry#Higher_group_13_organometallic_chemistry" title="Organogallium chemistry">CTl</a>
+</td>
+<td style="background-color:#98FF98"><a href="/wiki/Organolead_compound" title="Organolead compound">CPb</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organobismuth_chemistry" title="Organobismuth chemistry">CBi</a>
+</td>
+<td style="background-color:#F0DC82">CPo
+</td>
+<td style="background-color:#F0DC82">CAt
+</td>
+<td style="background-color:mistyrose">Rn
+</td></tr>
+<tr style="background-color:mistyrose">
+<td style="background-color:mistyrose">Fr
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Group_2_organometallic_chemistry#Organoradium" title="Group 2 organometallic chemistry">CRa</a>
+</td>
+<td>Rf
+</td>
+<td>Db
+</td>
+<td style="background-color:#F0DC82">CSg
+</td>
+<td>Bh
+</td>
+<td>Hs
+</td>
+<td>Mt
+</td>
+<td>Ds
+</td>
+<td>Rg
+</td>
+<td>Cn
+</td>
+<td>Nh
+</td>
+<td>Fl
+</td>
+<td>Mc
+</td>
+<td>Lv
+</td>
+<td>Ts
+</td>
+<td>Og
+</td></tr>
+<tr>
+<td colspan="2" style="border:none">
+</td>
+<td style="border:none">↓
+</td>
+<td colspan="14" style="border:none">
+</td></tr>
+<tr style="background-color:#F0DC82">
+<td colspan="2" style="border:none; background-color:white">
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CLa</a>
+</td>
+<td><a href="/wiki/Organocerium_chemistry" title="Organocerium chemistry">CCe</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CPr</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CNd</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CPm</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CSm</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CEu</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CGd</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CTb</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CDy</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CHo</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CEr</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CTm</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CYb</a>
+</td>
+<td><a href="/wiki/Organolanthanide_chemistry" title="Organolanthanide chemistry">CLu</a>
+</td></tr>
+<tr style="background-color:mistyrose">
+<td colspan="2" style="border:none; background-color:white">
+</td>
+<td><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">Ac</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CTh</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CPa</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organouranium_chemistry" title="Organouranium chemistry">CU</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoneptunium_chemistry" title="Organoneptunium chemistry">CNp</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CPu</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CAm</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CCm</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CBk</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CCf</a>
+</td>
+<td style="background-color:#F0DC82"><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">CEs</a>
+</td>
+<td><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">Fm</a>
+</td>
+<td><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">Md</a>
+</td>
+<td><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">No</a>
+</td>
+<td><a href="/wiki/Organoactinide_chemistry" title="Organoactinide chemistry">Lr</a>
+</td>
+<td style="border:none; background-color:white">
+</td></tr></tbody></table>
+<table border="2" cellpadding="4" style="margin-left:auto; margin-right:auto; text-align:center; background:silver; border:1px solid gray; border-collapse:collapse; width:50%; font-size:100%;">
+
+<caption><b><a href="/wiki/Chemical_bond" title="Chemical bond">Chemical bonds</a> to <a href="/wiki/Carbon" title="Carbon">carbon</a></b>
+</caption>
+<tbody><tr>
+<td style="background:#99bbff">Core organic chemistry
+</td>
+<td style="background:#98FF98">Many uses in chemistry
+</td></tr>
+<tr>
+<td style="background:#F0DC82">Academic research, but no widespread use
+</td>
+<td style="background:mistyrose">Bond unknown
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Global_warming_and_climate_change" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Anthropogenic_climate_change" class="mw-redirect" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth&#39;s energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth&#39;s energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a class="mw-selflink selflink">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People&#39;s Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a href="/wiki/Effects_of_global_warming_on_India" class="mw-redirect" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q387914&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q387914&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q387914" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00574467">00574467</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20181014053644
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.504 seconds
+Real time usage: 0.590 seconds
+Preprocessor visited node count: 2376/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 156214/2097152 bytes
+Template argument size: 13911/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 32839/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.251/10.000 seconds
+Lua memory usage: 3.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  437.744      1 -total
+ 41.66%  182.384     16 Template:Citation
+ 35.24%  154.258      1 Template:Reflist
+ 23.93%  104.772      1 Template:Global_warming
+ 23.22%  101.665      1 Template:Navbox_with_collapsible_groups
+  6.13%   26.841      1 Template:Main
+  5.52%   24.158      6 Template:Navbox
+  5.38%   23.567     12 Template:Harv
+  5.14%   22.489      1 Template:Authority_control
+  3.98%   17.421      5 Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:977193-0!canonical and timestamp 20181014053644 and revision id 855274556
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Halocarbon&amp;oldid=855274556">https://en.wikipedia.org/w/index.php?title=Halocarbon&amp;oldid=855274556</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Organohalides" title="Category:Organohalides">Organohalides</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Halocarbon" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Halocarbon" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Halocarbon" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Halocarbon" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Halocarbon">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Halocarbon&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Halocarbon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Halocarbon" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Halocarbon" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Halocarbon&amp;oldid=855274556" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Halocarbon&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q387914" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Halocarbon&amp;id=855274556" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Halocarbon">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Halocarbon&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Halocarbon&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Organohalides" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Halokarbon" title="Halokarbon – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Organohalid" title="Organohalid – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Halocarburo" title="Halocarburo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%88%E0%A4%B2%E0%A5%8B%E0%A4%8F%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%A8" title="हैलोएल्केन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Halon" title="Halon – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Compu%C5%9Fi_halogena%C5%A3i" title="Compuşi halogenaţi – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BE%D0%B3%D0%B5%D0%BD%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Галогенорганические соединения – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Halog%C3%A9nderiv%C3%A1t" title="Halogénderivát – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q387914#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 August 2018, at 04:01<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Halocarbon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.590","ppvisitednodes":{"value":2376,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":156214,"limit":2097152},"templateargumentsize":{"value":13911,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32839,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  437.744      1 -total"," 41.66%  182.384     16 Template:Citation"," 35.24%  154.258      1 Template:Reflist"," 23.93%  104.772      1 Template:Global_warming"," 23.22%  101.665      1 Template:Navbox_with_collapsible_groups","  6.13%   26.841      1 Template:Main","  5.52%   24.158      6 Template:Navbox","  5.38%   23.567     12 Template:Harv","  5.14%   22.489      1 Template:Authority_control","  3.98%   17.421      5 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.251","limit":"10.000"},"limitreport-memusage":{"value":4048332,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20181014053644","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":689,"wgHostname":"mw1265"});});</script>
+	</body>
+</html>
+

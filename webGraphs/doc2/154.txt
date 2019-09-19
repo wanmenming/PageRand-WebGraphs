@@ -1,0 +1,321 @@
+https://en.wikipedia.org/wiki/Green_Party_(Iran)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party (Iran) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_(Iran)","wgTitle":"Green Party (Iran)","wgCurRevisionId":797705730,"wgRevisionId":797705730,"wgArticleId":54317835,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Persian-language text","All stub articles","1999 establishments in Iran","Principlist political groups in Iran","Political parties established in 1999","Asian political party stubs","Iran politics stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_(Iran)","wgRelevantArticleId":54317835,"wgRequestId":"W7Fm8QrAID4AAH4W2uEAAAAF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q20110046","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/3/38/SabzParty.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_(Iran)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_(Iran)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_(Iran)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_(Iran)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_Iran rootpage-Green_Party_Iran skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party (Iran)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Iranian_Green_Movement" title="Iranian Green Movement">Iranian Green Movement</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For the exiled opposition party, see <a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Green Party of Iran</a>.</div>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #00A693; border-bottom:2px solid #00A693; line-height: 1;"><span class="fn org">Green Party of Iran</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:SabzParty.jpg" class="image"><img alt="SabzParty.jpg" src="//upload.wikimedia.org/wikipedia/en/3/38/SabzParty.jpg" width="131" height="142" data-file-width="131" data-file-height="142" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;"><span class="nowrap">Secretary-General</span></th><td class="agent" style="line-height:1.3em;">
+Hossein Kanani Moghaddam</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+October&#160;1999<span class="noprint">&#59;&#32;19&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1999-10</span>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">Legalized</th><td style="line-height:1.3em;">
+September&#160;4, 2000<span class="noprint">&#59;&#32;18 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2000-09-04</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Religion" title="Religion">Religion</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Islam" title="Islam">Islam</a></td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Resistance_Front_of_Islamic_Iran" title="Resistance Front of Islamic Iran">Resistance Front of Islamic Iran</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">Continental affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/International_Conference_of_Asian_Political_Parties" title="International Conference of Asian Political Parties">International Conference of Asian Political Parties</a> (ICAPP)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Islamic_Consultative_Assembly" title="Islamic Consultative Assembly">Parliament</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">2 / 290</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #00A693; width: 0.7%; height: 100%;"></div></div></div>
+</td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://greenpartyiran.com">greenpartyiran<wbr />.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #00A693;"><ul><li><a href="/wiki/Politics_of_Iran" title="Politics of Iran">Politics of Iran</a></li><li><a href="/wiki/List_of_political_parties_in_Iran" class="mw-redirect" title="List of political parties in Iran">Political parties</a></li><li><a href="/wiki/Elections_in_Iran" title="Elections in Iran">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party of Iran</b> (<a href="/wiki/Persian_language" title="Persian language">Persian</a>: <span lang="fa" dir="rtl">حزب سبز ایران</span>&#8206;, <small><a href="/wiki/Romanization_of_Persian" title="Romanization of Persian">translit.</a>&#160;</small><i lang="fa-Latn" title="Persian-language transliteration">Ḥezb-e Sabz-e Irān</i>) is a <a href="/wiki/Iranian_Principlists" title="Iranian Principlists">conservative</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> political party in <a href="/wiki/Iran" title="Iran">Iran</a>. The party's founder Hossein Kanani Moghaddam describes it as a <a href="/wiki/Centrist" class="mw-redirect" title="Centrist">centrist</a> party “between the fundamentalists and <a href="/wiki/Iranian_Reformists" title="Iranian Reformists">reformists</a>”.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> As of 2017, two party members Abolfazl Hassanbeigi (Damghan) and Yousef Davoudi (<a href="/wiki/Sarab_(electoral_district)" title="Sarab (electoral district)">Sarab</a>) hold seat in the <a href="/wiki/Iranian_Parliament" class="mw-redirect" title="Iranian Parliament">Iranian Parliament</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Iran)&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFBill_Samii1999" class="citation">Bill Samii (11 October 1999), <a rel="nofollow" class="external text" href="http://www.rferl.org/a/article/1342948.html"><i>Iran Report</i></a>, <b>2</b> (40), Radio Free Europe/Radio Liberty<span class="reference-accessdate">, retrieved <span class="nowrap">15 May</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Iran+Report&amp;rft.pub=Radio+Free+Europe%2FRadio+Liberty&amp;rft.date=1999-10-11&amp;rft.au=Bill+Samii&amp;rft_id=http%3A%2F%2Fwww.rferl.org%2Fa%2Farticle%2F1342948.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Iran%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFRohollah_Faghihi2016" class="citation">Rohollah Faghihi (22 June 2016), <a rel="nofollow" class="external text" href="http://al-monitor.com/pulse/originals/2016/06/iran-rouhani-second-term-conservatives-support.html">"Iranian conservatives may be forced to embrace Rouhani"</a>, <i>Al-Monitor</i><span class="reference-accessdate">, retrieved <span class="nowrap">8 February</span> 2016</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Al-Monitor&amp;rft.atitle=Iranian+conservatives+may+be+forced+to+embrace+Rouhani&amp;rft.date=2016-06-22&amp;rft.au=Rohollah+Faghihi&amp;rft_id=http%3A%2F%2Fal-monitor.com%2Fpulse%2Foriginals%2F2016%2F06%2Firan-rouhani-second-term-conservatives-support.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Iran%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.theicapp.org/bbs/download.php?tb=sub06_03&amp;b_pid=72&amp;f_no=0">"List of Participants and Observers in the 15 SC Meeting"</a>, <i>International Conference of Asian Political Parties</i><span class="reference-accessdate">, retrieved <span class="nowrap">4 April</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Conference+of+Asian+Political+Parties&amp;rft.atitle=List+of+Participants+and+Observers+in+the+15+SC+Meeting&amp;rft_id=http%3A%2F%2Fwww.theicapp.org%2Fbbs%2Fdownload.php%3Ftb%3Dsub06_03%26b_pid%3D72%26f_no%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Iran%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFSaeid_Jafari2015" class="citation">Saeid Jafari (31 August 2015), <a rel="nofollow" class="external text" href="http://al-monitor.com/pulse/originals/2017/02/iran-next-president-former-tv-boss-elections.html">"Could Iran's next president be former TV boss?"</a>, <i>Al-Monitor</i><span class="reference-accessdate">, retrieved <span class="nowrap">8 February</span> 2016</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Al-Monitor&amp;rft.atitle=Could+Iran%E2%80%99s+next+president+be+former+TV+boss%3F&amp;rft.date=2015-08-31&amp;rft.au=Saeid+Jafari&amp;rft_id=http%3A%2F%2Fal-monitor.com%2Fpulse%2Foriginals%2F2017%2F02%2Firan-next-president-former-tv-boss-elections.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Iran%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFJonathan_Steele2015" class="citation">Jonathan Steele (20 May 2015), <a rel="nofollow" class="external text" href="http://www.middleeasteye.net/news/middle-east-racked-turmoil-iranians-have-fallen-love-stability-685330821">"In a Middle East racked by turmoil Iranians have fallen in love with stability"</a>, <i>Middle East Eye</i><span class="reference-accessdate">, retrieved <span class="nowrap">4 April</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Middle+East+Eye&amp;rft.atitle=In+a+Middle+East+racked+by+turmoil+Iranians+have+fallen+in+love+with+stability&amp;rft.date=2015-05-20&amp;rft.au=Jonathan+Steele&amp;rft_id=http%3A%2F%2Fwww.middleeasteye.net%2Fnews%2Fmiddle-east-racked-turmoil-iranians-have-fallen-love-stability-685330821&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Iran%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Iran)&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.greenpartyiran.com">Green Party of Iran</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Iran&amp;#124;link=Iran_Political_organizations_in_Iran" style="padding:3px"><table class="nowraplinks hlist collapsible Iran navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Iranian_political_parties" title="Template:Iranian political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Iranian_political_parties" title="Template talk:Iranian political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Iranian_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Iran&amp;#124;link=Iran_Political_organizations_in_Iran" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a></span> <a href="/wiki/Political_parties_in_Iran" title="Political parties in Iran">Political organizations in Iran</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Politics_of_Iran&amp;#10;*_House_of_Parties_of_Iran">
+<ul><li><a href="/wiki/Politics_of_Iran" title="Politics of Iran">Politics of Iran</a></li>
+<li><a href="/wiki/House_of_Parties_of_Iran" title="House of Parties of Iran">House of Parties of Iran</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_Principlists" title="Iranian Principlists">Principlists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coordination_Council_of_Islamic_Revolution_Forces" title="Coordination Council of Islamic Revolution Forces">Coordination Council of Islamic Revolution Forces</a></li>
+<li><a href="/wiki/Alliance_of_Builders_of_Islamic_Iran" title="Alliance of Builders of Islamic Iran">Alliance of Builders of Islamic Iran</a></li>
+<li><a href="/wiki/United_Front_of_Principlists" title="United Front of Principlists">United Front of Principlists</a></li>
+<li><a href="/wiki/Principlists_Pervasive_Coalition" title="Principlists Pervasive Coalition">Principlists Pervasive Coalition</a></li>
+<li><a href="/wiki/Principlists_Grand_Coalition" title="Principlists Grand Coalition">Principlists Grand Coalition</a></li>
+<li><a href="/wiki/The_Two_Societies" title="The Two Societies">The Two Societies</a>
+<ul><li><a href="/wiki/Combatant_Clergy_Association" title="Combatant Clergy Association">Combatant Clergy Association</a></li>
+<li><a href="/wiki/Society_of_Seminary_Teachers_of_Qom" title="Society of Seminary Teachers of Qom">Society of Seminary Teachers of Qom</a></li></ul></li>
+<li><a href="/wiki/Front_of_Followers_of_the_Line_of_the_Imam_and_the_Leader" title="Front of Followers of the Line of the Imam and the Leader">Front of Followers of the Line of the Imam and the Leader</a>
+<ul><li><a href="/wiki/Islamic_Coalition_Party" title="Islamic Coalition Party">Islamic Coalition Party</a></li>
+<li><a href="/wiki/Islamic_Society_of_Engineers" title="Islamic Society of Engineers">Islamic Society of Engineers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Physicians_of_Iran" title="Islamic Association of Physicians of Iran">Islamic Association of Physicians of Iran</a></li>
+<li><a href="/wiki/Islamic_Society_of_Students" title="Islamic Society of Students">Islamic Society of Students</a></li>
+<li><a href="/wiki/Islamic_Society_of_Employees" title="Islamic Society of Employees">Islamic Society of Employees</a></li>
+<li><a href="/wiki/Islamic_Society_of_Athletes" title="Islamic Society of Athletes">Islamic Society of Athletes</a></li>
+<li><a href="/wiki/Zeynab_Society" title="Zeynab Society">Zeynab Society</a></li></ul></li>
+<li><a href="/wiki/Front_of_Transformationalist_Principlists" title="Front of Transformationalist Principlists">Front of Transformationalist Principlists</a>
+<ul><li><a href="/wiki/Society_of_Devotees_of_the_Islamic_Revolution" title="Society of Devotees of the Islamic Revolution">Society of Devotees of the Islamic Revolution</a></li>
+<li><a href="/wiki/Society_of_Pathseekers_of_the_Islamic_Revolution" title="Society of Pathseekers of the Islamic Revolution">Society of Pathseekers of the Islamic Revolution</a></li></ul></li>
+<li><a href="/wiki/Association_of_Islamic_Revolution_Loyalists" title="Association of Islamic Revolution Loyalists">Association of Islamic Revolution Loyalists</a></li>
+<li><a href="/wiki/Freethinkers%27_Pinnacle_Party" title="Freethinkers&#39; Pinnacle Party">Freethinkers' Pinnacle Party</a></li>
+<li><a href="/wiki/Fada%27iyan-e_Islam" title="Fada&#39;iyan-e Islam">Fadayeen of Islam Society</a></li>
+<li><a href="/wiki/Ansar-e_Hezbollah" title="Ansar-e Hezbollah">Ansar-e Hezbollah</a></li>
+<li><a href="/wiki/Coalition_of_the_Pleasant_Scent_of_Servitude" title="Coalition of the Pleasant Scent of Servitude">Coalition of the Pleasant Scent of Servitude</a></li>
+<li><a href="/wiki/Front_of_Islamic_Revolution_Stability" title="Front of Islamic Revolution Stability">Front of Islamic Revolution Stability</a></li>
+<li><a href="/wiki/Resistance_Front_of_Islamic_Iran" title="Resistance Front of Islamic Iran">Resistance Front of Islamic Iran</a>
+<ul><li><a href="/wiki/Development_and_Justice_Party" title="Development and Justice Party">Development and Justice Party</a></li>
+<li><a class="mw-selflink selflink">Green Party</a></li></ul></li>
+<li><a href="/wiki/Progress_and_Justice_Population_of_Islamic_Iran" title="Progress and Justice Population of Islamic Iran">Progress and Justice Population of Islamic Iran</a></li>
+<li><a href="/wiki/Modern_Thinkers_Party_of_Islamic_Iran" title="Modern Thinkers Party of Islamic Iran">Modern Thinkers Party of Islamic Iran</a></li>
+<li><a href="/wiki/Coalition_of_Iran%27s_Independent_Volunteers" title="Coalition of Iran&#39;s Independent Volunteers">Coalition of Iran's Independent Volunteers</a></li>
+<li><a href="/wiki/People%27s_Voice_(Iran)" title="People&#39;s Voice (Iran)">People's Voice</a></li>
+<li><a href="/wiki/Insight_and_Islamic_Awakening_Front" title="Insight and Islamic Awakening Front">Insight and Islamic Awakening Front</a></li>
+<li><a href="/wiki/Monotheism_and_Justice_Front" title="Monotheism and Justice Front">Monotheism and Justice Front</a></li>
+<li><a href="/wiki/Supporters_of_Justice_Discourse_of_Islamic_Revolution" title="Supporters of Justice Discourse of Islamic Revolution">Supporters of Justice Discourse of Islamic Revolution</a></li>
+<li><a href="/wiki/YEKTA_Front" title="YEKTA Front">YEKTA Front</a></li>
+<li><a href="/wiki/Popular_Front_of_Islamic_Revolution_Forces" title="Popular Front of Islamic Revolution Forces">Popular Front of Islamic Revolution Forces</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_Reformists" title="Iranian Reformists">Reformists</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Council_for_Coordinating_the_Reforms_Front" title="Council for Coordinating the Reforms Front">Council for Coordinating the Reforms Front</a>
+<ul><li><a href="/wiki/Association_of_Combatant_Clerics" title="Association of Combatant Clerics">Association of Combatant Clerics</a></li>
+<li><a href="/wiki/Executives_of_Construction_Party" title="Executives of Construction Party">Executives of Construction Party</a></li>
+<li><a href="/wiki/Assembly_of_Qom_Seminary_Scholars_and_Researchers" title="Assembly of Qom Seminary Scholars and Researchers">Assembly of Qom Seminary Scholars and Researchers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Teachers_of_Iran" title="Islamic Association of Teachers of Iran">Islamic Association of Teachers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Engineers_of_Iran" title="Islamic Association of Engineers of Iran">Islamic Association of Engineers</a></li>
+<li><a href="/wiki/Islamic_Association_of_Iranian_Medical_Society" title="Islamic Association of Iranian Medical Society">Islamic Association of Iranian Medical Society</a></li>
+<li><a href="/wiki/Islamic_Association_of_University_Instructors" title="Islamic Association of University Instructors">Islamic Association of University Instructors</a></li>
+<li><a href="/wiki/Assembly_of_the_Forces_of_Imam%27s_Line" title="Assembly of the Forces of Imam&#39;s Line">Association of Followers of the Imam's Line</a></li>
+<li><a href="/wiki/Mojahedin_of_the_Islamic_Revolution_of_Iran_Organization" title="Mojahedin of the Islamic Revolution of Iran Organization">Mojahedin of the Islamic Revolution of Iran Organization</a></li>
+<li><a href="/wiki/Islamic_Iran_Participation_Front" title="Islamic Iran Participation Front">Islamic Iran Participation Front</a></li>
+<li><a href="/wiki/Islamic_Iran_Solidarity_Party" title="Islamic Iran Solidarity Party">Islamic Iran Solidarity Party</a></li>
+<li><a href="/wiki/Democracy_Party_(Iran)" title="Democracy Party (Iran)">Democracy Party</a></li>
+<li><a href="/wiki/Will_of_the_Iranian_Nation_Party" title="Will of the Iranian Nation Party">Will of the Iranian Nation Party</a></li>
+<li><a href="/wiki/Association_of_the_Women_of_the_Islamic_Republic" title="Association of the Women of the Islamic Republic">Association of the Women of the Islamic Republic</a></li>
+<li><a href="/wiki/Islamic_Assembly_of_Ladies" title="Islamic Assembly of Ladies">Islamic Assembly of Ladies</a></li>
+<li><a href="/wiki/Office_for_Strengthening_Unity" title="Office for Strengthening Unity">Office for Strengthening Unity</a></li>
+<li><a href="/wiki/Islamic_Labour_Party" title="Islamic Labour Party">Islamic Labour Party</a></li>
+<li><a href="/wiki/Worker_House" title="Worker House">Worker House</a></li>
+<li><a href="/wiki/Islamic_Iran_Freedom_and_Justice_Organization" title="Islamic Iran Freedom and Justice Organization">Islamic Iran Freedom and Justice Organization</a></li></ul></li>
+<li><a href="/wiki/Coalition_For_Iran" title="Coalition For Iran">Coalition For Iran</a></li>
+<li><a href="/wiki/Reformists_Front" title="Reformists Front">Reformists Front</a>
+<ul><li><a href="/wiki/Popular_Party_of_Reforms" title="Popular Party of Reforms">Popular Party of Reforms</a></li></ul></li>
+<li><a href="/wiki/Iranian_Call_and_Reform_Organization" title="Iranian Call and Reform Organization">Iranian Call and Reform Organization</a></li>
+<li><a href="/wiki/Kurdish_United_Front" title="Kurdish United Front">Kurdish United Front</a></li>
+<li><a href="/wiki/Moderation_and_Development_Party" title="Moderation and Development Party">Moderation and Development Party</a></li>
+<li><a href="/wiki/National_Trust_Party_(Iran)" title="National Trust Party (Iran)">National Trust Party</a></li>
+<li><a href="/wiki/The_Green_Path_of_Hope" title="The Green Path of Hope">The Green Path of Hope</a></li>
+<li><a href="/wiki/NEDA_Party" title="NEDA Party">NEDA Party</a></li>
+<li><a href="/wiki/Union_of_Islamic_Iran_People_Party" title="Union of Islamic Iran People Party">Union of Islamic Iran People Party</a></li>
+<li><a href="/wiki/Pervasive_Coalition_of_Reformists" title="Pervasive Coalition of Reformists">Pervasive Coalition of Reformists</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_dissidents" title="Iranian dissidents">Anti-establishment</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Front_(Iran)" title="National Front (Iran)">National Front</a>
+<ul><li><a href="/wiki/Iran_Party" title="Iran Party">Iran Party</a></li>
+<li><a href="/wiki/Party_of_the_Iranian_People" title="Party of the Iranian People">Party of the Iranian People</a></li></ul></li>
+<li><a href="/wiki/Freedom_Movement_of_Iran" title="Freedom Movement of Iran">Freedom Movement</a></li>
+<li><a href="/wiki/Movement_of_Militant_Muslims" title="Movement of Militant Muslims">Movement of Militant Muslims</a></li>
+<li><a href="/wiki/Council_of_Nationalist-Religious_Activists_of_Iran" title="Council of Nationalist-Religious Activists of Iran">Council of Nationalist-Religious Activists</a></li>
+<li><a href="/wiki/Pan-Iranist_Party" title="Pan-Iranist Party">Pan-Iranist Party</a></li>
+<li><a href="/wiki/Nation_Party_of_Iran" title="Nation Party of Iran">Nation Party</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><b><a href="/wiki/Template:Iranian_exiled_parties" title="Template:Iranian exiled parties">Banned/Exiled parties</a></b></li>
+<li><b><a href="/wiki/Template:Iran_defunct_parties" title="Template:Iran defunct parties">Historic parties</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Iran.svg" class="image"><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/20px-Flag_of_Iran.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/30px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/40px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a> <a href="/wiki/File:Vote_icon.svg" class="image"><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/20px-Vote_icon.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/30px-Vote_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/40px-Vote_icon.svg.png 2x" data-file-width="326" data-file-height="393" /></a></td><td><i>This article about an <a href="/wiki/Political_parties_in_Iran" title="Political parties in Iran">Iranian political party</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_(Iran)&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Iran-party-stub" title="Template:Iran-party-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Iran-party-stub" title="Template talk:Iran-party-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Iran-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2174
+Cached time: 20181001001442
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.400 seconds
+Real time usage: 0.497 seconds
+Preprocessor visited node count: 2017/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46258/2097152 bytes
+Template argument size: 1626/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13355/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.238/10.000 seconds
+Lua memory usage: 12.23 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  439.737      1 -total
+ 31.56%  138.766      1 Template:Lang-fa
+ 30.07%  132.214      1 Template:Infobox_political_party
+ 25.38%  111.584      1 Template:Infobox
+ 23.63%  103.901      1 Template:Reflist
+ 16.17%   71.112      2 Template:Citation
+  5.98%   26.314      2 Template:Start_date_and_age
+  5.73%   25.188      1 Template:Distinguish
+  4.87%   21.435      3 Template:Cite
+  4.37%   19.232      1 Template:Iranian_political_parties
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:54317835-0!canonical and timestamp 20181001001442 and revision id 797705730
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_(Iran)&amp;oldid=797705730">https://en.wikipedia.org/w/index.php?title=Green_Party_(Iran)&amp;oldid=797705730</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1999_establishments_in_Iran" title="Category:1999 establishments in Iran">1999 establishments in Iran</a></li><li><a href="/wiki/Category:Principlist_political_groups_in_Iran" title="Category:Principlist political groups in Iran">Principlist political groups in Iran</a></li><li><a href="/wiki/Category:Political_parties_established_in_1999" title="Category:Political parties established in 1999">Political parties established in 1999</a></li><li><a href="/wiki/Category:Asian_political_party_stubs" title="Category:Asian political party stubs">Asian political party stubs</a></li><li><a href="/wiki/Category:Iran_politics_stubs" title="Category:Iran politics stubs">Iran politics stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+%28Iran%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+%28Iran%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_(Iran)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_(Iran)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_(Iran)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_(Iran)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_(Iran)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_(Iran)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_(Iran)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_(Iran)&amp;oldid=797705730" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_(Iran)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20110046" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_%28Iran%29&amp;id=797705730" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+%28Iran%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+%28Iran%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_(Iran)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A8_%D8%B3%D8%A8%D8%B2_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86" title="حزب سبز ایران – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20110046#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 August 2017, at 18:36<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_(Iran)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.497","ppvisitednodes":{"value":2017,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46258,"limit":2097152},"templateargumentsize":{"value":1626,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13355,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  439.737      1 -total"," 31.56%  138.766      1 Template:Lang-fa"," 30.07%  132.214      1 Template:Infobox_political_party"," 25.38%  111.584      1 Template:Infobox"," 23.63%  103.901      1 Template:Reflist"," 16.17%   71.112      2 Template:Citation","  5.98%   26.314      2 Template:Start_date_and_age","  5.73%   25.188      1 Template:Distinguish","  4.87%   21.435      3 Template:Cite","  4.37%   19.232      1 Template:Iranian_political_parties"]},"scribunto":{"limitreport-timeusage":{"value":"0.238","limit":"10.000"},"limitreport-memusage":{"value":12821425,"limit":52428800}},"cachereport":{"origin":"mw2174","timestamp":"20181001001442","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":605,"wgHostname":"mw2174"});});</script>
+	</body>
+</html>

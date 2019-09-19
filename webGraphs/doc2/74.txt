@@ -1,0 +1,308 @@
+https://en.wikipedia.org/wiki/The_People_%26_Planet_Green_League
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The People &amp; Planet Green League - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_People_\u0026_Planet_Green_League","wgTitle":"The People \u0026 Planet Green League","wgCurRevisionId":800909498,"wgRevisionId":800909498,"wgArticleId":11978752,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Environment of the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_People_\u0026_Planet_Green_League","wgRelevantArticleId":11978752,"wgRequestId":"W6@iXwrAEDkAABYFSSYAAABJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7756628","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_People_%26_Planet_Green_League"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_People_%26_Planet_Green_League"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_People_Planet_Green_League rootpage-The_People_Planet_Green_League skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">The People &amp; Planet Green League</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>The People &amp; Planet Green League</b> is the only comprehensive and independent ranking of United Kingdom <a href="/wiki/Universities" class="mw-redirect" title="Universities">universities</a> by environmental and ethical performance and practice.<sup id="cite_ref-greenleague_1-0" class="reference"><a href="#cite_note-greenleague-1">&#91;1&#93;</a></sup> It is compiled by the student campaign group <a href="/wiki/People_%26_Planet" title="People &amp; Planet">People &amp; Planet</a>. From 2007 to 2010 the Green League was published annually in the <i><a href="/wiki/Times_Higher_Education_Supplement" class="mw-redirect" title="Times Higher Education Supplement">Times Higher Education Supplement</a></i>, but since 2011 it has been published in <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Methodology"><span class="tocnumber">2</span> <span class="toctext">Methodology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Previous_Green_Leagues"><span class="tocnumber">3</span> <span class="toctext">Previous Green Leagues</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Awards_&amp;_response"><span class="tocnumber">3.1</span> <span class="toctext">Awards &amp; response</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Criticisms"><span class="tocnumber">3.2</span> <span class="toctext">Criticisms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The People &amp; Planet Green League was first published in 2007, as a way of driving forward environmental performance within the university sector. The People &amp; Planet Green League publicly benchmarks the sector's green credentials by combining universities' estates performance data with information about their environmental policies and management practices.
+</p><p>It initially scored UK universities on four key institutional factors needed to drive forward significant and sustained improvement in environmental performance, as highlighted by the Going Green report.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> These criteria were:
+</p>
+<ul><li>The active, public support of senior university management (in particular the vice-chancellor or principal) for a programme of environmental performance improvement.</li>
+<li>Full-time staff dedicated to environmental management.</li>
+<li>A comprehensive review to investigate all the environmental impacts of the institution.</li>
+<li>A written, publicly available environmental policy.</li></ul>
+<p>Published each year in affiliation with a national newspaper, the People &amp; Planet Green League aims to boost the national profile of environmental management in higher education by celebrating and sharing best practice and exposing inaction.
+</p>
+<h2><span class="mw-headline" id="Methodology">Methodology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit&amp;section=2" title="Edit section: Methodology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The People &amp; Planet Green League adapts and modifies its methodology each year. The aim of this process is to respond to new environmental concerns, push transition further and incorporate feedback and criticism from previous years to improve the accuracy and transparency of the Green League.
+</p><p>In 2012, the Green League measured universities according to 13 key indicators:
+</p>
+<ul><li>whether or not the institution has a publicly available environmental policy</li>
+<li>the number of full-time equivalent (FTE) Environmental Management posts per 5,000 FTE students</li>
+<li>environmental auditing</li>
+<li><a href="/wiki/Ethical_investment" class="mw-redirect" title="Ethical investment">ethical investment</a></li>
+<li>carbon management</li>
+<li>ethical procurement and <a href="/wiki/Fairtrade" class="mw-redirect" title="Fairtrade">Fairtrade</a> status</li>
+<li>sustainable food</li>
+<li>staff and student engagement</li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> in the curriculum</li>
+<li>energy sources</li>
+<li>waste and <a href="/wiki/Recycling" title="Recycling">recycling</a></li>
+<li>reduction in <a href="/wiki/Carbon_emissions" class="mw-redirect" title="Carbon emissions">carbon emissions</a></li>
+<li>water-use reduction</li></ul>
+<p>Universities are awarded a 'First', '2:1', '2:2' or 'Third' rating dependent upon performance.
+</p>
+<h2><span class="mw-headline" id="Previous_Green_Leagues">Previous Green Leagues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit&amp;section=3" title="Edit section: Previous Green Leagues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year</th>
+<th>Published in</th>
+<th>Greenest University
+</th></tr>
+<tr>
+<td>2012</td>
+<td><i><a rel="nofollow" class="external text" href="https://www.theguardian.com/news/datablog/2012/may/28/university-green-league-greenwich-environment">The Guardian</a></i></td>
+<td><a href="/wiki/University_of_Greenwich" title="University of Greenwich">University of Greenwich</a>
+</td></tr>
+<tr>
+<td>2011</td>
+<td><i><a rel="nofollow" class="external text" href="https://www.theguardian.com/education/table/2011/jun/07/green-league-table-2011">The Guardian</a></i></td>
+<td><a href="/wiki/Nottingham_Trent_University" title="Nottingham Trent University">Nottingham Trent University</a>
+</td></tr>
+<tr>
+<td>2010</td>
+<td><i><a rel="nofollow" class="external text" href="http://www.timeshighereducation.co.uk/Journals/THE/THE/10_June_2010/attachments/Green_league_THE.pdf">Times Higher Education Supplement</a></i></td>
+<td><a href="/wiki/University_of_Plymouth" title="University of Plymouth">University of Plymouth</a>
+</td></tr>
+<tr>
+<td>2009</td>
+<td><i><a rel="nofollow" class="external text" href="http://www.timeshighereducation.co.uk/story.asp?storycode=406979">Times Higher Education Supplement</a></i></td>
+<td><a href="/wiki/Nottingham_Trent_University" title="Nottingham Trent University">Nottingham Trent University</a>
+</td></tr>
+<tr>
+<td>2008</td>
+<td><i><a rel="nofollow" class="external text" href="http://www.timeshighereducation.co.uk/story.asp?storycode=402566">Times Higher Education Supplement</a></i></td>
+<td><a href="/wiki/University_of_Gloucestershire" title="University of Gloucestershire">University of Gloucestershire</a>
+</td></tr>
+<tr>
+<td>2007</td>
+<td><i><a rel="nofollow" class="external text" href="http://peopleandplanet.org/gogreen/greenleague2007">Times Higher Education Supplement</a></i></td>
+<td><a href="/wiki/Leeds_Metropolitan_University" class="mw-redirect" title="Leeds Metropolitan University">Leeds Metropolitan University</a>
+</td></tr></tbody></table>
+<h3><span id="Awards_.26_response"></span><span class="mw-headline" id="Awards_&amp;_response">Awards &amp; response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit&amp;section=4" title="Edit section: Awards &amp; response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2012, the Green League was shortlisted for a Green Gown award.
+</p><p>The Green League 2007 received critical acclaim following its publication. The <a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">World Wide Fund for Nature</a> (WWF) awarded The People &amp; Planet Green League with a <a href="/wiki/British_Environment_and_Media_Award" class="mw-redirect" title="British Environment and Media Award">British Environment and Media Award</a> for Best Campaign. The WWF said of The Green League 2007 that: "It succeeded in dragging environmental issues from the fringes and making them a central concern for many Vice Chancellors."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>
+The Green League received praise from <a href="/wiki/Chris_Huhne" title="Chris Huhne">Chris Huhne</a> when <a href="/wiki/Secretary_of_State_for_Energy_and_Climate_Change" title="Secretary of State for Energy and Climate Change">Secretary of State for Energy and Climate Change</a>:</p><blockquote><p>The Green League throws a spotlight onto the work being done in universities to cut emissions, and I hope it will encourage universities and students to redouble their efforts in the fight against climate change. It is the students in universities today who will be carrying on the work to build the low-carbon Britain of tomorrow, and it is vital that universities and Government set a good example.<sup id="cite_ref-greenleague_1-1" class="reference"><a href="#cite_note-greenleague-1">&#91;1&#93;</a></sup></p></blockquote>
+<h3><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit&amp;section=5" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The methodology has been criticised for not fully incorporating all factors that can contribute to an institution's sustainability; for instance schemes soon to be implemented.
+</p><p>The ranking also did not incorporate the amount of Environmental Research and Teaching, which while not directly contributing to any reduction in the university's <a href="/wiki/Carbon_footprint" title="Carbon footprint">carbon footprint</a>, does serve to educate the next generation, and may reveal a new way to increase sustainability. However, a high level of environment research does not seem to correlate with a sustainable university (for instance, <a href="/wiki/Aberystwyth_University" title="Aberystwyth University">Aberystwyth University</a>, which runs a number of courses on Environmental Management,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> but gained only 97th position in the Green League). The <a href="/wiki/University_of_Greenwich" title="University of Greenwich">University of Greenwich</a> is another institution which believed that the criteria for marking was too limited, and following several criticms<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Green League acknowledged that it needed to expand its indicators, which it has done in the following years.
+</p><p>Another criticism is that much of the information is reliant on the institutions faithfulness; People and Planet did not have the resources to mount an independent audit.
+</p><p>These criticisms have largely been addressed by People and Planet, and this can be seen in the amendments which have been made in the measuring criteria which now includes many new areas of assessment which do address other areas of a universities environment.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-greenleague-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-greenleague_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-greenleague_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://peopleandplanet.org/greenleague">"The Green League"</a>. People &amp; Planet<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Green+League&amp;rft.pub=People+%26+Planet&amp;rft_id=http%3A%2F%2Fpeopleandplanet.org%2Fgreenleague&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+People+%26+Planet+Green+League" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Williams, Rachel (28 May 2012). <a rel="nofollow" class="external text" href="https://www.theguardian.com/education/2012/may/28/people-and-planet-green-league-2012">"Greenwich tops the university Green League"</a>. London: The Guardian<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Greenwich+tops+the+university+Green+League&amp;rft.date=2012-05-28&amp;rft.aulast=Williams&amp;rft.aufirst=Rachel&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2012%2Fmay%2F28%2Fpeople-and-planet-green-league-2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+People+%26+Planet+Green+League" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://peopleandplanet.org/gogreen/report.php">"Going Green Report"</a>. People &amp; Planet<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Going+Green+Report&amp;rft.pub=People+%26+Planet&amp;rft_id=http%3A%2F%2Fpeopleandplanet.org%2Fgogreen%2Freport.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+People+%26+Planet+Green+League" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wwf.org.uk/what_we_do/about_us/all_about_wwf/bema_winners_2007.cfm">"BEMA Winners"</a>. World Wide Fund for nature<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BEMA+Winners&amp;rft.pub=World+Wide+Fund+for+nature&amp;rft_id=http%3A%2F%2Fwww.wwf.org.uk%2Fwhat_we_do%2Fabout_us%2Fall_about_wwf%2Fbema_winners_2007.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+People+%26+Planet+Green+League" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aber.ac.uk/biology/prospective/manenvi05a.html#Environmental_Impact_Assessment">"Biology Degrees at Aberystwyth University"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biology+Degrees+at+Aberystwyth+University&amp;rft_id=http%3A%2F%2Fwww.aber.ac.uk%2Fbiology%2Fprospective%2Fmanenvi05a.html%23Environmental_Impact_Assessment&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+People+%26+Planet+Green+League" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/education/higher/winners-and-losers-of-the-university-green-league-453918.html">"Winners and losers of the university green league"</a>. <i>The Independent</i>. London. 21 June 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Winners+and+losers+of+the+university+green+league&amp;rft.date=2007-06-21&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Feducation%2Fhigher%2Fwinners-and-losers-of-the-university-green-league-453918.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+People+%26+Planet+Green+League" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>EMStats (Estates Management Statistics) <a rel="nofollow" class="external autonumber" href="http://www.opdems.ac.uk/">[1]</a></li>
+<li>List of universities with Fairtrade status <a rel="nofollow" class="external autonumber" href="http://www.fairtrade.org.uk/get_involved/campaigns/fairtrade_universities/the_5_goals.aspx">[2]</a></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2258
+Cached time: 20180929160343
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.154 seconds
+Preprocessor visited node count: 304/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8112/2097152 bytes
+Template argument size: 100/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15238/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 2.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  122.548      1 Template:Reflist
+100.00%  122.548      1 -total
+ 73.64%   90.243      4 Template:Cite_web
+  8.21%   10.059      2 Template:Cite_news
+  1.63%    1.999      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11978752-0!canonical and timestamp 20180929160343 and revision id 800909498
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_People_%26_Planet_Green_League&amp;oldid=800909498">https://en.wikipedia.org/w/index.php?title=The_People_%26_Planet_Green_League&amp;oldid=800909498</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environment_of_the_United_Kingdom" title="Category:Environment of the United Kingdom">Environment of the United Kingdom</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+People+%26+Planet+Green+League" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+People+%26+Planet+Green+League" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/The_People_%26_Planet_Green_League" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:The_People_%26_Planet_Green_League&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/The_People_%26_Planet_Green_League">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_People_%26_Planet_Green_League" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_People_%26_Planet_Green_League" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;oldid=800909498" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7756628" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_People_%26_Planet_Green_League&amp;id=800909498" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+People+%26+Planet+Green+League">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+People+%26+Planet+Green+League&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=The_People_%26_Planet_Green_League&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7756628#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 September 2017, at 13:22<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_People_%26_Planet_Green_League&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.154","ppvisitednodes":{"value":304,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8112,"limit":2097152},"templateargumentsize":{"value":100,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15238,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  122.548      1 Template:Reflist","100.00%  122.548      1 -total"," 73.64%   90.243      4 Template:Cite_web","  8.21%   10.059      2 Template:Cite_news","  1.63%    1.999      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.065","limit":"10.000"},"limitreport-memusage":{"value":2479119,"limit":52428800}},"cachereport":{"origin":"mw2258","timestamp":"20180929160343","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":286,"wgHostname":"mw2258"});});</script>
+	</body>
+</html>

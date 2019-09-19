@@ -1,0 +1,279 @@
+https://en.wikipedia.org/wiki/Green_left
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green left - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_left","wgTitle":"Green left","wgCurRevisionId":833420722,"wgRevisionId":833420722,"wgArticleId":19683207,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from October 2008","All articles lacking sources","All stub articles","Green politics","Left-wing politics","Politics stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_left","wgRelevantArticleId":19683207,"wgRequestId":"W7KLMwrAIFIAADaV1rYAAAAB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1062471","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_left"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_left&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_left&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_left"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_left rootpage-Green_left skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green left</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_left&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small><i>(October 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Green_Left_(disambiguation)" class="mw-redirect mw-disambig" title="Green Left (disambiguation)">Green Left</a>.</div>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a class="mw-selflink selflink">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The term <b>green left</b> is used primarily to refer to a combination of <a href="/wiki/Environmentalism" title="Environmentalism">environmentalism</a>, <a href="/wiki/Feminism" title="Feminism">feminism</a>, <a href="/wiki/Socialism" title="Socialism">socialism</a> and <a href="/wiki/Pacifism" title="Pacifism">pacifism</a> in countries where the term is used. It is primarily a <a href="/wiki/Social_justice" title="Social justice">social justice</a> and <a href="/wiki/Human_rights" title="Human rights">human rights</a> oriented ideology, with an expansion in focus to the <a href="/wiki/Animal_rights" title="Animal rights">rights of other species</a>. 
+</p><p>The name "<a href="/wiki/Green_Left_(disambiguation)" class="mw-redirect mw-disambig" title="Green Left (disambiguation)">Green Left</a>" is also used by a variety of organisations which espouse socialist or Marxist principles, but with a greater emphasis on environmental preservation than previous iterations of <a href="/wiki/Socialism" title="Socialism">socialism</a> and <a href="/wiki/Communism" title="Communism">communism</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Politics"><span class="tocnumber">1</span> <span class="toctext">Politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Europe"><span class="tocnumber">1.1</span> <span class="toctext">Europe</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Elsewhere"><span class="tocnumber">1.2</span> <span class="toctext">Elsewhere</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_left&amp;action=edit&amp;section=1" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_left&amp;action=edit&amp;section=2" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Europe" title="Europe">Europe</a>, the green left arose partly out of the declining <a href="/wiki/Eurocommunism" title="Eurocommunism">Eurocommunist</a> tendency that has been mostly associated with various communist parties in the continent. As a result, many former communist parties and remnants of communist parties were either reestablished or fused into existing <a href="/wiki/Green_party" title="Green party">green parties</a>.
+</p><p>Far-left political parties or <a href="/wiki/Electoral_alliance" title="Electoral alliance">joint electoral lists</a> have been formed over the years, most often between <a href="/wiki/Marxism" title="Marxism">Marxist</a> and radical greens. In the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, the <a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a> party was formed in 1989 by a merger of a <a href="/wiki/Communist_Party_of_the_Netherlands" title="Communist Party of the Netherlands">communist</a>, <a href="/wiki/Pacifist_Socialist_Party" title="Pacifist Socialist Party">pacifist</a>, <a href="/wiki/Evangelical_People%27s_Party_(Netherlands)" title="Evangelical People&#39;s Party (Netherlands)">left-wing Christian</a> and <a href="/wiki/Political_Party_of_Radicals" title="Political Party of Radicals">green</a> parties. In December 2007, an <a href="/wiki/Italy" title="Italy">Italian</a> <a href="/wiki/Electoral_alliance" title="Electoral alliance">electoral coalition</a> of the radical left was formed known as <a href="/wiki/The_Left_%E2%80%93_The_Rainbow" title="The Left – The Rainbow">The Left – The Rainbow</a>, comprising <a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a>, two communist parties and a small <a href="/wiki/Democratic_socialism" title="Democratic socialism">democratic socialist</a> party.
+</p>
+<h3><span class="mw-headline" id="Elsewhere">Elsewhere</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_left&amp;action=edit&amp;section=3" title="Edit section: Elsewhere">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The green left has also been prominent in the <a href="/wiki/Green_politics" title="Green politics">green politics</a> outside of Europe, especially in the <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, although these green parties may involve themselves in alliances with otherwise conservative political organisations in <a href="/wiki/Blue%E2%80%93green_alliance" title="Blue–green alliance">blue–green alliances</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_left&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_Left_(disambiguation)" class="mw-redirect mw-disambig" title="Green Left (disambiguation)">Green Left (disambiguation)</a></li></ul>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Society.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Society.svg/45px-Society.svg.png" width="45" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Society.svg/68px-Society.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Society.svg/90px-Society.svg.png 2x" data-file-width="96" data-file-height="38" /></a></td><td><i>This article about <a href="/wiki/Politics" title="Politics">politics</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_left&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Poli-stub" title="Template:Poli-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Poli-stub" title="Template talk:Poli-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Poli-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2253
+Cached time: 20180922080040
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.121 seconds
+Preprocessor visited node count: 305/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24054/2097152 bytes
+Template argument size: 110/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.031/10.000 seconds
+Lua memory usage: 1.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   84.092      1 -total
+ 51.46%   43.273      1 Template:Unreferenced
+ 33.22%   27.939      1 Template:Ambox
+ 20.03%   16.841      1 Template:Green_politics_sidebar
+ 18.43%   15.497      1 Template:Green_politics
+ 15.13%   12.722      1 Template:Poli-stub
+ 14.13%   11.882      1 Template:Sidebar_with_collapsible_lists
+ 13.22%   11.117      1 Template:Asbox
+ 13.02%   10.948      1 Template:Other_uses
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19683207-0!canonical and timestamp 20180922080040 and revision id 833420722
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_left&amp;oldid=833420722">https://en.wikipedia.org/w/index.php?title=Green_left&amp;oldid=833420722</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_politics" title="Category:Green politics">Green politics</a></li><li><a href="/wiki/Category:Left-wing_politics" title="Category:Left-wing politics">Left-wing politics</a></li><li><a href="/wiki/Category:Politics_stubs" title="Category:Politics stubs">Politics stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_October_2008" title="Category:Articles lacking sources from October 2008">Articles lacking sources from October 2008</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+left" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+left" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_left" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_left" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_left">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_left&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_left&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_left" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_left" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_left&amp;oldid=833420722" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_left&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1062471" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_left&amp;id=833420722" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+left">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+left&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_left&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D8%B3%D8%A7%D8%B1_%D8%A3%D8%AE%D8%B6%D8%B1" title="يسار أخضر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Izquierda_verde" title="Izquierda verde – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Sinistra_verde" title="Sinistra verde – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Punavihreys" title="Punavihreys – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1062471#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 31 March 2018, at 12:33<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_left&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.121","ppvisitednodes":{"value":305,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24054,"limit":2097152},"templateargumentsize":{"value":110,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   84.092      1 -total"," 51.46%   43.273      1 Template:Unreferenced"," 33.22%   27.939      1 Template:Ambox"," 20.03%   16.841      1 Template:Green_politics_sidebar"," 18.43%   15.497      1 Template:Green_politics"," 15.13%   12.722      1 Template:Poli-stub"," 14.13%   11.882      1 Template:Sidebar_with_collapsible_lists"," 13.22%   11.117      1 Template:Asbox"," 13.02%   10.948      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.031","limit":"10.000"},"limitreport-memusage":{"value":1556639,"limit":52428800}},"cachereport":{"origin":"mw2253","timestamp":"20180922080040","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw2194"});});</script>
+	</body>
+</html>

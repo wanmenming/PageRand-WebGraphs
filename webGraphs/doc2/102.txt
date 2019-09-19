@@ -1,0 +1,436 @@
+https://en.wikipedia.org/wiki/Green_paradox
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green paradox - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_paradox","wgTitle":"Green paradox","wgCurRevisionId":850501370,"wgRevisionId":850501370,"wgArticleId":23309349,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Economics and climate change","Economics paradoxes","Economic policy","Global warming","Decision-making paradoxes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_paradox","wgRelevantArticleId":23309349,"wgRequestId":"W7AQDArAIEwAAItsGbEAAAAM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1171333","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_paradox"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_paradox&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_paradox&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_paradox"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_paradox rootpage-Green_paradox skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green paradox</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">a series</a> about</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></th></tr><tr><th style="padding:0.1em">
+Concepts</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green economy</a></li>
+<li><a href="/wiki/Green_trading" title="Green trading">Green trading</a></li>
+<li><a href="/wiki/Eco_commerce" title="Eco commerce">Eco commerce</a></li>
+<li><a href="/wiki/Green_job" title="Green job">Green job</a></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Policies</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Sustainable tourism</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Environmental_tariff" class="mw-redirect" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Dynamics</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><a href="/wiki/Marginal_abatement_cost" title="Marginal abatement cost">Marginal abatement cost</a></li>
+<li><a class="mw-selflink selflink">Green paradox</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Pollution_haven_hypothesis" title="Pollution haven hypothesis">Pollution haven hypothesis</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Carbon related</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Carbon_neutral_fuel" class="mw-redirect" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a href="/wiki/Carbon_pricing" class="mw-redirect" title="Carbon pricing">Carbon pricing</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_emission_trading" title="Carbon emission trading">Carbon emission trading</a></li>
+<li><a href="/wiki/Personal_carbon_trading" title="Personal carbon trading">Personal carbon trading</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Carbon_finance" title="Carbon finance">Carbon finance</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Carbon_diet" title="Carbon diet">Carbon diet</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/2000-watt_society" title="2000-watt society">2000-watt society</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_economics_sidebar" title="Template:Green economics sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_economics_sidebar" title="Template talk:Green economics sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>green paradox</b> is the title of a controversial book by German economist, <a href="/wiki/Hans-Werner_Sinn" title="Hans-Werner Sinn">Hans-Werner Sinn</a>, describing the observation that an <a href="/wiki/Environmentalism" title="Environmentalism">environmental</a> <a href="/wiki/Public_policy" title="Public policy">policy</a> that becomes greener with the passage of time acts like an <a href="/wiki/Expropriation" title="Expropriation">announced expropriation</a> for the owners of <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> resources, inducing them to accelerate <a href="/wiki/Resource_extraction" class="mw-redirect" title="Resource extraction">resource extraction</a> and hence to accelerate <a href="/wiki/Global_warming" title="Global warming">global warming</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Main_line_of_reasoning"><span class="tocnumber">1</span> <span class="toctext">Main line of reasoning</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Practicable_solutions"><span class="tocnumber">2</span> <span class="toctext">Practicable solutions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Works_on_the_subject"><span class="tocnumber">3</span> <span class="toctext">Works on the subject</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Main_line_of_reasoning">Main line of reasoning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_paradox&amp;action=edit&amp;section=1" title="Edit section: Main line of reasoning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The green paradox’s line of reasoning starts by recognizing a fundamental, unavoidable fact: every <a href="/wiki/Carbon" title="Carbon">carbon</a> atom in the gas, coal or oil extracted from the ground to be used as fuel ends up in the atmosphere, in particular if high efficiency combustion processes ensure that no part of it ends up as soot. About a quarter of the emitted carbon will stay in the atmosphere practically forever, contributing to the <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a> that causes global warming.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Apart from <a href="/wiki/Afforestation" title="Afforestation">afforestation</a>, only two things can mitigate the accumulation of carbon in the atmosphere: either less carbon is extracted from the ground, or it is injected back underground after harvesting its energy.
+</p><p>Environmental policy efforts, however, in particular European ones, go in neither of these two directions, aiming instead at the promotion of alternative, CO<sub>2</sub>-free energy sources and a more efficient use of energy. While the author, Hans-Werner Sinn in particular claims that support schemes for renewable energy sources have little effect, he overlooks government support to fossil fuel consumption and production. In OECD countries and key emerging economies such support is high, at USD 160-200 billion annually, according to a OECD report. This support is said to hamper global efforts to curb emissions and combat climate change.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>According to Sinn green policies, by heralding a gradual tightening of policy over the coming decades, exert a stronger downward pressure on future prices than on current ones, decreasing thus the rate of capital appreciation of the fossil fuel deposits. The owners of these resources regard this development with concern and react by increasing extraction volumes, converting the proceeds into investments in the capital markets, which offer higher yields. That is the green paradox: environmental policy slated to become greener over time acts as an announced expropriation that provokes owners to react by accelerating the rate of extraction of their fossil fuel stocks,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> thus accelerating climate change.
+</p><p>Countries that do not partake of the efforts to curb demand have a double advantage. They burn the carbon set free by the “green” countries (<a href="/wiki/Carbon_leakage" title="Carbon leakage">leakage effect</a>) and they also burn the additional carbon extracted as a reaction to the announced and expected price cuts resulting from the gradual greening of environmental policies (green paradox).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Sinn writes in his abstract that: "[Demand reduction strategies] simply depress the world price of carbon and induce the environmental sinners to consume what the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto countries</a> have economized on. Even worse, if suppliers feel threatened by a gradual greening of economic policies in the Kyoto countries that would damage their future prices, they will extract their stocks more rapidly, thus accelerating global warming."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Sinn emphasizes that a condition for the green paradox is that the resource be scarce in the sense that its price will always be higher than the unit extraction and exploration costs combined. He points out that this condition is likely to be satisfied as backstop technologies will at best offer a perfect substitute for electricity, but not for fossil fuels. The prices of coal and crude oil are currently many times higher than the corresponding exploration and extraction costs combined.
+</p>
+<h2><span class="mw-headline" id="Practicable_solutions">Practicable solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_paradox&amp;action=edit&amp;section=2" title="Edit section: Practicable solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An effective climate policy must perforce focus on the hitherto neglected supply side of the carbon market in addition to the demand side. The ways proposed as practicable by Sinn include levying a withholding tax on the capital gains on the financial investments of fossil fuel resource owners, or the establishment of a seamless global emissions trading system that would effectively put a cap on worldwide fossil fuel consumption, thereby achieving the desired reduction in carbon extraction rates.
+</p><p>A suggestion for a solution might also be to pay suppliers for the destruction of fossil fuels (or transform them into raw material (not fuel), thus making sure that on the demand side the independancy for fossil fuels still pays off, while there is reduction in carbon extraction.
+</p>
+<h2><span class="mw-headline" id="Works_on_the_subject">Works on the subject</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_paradox&amp;action=edit&amp;section=3" title="Edit section: Works on the subject">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hans-Werner Sinn’s ideas on the green paradox have been presented in detail in a number of scientific articles,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> his 2007 Thünen Lecture<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> at the annual meeting of the <a href="/wiki/Verein_f%C3%BCr_Socialpolitik" title="Verein für Socialpolitik">Verein für Socialpolitik</a>, his 2007 presidential address to the International Institute of Public Finance in Warwick, two working papers,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> and a German-language book, “Das Grüne Paradoxon” (2008).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> They build on his earlier studies on supply reactions of the owners of natural resources to announced price changes.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_paradox&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jevons_paradox" title="Jevons paradox">Jevons paradox</a></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_paradox&amp;action=edit&amp;section=5" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Archer, D. (2005). "Fate of Fossil Fuel CO<sub>2</sub> in Geologic Time". <i>Journal of Geophysical Research</i>. <b>110</b>: 5–11. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1029%2F2004jc002625">10.1029/2004jc002625</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Fate+of+Fossil+Fuel+CO%3Csub%3E2%3C%2Fsub%3E+in+Geologic+Time&amp;rft.volume=110&amp;rft.pages=5-11&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1029%2F2004jc002625&amp;rft.aulast=Archer&amp;rft.aufirst=D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Archer, D.; Brovkin, V. (2006). "Millennial Atmospheric Lifetime of Anthropogenic CO<sub>2</sub>". <i>Climate Change, mimeo</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Climate+Change%2C+mimeo&amp;rft.atitle=Millennial+Atmospheric+Lifetime+of+Anthropogenic+CO%3Csub%3E2%3C%2Fsub%3E&amp;rft.date=2006&amp;rft.aulast=Archer&amp;rft.aufirst=D.&amp;rft.au=Brovkin%2C+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hoos, G.; Voss, R.; Hasselmann, K.; Meier-Reimer, E.; Joos, F. (2001). "A Nonlinear Impulse Response Model of the Coupled Carbon Cycle-Climate System (NICCS)". <i><a href="/wiki/Climate_Dynamics" title="Climate Dynamics">Climate Dynamics</a></i>. <b>18</b>: 189–202. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs003820100170">10.1007/s003820100170</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Climate+Dynamics&amp;rft.atitle=A+Nonlinear+Impulse+Response+Model+of+the+Coupled+Carbon+Cycle-Climate+System+%28NICCS%29&amp;rft.volume=18&amp;rft.pages=189-202&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1007%2Fs003820100170&amp;rft.aulast=Hoos&amp;rft.aufirst=G.&amp;rft.au=Voss%2C+R.&amp;rft.au=Hasselmann%2C+K.&amp;rft.au=Meier-Reimer%2C+E.&amp;rft.au=Joos%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oecd.org/environment/support-to-fossil-fuels-remains-high-and-the-time-is-ripe-for-change.htm">"Support to fossil fuels remains high and the time is ripe for change - OECD"</a>. <i>www.oecd.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.oecd.org&amp;rft.atitle=Support+to+fossil+fuels+remains+high+and+the+time+is+ripe+for+change+-+OECD&amp;rft_id=http%3A%2F%2Fwww.oecd.org%2Fenvironment%2Fsupport-to-fossil-fuels-remains-high-and-the-time-is-ripe-for-change.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Long, N. V. (1975). "Resource Extraction under the Uncertainty about Possible Nationalization". <i><a href="/wiki/Journal_of_Economic_Theory" title="Journal of Economic Theory">Journal of Economic Theory</a></i>. <b>10</b> (1): 42–53. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0022-0531%2875%2990060-5">10.1016/0022-0531(75)90060-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Economic+Theory&amp;rft.atitle=Resource+Extraction+under+the+Uncertainty+about+Possible+Nationalization&amp;rft.volume=10&amp;rft.issue=1&amp;rft.pages=42-53&amp;rft.date=1975&amp;rft_id=info%3Adoi%2F10.1016%2F0022-0531%2875%2990060-5&amp;rft.aulast=Long&amp;rft.aufirst=N.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Konrad, K. A.; Olson, T. E.; Schöb, R. (1994). "Resource Extraction and the Threat of Possible Expropriation: The Role of Swiss Bank Accounts". <i><a href="/wiki/Journal_of_Environmental_Economics_and_Management" title="Journal of Environmental Economics and Management">Journal of Environmental Economics and Management</a></i>. <b>26</b>: 149–162. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1006%2Fjeem.1994.1009">10.1006/jeem.1994.1009</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Environmental+Economics+and+Management&amp;rft.atitle=Resource+Extraction+and+the+Threat+of+Possible+Expropriation%3A+The+Role+of+Swiss+Bank+Accounts&amp;rft.volume=26&amp;rft.pages=149-162&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1006%2Fjeem.1994.1009&amp;rft.aulast=Konrad&amp;rft.aufirst=K.+A.&amp;rft.au=Olson%2C+T.+E.&amp;rft.au=Sch%C3%B6b%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Felder, S.; Rutherford, T. F. (1993). "Unilateral CO<sub>2</sub> Reductions and Carbon Leakage: The Consequences of International Trade in Oil and Basic Materials". <i>Journal of Environmental Economics and Management</i>. <b>25</b>: 162–176. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1006%2Fjeem.1993.1040">10.1006/jeem.1993.1040</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Environmental+Economics+and+Management&amp;rft.atitle=Unilateral+CO%3Csub%3E2%3C%2Fsub%3E+Reductions+and+Carbon+Leakage%3A+The+Consequences+of+International+Trade+in+Oil+and+Basic+Materials&amp;rft.volume=25&amp;rft.pages=162-176&amp;rft.date=1993&amp;rft_id=info%3Adoi%2F10.1006%2Fjeem.1993.1040&amp;rft.aulast=Felder&amp;rft.aufirst=S.&amp;rft.au=Rutherford%2C+T.+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Burniaux, J.-M.; Martins, J. Oliveira (2000). "Carbon Emission Leakages: A General Equilibrium View". <i>OECD Working Paper No. 242</i>. <a href="/wiki/Social_Science_Research_Network" title="Social Science Research Network">SSRN</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//ssrn.com/abstract=228535">228535</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=OECD+Working+Paper+No.+242&amp;rft.atitle=Carbon+Emission+Leakages%3A+A+General+Equilibrium+View&amp;rft.date=2000&amp;rft_id=%2F%2Fssrn.com%2Fabstract%3D228535&amp;rft.aulast=Burniaux&amp;rft.aufirst=J.-M.&amp;rft.au=Martins%2C+J.+Oliveira&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sinn, H. W. (2008). <a rel="nofollow" class="external text" href="http://www.cesifo-group.de/portal/page/portal/ifoContent/N/rts/rts-mitarbeiter/IFOMITARBSINNCV/CVSinnPDF/CVSinnPDFrefjournals2007/ITAX-hws-2008.pdf">"Public policies against global warming"</a> <span class="cs1-format">(PDF)</span>. <i>International Tax and Public Finance</i>. <b>15</b> (4): 360–394. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs10797-008-9082-z">10.1007/s10797-008-9082-z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Tax+and+Public+Finance&amp;rft.atitle=Public+policies+against+global+warming&amp;rft.volume=15&amp;rft.issue=4&amp;rft.pages=360-394&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1007%2Fs10797-008-9082-z&amp;rft.aulast=Sinn&amp;rft.aufirst=H.+W.&amp;rft_id=http%3A%2F%2Fwww.cesifo-group.de%2Fportal%2Fpage%2Fportal%2FifoContent%2FN%2Frts%2Frts-mitarbeiter%2FIFOMITARBSINNCV%2FCVSinnPDF%2FCVSinnPDFrefjournals2007%2FITAX-hws-2008.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">“Public Policies against Global Warming: A Supply Side Approach”, <i>International Tax and Public Finance</i> 15, 2008, p. 360–394.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">H.-W. Sinn, “Das grüne Paradoxon: Warum man das Angebot bei der Klimapolitik nicht vergessen darf”, <i>Perspektiven der Wirtschaftspolitik</i> 9, 2008, p. 109–142.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cesifo-group.de/link/_ifovideo/thuenen-vorlesung-1007.htm">"CESifo Group Munich"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CESifo+Group+Munich&amp;rft_id=http%3A%2F%2Fwww.cesifo-group.de%2Flink%2F_ifovideo%2Fthuenen-vorlesung-1007.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">H.-W. Sinn, Public Policies against Global Warming, <a rel="nofollow" class="external text" href="http://www.cesifo-group.de/portal/page/portal/ifoHome/b-publ/b3publwp/_wp_abstract?p_file_id=14563">CESifo Working Paper No. 2087</a>, August 2007</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">H.-W. Sinn, Pareto Optimality in the Extraction of Fossil Fuels and the Greenhouse Effect: A Note, <a rel="nofollow" class="external text" href="http://www.cesifo-group.de/portal/page/portal/ifoHome/b-publ/b3publwp/_wp_abstract?p_file_id=14562">CESifo Working Paper No. 2083</a>, August 2007</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cesifo-group.de/link/_publsinnparadoxon">Das grüne Paradoxon - Plädoyer für eine illusionsfreie Klimapolitik</a>, Econ: Berlin, 2008, 480 pages.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">Sinn, H.-W. (1982). <a rel="nofollow" class="external text" href="http://www.cesifo-group.de/link/Sinn_Abs_Oel_Allmend_1982.pdf">"Absatzsteuern, Ölförderung und das Allmendeproblem"</a> &#91;Sales Taxes, Oil Extraction and the Common Pool Problem&#93; <span class="cs1-format">(PDF)</span>.  In Siebert, H. <i>Reaktionen auf Energiepreisänderungen</i>. Frankfurt and Bern: Lang. pp.&#160;83–103.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Absatzsteuern%2C+%C3%96lf%C3%B6rderung+und+das+Allmendeproblem&amp;rft.btitle=Reaktionen+auf+Energiepreis%C3%A4nderungen&amp;rft.place=Frankfurt+and+Bern&amp;rft.pages=83-103&amp;rft.pub=Lang&amp;rft.date=1982&amp;rft.aulast=Sinn&amp;rft.aufirst=H.-W.&amp;rft_id=http%3A%2F%2Fwww.cesifo-group.de%2Flink%2FSinn_Abs_Oel_Allmend_1982.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Long, N. V.; Sinn, H.-W. (1985). <a rel="nofollow" class="external text" href="http://www.cesifo-group.de/link/Sinn_Surpr_Price_Shift_AEP_1985.pdf">"Surprise Price Shifts, Tax Changes and the Supply Behaviour of Resource Extracting Firms"</a> <span class="cs1-format">(PDF)</span>. <i>Australian Economic Papers</i>. <b>24</b>: 278–289. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1467-8454.1985.tb00116.x">10.1111/j.1467-8454.1985.tb00116.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Australian+Economic+Papers&amp;rft.atitle=Surprise+Price+Shifts%2C+Tax+Changes+and+the+Supply+Behaviour+of+Resource+Extracting+Firms&amp;rft.volume=24&amp;rft.pages=278-289&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-8454.1985.tb00116.x&amp;rft.aulast=Long&amp;rft.aufirst=N.+V.&amp;rft.au=Sinn%2C+H.-W.&amp;rft_id=http%3A%2F%2Fwww.cesifo-group.de%2Flink%2FSinn_Surpr_Price_Shift_AEP_1985.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+paradox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Paradoxes" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Paradoxes" title="Template:Paradoxes"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Paradoxes" title="Template talk:Paradoxes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Paradoxes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Paradoxes" style="font-size:114%;margin:0 4em"><a href="/wiki/Paradox" title="Paradox">Paradoxes</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Philosophy" title="Philosophy">Philosophical</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Paradox_of_analysis" title="Paradox of analysis">Analysis</a></li>
+<li><a href="/wiki/Buridan%27s_bridge" title="Buridan&#39;s bridge">Buridan's bridge</a></li>
+<li><a href="/wiki/Dream_argument" title="Dream argument">Dream argument</a></li>
+<li><a href="/wiki/Epicurean_paradox" class="mw-redirect" title="Epicurean paradox">Epicurean</a></li>
+<li><a href="/wiki/Paradox_of_fiction" title="Paradox of fiction">Fiction</a></li>
+<li><a href="/wiki/Fitch%27s_paradox_of_knowability" title="Fitch&#39;s paradox of knowability">Fitch's knowability</a></li>
+<li><a href="/wiki/Argument_from_free_will" title="Argument from free will">Free will</a></li>
+<li><a href="/wiki/New_riddle_of_induction" title="New riddle of induction">Goodman's</a></li>
+<li><a href="/wiki/Paradox_of_hedonism" title="Paradox of hedonism">Hedonism</a></li>
+<li><a href="/wiki/Liberal_paradox" title="Liberal paradox">Liberal</a></li>
+<li><a href="/wiki/Meno" title="Meno">Meno's</a></li>
+<li><a href="/wiki/Mere_addition_paradox" title="Mere addition paradox">Mere addition</a></li>
+<li><a href="/wiki/Moore%27s_paradox" title="Moore&#39;s paradox">Moore's</a></li>
+<li><a href="/wiki/Newcomb%27s_paradox" title="Newcomb&#39;s paradox">Newcomb's</a></li>
+<li><a href="/wiki/Paradox_of_nihilism" title="Paradox of nihilism">Nihilism</a></li>
+<li><a href="/wiki/Omnipotence_paradox" title="Omnipotence paradox">Omnipotence</a></li>
+<li><a href="/wiki/Preface_paradox" title="Preface paradox">Preface</a></li>
+<li><a href="/wiki/Wittgenstein_on_Rules_and_Private_Language" title="Wittgenstein on Rules and Private Language">Rule-following</a></li>
+<li><a href="/wiki/When_a_white_horse_is_not_a_horse" title="When a white horse is not a horse">White horse</a></li>
+<li><a href="/wiki/Zeno%27s_paradoxes" title="Zeno&#39;s paradoxes">Zeno's</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Pinocchio_paradox" title="Pinocchio paradox"><img alt="PinocchioChiostri22.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/PinocchioChiostri22.jpg/100px-PinocchioChiostri22.jpg" width="100" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/PinocchioChiostri22.jpg/150px-PinocchioChiostri22.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f0/PinocchioChiostri22.jpg 2x" data-file-width="200" data-file-height="292" /></a>
+<p><a href="/wiki/Decision_theory" title="Decision theory"><img alt="Deliberations of Congress.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Deliberations_of_Congress.jpg/90px-Deliberations_of_Congress.jpg" width="90" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Deliberations_of_Congress.jpg/135px-Deliberations_of_Congress.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Deliberations_of_Congress.jpg/180px-Deliberations_of_Congress.jpg 2x" data-file-width="431" data-file-height="425" /></a>
+</p>
+<a href="/wiki/Buridan%27s_bridge" title="Buridan&#39;s bridge"><img alt="Buridan&#39;s bridge.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buridan%27s_bridge.jpg/60px-Buridan%27s_bridge.jpg" width="60" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buridan%27s_bridge.jpg/90px-Buridan%27s_bridge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buridan%27s_bridge.jpg/120px-Buridan%27s_bridge.jpg 2x" data-file-width="1000" data-file-height="1802" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Logic" title="Logic">Logical</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Self-reference</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barber_paradox" title="Barber paradox">Barber</a></li>
+<li><a href="/wiki/Berry_paradox" title="Berry paradox">Berry</a></li>
+<li><a href="/wiki/Bhartrhari%27s_paradox" title="Bhartrhari&#39;s paradox">Bhartrhari's</a></li>
+<li><a href="/wiki/Paradox_of_the_Court" title="Paradox of the Court">Court</a></li>
+<li><a href="/wiki/Crocodile_dilemma" title="Crocodile dilemma">Crocodile</a></li>
+<li><a href="/wiki/Curry%27s_paradox" title="Curry&#39;s paradox">Curry's</a></li>
+<li><a href="/wiki/Epimenides_paradox" title="Epimenides paradox">Epimenides</a></li>
+<li><a href="/wiki/Grelling%E2%80%93Nelson_paradox" title="Grelling–Nelson paradox">Grelling–Nelson</a></li>
+<li><a href="/wiki/Kleene%E2%80%93Rosser_paradox" title="Kleene–Rosser paradox">Kleene–Rosser</a></li>
+<li><a href="/wiki/Liar_paradox" title="Liar paradox">Liar</a>
+<ul><li><a href="/wiki/Card_paradox" title="Card paradox">Card</a></li>
+<li><a href="/wiki/No-no_paradox" title="No-no paradox">No-no</a></li>
+<li><a href="/wiki/Pinocchio_paradox" title="Pinocchio paradox">Pinocchio</a></li>
+<li><a href="/wiki/Quine%27s_paradox" title="Quine&#39;s paradox">Quine's</a></li>
+<li><a href="/wiki/Yablo%27s_paradox" title="Yablo&#39;s paradox">Yablo's</a></li></ul></li>
+<li><a href="/wiki/Opposite_Day" title="Opposite Day">Opposite Day</a></li>
+<li><a href="/wiki/Richard%27s_paradox" title="Richard&#39;s paradox">Richard's</a></li>
+<li><a href="/wiki/Russell%27s_paradox" title="Russell&#39;s paradox">Russell's</a></li>
+<li><a href="/wiki/I_know_that_I_know_nothing" title="I know that I know nothing">Socratic</a></li>
+<li><a href="/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel" title="Hilbert&#39;s paradox of the Grand Hotel">Hilbert's Hotel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Vagueness</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ship_of_Theseus" title="Ship of Theseus">Theseus' ship</a>
+<ul><li><a href="/wiki/List_of_Ship_of_Theseus_examples" title="List of Ship of Theseus examples">List of Ship of Theseus examples</a></li></ul></li>
+<li><a href="/wiki/Sorites_paradox" title="Sorites paradox">Sorites</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barbershop_paradox" title="Barbershop paradox">Barbershop</a></li>
+<li><a href="/wiki/Catch-22_(logic)" title="Catch-22 (logic)">Catch-22</a></li>
+<li><a href="/wiki/Drinker_paradox" title="Drinker paradox">Drinker</a></li>
+<li><a href="/wiki/Paradox_of_entailment" class="mw-redirect" title="Paradox of entailment">Entailment</a></li>
+<li><a href="/wiki/Lottery_paradox" title="Lottery paradox">Lottery</a></li>
+<li><a href="/wiki/Plato%27s_beard" title="Plato&#39;s beard">Plato's beard</a></li>
+<li><a href="/wiki/Raven_paradox" title="Raven paradox">Raven</a></li>
+<li><a href="/wiki/Ross%27_paradox" class="mw-redirect" title="Ross&#39; paradox">Ross'</a></li>
+<li><a href="/wiki/Unexpected_hanging_paradox" title="Unexpected hanging paradox">Unexpected hanging</a></li>
+<li><a href="/wiki/What_the_Tortoise_Said_to_Achilles" title="What the Tortoise Said to Achilles">What the Tortoise Said to Achilles</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy" title="Economy">Economic</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allais_paradox" title="Allais paradox">Allais</a></li>
+<li><a href="/wiki/The_Antitrust_Paradox" title="The Antitrust Paradox">Antitrust</a></li>
+<li><a href="/wiki/Arrow_information_paradox" title="Arrow information paradox">Arrow information</a></li>
+<li><a href="/wiki/Bertrand_paradox_(economics)" title="Bertrand paradox (economics)">Bertrand</a></li>
+<li><a href="/wiki/Braess%27s_paradox" title="Braess&#39;s paradox">Braess's</a></li>
+<li><a href="/wiki/Paradox_of_competition" title="Paradox of competition">Competition</a></li>
+<li><a href="/wiki/Income_and_fertility" title="Income and fertility">Income and fertility</a></li>
+<li><a href="/wiki/Downs%E2%80%93Thomson_paradox" title="Downs–Thomson paradox">Downs–Thomson</a></li>
+<li><a href="/wiki/Easterlin_paradox" title="Easterlin paradox">Easterlin</a></li>
+<li><a href="/wiki/Edgeworth_paradox" title="Edgeworth paradox">Edgeworth</a></li>
+<li><a href="/wiki/Ellsberg_paradox" title="Ellsberg paradox">Ellsberg</a></li>
+<li><a href="/wiki/European_paradox" title="European paradox">European</a></li>
+<li><a href="/wiki/Gibson%27s_paradox" title="Gibson&#39;s paradox">Gibson's</a></li>
+<li><a href="/wiki/Giffen_good" title="Giffen good">Giffen good</a></li>
+<li><a href="/wiki/Icarus_paradox" title="Icarus paradox">Icarus</a></li>
+<li><a href="/wiki/Jevons_paradox" title="Jevons paradox">Jevons</a></li>
+<li><a href="/wiki/Leontief_paradox" title="Leontief paradox">Leontief</a></li>
+<li><a href="/wiki/Lucas_paradox" title="Lucas paradox">Lucas</a></li>
+<li><a href="/wiki/Mandeville%27s_paradox" title="Mandeville&#39;s paradox">Mandeville's</a></li>
+<li><a href="/wiki/Mayfield%27s_paradox" title="Mayfield&#39;s paradox">Mayfield's</a></li>
+<li><a href="/wiki/Metzler_paradox" title="Metzler paradox">Metzler</a></li>
+<li><a href="/wiki/Resource_curse" title="Resource curse">Plenty</a></li>
+<li><a href="/wiki/Productivity_paradox" title="Productivity paradox">Productivity</a></li>
+<li><a href="/wiki/Paradox_of_prosperity" title="Paradox of prosperity">Prosperity</a></li>
+<li><a href="/wiki/Scitovsky_paradox" title="Scitovsky paradox">Scitovsky</a></li>
+<li><a href="/wiki/Service_recovery_paradox" title="Service recovery paradox">Service recovery</a></li>
+<li><a href="/wiki/St._Petersburg_paradox" title="St. Petersburg paradox">St. Petersburg</a></li>
+<li><a href="/wiki/Paradox_of_thrift" title="Paradox of thrift">Thrift</a></li>
+<li><a href="/wiki/Paradox_of_toil" title="Paradox of toil">Toil</a></li>
+<li><a href="/wiki/Tullock_paradox" class="mw-redirect" title="Tullock paradox">Tullock</a></li>
+<li><a href="/wiki/Paradox_of_value" title="Paradox of value">Value</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Decision_theory" title="Decision theory">Decision theory</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abilene_paradox" title="Abilene paradox">Abilene</a></li>
+<li><a href="/wiki/Apportionment_paradox" title="Apportionment paradox">Apportionment</a>
+<ul><li><a href="/wiki/Alabama_paradox" class="mw-redirect" title="Alabama paradox">Alabama</a></li>
+<li><a href="/wiki/New_states_paradox" class="mw-redirect" title="New states paradox">New states</a></li>
+<li><a href="/wiki/Population_paradox" class="mw-redirect" title="Population paradox">Population</a></li></ul></li>
+<li><a href="/wiki/Arrow%27s_impossibility_theorem" title="Arrow&#39;s impossibility theorem">Arrow's</a></li>
+<li><a href="/wiki/Buridan%27s_ass" title="Buridan&#39;s ass">Buridan's ass</a></li>
+<li><a href="/wiki/Chainstore_paradox" title="Chainstore paradox">Chainstore</a></li>
+<li><a href="/wiki/Condorcet_paradox" title="Condorcet paradox">Condorcet's</a></li>
+<li><a href="/wiki/Decision-making_paradox" title="Decision-making paradox">Decision-making</a></li>
+<li><a href="/wiki/Paradox_of_voting" title="Paradox of voting">Downs</a></li>
+<li><a href="/wiki/Ellsberg_paradox" title="Ellsberg paradox">Ellsberg</a></li>
+<li><a href="/wiki/Fenno%27s_paradox" title="Fenno&#39;s paradox">Fenno's</a></li>
+<li><a href="/wiki/Fredkin%27s_paradox" title="Fredkin&#39;s paradox">Fredkin's</a></li>
+<li><a class="mw-selflink selflink">Green</a></li>
+<li><a href="/wiki/Hedgehog%27s_dilemma" title="Hedgehog&#39;s dilemma">Hedgehog's</a></li>
+<li><a href="/wiki/Inventor%27s_paradox" title="Inventor&#39;s paradox">Inventor's</a></li>
+<li><a href="/wiki/Kavka%27s_toxin_puzzle" title="Kavka&#39;s toxin puzzle">Kavka's toxin puzzle</a></li>
+<li><a href="/wiki/Morton%27s_fork" title="Morton&#39;s fork">Morton's fork</a></li>
+<li><a href="/wiki/Navigation_paradox" title="Navigation paradox">Navigation</a></li>
+<li><a href="/wiki/Newcomb%27s_paradox" title="Newcomb&#39;s paradox">Newcomb's</a></li>
+<li><a href="/wiki/Parrondo%27s_paradox" title="Parrondo&#39;s paradox">Parrondo's</a></li>
+<li><a href="/wiki/Prevention_paradox" title="Prevention paradox">Prevention</a></li>
+<li><a href="/wiki/Prisoner%27s_dilemma" title="Prisoner&#39;s dilemma">Prisoner's dilemma</a></li>
+<li><a href="/wiki/Paradox_of_tolerance" title="Paradox of tolerance">Tolerance</a></li>
+<li><a href="/wiki/Willpower_paradox" title="Willpower paradox">Willpower</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3" style="font-weight:bold;"><div>
+<ul><li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/List_of_paradoxes" title="List of paradoxes">List of paradoxes</a></li>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Paradoxes" title="Book:Paradoxes">Book</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Logic" title="Portal:Logic">Logic portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2274
+Cached time: 20180929152517
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.240 seconds
+Real time usage: 0.293 seconds
+Preprocessor visited node count: 800/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54047/2097152 bytes
+Template argument size: 109/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34348/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.127/10.000 seconds
+Lua memory usage: 3.1 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  224.416      1 -total
+ 73.04%  163.916      1 Template:Reflist
+ 49.51%  111.102      7 Template:Cite_journal
+ 11.88%   26.651      1 Template:Green_economics_sidebar
+ 10.74%   24.106      1 Template:Sidebar
+ 10.32%   23.154      1 Template:Decision_theory_paradoxes
+  8.96%   20.104      2 Template:Navbox
+  5.85%   13.130      2 Template:Cite_paper
+  4.11%    9.233      3 Template:Icon
+  4.10%    9.202      2 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23309349-0!canonical and timestamp 20180929152517 and revision id 850501370
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_paradox&amp;oldid=850501370">https://en.wikipedia.org/w/index.php?title=Green_paradox&amp;oldid=850501370</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Economics_and_climate_change" title="Category:Economics and climate change">Economics and climate change</a></li><li><a href="/wiki/Category:Economics_paradoxes" title="Category:Economics paradoxes">Economics paradoxes</a></li><li><a href="/wiki/Category:Economic_policy" title="Category:Economic policy">Economic policy</a></li><li><a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li><li><a href="/wiki/Category:Decision-making_paradoxes" title="Category:Decision-making paradoxes">Decision-making paradoxes</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+paradox" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+paradox" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_paradox" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_paradox" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_paradox">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_paradox&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_paradox&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_paradox" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_paradox" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_paradox&amp;oldid=850501370" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_paradox&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1171333" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_paradox&amp;id=850501370" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+paradox">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+paradox&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_paradox&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Das_gr%C3%BCne_Paradoxon:_Pl%C3%A4doyer_f%C3%BCr_eine_illusionsfreie_Klimapolitik" title="Das grüne Paradoxon: Plädoyer für eine illusionsfreie Klimapolitik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81" title="Зелений парадокс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1171333#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 July 2018, at 08:01<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_paradox&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.240","walltime":"0.293","ppvisitednodes":{"value":800,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54047,"limit":2097152},"templateargumentsize":{"value":109,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34348,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  224.416      1 -total"," 73.04%  163.916      1 Template:Reflist"," 49.51%  111.102      7 Template:Cite_journal"," 11.88%   26.651      1 Template:Green_economics_sidebar"," 10.74%   24.106      1 Template:Sidebar"," 10.32%   23.154      1 Template:Decision_theory_paradoxes","  8.96%   20.104      2 Template:Navbox","  5.85%   13.130      2 Template:Cite_paper","  4.11%    9.233      3 Template:Icon","  4.10%    9.202      2 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.127","limit":"10.000"},"limitreport-memusage":{"value":3251078,"limit":52428800}},"cachereport":{"origin":"mw2274","timestamp":"20180929152517","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw2188"});});</script>
+	</body>
+</html>

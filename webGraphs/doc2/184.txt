@@ -1,0 +1,447 @@
+https://en.wikipedia.org/wiki/Green_National_Committee
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green National Committee - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_National_Committee","wgTitle":"Green National Committee","wgCurRevisionId":858697052,"wgRevisionId":858697052,"wgArticleId":3408025,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2016","All articles needing additional references","Green Party of the United States","Green Party of the United States chairs","Executive committees of political parties"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_National_Committee","wgRelevantArticleId":3408025,"wgRequestId":"W7IrEwrAID8AADEP0g4AAAHM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q16982673","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_National_Committee"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_National_Committee&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_National_Committee&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_National_Committee"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_National_Committee rootpage-Green_National_Committee skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green National Committee</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_National_Committee&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(October 2016)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The <b>Green National Committee</b> is the central governing body of the <a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">Green Party of the United States</a>. The GNC is composed of delegates from each of the affiliated state party organizations and from recognized caucuses. The GNC oversees all national party functions and elects a steering committee to oversee day-to-day operations.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Steering_committee"><span class="tocnumber">1</span> <span class="toctext">Steering committee</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Current_co-chairs"><span class="tocnumber">1.1</span> <span class="toctext">Current co-chairs</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Treasurer"><span class="tocnumber">1.2</span> <span class="toctext">Treasurer</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Secretary"><span class="tocnumber">1.3</span> <span class="toctext">Secretary</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Former_co-chairs"><span class="tocnumber">1.4</span> <span class="toctext">Former co-chairs</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Former_secretaries"><span class="tocnumber">1.5</span> <span class="toctext">Former secretaries</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Former_treasurers"><span class="tocnumber">1.6</span> <span class="toctext">Former treasurers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Standing_committees"><span class="tocnumber">2</span> <span class="toctext">Standing committees</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Steering_committee">Steering committee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=1" title="Edit section: Steering committee">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The steering committee is composed of seven co-chairs, acting as a collective executive, together with the secretary and treasurer.  They are elected by the delegates who serve on the Green National Committee. The following are current and former officers of Green Party US.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Current_co-chairs">Current co-chairs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=2" title="Edit section: Current co-chairs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>2016 - 2018</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li>Chris Blankenhorn, <a href="/wiki/Illinois" title="Illinois">Illinois</a></li>
+<li>Darlene Elias, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></li>
+<li>Darryl! Moch, <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></li></ul>
+<p><b>2017 - 2019</b>
+</p>
+<ul><li>Gloria Mattera, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a></li>
+<li>Andrea Mérida, <a href="/wiki/Colorado" title="Colorado">Colorado</a></li>
+<li>George Martin, <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a></li>
+<li>Michael Dennis, <a href="/w/index.php?title=Young_Greens_of_the_United_States&amp;action=edit&amp;redlink=1" class="new" title="Young Greens of the United States (page does not exist)">Young Greens</a></li></ul>
+<h3><span class="mw-headline" id="Treasurer">Treasurer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=3" title="Edit section: Treasurer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>2016 - 2018</b>
+</p>
+<ul><li>Hillary Kane, Pennsylvania</li></ul>
+<h3><span class="mw-headline" id="Secretary">Secretary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=4" title="Edit section: Secretary">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>2015 - 2017</b>
+</p>
+<ul><li>Jody Grage, <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a></li></ul>
+<h3><span class="mw-headline" id="Former_co-chairs">Former co-chairs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=5" title="Edit section: Former co-chairs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Gloria Mattera, NY: 2017-07 - present</li>
+<li>Michael Dennis, Young Greens: 2017-07 - present</li>
+<li>George Martin, WI: 2017-07 - present</li>
+<li>Chris Blankenhorn, IL: 2016-08 - present</li>
+<li>Darlene Elias, MA: 2016-08 - present</li>
+<li>Darryl! Moch, DC: 2012-01 - 2015-07; 2016-08 - present</li>
+<li>Bahram Zandi, MD: 2015-07 - 2017-07</li>
+<li>Sanda Everette, CA: 2008-07 - 2010-06; 2015-07 - 2017-07</li>
+<li>Andrea Mérida, CO: 2015-06 - present</li>
+<li>Tamar Yager, VA: 2011-03 - 2012-07; 2013-07 - 2017-07</li>
+<li>Paul Pipkin, TX: 2016-01 - 2016-08</li>
+<li>Audrey Clement, VA: 2011-03 - 2012-07; 2014-07 - 2016-08</li>
+<li>Charles Ostdiek, NE: 2012-07 - 2016-08</li>
+<li>Karen Young, NY: 2012-07 - 2016-01</li>
+<li>Jesse Townley, CA: 2013-07 - 2015-07</li>
+<li>Darryl Moch, DC: 2012-01 - 2015-07</li>
+<li>Starlene Rankin, OR: 2013-07 - 2015-04</li>
+<li>Katey Culver, TN: 2006-07 - 2007-07; 2013-09 - 2014-07</li>
+<li>AJ Segneri, IL: 2012-07 - 2013-07</li>
+<li>Steve Welzer, NJ: 2012-03 - 2013-07</li>
+<li>Susan Chunco, CA: 2011-08 - 2013-07</li>
+<li>Farheen Hakeem, MN: 2009-08 - 2013-07</li>
+<li><a href="/wiki/Theresa_El-Amin" title="Theresa El-Amin">Theresa El-Amin</a>, NC: 2010-06 - 2012-07</li>
+<li>Leenie Venet Halbert, AZ: 2011-03 - 2012-02</li>
+<li>Mark Swaney, AR: 2011-08 - 2011-11</li>
+<li>David Strand, MN: 2009-08 - 2011-08</li>
+<li><a href="/wiki/Jason_Nabewaniec" title="Jason Nabewaniec">Jason Nabewaniec</a>, NY: 2007-07 - 2011-08</li>
+<li><a href="/wiki/Julie_Jacobson" title="Julie Jacobson">Julie Jacobson</a>, HI: 2010-06 - 2011-01</li>
+<li><a href="/wiki/Mike_Feinstein" title="Mike Feinstein">Mike Feinstein</a>, CA: 2009-08 - 2011-01</li>
+<li>Craig Thorsen, CA: 2008-07 - 2011-01</li>
+<li>Claudia Ellquist, AZ: 2010-04 - 2010-06</li>
+<li>Jill Bussiere, WI: 2008-07 - 2010-03</li>
+<li><a href="/wiki/Cliff_Thornton" title="Cliff Thornton">Cliff Thornton</a>, CT: 2007-11 - 2009-08</li>
+<li>Phil Huckelberry, IL: 2007-07 - 2009-08</li>
+<li>Budd Dickinson, CA: 2006-02 - 2009-08</li>
+<li><a href="/wiki/Elizabeth_Arnone" title="Elizabeth Arnone">Liz Arnone</a>, NJ: 2006-07 - 2008-07</li>
+<li>Jim Coplen, IN: 2006-07 - 2008-07</li>
+<li>Sarah 'Echo' Steiner, FL: 2006-07 - 2008-07</li>
+<li>Kristen Olson, MN: 2007-07 - 2007-10</li>
+<li><a href="/wiki/Rebecca_Rotzler" title="Rebecca Rotzler">Rebecca Rotzler</a>, NY: 2005-07 - 2007-07</li>
+<li><a href="/w/index.php?title=Steve_Kramer_(politician)&amp;action=edit&amp;redlink=1" class="new" title="Steve Kramer (politician) (page does not exist)">Steve Kramer</a>, MD: 2005-04 - 2007-07</li>
+<li>Jody Grage, WA: 2004-07 - 2006-07</li>
+<li>Mark Sanson, IL: 2004-07 - 2006-07</li>
+<li>Gwen Wages, MI: 2004-07 - 2006-07</li>
+<li><a href="/wiki/Pat_LaMarche" title="Pat LaMarche">Pat LaMarche</a>, ME: 2005-07 - 2006-06</li>
+<li>Peggy Lewis, CA: 2004-07 - 2005-07</li>
+<li>Maya O'Connor, DC: 2004-07 - 2005-07</li>
+<li>Jo Chamberlain, CA: 2001-07 - 2005-07</li>
+<li>Gray Newman, NC: 2004-07 - 2005-04</li>
+<li>Badili Jones, GA: 2002-07 - 2004-07</li>
+<li><a href="/wiki/Ben_Manski" title="Ben Manski">Ben Manski</a>, WI: 2001-07 - 2004-07</li>
+<li><a href="/wiki/Anita_Rios" class="mw-redirect" title="Anita Rios">Anita Rios</a>, OH: 2001-07 - 2004-07</li>
+<li>Marnie Glickman, OR: 2003-07 - 2004-05</li>
+<li>Barbara Payne, OR: 2002-07 - 2003-02</li>
+<li>Tom Sevigny, CT: 2001-07 - 2002-07</li></ul>
+<h3><span class="mw-headline" id="Former_secretaries">Former secretaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=6" title="Edit section: Former secretaries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Jody Grage, WA: 2017-07 - present</li>
+<li>Jan Martell, NC: 2015-07 - 2017-07</li>
+<li>Budd Dickinson, WA: 2011-08 - 2015-07</li>
+<li>Holly Hart, IA: 2005-07 - 2011-08</li>
+<li>Greg Gerritt, RI: 2003-07 - 2005-07</li>
+<li>Nathalie Paravicini, TX: 2001-07 - 2003-07</li></ul>
+<h3><span class="mw-headline" id="Former_treasurers">Former treasurers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=7" title="Edit section: Former treasurers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Hillary Kane, PA: 2017-05 - present</li>
+<li>Brian Bittner, MD: 2016-08 - 2017-05</li>
+<li>Jeff Turner, HI: 2010-06 - 2016-08</li>
+<li>Jody Grage, WA: 2006-07 - 2010-06</li>
+<li>Jake Schneider, WI: 2002-07 - 2006-07</li>
+<li>Robbie Franklin, TX: 2001-07 - 2002-07</li></ul>
+<h2><span class="mw-headline" id="Standing_committees">Standing committees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=8" title="Edit section: Standing committees">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The GNC has several standing committees:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<ul><li>Accreditation</li>
+<li>Animal Rights</li>
+<li>Annual National Meeting</li>
+<li>Ballot Access</li>
+<li>Bylaws, Rules, Policies &amp; Procedures</li>
+<li>Communications</li>
+<li>Coordinated Campaign</li>
+<li>Dispute Resolution</li>
+<li>Diversity</li>
+<li>EcoAction</li>
+<li>Finance</li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<ul><li>Fundraising</li>
+<li>Green Pages (newspaper editorial board)</li>
+<li>International</li>
+<li>Media - Co-Chairs: Scott McLarty, Starlene Rankin</li>
+<li>Merchandising</li>
+<li>Outreach</li>
+<li>Peace Action</li>
+<li>Platform</li>
+<li>Presidential Campaign Support</li>
+<li>Steering</li></ul>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150619025643/http://www.gp.org/steering-committee-history">"Green Party - Steering Committee History"</a>. <i>gp.org</i>. 2015. Archived from <a rel="nofollow" class="external text" href="http://www.gp.org/steering-committee-history">the original</a> on 2015-06-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gp.org&amp;rft.atitle=Green+Party+-+Steering+Committee+History&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.gp.org%2Fsteering-committee-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+National+Committee" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">David Doonan, ed. (September 18, 2016). <a rel="nofollow" class="external text" href="http://www.gp.org/steering">"Steering"</a>. <i>gp.org</i>. Green Party US<span class="reference-accessdate">. Retrieved <span class="nowrap">September 20,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gp.org&amp;rft.atitle=Steering&amp;rft.date=2016-09-18&amp;rft_id=http%3A%2F%2Fwww.gp.org%2Fsteering&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+National+Committee" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gpus.org/committees/">"Committees"</a>. Green Party of the United States<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Committees&amp;rft.pub=Green+Party+of+the+United+States&amp;rft_id=http%3A%2F%2Fgpus.org%2Fcommittees%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+National+Committee" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_the_United_States" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#00A95C; color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_Party_of_the_United_States" title="Template:Green Party of the United States"><abbr title="View this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_Party_of_the_United_States" title="Template talk:Green Party of the United States"><abbr title="Discuss this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_Party_of_the_United_States&amp;action=edit"><abbr title="Edit this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States"><span style="color:white">Green Party of the United States</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_United_States_Green_Party_presidential_tickets" title="List of United States Green Party presidential tickets"><span style="color:white">Presidential tickets</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ralph_Nader_presidential_campaign,_1996" title="Ralph Nader presidential campaign, 1996"> 1996</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/Ralph_Nader_presidential_campaign,_2000" title="Ralph Nader presidential campaign, 2000"> 2000</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/David_Cobb_presidential_campaign,_2004" title="David Cobb presidential campaign, 2004"> 2004</a>: <a href="/wiki/David_Cobb" title="David Cobb">Cobb</a>/<a href="/wiki/Pat_LaMarche" title="Pat LaMarche">LaMarche</a></li>
+<li><a href="/wiki/Cynthia_McKinney_presidential_campaign,_2008" title="Cynthia McKinney presidential campaign, 2008"> 2008</a>: <a href="/wiki/Cynthia_McKinney" title="Cynthia McKinney">McKinney</a>/<a href="/wiki/Rosa_Clemente" title="Rosa Clemente">Clemente</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2012" title="Jill Stein presidential campaign, 2012"> 2012</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Cheri_Honkala" title="Cheri Honkala">Honkala</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2016" title="Jill Stein presidential campaign, 2016"> 2016</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Ajamu_Baraka" title="Ajamu Baraka">Baraka</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Presidential primaries</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_presidential_primaries,_2008" title="Green Party presidential primaries, 2008">2008</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2012" title="Green Party presidential primaries, 2012">2012</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2016" title="Green Party presidential primaries, 2016">2016</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/Green_National_Convention" title="Green National Convention"><span style="color:white">Conventions</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Green_National_Convention" title="2000 Green National Convention">2000 (Denver)</a></li>
+<li><a href="/wiki/2004_Green_National_Convention" title="2004 Green National Convention">2004 (Milwaukee)</a></li>
+<li><a href="/wiki/2008_Green_National_Convention" title="2008 Green National Convention">2008 (Chicago)</a></li>
+<li><a href="/wiki/2012_Green_National_Convention" title="2012 Green National Convention">2012 (Baltimore)</a></li>
+<li><a href="/wiki/2016_Green_National_Convention" title="2016 Green National Convention">2016 (Houston)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_state_Green_Parties_in_the_United_States" title="List of state Green Parties in the United States"><span style="color:white">Parties by state<br />and <i>territory</i></span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alabama_Green_Party" class="mw-redirect" title="Alabama Green Party">Alabama</a></li>
+<li><a href="/wiki/Green_Party_of_Alaska" title="Green Party of Alaska">Alaska</a></li>
+<li><a href="/wiki/Arizona_Green_Party" title="Arizona Green Party">Arizona</a></li>
+<li><a href="/wiki/Green_Party_of_Arkansas" title="Green Party of Arkansas">Arkansas</a></li>
+<li><a href="/wiki/Green_Party_of_California" title="Green Party of California">California</a></li>
+<li><a href="/wiki/Green_Party_of_Colorado" title="Green Party of Colorado">Colorado</a></li>
+<li><a href="/wiki/Connecticut_Green_Party" title="Connecticut Green Party">Connecticut</a></li>
+<li><a href="/wiki/Green_Party_of_Delaware" title="Green Party of Delaware">Delaware</a></li>
+<li><i><a href="/wiki/D.C._Statehood_Green_Party" title="D.C. Statehood Green Party">District of Columbia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Florida" title="Green Party of Florida">Florida</a></li>
+<li><a href="/wiki/Georgia_Green_Party" class="mw-redirect" title="Georgia Green Party">Georgia</a></li>
+<li><a href="/wiki/Green_Party_of_Hawaii" title="Green Party of Hawaii">Hawaii</a></li>
+<li><a href="/wiki/Idaho_Green_Party" title="Idaho Green Party">Idaho</a></li>
+<li><a href="/wiki/Illinois_Green_Party" title="Illinois Green Party">Illinois</a></li>
+<li><a href="/wiki/Indiana_Green_Party" class="mw-redirect" title="Indiana Green Party">Indiana</a></li>
+<li><a href="/wiki/Iowa_Green_Party" title="Iowa Green Party">Iowa</a></li>
+<li><a href="/wiki/Kansas_Green_Party" title="Kansas Green Party">Kansas</a></li>
+<li><a href="/wiki/Kentucky_Green_Party" title="Kentucky Green Party">Kentucky</a></li>
+<li><a href="/wiki/Green_Party_of_Louisiana" title="Green Party of Louisiana">Louisiana</a></li>
+<li><a href="/wiki/Maine_Green_Independent_Party" title="Maine Green Independent Party">Maine</a></li>
+<li><a href="/wiki/Maryland_Green_Party" title="Maryland Green Party">Maryland</a></li>
+<li><a href="/wiki/Green-Rainbow_Party" title="Green-Rainbow Party">Massachusetts</a></li>
+<li><a href="/wiki/Green_Party_of_Michigan" title="Green Party of Michigan">Michigan</a></li>
+<li><a href="/wiki/Green_Party_of_Minnesota" title="Green Party of Minnesota">Minnesota</a></li>
+<li><a href="/wiki/Green_Party_of_Mississippi" title="Green Party of Mississippi">Mississippi</a></li>
+<li><a href="/wiki/Green_Party_of_Missouri" class="mw-redirect" title="Green Party of Missouri">Missouri</a></li>
+<li><a href="/wiki/Montana_Green_Party" class="mw-redirect" title="Montana Green Party">Montana</a></li>
+<li><a href="/wiki/Nebraska_Green_Party" title="Nebraska Green Party">Nebraska</a></li>
+<li><a href="/wiki/Green_Party_of_Nevada" class="mw-redirect" title="Green Party of Nevada">Nevada</a></li>
+<li><a href="/wiki/Green_Party_of_New_Hampshire" class="mw-redirect" title="Green Party of New Hampshire">New Hampshire</a></li>
+<li><a href="/wiki/Green_Party_of_New_Jersey" title="Green Party of New Jersey">New Jersey</a></li>
+<li><a href="/wiki/Green_Party_of_New_Mexico" title="Green Party of New Mexico">New Mexico</a></li>
+<li><a href="/wiki/Green_Party_of_New_York" title="Green Party of New York">New York</a></li>
+<li><a href="/wiki/North_Carolina_Green_Party" title="North Carolina Green Party">North Carolina</a></li>
+<li><a href="/wiki/Green_Party_of_North_Dakota" class="mw-redirect" title="Green Party of North Dakota">North Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Ohio" title="Green Party of Ohio">Ohio</a></li>
+<li><a href="/wiki/Green_Party_of_Oklahoma" title="Green Party of Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/Pacific_Green_Party" title="Pacific Green Party">Oregon</a></li>
+<li><a href="/wiki/Green_Party_of_Pennsylvania" title="Green Party of Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/Green_Party_of_Rhode_Island" title="Green Party of Rhode Island">Rhode Island</a></li>
+<li><a href="/wiki/South_Carolina_Green_Party" title="South Carolina Green Party">South Carolina</a></li>
+<li><a href="/wiki/South_Dakota_Green_Party" class="mw-redirect" title="South Dakota Green Party">South Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Tennessee" title="Green Party of Tennessee">Tennessee</a></li>
+<li><a href="/wiki/Green_Party_of_Texas" title="Green Party of Texas">Texas</a></li>
+<li><a href="/wiki/Green_Party_of_Utah" class="mw-redirect" title="Green Party of Utah">Utah</a></li>
+<li><a href="/wiki/Vermont_Green_Party" title="Vermont Green Party">Vermont</a></li>
+<li><a href="/wiki/Green_Party_of_Virginia" title="Green Party of Virginia">Virginia</a></li>
+<li><a href="/wiki/Green_Party_of_Washington_State" title="Green Party of Washington State">Washington</a></li>
+<li><a href="/wiki/Mountain_Party" title="Mountain Party">West Virginia</a></li>
+<li><a href="/wiki/Wisconsin_Green_Party" title="Wisconsin Green Party">Wisconsin</a></li>
+<li><a href="/wiki/Green_Party_of_Wyoming" class="mw-redirect" title="Green Party of Wyoming">Wyoming</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Green Parties of the Americas</a></li>
+<li><a class="mw-selflink selflink">Green National Committee</a></li>
+<li><a href="/wiki/Green_Senatorial_Campaign_Committee" title="Green Senatorial Campaign Committee">Green Senatorial Campaign Committee</a></li>
+<li><a href="/wiki/Greens/Green_Party_USA" title="Greens/Green Party USA">Greens/Green Party USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">History</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_of_State_Green_Parties" title="Association of State Green Parties">Association of State Green Parties</a></li>
+<li><a href="/wiki/History_of_the_Green_Party_of_the_United_States" title="History of the Green Party of the United States">Overview</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States" title="List of Green politicians who have held office in the United States">Office-holding politicians</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2175
+Cached time: 20181001141131
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.202 seconds
+Preprocessor visited node count: 482/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31152/2097152 bytes
+Template argument size: 220/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7517/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 2.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  147.750      1 -total
+ 49.70%   73.431      1 Template:Reflist
+ 38.52%   56.918      3 Template:Cite_web
+ 28.56%   42.193      1 Template:Refimprove
+ 17.69%   26.143      1 Template:Ambox
+ 14.08%   20.803      1 Template:Green_Party_of_the_United_States
+ 12.52%   18.491      1 Template:Navbox
+  4.24%    6.259      2 Template:Col-2
+  3.53%    5.218      1 Template:Green_Party_(United_States)/meta/color
+  2.67%    3.947      1 Template:United_States_political_party_color
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3408025-0!canonical and timestamp 20181001141131 and revision id 858697052
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_National_Committee&amp;oldid=858697052">https://en.wikipedia.org/w/index.php?title=Green_National_Committee&amp;oldid=858697052</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_Party_of_the_United_States" title="Category:Green Party of the United States">Green Party of the United States</a></li><li><a href="/wiki/Category:Green_Party_of_the_United_States_chairs" title="Category:Green Party of the United States chairs">Green Party of the United States chairs</a></li><li><a href="/wiki/Category:Executive_committees_of_political_parties" title="Category:Executive committees of political parties">Executive committees of political parties</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2016" title="Category:Articles needing additional references from October 2016">Articles needing additional references from October 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+National+Committee" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+National+Committee" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_National_Committee" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_National_Committee" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_National_Committee">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_National_Committee&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_National_Committee&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_National_Committee" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_National_Committee" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_National_Committee&amp;oldid=858697052" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_National_Committee&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16982673" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_National_Committee&amp;id=858697052" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+National+Committee">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+National+Committee&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_National_Committee&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Green_National_Committee" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16982673#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 September 2018, at 01:36<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_National_Committee&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.202","ppvisitednodes":{"value":482,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31152,"limit":2097152},"templateargumentsize":{"value":220,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7517,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  147.750      1 -total"," 49.70%   73.431      1 Template:Reflist"," 38.52%   56.918      3 Template:Cite_web"," 28.56%   42.193      1 Template:Refimprove"," 17.69%   26.143      1 Template:Ambox"," 14.08%   20.803      1 Template:Green_Party_of_the_United_States"," 12.52%   18.491      1 Template:Navbox","  4.24%    6.259      2 Template:Col-2","  3.53%    5.218      1 Template:Green_Party_(United_States)/meta/color","  2.67%    3.947      1 Template:United_States_political_party_color"]},"scribunto":{"limitreport-timeusage":{"value":"0.064","limit":"10.000"},"limitreport-memusage":{"value":2583171,"limit":52428800}},"cachereport":{"origin":"mw2175","timestamp":"20181001141131","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":293,"wgHostname":"mw2175"});});</script>
+	</body>
+</html>

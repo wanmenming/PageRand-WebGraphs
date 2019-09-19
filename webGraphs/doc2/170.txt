@@ -1,0 +1,619 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Ontario_leadership_election,_2009
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Ontario leadership election, 2009 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Ontario_leadership_election,_2009","wgTitle":"Green Party of Ontario leadership election, 2009","wgCurRevisionId":858800908,"wgRevisionId":858800908,"wgArticleId":22852346,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","All articles with unsourced statements","Articles with unsourced statements from September 2010","2009 elections in Canada","Green Party leadership elections in Canada","2009 in Ontario","Green Party of Ontario leadership elections"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Ontario_leadership_election,_2009","wgRelevantArticleId":22852346,"wgRequestId":"W66oqwrAIFQAABL9BEIAAAAU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5603030","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/43/MikeSchreinerGuelphFeb2012_%28cropped%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Ontario_leadership_election,_2009"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Ontario_leadership_election,_2009"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Ontario_leadership_election_2009 rootpage-Green_Party_of_Ontario_leadership_election_2009 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Ontario leadership election, 2009</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em;line-height: 1.5em;"><caption class="summary" style="font-size: 125%;">Green Party of Ontario leadership election, 2009</caption><tbody><tr><td colspan="2" style="text-align:center;line-height:130%;">
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/50px-Flag_of_Ontario.svg.png" width="50" height="25" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/75px-Flag_of_Ontario.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/100px-Flag_of_Ontario.svg.png 2x" data-file-width="2400" data-file-height="1200" /></span><hr /></td></tr><tr><td colspan="2" style="text-align:center;line-height:130%;">
+<table style="width:100%; margin:1px;"><tbody><tr>
+<td style="text-align:left; vertical-align:middle; padding:0 0.5em 0 0;width:15%;" class="noprint">&#8592;&#160;<a href="/wiki/Green_Party_of_Ontario_leadership_election,_2001" title="Green Party of Ontario leadership election, 2001">2001</a></td>
+<td style="text-align:center; vertical-align:middle; padding:0 1px;width:70%;" class=""><b>November 14, 2009</b></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 0.5em;width:15%;" class="noprint"></td>
+</tr></tbody></table></td></tr><tr><td colspan="2" style="text-align:center;text-align:center;">
+<p class="mw-empty-elt">
+</p>
+<table style="background:transparent; width:100%;">
+
+
+
+
+
+
+<tbody><tr>
+<td>&#160;
+</td>
+<td style="text-align:center;border-bottom: 6px solid #2F873E"><a href="/wiki/File:MikeSchreinerGuelphFeb2012_(cropped).jpg" class="image"><img alt="MikeSchreinerGuelphFeb2012 (cropped).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/MikeSchreinerGuelphFeb2012_%28cropped%29.jpg/120px-MikeSchreinerGuelphFeb2012_%28cropped%29.jpg" width="120" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/4/43/MikeSchreinerGuelphFeb2012_%28cropped%29.jpg 1.5x" data-file-width="131" data-file-height="160" /></a>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #ffffff"><div style="width:120px;"><span style="line-height:120px; vertical-align:center; text-align:center; color:#ffffff; font-size:38px;"> <b>NOTA</b></span></div>
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Candidate
+</th>
+<td style="width:75px;text-align:center"><b><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Mike Schreiner</a></b>
+</td>
+<td style="width:75px;text-align:center">None of the above
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th style="text-align:left">Result
+</th>
+<td style="width:75px;text-align:center"><b>Winner</b>
+</td>
+<td style="width:75px;text-align:center">-
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table></td></tr><tr><td colspan="2" style="text-align:center">
+<hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:50%; text-align:left;"><b>Leader before election</b><br />
+<p><a href="/wiki/Frank_de_Jong" title="Frank de Jong">Frank de Jong</a><br />
+</p>
+</td>
+<td style="width:50%; text-align:right;"><b>Elected Leader</b> <br />
+<p><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Mike Schreiner</a><br />
+</p>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class="infobox" style="width:22em;border-top: 4px solid #99C955;"><caption>Green Party of Ontario leadership election, 2009</caption><tbody><tr><th scope="row">Date</th><td>
+November 13–15, 2009</td></tr><tr><th scope="row">Convention</th><td>
+<a href="/wiki/London,_Ontario" title="London, Ontario">London</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a></td></tr><tr><th scope="row">Resigning leader</th><td>
+<a href="/wiki/Frank_de_Jong" title="Frank de Jong">Frank de Jong</a></td></tr><tr><th scope="row">Won&#160;by</th><td>
+<a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Mike Schreiner</a><sup id="cite_ref-autogenerated1_1-0" class="reference"><a href="#cite_note-autogenerated1-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Ballots</th><td>
+1</td></tr><tr><th scope="row">Candidates</th><td>
+1 (+ <a href="/wiki/None_of_the_above" title="None of the above">none of the above</a>)</td></tr><tr><td colspan="2" class="noprint" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px;">
+<p><a href="/wiki/Green_Party_of_Ontario_leadership_elections" title="Green Party of Ontario leadership elections">Green Party of Ontario leadership elections</a>
+</p>
+<a href="/wiki/Green_Party_of_Ontario_leadership_election,_1993" class="mw-redirect" title="Green Party of Ontario leadership election, 1993">1993</a>, <a href="/wiki/Green_Party_of_Ontario_leadership_election,_2001" title="Green Party of Ontario leadership election, 2001">2001</a>, <a class="mw-selflink selflink">2009</a></td></tr></tbody></table>
+<p>The <b>2009 Green Party of Ontario leadership election</b> took place November 13–15, 2009 in <a href="/wiki/London,_Ontario" title="London, Ontario">London, Ontario</a>.
+</p><p>Longtime <a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Green Party of Ontario</a> leader <a href="/wiki/Frank_de_Jong" title="Frank de Jong">Frank de Jong</a> told the GPO convention on May 16, 2009, that he would be stepping down as leader of the party. De Jong was the founding leader of the party<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2010)">citation needed</span></a></i>&#93;</sup>, and although he was never able to win a seat for the party, under his leadership its share of the vote rose from 0.34% in 1995 to 8.1% in 2007.
+</p><p>At the close of nominations, Mike Schreiner was the sole candidate who had submitted nomination documents.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Per party rules, Schreiner still had to run in the leadership convention, however, his only opponent on the ballot was "<a href="/wiki/None_of_the_above" title="None of the above">none of the above</a>". Schreiner's election was confirmed on November 14, 2009.<sup id="cite_ref-autogenerated1_1-1" class="reference"><a href="#cite_note-autogenerated1-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Registered_candidates"><span class="tocnumber">1</span> <span class="toctext">Registered candidates</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#None_of_the_above"><span class="tocnumber">2</span> <span class="toctext">None of the above</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Potential_candidates_who_did_not_enter"><span class="tocnumber">3</span> <span class="toctext">Potential candidates who did not enter</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Timeline"><span class="tocnumber">4</span> <span class="toctext">Timeline</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Registered_candidates">Registered candidates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit&amp;section=1" title="Edit section: Registered candidates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Mike Schreiner</a>,  policy director for the GPO, and the candidate for the <a href="/wiki/Haliburton%E2%80%94Kawartha_Lakes%E2%80%94Brock_(provincial_electoral_district)" title="Haliburton—Kawartha Lakes—Brock (provincial electoral district)">Haliburton—Kawartha Lakes—Brock</a> 2009 by-election, in which he finished in third.
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="None_of_the_above">None of the above</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit&amp;section=2" title="Edit section: None of the above">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/None_of_the_above" title="None of the above">None of the above</a> ballot option was available to members.
+</p>
+<h2><span class="mw-headline" id="Potential_candidates_who_did_not_enter">Potential candidates who did not enter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit&amp;section=3" title="Edit section: Potential candidates who did not enter">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Shane_Jolley" title="Shane Jolley">Shane Jolley</a>, who at the time was the male deputy leader of the GPO. In the <a href="/wiki/Ontario_general_election,_2007" title="Ontario general election, 2007">2007 provincial election</a>, Jolley was the Green Party's candidate in <a href="/wiki/Bruce%E2%80%94Grey%E2%80%94Owen_Sound_(provincial_electoral_district)" title="Bruce—Grey—Owen Sound (provincial electoral district)">Bruce—Grey—Owen Sound</a> and came in second place with more than 33 per cent of the vote, giving Jolley the best finish of any Green Party candidate in the election, and at the time, the best finish for a Green Party candidate across Canada.</li>
+<li><a href="/wiki/David_Chernushenko" title="David Chernushenko">David Chernushenko</a>, former Senior Deputy to the Leader of the Green Party of Canada, and a former federal Green leadership contestant, member of the National Round Table on Environment and the Economy. Ran for the federal Greens in the riding of <a href="/wiki/Ottawa_Centre" title="Ottawa Centre">Ottawa Centre</a> in 2004 and 2006, getting some of the best results for the party in those elections, and in the riding of <a href="/wiki/Ottawa_South" title="Ottawa South">Ottawa South</a> for the provincial Green Party in 2003.</li>
+<li>Mark MacKenzie, former Eastern Male Regional Representative on the Green Party of Ontario's Provincial Executive, 2007 election candidate in <a href="/wiki/Renfrew%E2%80%94Nipissing%E2%80%94Pembroke_(provincial_electoral_district)" title="Renfrew—Nipissing—Pembroke (provincial electoral district)">Renfrew—Nipissing—Pembroke</a>, 2010 by-election candidate in Ottawa West-Nepean.</li>
+<li>Andrew James, author and 2007 election candidate in <a href="/wiki/Eglinton%E2%80%94Lawrence_(provincial_electoral_district)" title="Eglinton—Lawrence (provincial electoral district)">Eglinton—Lawrence</a>.</li></ul>
+<h2><span class="mw-headline" id="Timeline">Timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit&amp;section=4" title="Edit section: Timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>May 16, 2009 - De Jong tells the GPO AGM he will be stepping down as leader.</li>
+<li>September 1, 2009 - Nominations close.</li>
+<li>November 13–15, 2009 - GPO leadership convention.
+<ul><li>November 14, 2009 - Schreiner affirmed as the party's new leader.</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-autogenerated1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/news/national/ontarios-greens-pick-mike-schreiner-as-new-leader/article1363796/">This page is available to GlobePlus subscribers</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gpo.ca/node/2064">GPO Leadership Contest Announcement | Green Party of Ontario</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.gpo.ca/">Green Party of Ontario website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_Canada" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#289728;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPC" title="Template:GPC"><abbr title="View this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPC" title="Template talk:GPC"><abbr title="Discuss this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPC&amp;action=edit"><abbr title="Edit this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_Canada" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Party wings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/Green_Party_of_Canada#Provincial_&amp;_territorial_parties" title="Green Party of Canada">Provincial &amp; territorial</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta" title="Green Party of Alberta">Alberta</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">British Columbia</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba" title="Green Party of Manitoba">Manitoba</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick" title="Green Party of New Brunswick">New Brunswick</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia" title="Green Party of Nova Scotia">Nova Scotia</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Ontario</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island" title="Green Party of Prince Edward Island">Prince Edward Island</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec" title="Green Party of Quebec">Quebec</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan" title="Green Party of Saskatchewan">Saskatchewan</a></li>
+<li><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Municipal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burnaby_Municipal_Green_Party" title="Burnaby Municipal Green Party">Burnaby</a></li>
+<li><a href="/wiki/Green_Party_of_Vancouver" title="Green Party of Vancouver">Vancouver</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Former parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alberta_Greens" title="Alberta Greens">Alberta</a></li>
+<li><a href="/wiki/Montr%C3%A9al_%C3%89cologique" title="Montréal Écologique">Montreal</a></li>
+<li><a href="/wiki/Winnipeg_Green_Party" title="Winnipeg Green Party">Winnipeg</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Green_Maple_Leaf.svg" class="image"><img alt="Green Maple Leaf.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/60px-Green_Maple_Leaf.svg.png" width="60" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/90px-Green_Maple_Leaf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/120px-Green_Maple_Leaf.svg.png 2x" data-file-width="300" data-file-height="325" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Federal level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leaders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trevor_Hancock" title="Trevor Hancock">Hancock</a></li>
+<li><a href="/wiki/Seymour_Trieger" title="Seymour Trieger">Trieger</a></li>
+<li><a href="/wiki/Kathryn_Cholette" title="Kathryn Cholette">Cholette</a></li>
+<li><a href="/wiki/Chris_Lea" title="Chris Lea">Lea</a></li>
+<li><a href="/wiki/Wendy_Priesnitz" title="Wendy Priesnitz">Priesnitz</a></li>
+<li>Garfinkle (<i>interim</i>)</li>
+<li><a href="/wiki/Joan_Russow" title="Joan Russow">Russow</a></li>
+<li><a href="/wiki/Chris_Bradshaw" title="Chris Bradshaw">Bradshaw</a> (<i>interim</i>)</li>
+<li><a href="/wiki/Jim_Harris_(politician)" title="Jim Harris (politician)">Harris</a></li>
+<li><a href="/wiki/Elizabeth_May" title="Elizabeth May">May</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leadership elections</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_leadership_election,_2006" title="Green Party of Canada leadership election, 2006">2006</a></li>
+<li><i><a href="/wiki/Green_Party_of_Canada_leadership_elections" title="Green Party of Canada leadership elections">list</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Parliamentary election<br />candidates</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_candidates,_1984_Canadian_federal_election" title="Green Party of Canada candidates, 1984 Canadian federal election">1984</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1988_Canadian_federal_election" title="Green Party of Canada candidates, 1988 Canadian federal election">1988</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1993_Canadian_federal_election" title="Green Party of Canada candidates, 1993 Canadian federal election">1993</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1997_Canadian_federal_election" title="Green Party of Canada candidates, 1997 Canadian federal election">1997</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2000_Canadian_federal_election" title="Green Party of Canada candidates, 2000 Canadian federal election">2000</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2004_Canadian_federal_election" title="Green Party of Canada candidates, 2004 Canadian federal election">2004</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2006_Canadian_federal_election" title="Green Party of Canada candidates, 2006 Canadian federal election">2006</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2008_Canadian_federal_election" title="Green Party of Canada candidates, 2008 Canadian federal election">2008</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2011_Canadian_federal_election" title="Green Party of Canada candidates, 2011 Canadian federal election">2011</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2015_Canadian_federal_election" title="Green Party of Canada candidates, 2015 Canadian federal election">2015</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Provincial level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">Current leaders</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cheryle_Chagnon-Greyeyes" title="Cheryle Chagnon-Greyeyes">Chagnon-Greyeyes – AB</a></li>
+<li><a href="/wiki/Andrew_Weaver" title="Andrew Weaver">Weaver – BC</a></li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">Beddome – MB</a></li>
+<li><a href="/wiki/David_Coon" title="David Coon">Coon – NB</a></li>
+<li><a href="/wiki/Thomas_Trappenberg" title="Thomas Trappenberg">Trappenberg – NS</a></li>
+<li><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Schreiner – ON</a></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Bevan-Baker – PE</a></li>
+<li><a href="/wiki/Alex_Tyrrell" title="Alex Tyrrell">Tyrrell – QC</a></li>
+<li><a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Setyo – SK</a></li>
+<li><a href="/wiki/Frank_de_Jong" title="Frank de Jong">de Jong – YT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Upcoming or most recent<br />leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta_leadership_election,_2018" title="Green Party of Alberta leadership election, 2018">Alberta 2018</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia#Sterk_and_Weaver_(2007-present)" title="Green Party of British Columbia">British Columbia 2015</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba#Leaders" title="Green Party of Manitoba">Manitoba 2014</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick#2012_leadership_election" title="Green Party of New Brunswick">New Brunswick 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia#Leadership" title="Green Party of Nova Scotia">Nova Scotia 2016</a></li>
+<li><a class="mw-selflink selflink">Ontario 2009</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">Prince Edward Island 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec#Current_Green_Party_of_Quebec_(2001–present)" title="Green Party of Quebec">Quebec 2013</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan#Party_leaders" title="Green Party of Saskatchewan">Saskatchewan 2016</a></li>
+<li><i><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon 2017</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_Canada" title="History of the Green Party of Canada">History</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li>
+<li><a href="/wiki/Young_Greens_of_Canada" title="Young Greens of Canada">Young Greens of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2184
+Cached time: 20180927020826
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.287 seconds
+Preprocessor visited node count: 2992/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60725/2097152 bytes
+Template argument size: 2917/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1126/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 2.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  234.580      1 -total
+ 56.07%  131.523      2 Template:Infobox
+ 54.66%  128.223      1 Template:Infobox_election
+ 23.24%   54.518      3 Template:Infobox_election/row
+ 16.48%   38.668      1 Template:Citation_needed
+ 14.77%   34.638      1 Template:Fix
+ 13.39%   31.403      1 Template:Infobox_leadership_election
+ 11.17%   26.192      4 Template:Navbox
+  9.53%   22.360      1 Template:GPC
+  8.88%   20.825      2 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22852346-0!canonical and timestamp 20180927020826 and revision id 858800908
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;oldid=858800908">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;oldid=858800908</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2009_elections_in_Canada" title="Category:2009 elections in Canada">2009 elections in Canada</a></li><li><a href="/wiki/Category:Green_Party_leadership_elections_in_Canada" title="Category:Green Party leadership elections in Canada">Green Party leadership elections in Canada</a></li><li><a href="/wiki/Category:2009_in_Ontario" title="Category:2009 in Ontario">2009 in Ontario</a></li><li><a href="/wiki/Category:Green_Party_of_Ontario_leadership_elections" title="Category:Green Party of Ontario leadership elections">Green Party of Ontario leadership elections</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2010" title="Category:Articles with unsourced statements from September 2010">Articles with unsourced statements from September 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Ontario+leadership+election%2C+2009" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Ontario+leadership+election%2C+2009" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Ontario_leadership_election,_2009" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Ontario_leadership_election,_2009" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Ontario_leadership_election,_2009">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Ontario_leadership_election,_2009" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Ontario_leadership_election,_2009" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;oldid=858800908" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603030" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Ontario_leadership_election%2C_2009&amp;id=858800908" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Ontario+leadership+election%2C+2009">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Ontario+leadership+election%2C+2009&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603030#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 September 2018, at 17:57<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Ontario_leadership_election,_2009&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.287","ppvisitednodes":{"value":2992,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60725,"limit":2097152},"templateargumentsize":{"value":2917,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1126,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  234.580      1 -total"," 56.07%  131.523      2 Template:Infobox"," 54.66%  128.223      1 Template:Infobox_election"," 23.24%   54.518      3 Template:Infobox_election/row"," 16.48%   38.668      1 Template:Citation_needed"," 14.77%   34.638      1 Template:Fix"," 13.39%   31.403      1 Template:Infobox_leadership_election"," 11.17%   26.192      4 Template:Navbox","  9.53%   22.360      1 Template:GPC","  8.88%   20.825      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.059","limit":"10.000"},"limitreport-memusage":{"value":2170501,"limit":52428800}},"cachereport":{"origin":"mw2184","timestamp":"20180927020826","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw2196"});});</script>
+	</body>
+</html>

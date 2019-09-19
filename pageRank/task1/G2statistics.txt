@@ -1,0 +1,4 @@
+the number of sources:12
+The number of sinks:8
+Maximum of in-degree:126
+Maximum of out-degree:77

@@ -1,0 +1,624 @@
+https://en.wikipedia.org/wiki/Green_Zionism
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Zionism - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Zionism","wgTitle":"Green Zionism","wgCurRevisionId":801805542,"wgRevisionId":801805542,"wgArticleId":22414006,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Green politics","Types of Zionism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Zionism","wgRelevantArticleId":22414006,"wgRequestId":"W6@a8grAIDkAAGVG2JYAAABY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5603426","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Zionism"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Zionism&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Zionism&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Zionism"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Zionism rootpage-Green_Zionism skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Zionism</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Outline_of_Judaism" title="Outline of Judaism">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Jews" title="Jews">Jews</a> and <a href="/wiki/Judaism" title="Judaism">Judaism</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding-top:none;"><a href="/wiki/File:Star_of_David.svg" class="image" title="Star of David"><img alt="Star of David" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/70px-Star_of_David.svg.png" width="70" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/105px-Star_of_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/140px-Star_of_David.svg.png 2x" data-file-width="260" data-file-height="300" /></a></td></tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:none;padding-bottom:0.6em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Jew_(word)" title="Jew (word)">Etymology</a></li>
+<li><a href="/wiki/Who_is_a_Jew%3F" title="Who is a Jew?">Who is a Jew?</a></li></ul>
+<ul><li><a href="/wiki/Jewish_peoplehood" title="Jewish peoplehood">Jewish peoplehood</a></li>
+<li><a href="/wiki/Jewish_identity" title="Jewish identity">Jewish identity</a></li></ul>
+</div></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Judaism" title="Judaism">Religion</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;">
+<ul><li><a href="/wiki/God_in_Judaism" title="God in Judaism">God in Judaism</a>&#160;(<a href="/wiki/Names_of_God_in_Judaism" title="Names of God in Judaism">names</a>)</li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/Jewish_principles_of_faith" title="Jewish principles of faith">Principles of faith</a></li>
+<li><a href="/wiki/Mitzvah" title="Mitzvah">Mitzvot</a>&#160;(<a href="/wiki/613_commandments" title="613 commandments">613</a>)</li>
+<li><a href="/wiki/Halakha" title="Halakha">Halakha</a></li>
+<li><a href="/wiki/Shabbat" title="Shabbat">Shabbat</a></li>
+<li><a href="/wiki/Jewish_holidays" title="Jewish holidays">Holidays</a></li>
+<li><a href="/wiki/Jewish_prayer" title="Jewish prayer">Prayer</a></li>
+<li><a href="/wiki/Tzedakah" title="Tzedakah">Tzedakah</a></li>
+<li><a href="/wiki/Laws_and_customs_of_the_Land_of_Israel_in_Judaism" title="Laws and customs of the Land of Israel in Judaism"><span class="wrap">Land&#160;of Israel</span></a></li>
+<li><a href="/wiki/Brit_milah" title="Brit milah">Brit</a></li>
+<li><a href="/wiki/Bar_and_Bat_Mitzvah" title="Bar and Bat Mitzvah"><span class="wrap">Bar&#160;and Bat Mitzvah</span></a></li>
+<li><a href="/wiki/Jewish_views_on_marriage" title="Jewish views on marriage">Marriage</a></li>
+<li><a href="/wiki/Bereavement_in_Judaism" title="Bereavement in Judaism">Bereavement</a></li>
+<li><a href="/wiki/Jewish_philosophy" title="Jewish philosophy">Philosophy</a></li>
+<li><a href="/wiki/Jewish_ethics" title="Jewish ethics">Ethics</a></li>
+<li><a href="/wiki/Kabbalah" title="Kabbalah">Kabbalah</a></li>
+<li><a href="/wiki/Minhag" title="Minhag">Customs</a></li>
+<li><a href="/wiki/Synagogue" title="Synagogue">Synagogue</a></li>
+<li><a href="/wiki/Rabbi" title="Rabbi">Rabbi</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Category:Jewish_texts" title="Category:Jewish texts">Texts</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;">
+<ul><li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Tanakh" class="mw-redirect" title="Tanakh">Tanakh</a> <div class="hlist hlist-separated"><ul><li>(<a href="/wiki/Torah" title="Torah">Torah</a></li><li><a href="/wiki/Nevi%27im" title="Nevi&#39;im">Nevi'im</a></li><li><a href="/wiki/Ketuvim" title="Ketuvim">Ketuvim</a>)</li></ul></div></div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Talmud" title="Talmud">Talmud</a> <div class="hlist hlist-separated"><ul><li>(<a href="/wiki/Mishnah" title="Mishnah">Mishnah</a></li><li><a href="/wiki/Gemara" title="Gemara">Gemara</a>)</li></ul></div></div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Rabbinic_literature" title="Rabbinic literature">Rabbinic</a> <div class="hlist hlist-separated"><ul><li>(<a href="/wiki/Midrash" title="Midrash">Midrash</a></li><li><a href="/wiki/Tosefta" title="Tosefta">Tosefta</a>)</li></ul></div></div></li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/Targum" title="Targum">Targum</a></li>
+<li><a href="/wiki/Beit_Yosef_(book)" title="Beit Yosef (book)">Beit Yosef</a></li>
+<li><a href="/wiki/Mishneh_Torah" title="Mishneh Torah">Mishneh Torah</a></li>
+<li><a href="/wiki/Arba%27ah_Turim" title="Arba&#39;ah Turim">Tur</a></li>
+<li><i><a href="/wiki/Shulchan_Aruch" title="Shulchan Aruch">Shulchan Aruch</a></i></li>
+<li><a href="/wiki/Zohar" title="Zohar">Zohar</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Jewish_ethnic_divisions" title="Jewish ethnic divisions">Communities</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Ashkenazi_Jews" title="Ashkenazi Jews">Ashkenazim</a></li>
+<li><a href="/wiki/Sephardi_Jews" title="Sephardi Jews">Sephardim</a></li>
+<li><a href="/wiki/Italian_Jews" title="Italian Jews">Italkim</a></li>
+<li><a href="/wiki/Romaniote_Jews" title="Romaniote Jews">Romaniotes</a></li>
+<li><a href="/wiki/Mizrahi_Jews" title="Mizrahi Jews">Mizrahim</a></li>
+<li><a href="/wiki/Cochin_Jews" title="Cochin Jews">Cochin</a></li>
+<li><a href="/wiki/Bene_Israel" title="Bene Israel">Bene Israel</a></li>
+<li><a href="/wiki/Beta_Israel" title="Beta Israel">Beta Israel</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;padding-bottom:none;font-weight:normal;">
+<i>Related groups</i></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding-top:none;">
+<ul><li><a href="/wiki/Sephardic_Bnei_Anusim" title="Sephardic Bnei Anusim">Bnei Anusim</a></li>
+<li><a href="/wiki/Lemba_people" title="Lemba people">Lemba</a></li>
+<li><a href="/wiki/Crimean_Karaites" title="Crimean Karaites">Crimean Karaites</a></li>
+<li><a href="/wiki/Krymchaks" title="Krymchaks">Krymchaks</a></li>
+<li><a href="/wiki/Samaritans" title="Samaritans">Samaritans</a></li>
+<li><a href="/wiki/Crypto-Judaism" title="Crypto-Judaism">Crypto-Jews</a></li>
+<li><a href="/wiki/Jewish_tribes_of_Arabia" title="Jewish tribes of Arabia">Mosaic Arabs</a></li>
+<li><a href="/wiki/Subbotniks" title="Subbotniks">Subbotniks</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Jewish_population_by_country" title="Jewish population by country">Population</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th style="padding:0.1em">
+<a href="/wiki/History_of_the_Jews_and_Judaism_in_the_Land_of_Israel" title="History of the Jews and Judaism in the Land of Israel">Land of Israel</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Old_Yishuv" title="Old Yishuv">Old Yishuv</a></li>
+<li><a href="/wiki/Yishuv" title="Yishuv">New Yishuv</a></li>
+<li><a href="/wiki/Israeli_Jews" title="Israeli Jews">Israeli Jews</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/History_of_the_Jews_in_Europe" title="History of the Jews in Europe">Europe</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/History_of_the_Jews_in_Austria" title="History of the Jews in Austria">Austria</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Belarus" title="History of the Jews in Belarus">Belarus</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Bulgaria" title="History of the Jews in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Czech_Republic" title="History of the Jews in the Czech Republic"><span class="wrap">Czech Republic</span></a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Estonia" title="History of the Jews in Estonia">Estonia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_France" title="History of the Jews in France">France</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Georgia" title="History of the Jews in Georgia">Georgia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Germany" title="History of the Jews in Germany">Germany</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Greece" title="History of the Jews in Greece">Greece</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Hungary" title="History of the Jews in Hungary">Hungary</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Italy" title="History of the Jews in Italy">Italy</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Latvia" title="History of the Jews in Latvia">Latvia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Lithuania" title="History of the Jews in Lithuania">Lithuania</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Moldova" title="History of the Jews in Moldova">Moldova</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Netherlands" title="History of the Jews in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Poland" title="History of the Jews in Poland">Poland</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Portugal" title="History of the Jews in Portugal">Portugal</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Romania" title="History of the Jews in Romania">Romania</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Russia" title="History of the Jews in Russia">Russia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Spain" title="History of the Jews in Spain">Spain</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Sweden" title="History of the Jews in Sweden">Sweden</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Ukraine" title="History of the Jews in Ukraine">Ukraine</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_United_Kingdom" title="History of the Jews in the United Kingdom"><span class="wrap">United Kingdom</span></a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/List_of_Asian_Jews" title="List of Asian Jews">Asia</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Yemenite_Jews" title="Yemenite Jews">Yemen</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Iraq" title="History of the Jews in Iraq">Iraq</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Iran" title="History of the Jews in Iran">Iran</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Turkey" title="History of the Jews in Turkey">Turkey</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Cyprus" title="History of the Jews in Cyprus">Cyprus</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Syria" title="History of the Jews in Syria">Syria</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Lebanon" title="History of the Jews in Lebanon">Lebanon</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Uzbekistan" title="History of the Jews in Uzbekistan">Uzbekistan</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Azerbaijan" title="History of the Jews in Azerbaijan">Azerbaijan</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_India" title="History of the Jews in India">India</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_China" title="History of the Jews in China">China</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Malaysia" title="History of the Jews in Malaysia">Malaysia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Indonesia" title="History of the Jews in Indonesia">Indonesia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Vietnam" title="History of the Jews in Vietnam">Vietnam</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Japan" title="History of the Jews in Japan">Japan</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Philippines" title="History of the Jews in the Philippines">Philippines</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/History_of_the_Jews_in_Africa" title="History of the Jews in Africa">Africa</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/History_of_the_Jews_in_Morocco" title="History of the Jews in Morocco">Morocco</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Algeria" title="History of the Jews in Algeria">Algeria</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Tunisia" title="History of the Jews in Tunisia">Tunisia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Libya" title="History of the Jews in Libya">Libya</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Egypt" title="History of the Jews in Egypt">Egypt</a></li>
+<li><a href="/wiki/Beta_Israel" title="Beta Israel">Ethiopia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_South_Africa" title="History of the Jews in South Africa"><span class="wrap">South Africa</span></a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Zimbabwe" title="History of the Jews in Zimbabwe">Zimbabwe</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+North America</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/History_of_the_Jews_in_the_United_States" title="History of the Jews in the United States">United States</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Canada" title="History of the Jews in Canada">Canada</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/History_of_the_Jews_in_Latin_America_and_the_Caribbean" title="History of the Jews in Latin America and the Caribbean">Latin America and Caribbean</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/History_of_the_Jews_in_Argentina" title="History of the Jews in Argentina">Argentina</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Bolivia" title="History of the Jews in Bolivia">Bolivia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Brazil" title="History of the Jews in Brazil">Brazil</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Chile" title="History of the Jews in Chile">Chile</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Colombia" title="History of the Jews in Colombia">Colombia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Cuba" title="History of the Jews in Cuba">Cuba</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Dominican_Republic" title="History of the Jews in the Dominican Republic"><span class="wrap">Dominican Republic</span></a></li>
+<li><a href="/wiki/History_of_the_Jews_in_El_Salvador" title="History of the Jews in El Salvador">El&#160;Salvador</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Guyana" title="History of the Jews in Guyana">Guyana</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Haiti" title="History of the Jews in Haiti">Haiti</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Jamaica" title="History of the Jews in Jamaica">Jamaica</a></li>
+<li><a href="/wiki/Judaism_in_Mexico" class="mw-redirect" title="Judaism in Mexico">Mexico</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Paraguay" title="History of the Jews in Paraguay">Paraguay</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Puerto_Rico" title="History of the Jews in Puerto Rico"><span class="wrap">Puerto Rico</span></a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Suriname" title="History of the Jews in Suriname">Suriname</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Uruguay" title="History of the Jews in Uruguay">Uruguay</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Venezuela" title="History of the Jews in Venezuela">Venezuela</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/History_of_the_Jews_in_Oceania" title="History of the Jews in Oceania">Oceania</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/History_of_the_Jews_in_Australia" title="History of the Jews in Australia">Australia</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Fiji" title="History of the Jews in Fiji">Fiji</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Guam" title="History of the Jews in Guam">Guam</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_New_Zealand" title="History of the Jews in New Zealand">New&#160;Zealand</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Palau" title="History of the Jews in Palau">Palau</a></li></ul></td>
+</tr></tbody></table>
+<hr />
+<ul><li><a href="/wiki/Judaism_by_country" title="Judaism by country">Judaism by country</a></li>
+<li><a href="/wiki/Lists_of_Jews" title="Lists of Jews">Lists of Jews</a></li>
+<li><a href="/wiki/Historical_Jewish_population_comparisons" title="Historical Jewish population comparisons">Historical population comparisons</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Jewish_religious_movements" title="Jewish religious movements">Denominations</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;"><div class="hlist">
+<ul><li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a></li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism"><span class="wrap">Reform</span></a></li>
+<li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Renewal</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Jewish_culture" title="Jewish culture">Culture</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;"><div class="hlist">
+<ul><li><a href="/wiki/Minyan" title="Minyan">Minyan</a></li>
+<li><a href="/wiki/Jewish_music" title="Jewish music">Music</a>
+<ul><li><a href="/wiki/Religious_Jewish_music" title="Religious Jewish music">Religious</a></li>
+<li><a href="/wiki/Secular_Jewish_music" title="Secular Jewish music">Secular</a></li></ul></li>
+<li><a href="/wiki/Jewish_wedding" title="Jewish wedding">Wedding</a></li>
+<li><a href="/wiki/Jewish_religious_clothing" title="Jewish religious clothing">Clothing</a></li>
+<li><a href="/wiki/Niddah" title="Niddah">Niddah</a></li>
+<li><a href="/wiki/Pidyon_haben" title="Pidyon haben">Pidyon haben</a></li>
+<li><a href="/wiki/Kashrut" title="Kashrut">Kashrut</a></li>
+<li><a href="/wiki/Shidduch" title="Shidduch">Shidduch</a></li>
+<li><a href="/wiki/Zeved_habat" title="Zeved habat">Zeved habat</a></li>
+<li><a href="/wiki/Conversion_to_Judaism" title="Conversion to Judaism"><span class="wrap">Conversion&#160;to Judaism</span></a></li>
+<li><a href="/wiki/Hiloni" title="Hiloni">Hiloni</a></li>
+<li><a href="/wiki/Jewish_cuisine" title="Jewish cuisine">Cuisine</a>
+<ul><li><a href="/wiki/Ancient_Israelite_cuisine" title="Ancient Israelite cuisine">Israelite</a></li>
+<li><a href="/wiki/Israeli_cuisine" title="Israeli cuisine">Israeli</a></li>
+<li><a href="/wiki/Cuisine_of_the_Sephardic_Jews" title="Cuisine of the Sephardic Jews">Sephardic</a></li>
+<li><a href="/wiki/Cuisine_of_the_Mizrahi_Jews" title="Cuisine of the Mizrahi Jews">Mizrahi</a></li></ul></li>
+<li><a href="/wiki/Jewish_literature" title="Jewish literature">Literature</a>
+<ul><li><a href="/wiki/Israeli_literature" title="Israeli literature">Israeli</a></li>
+<li><a href="/wiki/Yiddish_literature" title="Yiddish literature">Yiddish</a></li>
+<li><a href="/wiki/Jewish_American_literature" title="Jewish American literature">American</a></li></ul></li>
+<li><a href="/wiki/Yiddish_theatre" title="Yiddish theatre">Yiddish theatre</a></li>
+<li><a href="/wiki/Jewish_dance" title="Jewish dance">Dance</a></li>
+<li><a href="/wiki/Jewish_humour" class="mw-redirect" title="Jewish humour">Humour</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Jewish_languages" title="Jewish languages">Languages</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;"><div class="hlist">
+<ul><li><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Biblical_Hebrew" title="Biblical Hebrew">Biblical</a>)</span></li>
+<li><a href="/wiki/Yiddish" title="Yiddish">Yiddish</a></li>
+<li><a href="/wiki/Jewish_Koine_Greek" title="Jewish Koine Greek">Jewish Koine Greek</a></li>
+<li><a href="/wiki/Yevanic_language" title="Yevanic language">Yevanic</a></li>
+<li><a href="/wiki/Judeo-Tat" title="Judeo-Tat">Juhuri</a></li>
+<li><a href="/wiki/Israeli_Sign_Language" title="Israeli Sign Language">Shassi</a></li>
+<li><a href="/wiki/Judeo-Iranian_languages" title="Judeo-Iranian languages">Judaeo-Iranian</a></li>
+<li><a href="/wiki/Judaeo-Spanish" title="Judaeo-Spanish">Ladino</a></li>
+<li><a href="/wiki/Ghardaia_Sign_Language" class="mw-redirect" title="Ghardaia Sign Language">Ghardaïa Sign</a></li>
+<li><a href="/wiki/Bukhori_dialect" title="Bukhori dialect">Bukharian</a></li>
+<li><a href="/wiki/Knaanic_language" title="Knaanic language">Knaanic</a></li>
+<li><a href="/wiki/Zarphatic_language" title="Zarphatic language">Zarphatic</a></li>
+<li><a href="/wiki/Italkian" class="mw-redirect" title="Italkian">Italkian</a></li>
+<li><a href="/wiki/Gruzinic" class="mw-redirect" title="Gruzinic">Gruzinic</a></li>
+<li><a href="/wiki/Judeo-Aramaic_languages" title="Judeo-Aramaic languages">Judeo-Aramaic</a></li>
+<li><a href="/wiki/Judeo-Arabic_languages" title="Judeo-Arabic languages">Judeo-Arabic</a></li>
+<li><a href="/wiki/Judeo-Berber_language" title="Judeo-Berber language">Judeo-Berber</a></li>
+<li><a href="/wiki/Judeo-Malayalam" title="Judeo-Malayalam">Judeo-Malayalam</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Jewish_history" title="Jewish history">History</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;"><div class="hlist">
+<ul><li><a href="/wiki/Timeline_of_Jewish_history" title="Timeline of Jewish history">Timeline</a></li>
+<li><a href="/wiki/Timeline_of_the_name_%22Judea%22" title="Timeline of the name &quot;Judea&quot;">Name "Judea"</a></li></ul>
+<ul><li><a href="/wiki/Jewish_leadership" title="Jewish leadership">Leaders</a></li>
+<li><a href="/wiki/Twelve_Tribes_of_Israel" title="Twelve Tribes of Israel">Twelve Tribes of Israel</a></li>
+<li><a href="/wiki/History_of_ancient_Israel_and_Judah" title="History of ancient Israel and Judah">Ancient history</a></li>
+<li><a href="/wiki/Kingdom_of_Judah" title="Kingdom of Judah"><span class="wrap">Kingdom&#160;of Judah</span></a></li>
+<li><a href="/wiki/Temple_in_Jerusalem" title="Temple in Jerusalem"><span class="wrap">Temple&#160;in Jerusalem</span></a></li>
+<li><a href="/wiki/Babylonian_captivity" title="Babylonian captivity"><span class="wrap">Babylonian captivity</span></a></li>
+<li><a href="/wiki/Assyrian_captivity" title="Assyrian captivity"><span class="wrap">Assyrian captivity</span></a></li>
+<li><a href="/wiki/Yehud_Medinata" title="Yehud Medinata">Yehud Medinata</a></li>
+<li><a href="/wiki/Second_Temple" title="Second Temple">Second Temple</a></li>
+<li><a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Jerusalem_in_Judaism" title="Jerusalem in Judaism">in&#160;Judaism</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Timeline_of_Jerusalem" title="Timeline of Jerusalem">timeline</a>)</span></li>
+<li><a href="/wiki/Hasmonean_dynasty" title="Hasmonean dynasty"><span class="wrap">Hasmonean dynasty</span></a></li>
+<li><a href="/wiki/Sanhedrin" title="Sanhedrin">Sanhedrin</a></li>
+<li><a href="/wiki/Jewish_schisms" title="Jewish schisms">Schisms</a></li>
+<li><a href="/wiki/Pharisees" title="Pharisees">Pharisees</a></li>
+<li><a href="/wiki/Hellenistic_Judaism" title="Hellenistic Judaism">Hellenistic Judaism</a></li>
+<li><a href="/wiki/Jewish%E2%80%93Roman_wars" title="Jewish–Roman wars">Jewish–Roman wars</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Byzantine_Empire" title="History of the Jews in the Byzantine Empire">History of the Jews in the Byzantine Empire</a></li>
+<li><a href="/wiki/Christianity_and_Judaism" title="Christianity and Judaism"><span class="wrap">Christianity&#160;and Judaism</span></a></li>
+<li><a href="/wiki/Hinduism_and_Judaism" title="Hinduism and Judaism"><span class="wrap">Hinduism&#160;and Judaism</span></a></li>
+<li><a href="/wiki/Islamic%E2%80%93Jewish_relations" title="Islamic–Jewish relations"><span class="wrap"><span class="nowrap">Islamic–Jewish</span> relations</span></a></li>
+<li><a href="/wiki/Jewish_diaspora" title="Jewish diaspora">Diaspora</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Middle_Ages" class="mw-redirect" title="History of the Jews in the Middle Ages">Middle Ages</a></li>
+<li><a href="/wiki/Golden_age_of_Jewish_culture_in_Spain" title="Golden age of Jewish culture in Spain">Golden Age</a></li>
+<li><a href="/wiki/Sabbateans" title="Sabbateans">Sabbateans</a></li>
+<li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidism</a></li>
+<li><a href="/wiki/Haskalah" title="Haskalah">Haskalah</a></li>
+<li><a href="/wiki/Jewish_emancipation" title="Jewish emancipation">Emancipation</a></li>
+<li><a href="/wiki/History_of_antisemitism" title="History of antisemitism">Antisemitism</a></li>
+<li><a href="/wiki/Anti-Judaism" title="Anti-Judaism">Anti-Judaism</a></li>
+<li><a href="/wiki/Persecution_of_Jews" title="Persecution of Jews">Persecution</a></li>
+<li><a href="/wiki/The_Holocaust" title="The Holocaust">The Holocaust</a></li>
+<li><a href="/wiki/History_of_Israel" title="History of Israel">Israel</a></li>
+<li><a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a></li>
+<li><a href="/wiki/Aliyah" title="Aliyah">Aliyah</a></li>
+<li><a href="/wiki/Jewish_atheism" title="Jewish atheism">Jewish atheism</a></li>
+<li><a href="/wiki/Baal_teshuva_movement" title="Baal teshuva movement">Baal teshuva</a></li>
+<li><a href="/wiki/Arab%E2%80%93Israeli_conflict" title="Arab–Israeli conflict"><span class="wrap"><span class="nowrap">Arab–Israeli</span> conflict</span></a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;border-bottom:solid 1px #aaa;"><span style="font-size:110%;"><a href="/wiki/Jewish_political_movements" title="Jewish political movements">Politics</a></span></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #aaa;">
+<ul><li><a href="/wiki/Politics_of_Israel" title="Politics of Israel">Politics of Israel</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Zionism" title="Zionism">Zionism</a> <div class="hlist hlist-separated"><ul><li>(<a href="/wiki/General_Zionists" title="General Zionists">General</a></li><li><a class="mw-selflink selflink">Green</a></li><li><a href="/wiki/Labor_Zionism" title="Labor Zionism">Labor</a></li><li><a href="/wiki/Neo-Zionism" title="Neo-Zionism">Neo</a></li><li><a href="/wiki/Religious_Zionism" title="Religious Zionism">Religious</a></li><li><a href="/wiki/Revisionist_Zionism" title="Revisionist Zionism">Revisionist</a>)</li></ul></div> </div></li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/Judaism_and_politics" title="Judaism and politics">Judaism and politics</a></li>
+<li><a href="/wiki/World_Agudath_Israel" title="World Agudath Israel">World Agudath Israel</a></li>
+<li><a href="/wiki/Bundism" title="Bundism">Bundism</a></li>
+<li><a href="/wiki/Jewish_feminism" title="Jewish feminism">Feminism</a></li>
+<li><a href="/wiki/Jewish_left" title="Jewish left">Jewish left</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border-top:none;padding-top:none;line-height:1.7em;">
+<ul><li><a href="/wiki/Category:Jews_and_Judaism" title="Category:Jews and Judaism">Category: Jews and Judaism</a></li>
+<li><a href="/wiki/Portal:Judaism" title="Portal:Judaism">Portal: Judaism</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Jews_and_Judaism_sidebar" title="Template:Jews and Judaism sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Jews_and_Judaism_sidebar" title="Template talk:Jews and Judaism sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jews_and_Judaism_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Green Zionism</b> is a branch of <a href="/wiki/Zionism" title="Zionism">Zionism</a> that is primarily concerned with the environment of <a href="/wiki/Israel" title="Israel">Israel</a>. It mostly fuses Israeli-specific environmental concerns with support for the existence of Israel as a <a href="/wiki/Jewish_state" title="Jewish state">Jewish state</a>. The term itself is a trademark of <a href="/wiki/Aytzim" title="Aytzim">Aytzim</a>, the first <a href="/wiki/Environmentalism" title="Environmentalism">environmental</a> organization to participate in the <a href="/wiki/World_Zionist_Congress" title="World Zionist Congress">World Zionist Congress</a>, the <a href="/wiki/World_Zionist_Organization" title="World Zionist Organization">World Zionist Organization</a>, and its constituent agencies.<sup id="cite_ref-Forward_1-0" class="reference"><a href="#cite_note-Forward-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Zionism&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Aytzim" title="Aytzim">Aytzim</a></li>
+<li><a href="/wiki/The_Green_Movement_(Israel)" class="mw-redirect" title="The Green Movement (Israel)">The Green Movement (Israel)</a></li>
+<li><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens (Israel)</a></li>
+<li><a href="/wiki/Meretz" title="Meretz">Meretz</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Zionism&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Forward-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Forward_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Berger, Paul (16 June 2010). <a rel="nofollow" class="external text" href="http://www.forward.com/articles/128801/">"Enter the Green Zionists"</a>. <a href="/wiki/The_Forward" title="The Forward">The Forward</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Enter+the+Green+Zionists&amp;rft.date=2010-06-16&amp;rft.aulast=Berger&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.forward.com%2Farticles%2F128801%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Zionism" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Zionism&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://aytzim.org/">Aytzim</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Green_politics" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#b9e0a0;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template" style=";background:#b9e0a0;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template" style=";background:#b9e0a0;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template" style=";background:#b9e0a0;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#b9e0a0;">Core topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#b9e0a0;">Four pillars</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#b9e0a0;">Perspectives</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a class="mw-selflink selflink">Green Zionism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#b9e0a0;">Organizations</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#b9e0a0;">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Israel&amp;#124;link=Israel_Zionism" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Zionism" title="Template:Zionism"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Zionism" title="Template talk:Zionism"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Zionism&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Israel&amp;#124;link=Israel_Zionism" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> <a href="/wiki/Zionism" title="Zionism">Zionism</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zion" title="Zion">Zion</a></li>
+<li><a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a></li>
+<li><a href="/wiki/Aliyah" title="Aliyah">Aliyah</a></li>
+<li><a href="/wiki/Yerida" title="Yerida">Yerida</a></li>
+<li><a href="/wiki/Homeland_for_the_Jewish_people" title="Homeland for the Jewish people">Homeland</a>&#160;(<a href="/wiki/Proposals_for_a_Jewish_state" title="Proposals for a Jewish state">proposals</a>)</li>
+<li><a href="/wiki/Jewish_state" title="Jewish state">Jewish state</a></li>
+<li><a href="/wiki/Law_of_Return" title="Law of Return">Law of Return</a></li>
+<li><a href="/wiki/Yishuv" title="Yishuv">Yishuv</a></li>
+<li><a href="/wiki/Jewish_Territorialist_Organization" title="Jewish Territorialist Organization">Territorialism</a></li>
+<li><a href="/wiki/Promised_Land" title="Promised Land">Promised Land</a></li>
+<li><a href="/wiki/Gathering_of_Israel" title="Gathering of Israel">Gathering of Israel</a></li>
+<li><a href="/wiki/Tower_and_stockade" class="mw-redirect" title="Tower and stockade">Settlement</a></li>
+<li><a href="/wiki/Negation_of_the_Diaspora" title="Negation of the Diaspora">Negation of the Diaspora</a></li>
+<li><a href="/wiki/Revival_of_the_Hebrew_language" title="Revival of the Hebrew language">Revival of the Hebrew language</a></li>
+<li><a href="/wiki/Hebraization_of_surnames" title="Hebraization of surnames">Hebraization of surnames</a></li>
+<li><a href="/wiki/Judaization" title="Judaization">Judaization</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Zionism-template.png" class="image" title="Theodor Herzl, Israel&#39;s flag and its declaration of independence"><img alt="Theodor Herzl, Israel&#39;s flag and its declaration of independence" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zionism-template.png/45px-Zionism-template.png" width="45" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zionism-template.png/68px-Zionism-template.png 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c6/Zionism-template.png 2x" data-file-width="83" data-file-height="274" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Types_of_Zionism" title="Types of Zionism">Ideologies</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_Zionists" title="General Zionists">General</a></li>
+<li><a href="/wiki/Labor_Zionism" title="Labor Zionism">Labor</a></li>
+<li><a href="/wiki/Revisionist_Zionism" title="Revisionist Zionism">Revisionist</a></li>
+<li><a href="/wiki/Reform_Zionism" title="Reform Zionism">Reform</a></li>
+<li><a href="/wiki/Religious_Zionism" title="Religious Zionism">Religious</a></li>
+<li><a href="/wiki/Cultural_Zionism" title="Cultural Zionism">Cultural</a></li>
+<li><a href="/wiki/Federal_Zionism" title="Federal Zionism">Federal</a></li>
+<li><a href="/wiki/Post-Zionism" title="Post-Zionism">Post-Zionism</a></li>
+<li><a href="/wiki/Proto-Zionism" title="Proto-Zionism">Proto-Zionism</a></li>
+<li><a href="/wiki/Neo-Zionism" title="Neo-Zionism">Neo-Zionism</a></li>
+<li><a href="/wiki/Non-Zionism" title="Non-Zionism">Non-Zionism</a></li>
+<li><a href="/wiki/Christian_Zionism" title="Christian Zionism">Christian</a></li>
+<li><a href="/wiki/Muslim_supporters_of_Israel" title="Muslim supporters of Israel">Muslim</a></li>
+<li><a href="/wiki/Kahanism" title="Kahanism">Kahanism</a></li>
+<li><a href="/wiki/Arabs_for_Israel" title="Arabs for Israel">Arab</a></li>
+<li><a class="mw-selflink selflink">Green</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Histadrut" title="Histadrut">Histadrut</a></li>
+<li><a href="/wiki/World_Zionist_Organization" title="World Zionist Organization">World Zionist Organization</a></li>
+<li><a href="/wiki/Zionist_General_Council" title="Zionist General Council">Zionist General Council</a></li>
+<li><a href="/wiki/Zionist_Federation_of_Germany" title="Zionist Federation of Germany">Zionist Federation of Germany</a></li>
+<li><a href="/wiki/Zionist_Organization_of_America" title="Zionist Organization of America">Zionist Organization of America</a></li>
+<li><a href="/wiki/Religious_Zionists_of_America" title="Religious Zionists of America">Religious Zionists of America</a></li>
+<li><a href="/wiki/Jewish_National_Fund" title="Jewish National Fund">Jewish National Fund</a></li>
+<li><a href="/wiki/Poale_Zion" title="Poale Zion">Poale Zion</a></li>
+<li><a href="/wiki/Jewish_Agency_for_Israel" title="Jewish Agency for Israel">Jewish Agency for Israel</a></li>
+<li><a href="/wiki/Jewish_National_Council" title="Jewish National Council">Jewish National Council</a></li>
+<li><a href="/wiki/Bnei_Akiva" title="Bnei Akiva">Bnei Akiva</a></li>
+<li><a href="/wiki/Habonim_Dror" title="Habonim Dror">Habonim Dror</a></li>
+<li><a href="/wiki/Hashomer_Hatzair" title="Hashomer Hatzair">Hashomer Hatzair</a></li>
+<li><a href="/wiki/Haganah" title="Haganah">Haganah</a></li>
+<li><a href="/wiki/Hanoar_Hatzioni" class="mw-redirect" title="Hanoar Hatzioni">Hanoar Hatzioni</a></li>
+<li><a href="/wiki/World_Agudath_Israel" title="World Agudath Israel">World Agudath Israel</a></li>
+<li><a href="/wiki/Irgun" title="Irgun">Irgun</a></li>
+<li><a href="/wiki/Betar" title="Betar">Betar</a></li>
+<li><a href="/wiki/Lehi_(group)" class="mw-redirect" title="Lehi (group)">Lehi</a></li>
+<li><a href="/wiki/Jewish_Party_(Czechoslovakia)" title="Jewish Party (Czechoslovakia)">Jewish Party (Czechoslovakia)</a></li>
+<li><a href="/wiki/Jewish_Party_(Romania)" title="Jewish Party (Romania)">Jewish Party (Romania)</a></li>
+<li><a href="/wiki/Jewish_Resistance_Movement" title="Jewish Resistance Movement">Jewish Resistance Movement</a></li>
+<li><a href="/wiki/Palmach" title="Palmach">Palmach</a></li>
+<li><a href="/wiki/Women%27s_International_Zionist_Organization" title="Women&#39;s International Zionist Organization">Women's International Zionist Organization</a></li>
+<li><a href="/wiki/Hadassah_Women%27s_Zionist_Organization_of_America" title="Hadassah Women&#39;s Zionist Organization of America">Hadassah Women's Zionist Organization of America</a></li>
+<li><a href="/wiki/Aytzim" title="Aytzim">Aytzim</a></li>
+<li><a href="/wiki/American_Zionist_Movement" title="American Zionist Movement">American Zionist Movement</a></li>
+<li><a href="/wiki/Am_Yisrael_Foundation" title="Am Yisrael Foundation">Am Yisrael Foundation</a></li>
+<li><a href="/wiki/Zionist_Federation_of_Great_Britain_and_Ireland" title="Zionist Federation of Great Britain and Ireland">Zionist Federation of Great Britain and Ireland</a></li>
+<li><a href="/wiki/Institute_for_Zionist_Strategies" title="Institute for Zionist Strategies">Institute for Zionist Strategies</a></li>
+<li><a href="/wiki/International_Fellowship_of_Christians_and_Jews" title="International Fellowship of Christians and Jews">International Fellowship of Christians and Jews</a></li>
+<li><a href="/wiki/Nefesh_B%27Nefesh" title="Nefesh B&#39;Nefesh">Nefesh B'Nefesh</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;">History and<br />timelines</div></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_Israel" title="History of Israel">History of Israel</a></li>
+<li><a href="/wiki/Chronology_of_Aliyah_in_modern_times" title="Chronology of Aliyah in modern times">Chronology of Aliyah</a></li>
+<li><a href="/wiki/History_of_Zionism" title="History of Zionism">History of Zionism</a></li>
+<li><a href="/wiki/Balfour_Declaration" title="Balfour Declaration">Balfour Declaration</a></li>
+<li><a href="/wiki/United_Nations_General_Assembly_Resolution_3379" title="United Nations General Assembly Resolution 3379">UN General Assembly Resolution 3379</a></li>
+<li><a href="/wiki/United_Nations_General_Assembly_Resolution_46/86" class="mw-redirect" title="United Nations General Assembly Resolution 46/86">UN General Assembly Resolution 46/86</a></li>
+<li><a href="/wiki/Timeline_of_Zionism" title="Timeline of Zionism">Timeline of Zionism</a></li>
+<li><a href="/wiki/Israeli%E2%80%93Palestinian_peace_process" title="Israeli–Palestinian peace process">Israeli–Palestinian peace process</a></li>
+<li><a href="/wiki/History_of_the_Arab%E2%80%93Israeli_conflict" title="History of the Arab–Israeli conflict">History of the Arab–Israeli conflict</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Zionists" title="List of Zionists">List of Zionists</a></li>
+<li><a href="/wiki/Anti-Zionism" title="Anti-Zionism">Anti-Zionism</a></li>
+<li><a href="/wiki/The_Holocaust" title="The Holocaust">The Holocaust</a></li>
+<li><a href="/wiki/Antisemitism" title="Antisemitism">Antisemitism</a></li>
+<li><a href="/wiki/New_antisemitism" title="New antisemitism">New antisemitism</a></li>
+<li><a href="/wiki/Jewish_Autonomism" title="Jewish Autonomism">Jewish Autonomism</a></li>
+<li><a href="/wiki/Jewish_emancipation" title="Jewish emancipation">Jewish emancipation</a></li>
+<li><a href="/wiki/Jewish_political_movements" title="Jewish political movements">Jewish political movements</a></li>
+<li><a href="/wiki/Greater_Israel" title="Greater Israel">Greater Israel</a></li>
+<li><a href="/wiki/Muscular_Judaism" title="Muscular Judaism">Muscular Judaism</a></li>
+<li><a href="/wiki/Zionist_political_violence" title="Zionist political violence">Zionist political violence</a></li>
+<li><a href="/wiki/Ulpan" title="Ulpan">Ulpan</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2231
+Cached time: 20180929143203
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.330 seconds
+Preprocessor visited node count: 1041/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 109898/2097152 bytes
+Template argument size: 11438/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 2474/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 1.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  198.017      1 -total
+ 41.64%   82.454      1 Template:Jews_and_Judaism_sidebar
+ 41.04%   81.258      1 Template:Reflist
+ 38.88%   76.987      1 Template:Sidebar_with_collapsible_lists
+ 35.29%   69.885      1 Template:Cite_news
+ 13.33%   26.391      3 Template:Navbox
+ 10.20%   20.207      1 Template:Zionism
+  6.40%   12.679      4 Template:Longlink
+  6.30%   12.471      1 Template:Green_politics
+  5.87%   11.631      8 Template:Flatlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22414006-0!canonical and timestamp 20180929143203 and revision id 801805542
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Zionism&amp;oldid=801805542">https://en.wikipedia.org/w/index.php?title=Green_Zionism&amp;oldid=801805542</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_politics" title="Category:Green politics">Green politics</a></li><li><a href="/wiki/Category:Types_of_Zionism" title="Category:Types of Zionism">Types of Zionism</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Zionism" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Zionism" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Zionism" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Zionism" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Zionism">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Zionism&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Zionism&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Zionism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Zionism" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Zionism&amp;oldid=801805542" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Zionism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603426" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Zionism&amp;id=801805542" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Zionism">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Zionism&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Zionism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%87%D9%8A%D9%88%D9%86%D9%8A%D8%A9_%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1" title="صهيونية خضراء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Zelen%C3%BD_sionismus" title="Zelený sionismus – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603426#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 21 September 2017, at 23:59<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Zionism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.330","ppvisitednodes":{"value":1041,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":109898,"limit":2097152},"templateargumentsize":{"value":11438,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":2474,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  198.017      1 -total"," 41.64%   82.454      1 Template:Jews_and_Judaism_sidebar"," 41.04%   81.258      1 Template:Reflist"," 38.88%   76.987      1 Template:Sidebar_with_collapsible_lists"," 35.29%   69.885      1 Template:Cite_news"," 13.33%   26.391      3 Template:Navbox"," 10.20%   20.207      1 Template:Zionism","  6.40%   12.679      4 Template:Longlink","  6.30%   12.471      1 Template:Green_politics","  5.87%   11.631      8 Template:Flatlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.084","limit":"10.000"},"limitreport-memusage":{"value":1953810,"limit":52428800}},"cachereport":{"origin":"mw2231","timestamp":"20180929143203","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw2169"});});</script>
+	</body>
+</html>

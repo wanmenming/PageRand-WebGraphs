@@ -1,0 +1,446 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Lebanon
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Lebanon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Lebanon","wgTitle":"Green Party of Lebanon","wgCurRevisionId":858206477,"wgRevisionId":858206477,"wgArticleId":24989467,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 uses Arabic-language script (ar)","CS1 Arabic-language sources (ar)","All articles with dead external links","Articles with dead external links from October 2017","Articles with permanently dead external links","CS1 French-language sources (fr)","Pages using deprecated image syntax","Articles containing Arabic-language text","All stub articles","2008 establishments in Lebanon","Political parties established in 2008","Secularism in Lebanon","Political parties in Lebanon","Green political parties","Asian political party stubs","Lebanon stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Lebanon","wgRelevantArticleId":24989467,"wgRequestId":"W7DxKwrAADUAAGLEuJIAAACP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1748887","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/92/Green_Party_Lebanon.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Lebanon"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Lebanon"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Lebanon rootpage-Green_Party_of_Lebanon skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Lebanon</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid green; border-bottom:2px solid green; line-height: 1;"><span class="fn org">Green Party of Lebanon</span><br /><span class="nickname" lang="ar" style="font-size: 0.8em;">حزب الخضر اللبناني</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Green_Party_Lebanon.png" class="image" title="Green Party of Lebanon Logo"><img alt=" A logo representing a green globe with a text reading &quot;green party of Lebanon&quot; and a motto &quot; earth has no sect&quot;" src="//upload.wikimedia.org/wikipedia/commons/9/92/Green_Party_Lebanon.png" width="125" height="105" data-file-width="125" data-file-height="105" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/w/index.php?title=Nada_Zaarour&amp;action=edit&amp;redlink=1" class="new" title="Nada Zaarour (page does not exist)">Nada Zaarour</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founder</th><td class="agent" style="line-height:1.3em;">
+<a href="/w/index.php?title=Philip_Skaf&amp;action=edit&amp;redlink=1" class="new" title="Philip Skaf (page does not exist)">Philip Skaf</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+August&#160;20,&#160;2008<span style="display:none">&#160;(<span class="bday dtstart published updated">2008-August-20</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+<a href="/wiki/Beirut" title="Beirut">Beirut</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_Politics" class="mw-redirect" title="Green Politics">Green Politics</a></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<a rel="nofollow" class="external free" href="http://www.greenpartylebanon.org">http://www.greenpartylebanon.org</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid green;"><ul><li><a href="/wiki/Politics_of_Lebanon" title="Politics of Lebanon">Politics of Lebanon</a></li><li><a href="/wiki/List_of_political_parties_in_Lebanon" title="List of political parties in Lebanon">Political parties</a></li><li><a href="/wiki/Elections_in_Lebanon" title="Elections in Lebanon">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party of Lebanon</b> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl"><b>حزب الخضر اللبناني</b></span>&#8206; <i>ĥizb-al-khodor-al-lubnanī</i>) is a <a href="/wiki/Lebanon" title="Lebanon">Lebanese</a> <a href="/wiki/Green_politics" title="Green politics">green</a> political party. Founded in August 2008 by <a href="/w/index.php?title=Philip_Skaf&amp;action=edit&amp;redlink=1" class="new" title="Philip Skaf (page does not exist)">Philip Skaf</a>, the green party advocates environmental protection, sustainable development, and human rights in Lebanon. It is the first Lebanese party to focus primarily on <a href="/wiki/Green_politics" title="Green politics">Green politics</a>.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Environmental concerns in <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a> have been overshadowed by the <a href="/wiki/Sect" title="Sect">sectarian</a> <a href="/wiki/Nepotism" title="Nepotism">nepotist</a> <a href="/wiki/Political_system" title="Political system">political system</a> and consigned to the bottom of the <a href="/wiki/Political_agenda" title="Political agenda">political agenda</a>. This is despite the fact that Lebanon's <a href="/wiki/Tourism" title="Tourism">tourism industry</a> - a key part of its <a href="/wiki/Economy" title="Economy">economy</a> - relies heavily on the <a href="/wiki/Natural_environment" title="Natural environment">green spaces</a> and <a href="/wiki/Woodland" title="Woodland">woodlands</a> that distinguish Lebanon from <a href="/wiki/Arab_World" class="mw-redirect" title="Arab World">neighboring countries</a>.<sup id="cite_ref-TDS_1-0" class="reference"><a href="#cite_note-TDS-1">&#91;1&#93;</a></sup>
+</p><p>The Green Party of Lebanon was founded on 20 August 2008 at a conference in Beirut's Monroe Hotel. The three-hour conference, which assembled 65 members of the Lebanese elite, presented the party's charter and political and economic work plan followed by the election of its 20-member executive board. The executive board elected Philip Skaf, chief executive and creative officer at <a href="/wiki/Grey_Global_Group" title="Grey Global Group">Grey Worldwide MENA</a>, an advertising agency,<sup id="cite_ref-GME_2-0" class="reference"><a href="#cite_note-GME-2">&#91;2&#93;</a></sup>  as party president.<sup id="cite_ref-AK_3-0" class="reference"><a href="#cite_note-AK-3">&#91;3&#93;</a></sup><sup id="cite_ref-GPL_4-0" class="reference"><a href="#cite_note-GPL-4">&#91;4&#93;</a></sup>
+</p><p>In March 2009, the Green Party declared a state of <a href="/wiki/Environmental_emergency" title="Environmental emergency">environmental emergency</a> and announced the launching of an "environmental pact". Skaf declared that the Party would not run candidates in the <a href="/wiki/Lebanese_general_election,_2009" title="Lebanese general election, 2009">2009 Lebanese general election</a> but stressed that the document will be presented to all Lebanese political parties in order for them to adopt its goals.<sup id="cite_ref-PA_5-0" class="reference"><a href="#cite_note-PA-5">&#91;5&#93;</a></sup><sup id="cite_ref-LIC_6-0" class="reference"><a href="#cite_note-LIC-6">&#91;6&#93;</a></sup>
+</p><p>With electing Nada Zaarour as president in 2011 the Green Party is the first party in Lebanon with a female leader.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-TDS-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-TDS_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news">The Daily Star (2008-08-23). <a rel="nofollow" class="external text" href="http://www.dailystar.com.lb/article.asp?edition_id=1&amp;article_id=95319&amp;categ_id=17">"The Daily Star - Editorial - The Green Party is a welcome addition to the political arena in Lebanon"</a>. <i>The Daily Star</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Star&amp;rft.atitle=The+Daily+Star+-+Editorial+-+The+Green+Party+is+a+welcome+addition+to+the+political+arena+in+Lebanon&amp;rft.date=2008-08-23&amp;rft.au=The+Daily+Star&amp;rft_id=http%3A%2F%2Fwww.dailystar.com.lb%2Farticle.asp%3Fedition_id%3D1%26article_id%3D95319%26categ_id%3D17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-GME-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-GME_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Grey group media. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090501223844/http://www.greyme.com/index1.htm">"Welcome To Grey Worldwide"</a>. <i>Greyme</i>. Archived from <a rel="nofollow" class="external text" href="http://www.greyme.com/index1.htm">the original</a> on May 1, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Greyme&amp;rft.atitle=Welcome+To+Grey+Worldwide&amp;rft.au=Grey+group+media&amp;rft_id=http%3A%2F%2Fwww.greyme.com%2Findex1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-AK-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-AK_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Bassam Kantar (2008-08-20). <a rel="nofollow" class="external text" href="http://www.al-akhbar.com/files/pdfs/20080820/p06_20080820.pdf"><bdi lang="ar">"اشتراكيّون" و"نخبويّون" يُطلقون حزب الخضر في لبنان</bdi></a> <span class="cs1-format">(PDF)</span>. <i>al-Akhbar</i> (in Arabic) (605 ed.). p.&#160;6<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=al-Akhbar&amp;rft.atitle=%22%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%D9%8A%D9%91%D9%88%D9%86%22+%D9%88%22%D9%86%D8%AE%D8%A8%D9%88%D9%8A%D9%91%D9%88%D9%86%22+%D9%8A%D9%8F%D8%B7%D9%84%D9%82%D9%88%D9%86+%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%AE%D8%B6%D8%B1+%D9%81%D9%8A+%D9%84%D8%A8%D9%86%D8%A7%D9%86&amp;rft.pages=6&amp;rft.date=2008-08-20&amp;rft.au=Bassam+Kantar&amp;rft_id=http%3A%2F%2Fwww.al-akhbar.com%2Ffiles%2Fpdfs%2F20080820%2Fp06_20080820.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPL-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPL_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Green Party of Lebanon. <a rel="nofollow" class="external text" href="http://www.greenpartylebanon.org/default_en.aspx#">"Green Party Lebanon"</a>. <i>Green Party Lebanon</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Green+Party+Lebanon&amp;rft.atitle=Green+Party+Lebanon&amp;rft.au=Green+Party+of+Lebanon&amp;rft_id=http%3A%2F%2Fwww.greenpartylebanon.org%2Fdefault_en.aspx%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-PA-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-PA_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Akiki, Pierre (2009-03-03). <a rel="nofollow" class="external text" href="http://www.albaladonline.com/html/story.php?sid=55313"><bdi lang="ar">حزب الخضر اللبناني يطلق وثيقته البيئية - أخبار البلد - جريدة صدى البلد</bdi></a>. <i>al-Balad</i> (in Arabic)<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=al-Balad&amp;rft.atitle=%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%AE%D8%B6%D8%B1+%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A+%D9%8A%D8%B7%D9%84%D9%82+%D9%88%D8%AB%D9%8A%D9%82%D8%AA%D9%87+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9+-+%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%A8%D9%84%D8%AF+-+%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9+%D8%B5%D8%AF%D9%89+%D8%A7%D9%84%D8%A8%D9%84%D8%AF&amp;rft.date=2009-03-03&amp;rft.aulast=Akiki&amp;rft.aufirst=Pierre&amp;rft_id=http%3A%2F%2Fwww.albaladonline.com%2Fhtml%2Fstory.php%3Fsid%3D55313&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2017">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-LIC-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-LIC_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">The Lebanese Inner Circle (2009-03-19). <a rel="nofollow" class="external text" href="http://theinnercircle.wordpress.com/2009/03/18/lebanons-green-party-declares-a-state-of-environmental-urgency-and-launches-its-ecological-pact/">"Lebanon's Green Party declares a state of environmental urgency and launches it's ecological pact"</a> <span class="cs1-format">(Blog)</span>. <i>The Lebanese Inner Circle&#160;: Blog</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Lebanese+Inner+Circle+%3A+Blog&amp;rft.atitle=Lebanon%E2%80%99s+Green+Party+declares+a+state+of+environmental+urgency+and+launches+it%E2%80%99s+ecological+pact&amp;rft.date=2009-03-19&amp;rft.au=The+Lebanese+Inner+Circle&amp;rft_id=http%3A%2F%2Ftheinnercircle.wordpress.com%2F2009%2F03%2F18%2Flebanons-green-party-declares-a-state-of-environmental-urgency-and-launches-its-ecological-pact%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<ul><li><cite class="citation news">Mahdawi, Dalila (August 22, 2008). <a rel="nofollow" class="external text" href="http://www.dailystar.com.lb/article.asp?edition_id=1&amp;categ_id=2&amp;article_id=95268">"Green Party aims to enforce laws that protect environment"</a>. <i>The Daily Star (Lebanon)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Star+%28Lebanon%29&amp;rft.atitle=Green+Party+aims+to+enforce+laws+that+protect+environment&amp;rft.date=2008-08-22&amp;rft.aulast=Mahdawi&amp;rft.aufirst=Dalila&amp;rft_id=http%3A%2F%2Fwww.dailystar.com.lb%2Farticle.asp%3Fedition_id%3D1%26categ_id%3D2%26article_id%3D95268&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.dailystar.com.lb/article.asp?edition_id=1&amp;categ_id=1&amp;article_id=100302">"Green Party declares 'state of emergency<span class="cs1-kern-right">'</span>"</a>. <i>Daily Star (Lebanon)</i>. March 24, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Daily+Star+%28Lebanon%29&amp;rft.atitle=Green+Party+declares+%27state+of+emergency%27&amp;rft.date=2009-03-24&amp;rft_id=http%3A%2F%2Fwww.dailystar.com.lb%2Farticle.asp%3Fedition_id%3D1%26categ_id%3D1%26article_id%3D100302&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation news">Harati, Elissar (September 14, 2009). <a rel="nofollow" class="external text" href="http://www.dailystar.com.lb/article.asp?edition_id=1&amp;categ_id=1&amp;article_id=106452">"Photo exhibition highlights Lebanon's environmental woes"</a>. <i>The Daily Star (Lebanon)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Star+%28Lebanon%29&amp;rft.atitle=Photo+exhibition+highlights+Lebanon%27s+environmental+woes&amp;rft.date=2009-09-14&amp;rft.aulast=Harati&amp;rft.aufirst=Elissar&amp;rft_id=http%3A%2F%2Fwww.dailystar.com.lb%2Farticle.asp%3Fedition_id%3D1%26categ_id%3D1%26article_id%3D106452&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.dailystar.com.lb/article.asp?edition_id=10&amp;article_id=95319&amp;categ_id=17">"The Green Party is a welcome addition to the political arena in Lebanon"</a>. <i>The Daily Star  (Lebanon)</i>. August 23, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Star++%28Lebanon%29&amp;rft.atitle=The+Green+Party+is+a+welcome+addition+to+the+political+arena+in+Lebanon&amp;rft.date=2008-08-23&amp;rft_id=http%3A%2F%2Fwww.dailystar.com.lb%2Farticle.asp%3Fedition_id%3D10%26article_id%3D95319%26categ_id%3D17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation news">"الحريري يبحث وخليل مستجدات تشكيل الحكومة Khalil and Hariri discuss developments to form a government". <i>As-Safir newspaper</i>. July 17, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=As-Safir+newspaper&amp;rft.atitle=%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A+%D9%8A%D8%A8%D8%AD%D8%AB+%D9%88%D8%AE%D9%84%D9%8A%D9%84+%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA+%D8%AA%D8%B4%D9%83%D9%8A%D9%84+%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9+Khalil+and+Hariri+discuss+developments+to+form+a+government&amp;rft.date=2009-07-17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.albaladonline.com/html/story.php?sid=69080">"Green Party calls for the government "made in Lebanon"     حزب الخضر يطالب بحكومة "صُنعت في لبنان<span class="cs1-kern-right">"</span>"</a>. <i>albaladonline.com</i>. July 8, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=albaladonline.com&amp;rft.atitle=Green+Party+calls+for+the+government+%22made+in+Lebanon%22+++++%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%AE%D8%B6%D8%B1+%D9%8A%D8%B7%D8%A7%D9%84%D8%A8+%D8%A8%D8%AD%D9%83%D9%88%D9%85%D8%A9+%22%D8%B5%D9%8F%D9%86%D8%B9%D8%AA+%D9%81%D9%8A+%D9%84%D8%A8%D9%86%D8%A7%D9%86%22&amp;rft.date=2009-07-08&amp;rft_id=http%3A%2F%2Fwww.albaladonline.com%2Fhtml%2Fstory.php%3Fsid%3D69080&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.albaladonline.com/html/story.php?sid=55313">"Green Party called the Lebanese and Environmental Document     حزب الخضر اللبناني يطلق وثيقته البيئية"</a>. <i>albaladonline.com</i> (in Arabic). March 20, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=albaladonline.com&amp;rft.atitle=Green+Party+called+the+Lebanese+and+Environmental+Document+++++%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%AE%D8%B6%D8%B1+%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A+%D9%8A%D8%B7%D9%84%D9%82+%D9%88%D8%AB%D9%8A%D9%82%D8%AA%D9%87+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9&amp;rft.date=2009-03-20&amp;rft_id=http%3A%2F%2Fwww.albaladonline.com%2Fhtml%2Fstory.php%3Fsid%3D55313&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2017">permanent dead link</span></a></i>&#93;</span></sup></li>
+<li><cite class="citation news">Corm, Carole (October 2008). <a rel="nofollow" class="external text" href="http://www.monocle.com/sections/affairs/Magazine-Articles/Green-light---Lebanon/">"Green Light - Lebanon"</a>. <i>Monocle Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Monocle+Magazine&amp;rft.atitle=Green+Light+-+Lebanon&amp;rft.date=2008-10&amp;rft.aulast=Corm&amp;rft.aufirst=Carole&amp;rft_id=http%3A%2F%2Fwww.monocle.com%2Fsections%2Faffairs%2FMagazine-Articles%2FGreen-light---Lebanon%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> - subscriber access</li>
+<li><cite class="citation news">أحزاب سياسية, في لبنان. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141006083538/https://www.lebwindow.net/169">"أحزاب سياسية في لبنان"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.lebwindow.net/169">the original</a> on 2014-10-06.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8+%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9+%D9%81%D9%8A+%D9%84%D8%A8%D9%86%D8%A7%D9%86&amp;rft.aulast=%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8+%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9&amp;rft.aufirst=%D9%81%D9%8A+%D9%84%D8%A8%D9%86%D8%A7%D9%86&amp;rft_id=https%3A%2F%2Fwww.lebwindow.net%2F169&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Lebanon" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.greenpartylebanon.org">Official website</a></span></span>
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Green_parties_by_country" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_parties" title="Template:Green parties"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_parties" title="Template talk:Green parties"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_parties&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_parties_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_party" title="Green party">Green parties</a> by country</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/w/index.php?title=Ecology_and_Liberty_Party&amp;action=edit&amp;redlink=1" class="new" title="Ecology and Liberty Party (page does not exist)">Algeria</a></i></li>
+<li><a href="/w/index.php?title=Partido_Nacional_Ecol%C3%B3gico_de_Angola&amp;action=edit&amp;redlink=1" class="new" title="Partido Nacional Ecológico de Angola (page does not exist)">Angola</a></li>
+<li><a href="/wiki/The_Greens_(Benin)" title="The Greens (Benin)">Benin</a></li>
+<li>Burkina Faso
+<ul><li><a href="/wiki/Ecologist_Party_for_the_Development_of_Burkina" title="Ecologist Party for the Development of Burkina">Ecologist Party</a></li>
+<li><a href="/wiki/Greens_of_Burkina" title="Greens of Burkina">Greens of Burkina</a></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Burkina" title="Rally of the Ecologists of Burkina">Rally of the Ecologists</a></li></ul></li>
+<li><a href="/w/index.php?title=Burundi_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Burundi Green Movement (page does not exist)">Burundi</a></li>
+<li><a href="/w/index.php?title=Mouvement_des_Verts_de_Centrafique&amp;action=edit&amp;redlink=1" class="new" title="Mouvement des Verts de Centrafique (page does not exist)">Central African Republic</a></li>
+<li><a href="/w/index.php?title=Union_des_Ecologistes_Tchadiens_-_LES_VERTS&amp;action=edit&amp;redlink=1" class="new" title="Union des Ecologistes Tchadiens - LES VERTS (page does not exist)">Chad</a></li>
+<li><a href="/w/index.php?title=Defense_de_l%27Environment_Camerounais&amp;action=edit&amp;redlink=1" class="new" title="Defense de l&#39;Environment Camerounais (page does not exist)">Cameroon</a></li>
+<li><a href="/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens" title="Rally of Congolese Ecologists – The Greens">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Egyptian_Green_Party" title="Egyptian Green Party">Egypt</a></li>
+<li><a href="/w/index.php?title=Gabon_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Gabon Green Party (page does not exist)">Gabon</a></li>
+<li><a href="/w/index.php?title=Ghana_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Ghana Green Movement (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Parti_des_Ecologistes_Guineens&amp;action=edit&amp;redlink=1" class="new" title="Parti des Ecologistes Guineens (page does not exist)">Guinea</a></li>
+<li><i><a href="/w/index.php?title=Liga_Guineense_de_Protec%C3%A7ao_Ecologica&amp;action=edit&amp;redlink=1" class="new" title="Liga Guineense de Protecçao Ecologica (page does not exist)">Guinea-Bissau</a></i></li>
+<li><a href="/w/index.php?title=Parti_pour_la_Protection_de_l%27Environnement&amp;action=edit&amp;redlink=1" class="new" title="Parti pour la Protection de l&#39;Environnement (page does not exist)">Ivory Coast</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Kenya</a></li>
+<li><a href="/w/index.php?title=Parti_Vert_Hasin%27l_Madagasikara&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Hasin&#39;l Madagasikara (page does not exist)">Madagascar</a></li>
+<li><a href="/wiki/Ecologist_Party_of_Mali" title="Ecologist Party of Mali">Mali</a></li>
+<li><a href="/wiki/Les_Verts_Fraternels" title="Les Verts Fraternels">Mauritius</a></li>
+<li>Morocco
+<ul><li><a href="/w/index.php?title=The_Greens_(Morocco)&amp;action=edit&amp;redlink=1" class="new" title="The Greens (Morocco) (page does not exist)">The Greens</a></li>
+<li><i><a href="/wiki/Izigzawen" title="Izigzawen">Izigzawen</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Party_of_Mozambique" title="Greens Party of Mozambique">Mozambique</a></li>
+<li><a href="/w/index.php?title=Rassemblement_pour_un_Sahel_Vert&amp;action=edit&amp;redlink=1" class="new" title="Rassemblement pour un Sahel Vert (page does not exist)">Niger</a></li>
+<li><a href="/w/index.php?title=Green_Party_of_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Green Party of Nigeria (page does not exist)">Nigeria</a></li>
+<li><i><a href="/wiki/Democratic_Green_Party_of_Rwanda" title="Democratic Green Party of Rwanda">Rwanda</a></i></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Senegal" title="Rally of the Ecologists of Senegal">Senegal</a></li>
+<li><a href="/w/index.php?title=Sierra_Leone_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Sierra Leone Green Party (page does not exist)">Sierra Leone</a></li>
+<li>Somalia
+<ul><li><i><a href="/wiki/Somalia_Green_Party" title="Somalia Green Party">Green Party</a></i></li>
+<li><a href="/w/index.php?title=Democratic_Green_Party_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Democratic Green Party of Somalia (page does not exist)">Democratic Green Party</a></li></ul></li>
+<li>South Africa
+<ul><li><a href="/w/index.php?title=South_African_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="South African Green Alliance (page does not exist)">Green Alliance</a></li>
+<li><i><a href="/wiki/Green_Party_of_South_Africa" title="Green Party of South Africa">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=Afrique_Togo_Ecologie&amp;action=edit&amp;redlink=1" class="new" title="Afrique Togo Ecologie (page does not exist)">Togo</a></li>
+<li><a href="/wiki/Green_Tunisia_Party" title="Green Tunisia Party">Tunisia</a></li>
+<li>Uganda
+<ul><li><a href="/w/index.php?title=Ecological_Party_of_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Ecological Party of Uganda (page does not exist)">Ecological Party</a></li>
+<li><i><a href="/wiki/Uganda_Green_Party" title="Uganda Green Party">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=National_Revolution_Green_Party_Zambia&amp;action=edit&amp;redlink=1" class="new" title="National Revolution Green Party Zambia (page does not exist)">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Americas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Initiative" title="Green Initiative">Argentina</a></li>
+<li><i><a href="/wiki/Belize_Green_Independent_Party" title="Belize Green Independent Party">Belize</a></i></li>
+<li><a href="/wiki/Green_Party_of_Bolivia" title="Green Party of Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Green_Party_(Brazil)" title="Green Party (Brazil)">Brazil</a></li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Canada</a></li>
+<li><a href="/wiki/Green_Ecologist_Party_(Chile)" title="Green Ecologist Party (Chile)">Chile</a></li>
+<li><a href="/wiki/Green_Alliance_(Colombia)" title="Green Alliance (Colombia)">Colombia</a></li>
+<li><i><a href="/wiki/Cartago_Green_Party" title="Cartago Green Party">Costa Rica</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Democratic_Unity" class="mw-redirect" title="Green Party of Democratic Unity">Dominican Republic</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_Los_Verdes_de_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Partido Los Verdes de Guatemala (page does not exist)">Guatemala</a></i></li>
+<li><i><a href="/w/index.php?title=Les_Verts_de_Guyane&amp;action=edit&amp;redlink=1" class="new" title="Les Verts de Guyane (page does not exist)">French Guyana</a></i></li>
+<li><i><a href="/w/index.php?title=Parti_Vert_Ha%C3%AFtien&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Haïtien (page does not exist)">Haiti</a></i></li>
+<li><a href="/wiki/Ecologist_Green_Party_of_Mexico" title="Ecologist Green Party of Mexico">Mexico</a></li>
+<li><i><a href="/wiki/Ecologist_Green_Party_of_Nicaragua" title="Ecologist Green Party of Nicaragua">Nicaragua</a></i></li>
+<li><a href="/wiki/Green_Alternative_Ecologist_Party_of_Peru" title="Green Alternative Ecologist Party of Peru">Peru</a></li>
+<li><i><a href="/wiki/Puerto_Ricans_for_Puerto_Rico_Party" title="Puerto Ricans for Puerto Rico Party">Puerto Rico</a></i></li>
+<li><i><a href="/wiki/Saint_Vincent_and_the_Grenadines_Green_Party" title="Saint Vincent and the Grenadines Green Party">Saint Vincent and the Grenadines</a></i></li>
+<li><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">United States</a></li>
+<li>Uruguay
+<ul><li><i><a href="/wiki/Partido_Verde_Eto-Ecologista" title="Partido Verde Eto-Ecologista">Green</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_del_Sol_(Uruguay)&amp;action=edit&amp;redlink=1" class="new" title="Partido del Sol (Uruguay) (page does not exist)">Sol</a></i></li>
+<li><i><a href="/wiki/Partido_Ecologista_Radical_Intransigente" title="Partido Ecologista Radical Intransigente">PERI</a></i></li></ul></li>
+<li><a href="/wiki/Ecological_Movement_of_Venezuela" title="Ecological Movement of Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia-Pacific</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Australia
+<ul><li><a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a></li>
+<li><i><a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">Nuclear Disarmament</a> (defunct)</i></li>
+<li><i><a href="/wiki/United_Tasmania_Group" title="United Tasmania Group">United Tasmania Group</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Fiji" title="Green Party of Fiji">Fiji</a></i></li>
+<li><i><a href="/w/index.php?title=Heiura_Les_Verts_Polynesiens&amp;action=edit&amp;redlink=1" class="new" title="Heiura Les Verts Polynesiens (page does not exist)">French Polynesia</a></i></li>
+<li><a href="/w/index.php?title=Green_Party_Hong_Kong&amp;action=edit&amp;redlink=1" class="new" title="Green Party Hong Kong (page does not exist)">Hong Kong</a></li>
+<li><a href="/w/index.php?title=Uttarakhand_Parivartan_Party&amp;action=edit&amp;redlink=1" class="new" title="Uttarakhand Parivartan Party (page does not exist)">India</a></li>
+<li><i><a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Iran</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Iraq" title="Green Party of Iraq">Iraq</a></i></li>
+<li>Israel
+<ul><li><i><a href="/wiki/Green_Movement_(Israel)" title="Green Movement (Israel)">The Green Movement</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens</a></i></li>
+<li><i><a href="/wiki/Meretz" title="Meretz">Meretz</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Japan" title="Greens Japan">Japan</a></li>
+<li><i>Kurdistan</i></li>
+<li><i><a class="mw-selflink selflink">Lebanon</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Malaysia</a></i></li>
+<li>Mongolia
+<ul><li><a href="/wiki/Civil_Will%E2%80%93Green_Party" title="Civil Will–Green Party">Civil Will–Green</a></li>
+<li><a href="/wiki/Mongolian_Green_Party" title="Mongolian Green Party">Green Party</a></li></ul></li>
+<li>Nepal
+<ul><li><i><a href="/wiki/Hariyali_Nepal_Party" title="Hariyali Nepal Party">Hariyali</a></i></li>
+<li><a href="/w/index.php?title=Green_Civil_Society&amp;action=edit&amp;redlink=1" class="new" title="Green Civil Society (page does not exist)">Green Civil Society</a></li></ul></li>
+<li><i><a href="/w/index.php?title=The_Pacific_Greens&amp;action=edit&amp;redlink=1" class="new" title="The Pacific Greens (page does not exist)">New Caledonia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Papua_New_Guinea_Greens" title="Papua New Guinea Greens">Papua New Guinea</a></li>
+<li><a href="/w/index.php?title=Green_politics_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Green politics in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Green_Party_Korea" title="Green Party Korea">South Korea</a></li>
+<li><i><a href="/w/index.php?title=Sri_Lanka_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Sri Lanka Green Alliance (page does not exist)">Sri Lanka</a></i></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Taiwan</a></li>
+<li><i><a href="/wiki/Ecological_Movement_of_Uzbekistan" title="Ecological Movement of Uzbekistan">Uzbekistan</a></i></li>
+<li><i><a href="/wiki/Green_Confederation" title="Green Confederation">Vanuatu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">Europe</a><br />
+<div class="hlist">
+<ul><li>(<i><a href="/wiki/European_Green_Party" title="European Green Party">EGP</a></i></li>
+<li><i><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">FYEG</a></i>)</li></ul>
+</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Albania" title="Green Party of Albania">Albania</a></li>
+<li><a href="/wiki/Greens_of_Andorra" title="Greens of Andorra">Andorra</a></li>
+<li><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative">Austria</a></li>
+<li><i><a href="/wiki/Belarusian_Green_Party" title="Belarusian Green Party">Belarus</a></i></li>
+<li>Belgium
+<ul><li><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Flanders and Brussels</a></li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Wallonia and Brussels</a></li></ul></li>
+<li><i><a href="/wiki/Greens_of_Bosnia_and_Herzegovina" title="Greens of Bosnia and Herzegovina">Bosnia and Herzegovina</a></i></li>
+<li>Bulgaria
+<ul><li><i><a href="/wiki/Green_Party_of_Bulgaria" title="Green Party of Bulgaria">Green Party</a></i></li>
+<li><a href="/wiki/The_Greens_(Bulgaria)" title="The Greens (Bulgaria)">The Greens</a></li></ul></li>
+<li><i><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Croatia</a></i></li>
+<li><a href="/wiki/Movement_of_Ecologists_-_Citizens%27_Cooperation" class="mw-redirect" title="Movement of Ecologists - Citizens&#39; Cooperation">Cyprus</a></li>
+<li>Czech Republic
+<ul><li><i><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party</a></i></li>
+<li><i><a href="/wiki/Liberal-Environmental_Party" title="Liberal-Environmental Party">Liberal-Environmental Party</a></i></li></ul></li>
+<li>Denmark
+<ul><li><a href="/wiki/The_Alternative_(Denmark)" title="The Alternative (Denmark)">The Alternative</a></li>
+<li><i><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Denmark)" title="The Greens (Denmark)">The Greens</a></i></li></ul></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonia</a></li>
+<li><a href="/wiki/Green_League" title="Green League">Finland</a></li>
+<li>France
+<ul><li><i><a href="/wiki/Citizenship,_Action,_Participation_for_the_21st_Century" class="mw-redirect" title="Citizenship, Action, Participation for the 21st Century">CAP21</a></i></li>
+<li><i><a href="/wiki/G%C3%A9n%C3%A9ration_%C3%89cologie" class="mw-redirect" title="Génération Écologie">Génération Écologie</a></i></li>
+<li><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></li>
+<li><i><a href="/wiki/Mouvement_Ecologiste_Ind%C3%A9pendant" class="mw-redirect" title="Mouvement Ecologiste Indépendant">Mouvement Ecologiste Indépendant</a></i></li>
+<li><a href="/wiki/Ecologist_Party" title="Ecologist Party">Ecologist Party</a></li></ul></li>
+<li><a href="/wiki/Green_Party_of_Georgia" title="Green Party of Georgia">Georgia</a></li>
+<li>Germany
+<ul><li><a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a></li>
+<li><i><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></i></li></ul></li>
+<li>Greece
+<ul><li><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></li>
+<li><a href="/wiki/Greens_(Greece)" title="Greens (Greece)">Greens</a></li></ul></li>
+<li>Hungary
+<ul><li><i><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></i></li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></li></ul></li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Iceland</a></li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Ireland</a></li>
+<li>Italy
+<ul><li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><i><a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Kosovo" title="Green Party of Kosovo">Kosovo</a></i></li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvia</a></li>
+<li><i><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Liechtenstein</a></i></li>
+<li>Lithuania
+<ul><li><i><a href="/wiki/Lithuanian_Green_Party" title="Lithuanian Green Party">Green Party</a></i></li>
+<li><i><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></i></li></ul></li>
+<li><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">Luxembourg</a></li>
+<li><i><a href="/wiki/Democratic_Renewal_of_Macedonia" title="Democratic Renewal of Macedonia">Macedonia</a></i></li>
+<li><a href="/wiki/Democratic_Alternative_(Malta)" title="Democratic Alternative (Malta)">Malta</a></li>
+<li><a href="/wiki/Ecologist_Green_Party_(Moldova)" title="Ecologist Green Party (Moldova)">Moldova</a></li>
+<li><i><a href="/wiki/Greens_of_Montenegro" title="Greens of Montenegro">Montenegro</a></i></li>
+<li>Netherlands
+<ul><li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a></li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Norway</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">Poland</a></li>
+<li>Portugal
+<ul><li><i><a href="/wiki/Earth_Party" title="Earth Party">Earth Party</a></i></li>
+<li><a href="/wiki/Ecologist_Party_%22The_Greens%22" title="Ecologist Party &quot;The Greens&quot;">The Greens</a></li>
+<li><i><a href="/wiki/LIVRE" title="LIVRE">LIVRE</a></i></li></ul></li>
+<li>Romania
+<ul><li><i><a href="/wiki/Ecologist_Party_of_Romania" title="Ecologist Party of Romania">Ecologist Party</a></i></li>
+<li><a href="/wiki/Green_Party_(Romania)" title="Green Party (Romania)">Green Party</a></li></ul></li>
+<li>Russia
+<ul><li><a href="/wiki/Civil_United_Green_Alternative" title="Civil United Green Alternative">Civil United Green Alternative</a></li>
+<li><i><a href="/wiki/Russian_Ecological_Party_%22The_Greens%22" title="Russian Ecological Party &quot;The Greens&quot;">Ecological Party "The Greens"</a></i></li>
+<li><i><a href="/wiki/Union_of_Greens_of_Russia" title="Union of Greens of Russia">Union of Greens</a></i></li>
+<li><i><a href="/wiki/Alliance_of_Greens_and_Social_Democrats" class="mw-redirect" title="Alliance of Greens and Social Democrats">Alliance of Greens and Social Democrats</a></i></li></ul></li>
+<li>Serbia
+<ul><li><i><a href="/wiki/Green_Party_(Serbia)" title="Green Party (Serbia)">Green Party</a></i></li>
+<li><i><a href="/wiki/Greens_of_Serbia" title="Greens of Serbia">Greens of Serbia</a></i></li></ul></li>
+<li><a href="/wiki/Green_Party_(Slovakia)" title="Green Party (Slovakia)">Slovakia</a></li>
+<li>Slovenia
+<ul><li><i><a href="/wiki/Greens_of_Slovenia" class="mw-redirect" title="Greens of Slovenia">Greens</a></i></li>
+<li><a href="/wiki/Youth_Party_%E2%80%93_European_Greens" title="Youth Party – European Greens">Youth Party</a></li></ul></li>
+<li>Spain
+<ul><li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Catalonia Greens</a></li>
+<li><i><a href="/wiki/Confederation_of_the_Greens" title="Confederation of the Greens">Confederation of the Greens</a></i></li>
+<li><a href="/wiki/Equo" title="Equo">Equo</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Sweden)" title="Green Party (Sweden)">Sweden</a></li>
+<li><a href="/wiki/Green_Party_of_Switzerland" title="Green Party of Switzerland">Switzerland</a></li>
+<li><i><a href="/wiki/Green_Left_Party" title="Green Left Party">Turkey</a></i></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Ukraine</a></li>
+<li>United Kingdom
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">England and Wales</a> <i>(<a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales</a>)</i></li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scotland</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:lightgreen;"><div><i>Italic</i> links indicate non-members or observers of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/20px-Vote_icon.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/30px-Vote_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/40px-Vote_icon.svg.png 2x" data-file-width="326" data-file-height="393" /></td><td><i>This article about a Lebanese political party is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Lebanon&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Lebanon-party-stub" title="Template:Lebanon-party-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Lebanon-party-stub" title="Template talk:Lebanon-party-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lebanon-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2228
+Cached time: 20180930155212
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.472 seconds
+Real time usage: 0.553 seconds
+Preprocessor visited node count: 1954/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73874/2097152 bytes
+Template argument size: 2196/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30951/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.312/10.000 seconds
+Lua memory usage: 11.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  479.464      1 -total
+ 36.11%  173.113      1 Template:Lang-ar
+ 21.55%  103.320     12 Template:Cite_news
+ 19.63%   94.126      1 Template:Infobox_political_party
+ 14.33%   68.722      1 Template:Infobox
+  6.53%   31.317      2 Template:Dead_link
+  5.36%   25.716      2 Template:Fix
+  4.98%   23.894      1 Template:Official_website
+  4.60%   22.056      4 Template:Category_handler
+  3.46%   16.604      3 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24989467-0!canonical and timestamp 20180930155211 and revision id 858206477
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Lebanon&amp;oldid=858206477">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Lebanon&amp;oldid=858206477</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2008_establishments_in_Lebanon" title="Category:2008 establishments in Lebanon">2008 establishments in Lebanon</a></li><li><a href="/wiki/Category:Political_parties_established_in_2008" title="Category:Political parties established in 2008">Political parties established in 2008</a></li><li><a href="/wiki/Category:Secularism_in_Lebanon" title="Category:Secularism in Lebanon">Secularism in Lebanon</a></li><li><a href="/wiki/Category:Political_parties_in_Lebanon" title="Category:Political parties in Lebanon">Political parties in Lebanon</a></li><li><a href="/wiki/Category:Green_political_parties" title="Category:Green political parties">Green political parties</a></li><li><a href="/wiki/Category:Asian_political_party_stubs" title="Category:Asian political party stubs">Asian political party stubs</a></li><li><a href="/wiki/Category:Lebanon_stubs" title="Category:Lebanon stubs">Lebanon stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_uses_Arabic-language_script_(ar)" title="Category:CS1 uses Arabic-language script (ar)">CS1 uses Arabic-language script (ar)</a></li><li><a href="/wiki/Category:CS1_Arabic-language_sources_(ar)" title="Category:CS1 Arabic-language sources (ar)">CS1 Arabic-language sources (ar)</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2017" title="Category:Articles with dead external links from October 2017">Articles with dead external links from October 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Lebanon" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Lebanon" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Lebanon" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Lebanon" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Lebanon">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Lebanon" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Lebanon" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;oldid=858206477" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1748887" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Lebanon&amp;id=858206477" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Lebanon">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Lebanon&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Lebanon&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A8_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1_%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A" title="حزب الخضر اللبناني – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_vert_du_Liban" title="Parti vert du Liban – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Partito_Verde_(Libano)" title="Partito Verde (Libano) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1748887#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 September 2018, at 19:02<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Lebanon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.472","walltime":"0.553","ppvisitednodes":{"value":1954,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73874,"limit":2097152},"templateargumentsize":{"value":2196,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30951,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  479.464      1 -total"," 36.11%  173.113      1 Template:Lang-ar"," 21.55%  103.320     12 Template:Cite_news"," 19.63%   94.126      1 Template:Infobox_political_party"," 14.33%   68.722      1 Template:Infobox","  6.53%   31.317      2 Template:Dead_link","  5.36%   25.716      2 Template:Fix","  4.98%   23.894      1 Template:Official_website","  4.60%   22.056      4 Template:Category_handler","  3.46%   16.604      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.312","limit":"10.000"},"limitreport-memusage":{"value":12106125,"limit":52428800}},"cachereport":{"origin":"mw2228","timestamp":"20180930155212","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":640,"wgHostname":"mw2228"});});</script>
+	</body>
+</html>

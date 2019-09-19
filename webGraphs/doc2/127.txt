@@ -1,0 +1,1267 @@
+https://en.wikipedia.org/wiki/Green_Party_(Sweden)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party (Sweden) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_(Sweden)","wgTitle":"Green Party (Sweden)","wgCurRevisionId":861186239,"wgRevisionId":861186239,"wgArticleId":217373,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Swedish-language sources (sv)","Use dmy dates from July 2013","Pages using deprecated image syntax","Articles containing Swedish-language text","All articles with unsourced statements","Articles with unsourced statements from September 2013","Articles with unsourced statements from October 2013","Articles containing potentially dated statements from 2006","All articles containing potentially dated statements","Articles containing explicitly cited English-language text","Articles to be expanded from September 2013","Articles using small message boxes","1981 establishments in Sweden","European Green Party","Environmentalism in Sweden","Global Greens member parties","Green parties in Europe","Political parties established in 1981"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_(Sweden)","wgRelevantArticleId":217373,"wgRequestId":"W7FcJwrAID0AAAsLrFoAAAAB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q213451","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_(Sweden)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_(Sweden)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_Sweden rootpage-Green_Party_Sweden skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party (Sweden)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #80AA4E; border-bottom:2px solid #80AA4E; line-height: 1;"><span class="fn org">Green Party</span><br /><span class="nickname" style="font-size: 0.8em;">Miljöpartiet de gröna</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Swedish_Green_Party_logo.svg" class="image" title="Dandelion"><img alt="Dandelion" src="//upload.wikimedia.org/wikipedia/en/thumb/9/95/Swedish_Green_Party_logo.svg/250px-Swedish_Green_Party_logo.svg.png" width="250" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/95/Swedish_Green_Party_logo.svg/375px-Swedish_Green_Party_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/95/Swedish_Green_Party_logo.svg/500px-Swedish_Green_Party_logo.svg.png 2x" data-file-width="290" data-file-height="46" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Abbreviation</th><td class="nickname" style="line-height:1.3em;">
+<b>MP</b></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Gustav_Fridolin" title="Gustav Fridolin">Gustav Fridolin</a><br /><a href="/wiki/Isabella_L%C3%B6vin" title="Isabella Lövin">Isabella Lövin</a><br />(spokespersons)</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+20&#160;September&#160;1981<span style="display:none">&#160;(<span class="bday dtstart published updated">1981-09-20</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+Pustegränd 1-3, <a href="/wiki/Stockholm" title="Stockholm">Stockholm</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Membership&#160;(2017)</th><td style="line-height:1.3em;">
+10,719<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><sup id="cite_ref-Nordsieck_2-0" class="reference"><a href="#cite_note-Nordsieck-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centre-left_politics" title="Centre-left politics">Centre-left</a><sup id="cite_ref-Colomer2008_3-0" class="reference"><a href="#cite_note-Colomer2008-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_political_party" title="European political party">European affiliation</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td></tr><tr><th scope="row" style="line-height:1.3em;">International affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">European Parliament group</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/The_Greens%E2%80%93European_Free_Alliance" class="mw-redirect" title="The Greens–European Free Alliance">The Greens–European Free Alliance</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Riksdag" title="Riksdag">Riksdag</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">16 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #80AA4E; width: 5%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">4 / 20</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #80AA4E; width: 20%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/County_councils_of_Sweden" title="County councils of Sweden">County councils</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">102 / 1,597</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #80AA4E; width: 6%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Municipal_council_(Sweden)" title="Municipal council (Sweden)">Municipal councils</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">732 / 12,780</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #80AA4E; width: 6%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<a rel="nofollow" class="external text" href="http://www.mp.se/">http://www.mp.se/</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #80AA4E;"><ul><li><a href="/wiki/Politics_of_Sweden" title="Politics of Sweden">Politics of Sweden</a></li><li><a href="/wiki/List_of_political_parties_in_Sweden" title="List of political parties in Sweden">Political parties</a></li><li><a href="/wiki/Elections_in_Sweden" title="Elections in Sweden">Elections</a></li></ul></div></td></tr></tbody></table>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party</b> (<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>: <i lang="sv">Miljöpartiet de gröna</i>, literally "Environment Party the Greens", commonly referred to in Swedish as "Miljöpartiet" or <b>MP</b>) is a <a href="/wiki/List_of_political_parties_in_Sweden" title="List of political parties in Sweden">political party</a> in <a href="/wiki/Sweden" title="Sweden">Sweden</a> based on <a href="/wiki/Green_politics" title="Green politics">green politics</a>.<sup id="cite_ref-Swedish_Green_Party_6-0" class="reference"><a href="#cite_note-Swedish_Green_Party-6">&#91;6&#93;</a></sup> The party was founded in 1981, emerging out of a sense of discontent with the existing parties' environmental policies, and sparked by the anti-<a href="/wiki/Nuclear_power" title="Nuclear power">nuclear power</a> movement following the <a href="/wiki/Swedish_nuclear_power_referendum,_1980" title="Swedish nuclear power referendum, 1980">1980 nuclear power referendum</a>.<sup id="cite_ref-Ljunggren_7-0" class="reference"><a href="#cite_note-Ljunggren-7">&#91;7&#93;</a></sup> The party's breakthrough would come in the <a href="/wiki/Swedish_general_election,_1988" title="Swedish general election, 1988">1988 general election</a> when they won seats in the <a href="/wiki/Riksdag_(Sweden)" class="mw-redirect" title="Riksdag (Sweden)">Swedish Riksdag</a> for the first time, capturing 5.5 percent of the vote, and becoming the first new party to enter parliament in seventy years.<sup id="cite_ref-1988_riksdag_election_results_8-0" class="reference"><a href="#cite_note-1988_riksdag_election_results-8">&#91;8&#93;</a></sup> Three years later, they dropped back below the 4 percent <a href="/wiki/Election_threshold" title="Election threshold">threshold</a>, but returned to parliament again in 1994, and since have retained representation there. The party is represented nationally by two spokespeople, always one man and one woman.  These roles are currently held by <a href="/wiki/Gustav_Fridolin" title="Gustav Fridolin">Gustav Fridolin</a> and <a href="/wiki/Isabella_L%C3%B6vin" title="Isabella Lövin">Isabella Lövin</a>.
+</p><p>In the <a href="/wiki/Swedish_general_election,_2014" title="Swedish general election, 2014">2014 general election</a>, the Greens received 6.9% of the vote and 25 seats, making the party the fourth largest in the <a href="/wiki/Riksdag" title="Riksdag">Riksdag</a>.<sup id="cite_ref-2014_results_9-0" class="reference"><a href="#cite_note-2014_results-9">&#91;9&#93;</a></sup>
+</p><p>Since 3 October 2014, the Green Party is the minor partner to the <a href="/wiki/Swedish_Social_Democratic_Party" title="Swedish Social Democratic Party">Swedish Social Democratic Party</a> in the <a href="/wiki/L%C3%B6fven_Cabinet" title="Löfven Cabinet">Löfven Cabinet</a> minority coalition government, the first time in its history that the Greens have entered government.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ideology"><span class="tocnumber">1</span> <span class="toctext">Ideology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Fundamental_principles"><span class="tocnumber">1.1</span> <span class="toctext">Fundamental principles</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Climate_change_and_the_environment"><span class="tocnumber">1.2</span> <span class="toctext">Climate change and the environment</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Nuclear_power"><span class="tocnumber">1.3</span> <span class="toctext">Nuclear power</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#European_integration"><span class="tocnumber">1.4</span> <span class="toctext">European integration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Leadership_and_organisation"><span class="tocnumber">2</span> <span class="toctext">Leadership and organisation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Criticism"><span class="tocnumber">3</span> <span class="toctext">Criticism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Islamic_extremism"><span class="tocnumber">3.1</span> <span class="toctext">Islamic extremism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Electoral_politics"><span class="tocnumber">4</span> <span class="toctext">Electoral politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Church_politics"><span class="tocnumber">4.1</span> <span class="toctext">Church politics</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Relationship_with_other_parties"><span class="tocnumber">4.2</span> <span class="toctext">Relationship with other parties</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Electoral_results"><span class="tocnumber">5</span> <span class="toctext">Electoral results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#General_elections"><span class="tocnumber">5.1</span> <span class="toctext">General elections</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#European_Parliament"><span class="tocnumber">5.2</span> <span class="toctext">European Parliament</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Ideology">Ideology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=1" title="Edit section: Ideology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Fundamental_principles">Fundamental principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=2" title="Edit section: Fundamental principles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In their party platform, the Greens describe their ideology as being based on "a solidarity that can be expressed in three ways: solidarity with animals, nature, and the ecological system", "solidarity with coming generations", and "solidarity with all of the world's people".  The platform then describes these solidarities being expressed in "several fundamental ideas", these being <a href="/wiki/Participatory_democracy" title="Participatory democracy">participatory democracy</a>, <a href="/wiki/Ecological_wisdom" class="mw-redirect" title="Ecological wisdom">ecological wisdom</a>, <a href="/wiki/Social_justice" title="Social justice">social justice</a>, <a href="/wiki/Children%27s_rights" title="Children&#39;s rights">children's rights</a>, <a href="/wiki/Circular_economy" title="Circular economy">circular economy</a>, <a href="/wiki/Global_justice" title="Global justice">global justice</a>, <a href="/wiki/Nonviolence" title="Nonviolence">nonviolence</a>, <a href="/wiki/Social_equality" title="Social equality">equality</a> and <a href="/wiki/Feminism" title="Feminism">feminism</a>, <a href="/wiki/Animal_rights" title="Animal rights">animal rights</a>, self-reliance and self-administration, <a href="/wiki/Civil_liberties" title="Civil liberties">freedom</a>, and <a href="/wiki/Sustainability" title="Sustainability">long-sightedness</a>.<sup id="cite_ref-party_platform_11-0" class="reference"><a href="#cite_note-party_platform-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Climate_change_and_the_environment">Climate change and the environment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=3" title="Edit section: Climate change and the environment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Party was the first political party in Sweden to raise the issue of <a href="/wiki/Climate_change" title="Climate change">climate change</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2013)">citation needed</span></a></i>&#93;</sup>  Fighting climate change is a major policy issue for the party.  For example, the party's main criticism of <a href="/wiki/Alliance_(Sweden)" title="Alliance (Sweden)">The Alliance</a>'s 2010 election manifesto was the "entirely astonishing" lack of effort in fighting climate change,<sup id="cite_ref-Fullständigt_häpnadsväckande_12-0" class="reference"><a href="#cite_note-Fullständigt_häpnadsväckande-12">&#91;12&#93;</a></sup> and in 2013, the party announced a budget proposal that was dominated by a 49 million <a href="/wiki/Swedish_krona" title="Swedish krona">kronor</a> "climate package".<sup id="cite_ref-2013_budget_13-0" class="reference"><a href="#cite_note-2013_budget-13">&#91;13&#93;</a></sup> The party supports a general shift in taxation policy, towards high taxes on environmentally unfriendly or unsustainable products and activities, hoping to thus influence people's behavior towards the more sustainable.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2013)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Nuclear_power">Nuclear power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=4" title="Edit section: Nuclear power">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The anti-nuclear movement was a major factor in the party's creation.<sup id="cite_ref-Ljunggren_7-1" class="reference"><a href="#cite_note-Ljunggren-7">&#91;7&#93;</a></sup> The party's party platform reads that "we oppose the construction of new reactors in Sweden, or an increase in the output of existing reactors, and instead want to begin immediately phasing out nuclear power."<sup id="cite_ref-party_platform_11-1" class="reference"><a href="#cite_note-party_platform-11">&#91;11&#93;</a></sup> <a href="/wiki/Member_of_parliament" title="Member of parliament">MP</a> <a href="/wiki/Per_Bolund" title="Per Bolund">Per Bolund</a> clarified in 2010 that the party "does not propose shutting down nuclear power reactors today, but rather phasing them out as new and renewable electricity is phased in."<sup id="cite_ref-bolund_chat_14-0" class="reference"><a href="#cite_note-bolund_chat-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="European_integration">European integration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=5" title="Edit section: European integration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The party was initially opposed to membership in the <a href="/wiki/European_Union" title="European Union">European Union</a>, and sought a new referendum on the issue.  The party's EU-opposition captured them 17 percent of the votes in the <a href="/wiki/European_Parliament_election,_1995_(Sweden)" title="European Parliament election, 1995 (Sweden)">1995 European Parliament election</a>, the first following Sweden's EU ascension.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>  The Greens included withdrawal from the EU in their party platform as recently as 2006.<sup id="cite_ref-2006_manifesto_dn_16-0" class="reference"><a href="#cite_note-2006_manifesto_dn-16">&#91;16&#93;</a></sup>
+</p><p>This policy was abolished in a September 2008 internal party referendum.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> However, the party remains somewhat Eurosceptic. The section of the party platform on the subject opens by citing how decentralization and making decisions as locally as reasonably possible is a central part of green politics.  It continues to state that the Greens "are warm adherents to international cooperation.  We want to see Europe as a part of a world of democracies, where people move freely over borders, and where people and countries trade and cooperate with each other."<sup id="cite_ref-party_platform_11-2" class="reference"><a href="#cite_note-party_platform-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Leadership_and_organisation">Leadership and organisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=6" title="Edit section: Leadership and organisation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Greens, like many other green parties around the world, do not have a party leader in the traditional sense.  The party is represented by two spokespeople, always one male and one female. The current spokespersons are <a href="/wiki/Gustav_Fridolin" title="Gustav Fridolin">Gustav Fridolin</a> and <a href="/wiki/Isabella_Lovin" class="mw-redirect" title="Isabella Lovin">Isabella Lovin</a>.<sup id="cite_ref-dn_18-0" class="reference"><a href="#cite_note-dn-18">&#91;18&#93;</a></sup>  The spokespeople are elected annually by the party congress, up to a maximum of nine, one-year terms.<sup id="cite_ref-constitution_19-0" class="reference"><a href="#cite_note-constitution-19">&#91;19&#93;</a></sup>
+</p><p>The party congress, consisting of elected representatives of all of the party's local groups, is the highest decision-making organ in the Green Party.  The congress, in addition to the two spokespeople, also fills many other important posts in the party, including a party board (<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>: <i lang="sv">partistyrelse</i>), which is the party's highest decision-making authority between party congresses, and the day-to-day operation of the party's national organisation.  The congress also elects a party secretary (<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>: <i lang="sv">partisekreterare</i>), who is an internal, organisational leader for the party.<sup id="cite_ref-constitution_19-1" class="reference"><a href="#cite_note-constitution-19">&#91;19&#93;</a></sup> The current party secretary, initially elected by the 2011 party congress, is <a href="/wiki/Anders_Wallner" title="Anders Wallner">Anders Wallner</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=7" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Islamic_extremism">Islamic extremism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=8" title="Edit section: Islamic extremism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Party was hit by a political scandal in April 2016, as images emerged of Green Party housing minister <a href="/wiki/Mehmet_Kaplan" title="Mehmet Kaplan">Mehmet Kaplan</a> attending a dinner party alongside leading members of the Turkish far-right extremist group <a href="/wiki/Grey_Wolves_(organization)" title="Grey Wolves (organization)">Grey Wolves</a>.<sup id="cite_ref-AlJazeera_21-0" class="reference"><a href="#cite_note-AlJazeera-21">&#91;21&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-SvD_23-0" class="reference"><a href="#cite_note-SvD-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> Following attention to comments made by Kaplan in 2009 comparing <a href="/wiki/Israel" title="Israel">Israel</a> to <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a>, Kaplan resigned as minister, while still defended by the party leadership.<sup id="cite_ref-AlJazeera_21-1" class="reference"><a href="#cite_note-AlJazeera-21">&#91;21&#93;</a></sup><sup id="cite_ref-TheLocal_25-0" class="reference"><a href="#cite_note-TheLocal-25">&#91;25&#93;</a></sup> After his resignation, images emerged of Kaplan and other members of the Green Party displaying hand gestures associated with the <a href="/wiki/Muslim_Brotherhood" title="Muslim Brotherhood">Muslim Brotherhood</a>.<sup id="cite_ref-AlJazeera_21-2" class="reference"><a href="#cite_note-AlJazeera-21">&#91;21&#93;</a></sup><sup id="cite_ref-TheLocal_25-1" class="reference"><a href="#cite_note-TheLocal-25">&#91;25&#93;</a></sup> Another controversy ensued as a rising Green-Party star, <a href="/wiki/Yasri_Khan" title="Yasri Khan">Yasri Khan</a>, refused to shake hands with a female TV reporter.<sup id="cite_ref-SvD_23-1" class="reference"><a href="#cite_note-SvD-23">&#91;23&#93;</a></sup><sup id="cite_ref-TheLocal_25-2" class="reference"><a href="#cite_note-TheLocal-25">&#91;25&#93;</a></sup> Lars Nicander, director of the Centre for Asymmetric Threat Studies at the <a href="/wiki/Swedish_Defence_University" title="Swedish Defence University">Swedish Defence University</a>, compared the revelations with how the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> sought to infiltrate democratic Western parties during the <a href="/wiki/Cold_War" title="Cold War">Cold War</a>, alleging that the Green Party similarly may have been "infiltrated by Islamists".<sup id="cite_ref-AlJazeera_21-3" class="reference"><a href="#cite_note-AlJazeera-21">&#91;21&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>In April 2016, a Green Party politician from the council of <a href="/wiki/Burl%C3%B6v_Municipality" title="Burlöv Municipality">Burlöv Municipality</a> and the chairman of the local Syrian commity group invited, in his latter capacity, <a href="/wiki/Osama_bin_Ladin" class="mw-redirect" title="Osama bin Ladin">Osama bin Ladin</a>'s former advisor <a href="/wiki/Salman_al-Ouda" title="Salman al-Ouda">Salman al-Ouda</a> to lecture for them together with two other community groups. This invitation was controversial in Sweden as <a href="/wiki/Salafist" class="mw-redirect" title="Salafist">salafist</a> al-Ouda had stated antisemitic views and denied the Holocaust. He was suspended for a time by the party leadership.<sup id="cite_ref-sydsv28april2016_27-0" class="reference"><a href="#cite_note-sydsv28april2016-27">&#91;27&#93;</a></sup><sup id="cite_ref-svt27apr2016_28-0" class="reference"><a href="#cite_note-svt27apr2016-28">&#91;28&#93;</a></sup>
+</p><p>In May 2016 Green Party co-spokesperson and Environmental Minister <a href="/wiki/%C3%85sa_Romson" title="Åsa Romson">Åsa Romson</a> confirmed she would resign from both positions as a result of her leadership during the party crisis, along with controversies of her own, such as referring to the <a href="/wiki/September_11_attacks" title="September 11 attacks">September 11 attacks</a> as the September 11 "olycka" (which can be translated as "accident", or alternatively as "misfortune" which Romson later claimed as her intention) in a television interview.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Electoral_politics">Electoral politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=9" title="Edit section: Electoral politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is often believed that the party is situated on the left on a left-right scale due to its co-operation with the <a href="/wiki/Swedish_Social_Democratic_Party" title="Swedish Social Democratic Party">Social Democratic Party</a>. The party participated in a <a href="/wiki/Political_coalition" class="mw-redirect" title="Political coalition">political and electoral coalition</a> called the <a href="/wiki/Red-Greens_(Sweden)" title="Red-Greens (Sweden)">Red-Greens</a> with the <a href="/wiki/Swedish_Social_Democratic_Party" title="Swedish Social Democratic Party">Social Democrats</a> and <a href="/wiki/Left_Party_(Sweden)" title="Left Party (Sweden)">Left Party</a> from October 2008 until the <a href="/wiki/Swedish_general_election,_2010" title="Swedish general election, 2010">2010 general election</a> in September 2010, and has vowed to co-operate with the Social Democrats until 2020.<sup id="cite_ref-aftonbladet_33-0" class="reference"><a href="#cite_note-aftonbladet-33">&#91;33&#93;</a></sup> In several municipalities, however, the Greens cooperate with liberal and conservative parties, and the party does not define itself as left, nor right. Rather, they place themselves on one end of a scale between sustainability and growth. In an article published in 2009, Maria Wetterstrand, then party co-spokesperson, defined the party as a natural home also for green-minded <a href="/wiki/Social_liberalism" title="Social liberalism">social liberals</a> and <a href="/wiki/Libertarian_Socialism" class="mw-redirect" title="Libertarian Socialism">libertarian socialists</a>, by referring to its liberal policy regarding immigration and its support of personal integrity, participation and entrepreneurship, among other issues.<sup id="cite_ref-newsmill_34-0" class="reference"><a href="#cite_note-newsmill-34">&#91;34&#93;</a></sup>
+</p><p>As of  2006<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_(Sweden)&amp;action=edit">&#91;update&#93;</a></sup>, the party is in opposition in Sweden, and its prioritized issues are <a href="/wiki/Climate_change" title="Climate change">climate change</a>, <a href="/wiki/Anti-discrimination" class="mw-redirect" title="Anti-discrimination">anti-discrimination</a> and <a href="/wiki/Civil_rights" class="mw-redirect" title="Civil rights">equal rights</a>.
+</p><p>In the <a href="/wiki/European_Parliament_election,_2009_(Sweden)" title="European Parliament election, 2009 (Sweden)">2009 European Parliament election</a>, the Greens received 11.02% and elected 2 <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">MEPs</a>.
+</p><p>In the <a href="/wiki/Swedish_general_election,_2010" title="Swedish general election, 2010">2010 general election</a>, the Greens received 7.3% of the vote, winning 25 seats in the <a href="/wiki/Riksdag" title="Riksdag">Riksdag</a>.
+</p><p>In the <a href="/wiki/European_Parliament_election,_2014_(Sweden)" title="European Parliament election, 2014 (Sweden)">2014 European elections</a>, the Greens came in second place nationally, ahead of the ruling <a href="/wiki/Moderate_Party" title="Moderate Party">Moderate Party</a> and behind the Social Democrats, with 15.4% of the vote, returning 4 MEPs.
+</p><p>In the <a href="/wiki/Swedish_general_election,_2014" title="Swedish general election, 2014">2014 general election</a>, the Greens received 6.9%  of the vote, again winning 25 seats in the Riksdag.
+</p>
+<table class="wikitable sortable" style="font-size: 85%">
+<caption>Green Party results by group,<br /><i>VALU 2010</i><sup id="cite_ref-valu2010_35-0" class="reference"><a href="#cite_note-valu2010-35">&#91;35&#93;</a></sup>
+</caption>
+<tbody><tr>
+<th>Group
+</th>
+<th>Votes<br />(%)
+</th>
+<th>Avg. result<br />+/− (<a href="/wiki/Percentage_point" title="Percentage point">pp</a>)
+</th></tr>
+<tr style="background:#9F9">
+<td><a href="/wiki/Student" title="Student">Students</a>
+</td>
+<td align="right">19
+</td>
+<td align="right">+9
+</td></tr>
+<tr style="background:#9F9">
+<td>Members of <a href="/wiki/Swedish_Confederation_of_Professional_Associations" title="Swedish Confederation of Professional Associations">SACO</a>
+</td>
+<td align="right">16
+</td>
+<td align="right">+6
+</td></tr>
+<tr style="background:#9F9">
+<td>Aged 18–21
+</td>
+<td align="right">16
+</td>
+<td align="right">+6
+</td></tr>
+<tr style="background:#9F9">
+<td>Aged 22–30
+</td>
+<td align="right">16
+</td>
+<td align="right">+6
+</td></tr>
+<tr style="background:#9F9">
+<td>First-time voters
+</td>
+<td align="right">16
+</td>
+<td align="right">+6
+</td></tr>
+<tr style="background:#9F9">
+<td>Government employees
+</td>
+<td align="right">12
+</td>
+<td align="right">+2
+</td></tr>
+<tr style="background:#9F9">
+<td><a href="/wiki/Public_sector" title="Public sector">Public sector</a> employees
+</td>
+<td align="right">12
+</td>
+<td align="right">+2
+</td></tr>
+<tr style="background:#9F9">
+<td><a href="/wiki/Local_government" title="Local government">Local government</a> employees
+</td>
+<td align="right">12
+</td>
+<td align="right">+2
+</td></tr>
+<tr style="background:#9F9">
+<td><a href="/wiki/White-collar_worker" title="White-collar worker">White-collar workers</a>
+</td>
+<td align="right">11
+</td>
+<td align="right">+1
+</td></tr>
+<tr style="background:#9F9">
+<td>Employed persons
+</td>
+<td align="right">11
+</td>
+<td align="right">+1
+</td></tr>
+<tr style="background:#9F9">
+<td>Members of <a href="/wiki/Swedish_Confederation_of_Professional_Employees" title="Swedish Confederation of Professional Employees">TCO</a>
+</td>
+<td align="right">11
+</td>
+<td align="right">+1
+</td></tr>
+<tr style="background:#9F9">
+<td>Females
+</td>
+<td align="right">11
+</td>
+<td align="right">+1
+</td></tr>
+<tr>
+<td><a href="/wiki/Unemployment" title="Unemployment">Unemployed</a>
+</td>
+<td align="right">10
+</td>
+<td align="right">0
+</td></tr>
+<tr style="background:#ffc1c1">
+<td><a href="/wiki/Private_sector" title="Private sector">Private sector</a> employees
+</td>
+<td align="right">9
+</td>
+<td align="right">-1
+</td></tr>
+<tr style="background:#ffc1c1">
+<td>Males
+</td>
+<td align="right">9
+</td>
+<td align="right">-1
+</td></tr>
+<tr style="background:#ffc1c1">
+<td>Aged 31–64
+</td>
+<td align="right">9
+</td>
+<td align="right">-1
+</td></tr>
+<tr style="background:#ffc1c1">
+<td><a href="/wiki/Blue-collar_worker" title="Blue-collar worker">Blue-collar workers</a>
+</td>
+<td align="right">9
+</td>
+<td align="right">-1
+</td></tr>
+<tr style="background:#ffc1c1">
+<td><a href="/wiki/Entrepreneur" class="mw-redirect" title="Entrepreneur">Business owners</a>
+</td>
+<td align="right">8
+</td>
+<td align="right">-2
+</td></tr>
+<tr style="background:#ffc1c1">
+<td>Raised outside Sweden
+</td>
+<td align="right">7
+</td>
+<td align="right">-3
+</td></tr>
+<tr style="background:#ffc1c1">
+<td>Members of <a href="/wiki/Swedish_Trade_Union_Confederation" title="Swedish Trade Union Confederation">LO</a>
+</td>
+<td align="right">7
+</td>
+<td align="right">-3
+</td></tr>
+<tr style="background:#ffc1c1">
+<td>On <a href="/wiki/Sick_leave" title="Sick leave">sick leave</a>
+</td>
+<td align="right">7
+</td>
+<td align="right">-3
+</td></tr>
+<tr style="background:#ffc1c1">
+<td>Aged 65+
+</td>
+<td align="right">4
+</td>
+<td align="right">-6
+</td></tr>
+<tr style="background:#ffc1c1">
+<td><a href="/wiki/Farmer" title="Farmer">Farmers</a>
+</td>
+<td align="right">4
+</td>
+<td align="right">-6
+</td></tr>
+<tr class="sortbottom">
+<th style="text-align:left">All groups (total)
+</th>
+<th style="text-align:right">10
+</th>
+<th style="text-align:right">0
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Church_politics">Church politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=10" title="Edit section: Church politics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The party does not directly participate in elections to the <a href="/wiki/Church_of_Sweden" title="Church of Sweden">Church of Sweden</a>, but <a href="/wiki/Green_Party_in_the_Church_of_Sweden" class="mw-redirect" title="Green Party in the Church of Sweden">Miljöpartister i Svenska kyrkan</a> (English: <span lang="en">Greens in the Church of Sweden</span>), an independent <a href="/wiki/Nominating_groups" class="mw-redirect" title="Nominating groups">nominating group</a>, participates in church elections at all levels.
+</p>
+<h3><span class="mw-headline" id="Relationship_with_other_parties">Relationship with other parties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=11" title="Edit section: Relationship with other parties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Party has a good relationship with the <a href="/wiki/Swedish_Social_Democratic_Party" title="Swedish Social Democratic Party">Social Democrats</a>, and to a lesser extent, with the <a href="/wiki/Left_Party_(Sweden)" title="Left Party (Sweden)">Left Party</a>. The party does not rule out participation in a government with the minor <a href="/wiki/Liberalism" title="Liberalism">liberal</a> and <a href="/wiki/Centre-right" class="mw-redirect" title="Centre-right">centre-right</a> parties in Sweden. The Green Party on first entering the Riksdag, allied with the Conservative Bloc in opposition to the Social Democrats. The Green Party has made clear that its preference among cooperative arrangements with the Conservative Bloc does not include support of a government led by the liberal-conservative <a href="/wiki/Moderate_Party" title="Moderate Party">Moderate Party</a>. Historically, however, there have been political deals concluded with the parties forming the centre-right <a href="/wiki/Alliance_(Sweden)" title="Alliance (Sweden)">Alliance</a>, as an example concerning education. Co-operation with the Moderate Party on the municipal level are relatively frequent.
+</p>
+<h2><span class="mw-headline" id="Electoral_results">Electoral results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=12" title="Edit section: Electoral results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="General_elections">General elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=13" title="Edit section: General elections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/20px-Ambox_important.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/30px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></td><td class="mbox-text"><div class="mbox-text-span">This table <b>is incomplete</b>.  <small><i>(September 2013)</i></small></div></td></tr></tbody></table>
+<table class="wikitable">
+
+<tbody><tr>
+<th rowspan="3">Election<br />year
+</th>
+<th colspan="4"><a href="/wiki/Parliament_of_Sweden" class="mw-redirect" title="Parliament of Sweden">Riksdag</a>
+</th>
+<th rowspan="12">
+</th>
+<th colspan="4"><a href="/wiki/County_councils_of_Sweden" title="County councils of Sweden">County councils</a>
+</th>
+<th rowspan="12">
+</th>
+<th colspan="4"><a href="/wiki/Municipal_council_(Sweden)" title="Municipal council (Sweden)">Municipal councils</a>
+</th>
+<th rowspan="12">
+</th>
+<th rowspan="3"><abbr title="References">Ref.</abbr>
+</th></tr>
+<tr>
+<th colspan="2">Votes
+</th>
+<th rowspan="2">Seats won
+</th>
+<th rowspan="2">+/–
+</th>
+<th colspan="2">Votes
+</th>
+<th rowspan="2">Seats won
+</th>
+<th rowspan="2">+/–
+</th>
+<th colspan="2">Votes
+</th>
+<th rowspan="2">Seats won
+</th>
+<th rowspan="2">+/–
+</th></tr>
+<tr>
+<th>#
+</th>
+<th>%
+</th>
+<th>#
+</th>
+<th>%
+</th>
+<th>#
+</th>
+<th>%
+</th></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_1982" title="Swedish general election, 1982">1982</a>
+</th>
+<td>91,787
+</td>
+<td>1.7 (#7)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td>98,042
+</td>
+<td>1.9%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 1,717</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td>91,842
+</td>
+<td>1.6%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">129 / 13,500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 1%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 129
+</td>
+<td><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_1985" title="Swedish general election, 1985">1985</a>
+</th>
+<td>83,645
+</td>
+<td>1.5 (#7)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td>104,166
+</td>
+<td>2.0%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 1,733</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td>142,498
+</td>
+<td>2.5%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">237 / 13,520</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 2%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 108
+</td>
+<td><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_1988" title="Swedish general election, 1988">1988</a>
+</th>
+<td>296,935
+</td>
+<td>5.5 (#6)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">20 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 6%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 20
+</td>
+<td>237,556
+</td>
+<td>4,8%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">73 / 1,743</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 73
+</td>
+<td>302,797
+</td>
+<td>5.6%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">693 / 13,564</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 456
+</td>
+<td><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_1991" title="Swedish general election, 1991">1991</a>
+</th>
+<td>185,051
+</td>
+<td>3.4 (#8)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 20
+</td>
+<td>156,594
+</td>
+<td>3.1%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">34 / 1,763</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 2%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 39
+</td>
+<td>199,207
+</td>
+<td>3.6%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">389 / 13,526</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 3%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 304
+</td>
+<td><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_1994" title="Swedish general election, 1994">1994</a>
+</th>
+<td>279,042
+</td>
+<td>5.0 (#6)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">18 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 18
+</td>
+<td>236,666
+</td>
+<td>4.6%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">78 / 1,777</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 44
+</td>
+<td>298,044
+</td>
+<td>5.3%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">616 / 13,550</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 230
+</td>
+<td><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_1998" title="Swedish general election, 1998">1998</a>
+</th>
+<td>236,699
+</td>
+<td>4.5 (#7)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">16 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td>226,398
+</td>
+<td>4.4%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">70 / 1,646</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 8
+</td>
+<td>252,675
+</td>
+<td>4.8%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">559 / 13,388</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 57
+</td>
+<td><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_2002" title="Swedish general election, 2002">2002</a>
+</th>
+<td>246,392
+</td>
+<td>4.7 (#7)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">17 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1
+</td>
+<td>204169
+</td>
+<td>3.9%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">55 / 1,656</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 3%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 15
+</td>
+<td>227,189
+</td>
+<td>4.2%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">443 / 13,274</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 3%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 116
+</td>
+<td><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_2006" title="Swedish general election, 2006">2006</a>
+</th>
+<td>291,121
+</td>
+<td>5.2 (#7)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">19 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_2010" title="Swedish general election, 2010">2010</a>
+</th>
+<td>437,435
+</td>
+<td>7.3 (#3)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">25 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 7%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 6
+</td>
+<td>398,782
+</td>
+<td>6.9%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">103 / 1,662</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 6%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>418,961
+</td>
+<td>7.1%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">686 / 12,978</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_2014" title="Swedish general election, 2014">2014</a>
+</th>
+<td>408,365
+</td>
+<td>6.8 (#4)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">25 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 7%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td></tr>
+<tr>
+<th><a href="/wiki/Swedish_general_election,_2018" title="Swedish general election, 2018">2018</a>
+</th>
+<td>285,899
+</td>
+<td>4.4 (#8)
+</td>
+<td><div style="width: 100px;"><span class="nowrap">16 / 349</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 9
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="European_Parliament">European Parliament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=14" title="Edit section: European Parliament">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Votes
+</th>
+<th>%
+</th>
+<th>Seats
+</th>
+<th>+/–
+</th></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_1995_(Sweden)" title="European Parliament election, 1995 (Sweden)">1995</a>
+</th>
+<td>462,092
+</td>
+<td>17.2%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">4 / 22</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 18%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_1999_(Sweden)" title="European Parliament election, 1999 (Sweden)">1999</a>
+</th>
+<td>239,946
+</td>
+<td>9.5%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 22</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 9%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_2004_(Sweden)" title="European Parliament election, 2004 (Sweden)">2004</a>
+</th>
+<td>149,603
+</td>
+<td>6.0%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 19</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_2009_(Sweden)" title="European Parliament election, 2009 (Sweden)">2009</a>
+</th>
+<td>349,114
+</td>
+<td>11.0%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 18</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 11%; height: 100%;"></div></div></div><span style="font-size:85%;"><div style="width: 100px;"><span class="nowrap">2 / 20</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 10%; height: 100%;"></div></div></div></span>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1<br /><span style="font-size:85%;"><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0</span>
+</td></tr>
+<tr>
+<th><a href="/wiki/European_Parliament_election,_2014_(Sweden)" title="European Parliament election, 2014 (Sweden)">2014</a>
+</th>
+<td>572,591
+</td>
+<td>15.4%
+</td>
+<td><div style="width: 100px;"><span class="nowrap">4 / 20</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: Green; width: 20%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Elections_in_Sweden" title="Elections in Sweden">Elections in Sweden</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_Youth_(Sweden)" class="mw-redirect" title="Green Youth (Sweden)">Green Youth (Sweden)</a></li>
+<li><a href="/wiki/List_of_environmental_organizations" title="List of environmental organizations">List of environmental organizations</a></li>
+<li><a href="/wiki/Referendums_in_Sweden" title="Referendums in Sweden">Referendums in Sweden</a></li>
+<li><a href="/wiki/Worldwide_green_parties" class="mw-redirect" title="Worldwide green parties">Worldwide green parties</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 40em; -webkit-column-width: 40em; column-width: 40em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.dn.se/nyheter/politik/sjunkande-medlemsantal-oroar-inte-schyman/">"Sjunkande medlemsantal oroar inte Schyman"</a> (in Swedish). 23 February 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">27 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sjunkande+medlemsantal+oroar+inte+Schyman&amp;rft.date=2018-02-23&amp;rft_id=https%3A%2F%2Fwww.dn.se%2Fnyheter%2Fpolitik%2Fsjunkande-medlemsantal-oroar-inte-schyman%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Nordsieck-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nordsieck_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Nordsieck, Wolfram (2018). <a rel="nofollow" class="external text" href="http://www.parties-and-elections.eu/sweden.html">"Sweden"</a>. <i>Parties and Elections in Europe</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Parties+and+Elections+in+Europe&amp;rft.atitle=Sweden&amp;rft.date=2018&amp;rft.aulast=Nordsieck&amp;rft.aufirst=Wolfram&amp;rft_id=http%3A%2F%2Fwww.parties-and-elections.eu%2Fsweden.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Colomer2008-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Colomer2008_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Josep M. Colomer (25 July 2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=TZF8AgAAQBAJ&amp;pg=PA261"><i>Political Institutions in Europe</i></a>. Routledge. p.&#160;261. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-134-07354-2" title="Special:BookSources/978-1-134-07354-2">978-1-134-07354-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Political+Institutions+in+Europe&amp;rft.pages=261&amp;rft.pub=Routledge&amp;rft.date=2008-07-25&amp;rft.isbn=978-1-134-07354-2&amp;rft.au=Josep+M.+Colomer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DTZF8AgAAQBAJ%26pg%3DPA261&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.val.se/val/val2014/slutresultat/L/rike/valda.html">2014: Val till landstingsfullmäktige - Valda</a>", <i>Valmyndigheten</i>, 2014-09-28</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.val.se/val/val2014/slutresultat/K/rike/valda.html">2014: Val till kommunfullmäktige - Valda</a>", <i>Valmyndigheten</i>, 2014-09-26</span>
+</li>
+<li id="cite_note-Swedish_Green_Party-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Swedish_Green_Party_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mp.se/languages">"Swedish Green Party"</a>. <i>www.mp.se</i>. Miljöpartiet de gröna<span class="reference-accessdate">. Retrieved <span class="nowrap">13 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.mp.se&amp;rft.atitle=Swedish+Green+Party&amp;rft_id=http%3A%2F%2Fwww.mp.se%2Flanguages&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Ljunggren-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ljunggren_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ljunggren_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ljunggren, Stig-Björn (2010). <a rel="nofollow" class="external text" href="http://journals.lub.lu.se/index.php/st/article/view/8211">"Miljöpartiet De Gröna. Från miljömissnöjesparti till grön regeringspartner"</a>. <i>Statsvetenskaplig Tidskrift</i>. <b>112</b> (2)<span class="reference-accessdate">. Retrieved <span class="nowrap">1 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Statsvetenskaplig+Tidskrift&amp;rft.atitle=Milj%C3%B6partiet+De+Gr%C3%B6na.+Fr%C3%A5n+milj%C3%B6missn%C3%B6jesparti+till+gr%C3%B6n+regeringspartner&amp;rft.volume=112&amp;rft.issue=2&amp;rft.date=2010&amp;rft.aulast=Ljunggren&amp;rft.aufirst=Stig-Bj%C3%B6rn&amp;rft_id=http%3A%2F%2Fjournals.lub.lu.se%2Findex.php%2Fst%2Farticle%2Fview%2F8211&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-1988_riksdag_election_results-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-1988_riksdag_election_results_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201988%20Del%201%20Riksdagsvalet.pdf">"Allmänna valen, 1988, Del 1 Riksdagsvalet"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Statistics_Sweden" title="Statistics Sweden">Statistics Sweden</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+valen%2C+1988%2C+Del+1+Riksdagsvalet&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201988%2520Del%25201%2520Riksdagsvalet.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-2014_results-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-2014_results_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.val.se/val/val2014/slutresultat/R/rike/index.html">"Röster - Val 2014"</a>. Valmyndigheten.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=R%C3%B6ster+-+Val+2014&amp;rft.pub=Valmyndigheten&amp;rft_id=http%3A%2F%2Fwww.val.se%2Fval%2Fval2014%2Fslutresultat%2FR%2Frike%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Sveriges Radio. <a rel="nofollow" class="external text" href="http://sverigesradio.se/sida/artikel.aspx?programid=2054&amp;artikel=5981621">"Sweden gets a new government"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sweden+gets+a+new+government&amp;rft.au=Sveriges+Radio&amp;rft_id=http%3A%2F%2Fsverigesradio.se%2Fsida%2Fartikel.aspx%3Fprogramid%3D2054%26artikel%3D5981621&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-party_platform-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-party_platform_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-party_platform_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-party_platform_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mp.se/sites/default/files/miljopartiets_partiprogram_2013_lagupplost.pdf">"Party Platform 2013"</a> <span class="cs1-format">(PDF)</span>. Miljöpartiet de gröna.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Party+Platform+2013&amp;rft.pub=Milj%C3%B6partiet+de+gr%C3%B6na&amp;rft_id=http%3A%2F%2Fwww.mp.se%2Fsites%2Fdefault%2Ffiles%2Fmiljopartiets_partiprogram_2013_lagupplost.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Fullständigt_häpnadsväckande-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fullständigt_häpnadsväckande_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hernadi, Alexandra (26 August 2010). "Wetterstrand: "Fullständigt häpnadsväckande<span class="cs1-kern-right">"</span>". <i><a href="/wiki/Svenska_dagbladet" class="mw-redirect" title="Svenska dagbladet">Svenska dagbladet</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Svenska+dagbladet&amp;rft.atitle=Wetterstrand%3A+%22Fullst%C3%A4ndigt+h%C3%A4pnadsv%C3%A4ckande%22&amp;rft.date=2010-08-26&amp;rft.aulast=Hernadi&amp;rft.aufirst=Alexandra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-2013_budget-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-2013_budget_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">"MP föreslår klimatpaket". <i><a href="/wiki/Svenska_dagbladet" class="mw-redirect" title="Svenska dagbladet">Svenska dagbladet</a></i>. 30 September 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Svenska+dagbladet&amp;rft.atitle=MP+f%C3%B6resl%C3%A5r+klimatpaket&amp;rft.date=2013-09-30&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-bolund_chat-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-bolund_chat_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dn.se/nyheter/chattarkiv/miljopartiet-chattade-om-karnkraften/">"Miljöpartiet chattade om kärnkraften"</a>. Dagens Nyheter. 26 May 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Milj%C3%B6partiet+chattade+om+k%C3%A4rnkraften&amp;rft.pub=Dagens+Nyheter&amp;rft.date=2010-05-26&amp;rft_id=http%3A%2F%2Fwww.dn.se%2Fnyheter%2Fchattarkiv%2Fmiljopartiet-chattade-om-karnkraften%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Burchell, Jon (1996). <a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/ref/10.1080/09644019608414268">"No to the European union (EU): Miljöpartiet's success in the 1995 European parliament elections in Sweden"</a>. <i>Environmental Politics</i>. <b>5</b> (2). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F09644019608414268">10.1080/09644019608414268</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environmental+Politics&amp;rft.atitle=No+to+the+European+union+%28EU%29%3A+Milj%C3%B6partiet%27s+success+in+the+1995+European+parliament+elections+in+Sweden&amp;rft.volume=5&amp;rft.issue=2&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1080%2F09644019608414268&amp;rft.aulast=Burchell&amp;rft.aufirst=Jon&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fref%2F10.1080%2F09644019608414268&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-2006_manifesto_dn-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-2006_manifesto_dn_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.dn.se/nyheter/politik/miljopartiet-la-fram-valmanifest/">"Miljöpartiet la fram valmanifest"</a>. <i>Dagens Nyheter</i>. 20 April 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dagens+Nyheter&amp;rft.atitle=Milj%C3%B6partiet+la+fram+valmanifest&amp;rft.date=2006-04-20&amp;rft_id=http%3A%2F%2Fwww.dn.se%2Fnyheter%2Fpolitik%2Fmiljopartiet-la-fram-valmanifest%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sverigesradio.se/sida/artikel.aspx?programid=114&amp;artikel=2358109">"Mp skippar krav på EU-utträde"</a>. <a href="/wiki/Sveriges_radio" class="mw-redirect" title="Sveriges radio">Sveriges radio</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mp+skippar+krav+p%C3%A5+EU-uttr%C3%A4de&amp;rft.pub=Sveriges+radio&amp;rft_id=http%3A%2F%2Fsverigesradio.se%2Fsida%2Fartikel.aspx%3Fprogramid%3D114%26artikel%3D2358109&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-dn-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-dn_18-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Crofts, Maria; Nilsson, Owe (21 May 2011). <a rel="nofollow" class="external text" href="http://www.dn.se/nyheter/politik/fridolin-och-romson-nya-sprakror">"Fridolin och Romson nya språkrör"</a>. <i><a href="/wiki/Dagens_Nyheter" title="Dagens Nyheter">Dagens Nyheter</a></i> (in Swedish). <a href="/wiki/Tidningarnas_Telegrambyr%C3%A5" title="Tidningarnas Telegrambyrå">Tidningarnas Telegrambyrå</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dagens+Nyheter&amp;rft.atitle=Fridolin+och+Romson+nya+spr%C3%A5kr%C3%B6r&amp;rft.date=2011-05-21&amp;rft.aulast=Crofts&amp;rft.aufirst=Maria&amp;rft.au=Nilsson%2C+Owe&amp;rft_id=http%3A%2F%2Fwww.dn.se%2Fnyheter%2Fpolitik%2Ffridolin-och-romson-nya-sprakror&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-constitution-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-constitution_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-constitution_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mp.se/om/stadgar">"Stadgar"</a> &#91;Constitution&#93;. Miljöpartiet de gröna.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stadgar&amp;rft.pub=Milj%C3%B6partiet+de+gr%C3%B6na&amp;rft_id=http%3A%2F%2Fwww.mp.se%2Fom%2Fstadgar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.svd.se/nyheter/inrikes/wallner-ny-mp-sekreterare_6182267.svd">"Wallner MP:s nye partisekreterare"</a>. Svenska dagbladet.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wallner+MP%3As+nye+partisekreterare&amp;rft.pub=Svenska+dagbladet&amp;rft_id=http%3A%2F%2Fwww.svd.se%2Fnyheter%2Finrikes%2Fwallner-ny-mp-sekreterare_6182267.svd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-AlJazeera-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-AlJazeera_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AlJazeera_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AlJazeera_21-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AlJazeera_21-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.aljazeera.com/news/2016/04/sweden-green-party-infiltrated-islamists-160426130534157.html">"Sweden's Green Party hit by religious row"</a>. <i>Al Jazeera</i>. 27 April 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Al+Jazeera&amp;rft.atitle=Sweden%27s+Green+Party+hit+by+religious+row&amp;rft.date=2016-04-27&amp;rft_id=http%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2016%2F04%2Fsweden-green-party-infiltrated-islamists-160426130534157.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://sverigesradio.se/sida/artikel.aspx?programid=2054&amp;artikel=6411611">"Housing minister, Turkish extremists dined together"</a>. <i>Radio Sweden</i>. 14 April 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Radio+Sweden&amp;rft.atitle=Housing+minister%2C+Turkish+extremists+dined+together&amp;rft.date=2016-04-14&amp;rft_id=https%3A%2F%2Fsverigesradio.se%2Fsida%2Fartikel.aspx%3Fprogramid%3D2054%26artikel%3D6411611&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SvD-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-SvD_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SvD_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.svd.se/swedish-cabinet-member-accused-of-antisemitism">"Swedish cabinet member compared Israel with Nazi-Germany"</a>. <i>Svenska Dagbladet</i>. 17 April 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Svenska+Dagbladet&amp;rft.atitle=Swedish+cabinet+member+compared+Israel+with+Nazi-Germany&amp;rft.date=2016-04-17&amp;rft_id=http%3A%2F%2Fwww.svd.se%2Fswedish-cabinet-member-accused-of-antisemitism&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.ibtimes.co.uk/swedens-housing-minister-mehmet-kaplan-quits-after-his-nazi-comparison-israel-1555419">"Sweden's housing minister Mehmet Kaplan quits after his Nazi comparison to Israel"</a>. <i>International Business Times</i>. 18 April 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Business+Times&amp;rft.atitle=Sweden%27s+housing+minister+Mehmet+Kaplan+quits+after+his+Nazi+comparison+to+Israel&amp;rft.date=2016-04-18&amp;rft_id=http%3A%2F%2Fwww.ibtimes.co.uk%2Fswedens-housing-minister-mehmet-kaplan-quits-after-his-nazi-comparison-israel-1555419&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TheLocal-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-TheLocal_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TheLocal_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TheLocal_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thelocal.se/20160425/green-party-sweden-crisis-romson-fridolin">"Green Party leaders: We have no plans to resign"</a>. <i>The Local</i>. 25 April 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Local&amp;rft.atitle=Green+Party+leaders%3A+We+have+no+plans+to+resign&amp;rft.date=2016-04-25&amp;rft_id=http%3A%2F%2Fwww.thelocal.se%2F20160425%2Fgreen-party-sweden-crisis-romson-fridolin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thelocal.se/20160423/green-party-may-have-been-infiltrated-by-islamists-researcher">"<span class="cs1-kern-left">'</span>Green Party may have been infiltrated by Islamists<span class="cs1-kern-right">'</span>"</a>. <i>The Local</i>. 23 April 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Local&amp;rft.atitle=%27Green+Party+may+have+been+infiltrated+by+Islamists%27&amp;rft.date=2016-04-23&amp;rft_id=http%3A%2F%2Fwww.thelocal.se%2F20160423%2Fgreen-party-may-have-been-infiltrated-by-islamists-researcher&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-sydsv28april2016-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-sydsv28april2016_27-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.sydsvenskan.se/2016-04-28/tre-olika-malmoforeningar-ville-lyssna-pa-bin-ladins-forra-mentor">"Tre olika Malmöföreningar ville lyssna på bin Ladins förra mentor"</a>. Sydsvenskan. 28 April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Tre+olika+Malm%C3%B6f%C3%B6reningar+ville+lyssna+p%C3%A5+bin+Ladins+f%C3%B6rra+mentor&amp;rft.date=2016-04-28&amp;rft_id=http%3A%2F%2Fwww.sydsvenskan.se%2F2016-04-28%2Ftre-olika-malmoforeningar-ville-lyssna-pa-bin-ladins-forra-mentor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-svt27apr2016-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-svt27apr2016_28-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.svt.se/nyheter/lokalt/skane/tar-time-out-fran-miljopartiet-efter-skandalen">"Efter skandalinbjudan – Miljöpartisten tar time-out"</a>. Sveriges Television www.svt.se. 27 April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Efter+skandalinbjudan+%E2%80%93+Milj%C3%B6partisten+tar+time-out&amp;rft.date=2016-04-27&amp;rft_id=http%3A%2F%2Fwww.svt.se%2Fnyheter%2Flokalt%2Fskane%2Ftar-time-out-fran-miljopartiet-efter-skandalen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.yahoo.com/news/swedish-deputy-premier-resigns-amid-green-party-crisis-134255381.html">"Swedish deputy premier resigns amid Green Party crisis"</a>. <i>Yahoo News/AP</i>. 9 May 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Yahoo+News%2FAP&amp;rft.atitle=Swedish+deputy+premier+resigns+amid+Green+Party+crisis&amp;rft.date=2016-05-09&amp;rft_id=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fswedish-deputy-premier-resigns-amid-green-party-crisis-134255381.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thelocal.se/20160509/swedens-greens-move-to-oust-scandal-hit-leader">"Green leader steps down as government minister"</a>. <i>The Local</i>. 9 May 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Local&amp;rft.atitle=Green+leader+steps+down+as+government+minister&amp;rft.date=2016-05-09&amp;rft_id=http%3A%2F%2Fwww.thelocal.se%2F20160509%2Fswedens-greens-move-to-oust-scandal-hit-leader&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://sverigesradio.se/sida/artikel.aspx?programid=2054&amp;artikel=6428147">"Lövin recommended to replace Romson"</a>. <i>Radio Sweden</i>. 9 May 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Radio+Sweden&amp;rft.atitle=L%C3%B6vin+recommended+to+replace+Romson&amp;rft.date=2016-05-09&amp;rft_id=https%3A%2F%2Fsverigesradio.se%2Fsida%2Fartikel.aspx%3Fprogramid%3D2054%26artikel%3D6428147&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thelocal.se/20160513/hate-attack-targets-green-party-conference">"Swedish Greens vote in their new co-leaders"</a>. <i>The Local</i>. 13 May 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Local&amp;rft.atitle=Swedish+Greens+vote+in+their+new+co-leaders&amp;rft.date=2016-05-13&amp;rft_id=http%3A%2F%2Fwww.thelocal.se%2F20160513%2Fhate-attack-targets-green-party-conference&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-aftonbladet-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-aftonbladet_33-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.aftonbladet.se/nyheter/kolumnister/lenamellin/article11526771.ab">"Partiledarna litar inte på Lars Ohly"</a>. <i><a href="/wiki/Aftonbladet" title="Aftonbladet">Aftonbladet</a></i> (in Swedish). 3 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Aftonbladet&amp;rft.atitle=Partiledarna+litar+inte+p%C3%A5+Lars+Ohly&amp;rft.date=2008-10-03&amp;rft_id=http%3A%2F%2Fwww.aftonbladet.se%2Fnyheter%2Fkolumnister%2Flenamellin%2Farticle11526771.ab&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-newsmill-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-newsmill_34-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Wetterstrand, Maria (17 November 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110728040457/http://www.newsmill.se/artikel/2009/11/17/miljopartiet-de-grona-ett-naturligt-hem-socialliberaler">"Wetterstrand: De gröna ett naturligt hem för socialliberaler"</a>. <i><a href="/wiki/Newsmill" class="mw-redirect" title="Newsmill">Newsmill</a></i> (in Swedish). Archived from <a rel="nofollow" class="external text" href="http://www.newsmill.se/artikel/2009/11/17/miljopartiet-de-grona-ett-naturligt-hem-socialliberaler">the original</a> on 28 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newsmill&amp;rft.atitle=Wetterstrand%3A+De+gr%C3%B6na+ett+naturligt+hem+f%C3%B6r+socialliberaler&amp;rft.date=2009-11-17&amp;rft.aulast=Wetterstrand&amp;rft.aufirst=Maria&amp;rft_id=http%3A%2F%2Fwww.newsmill.se%2Fartikel%2F2009%2F11%2F17%2Fmiljopartiet-de-grona-ett-naturligt-hem-socialliberaler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-valu2010-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-valu2010_35-0">^</a></b></span> <span class="reference-text"><cite class="citation report">Holmberg, Sören; Näsman, Per; Wänström, Kent (2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110612090523/http://svt.se/content/1/c8/02/15/63/14/ValuResultat2010_100921.pdf">Riksdagsvalet 2010 Valu</a> <span class="cs1-format">(PDF)</span> (Report). <a href="/wiki/Sveriges_Television" title="Sveriges Television">Sveriges Television</a>. Archived from <a rel="nofollow" class="external text" href="http://svt.se/content/1/c8/02/15/63/14/ValuResultat2010_100921.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 12 June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=Riksdagsvalet+2010+Valu&amp;rft.pub=Sveriges+Television&amp;rft.date=2010&amp;rft.aulast=Holmberg&amp;rft.aufirst=S%C3%B6ren&amp;rft.au=N%C3%A4sman%2C+Per&amp;rft.au=W%C3%A4nstr%C3%B6m%2C+Kent&amp;rft_id=http%3A%2F%2Fsvt.se%2Fcontent%2F1%2Fc8%2F02%2F15%2F63%2F14%2FValuResultat2010_100921.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201982%20Del%202%20Kommunala%20valen.pdf">"Allmänna valen 1982"</a> <span class="cs1-format">(PDF)</span>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+valen+1982&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201982%2520Del%25202%2520Kommunala%2520valen.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201985%20Del%202%20Kommunala%20valen.pdf">"Allmänna valen 1985"</a> <span class="cs1-format">(PDF)</span>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+valen+1985&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201985%2520Del%25202%2520Kommunala%2520valen.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201988%20Del%202%20Kommunala%20valen.pdf">"Allmänna val 1988"</a> <span class="cs1-format">(PDF)</span>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+val+1988&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201988%2520Del%25202%2520Kommunala%2520valen.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201991%20Del%202%20Kommunala%20valen.pdf">"Allmänna val 1991"</a> <span class="cs1-format">(PDF)</span>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+val+1991&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201991%2520Del%25202%2520Kommunala%2520valen.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201994%20Del%202%20Kommunala%20valen.pdf">"Allmänna val 1994, del 2"</a> <span class="cs1-format">(PDF)</span>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+val+1994%2C+del+2&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201994%2520Del%25202%2520Kommunala%2520valen.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201998%20Del%203%20Kommunalfullm%C3%A4ktige.pdf">"Allmänna valen 1998, del 3 Kommunfullmäktige"</a> <span class="cs1-format">(PDF)</span>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+valen+1998%2C+del+3+Kommunfullm%C3%A4ktige&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201998%2520Del%25203%2520Kommunalfullm%25C3%25A4ktige.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scb.se/Grupp/Hitta_statistik/Historisk_statistik/_Dokument/Valstatistiken/Valstatistik%20Allmanna%20valen%201998%20Del%202%20Landstingsfullmaktige.pdf">"Allmänna valen, Del 2 Landstingsfullmuaktige"</a> <span class="cs1-format">(PDF)</span>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allm%C3%A4nna+valen%2C+Del+2+Landstingsfullmuaktige&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.scb.se%2FGrupp%2FHitta_statistik%2FHistorisk_statistik%2F_Dokument%2FValstatistiken%2FValstatistik%2520Allmanna%2520valen%25201998%2520Del%25202%2520Landstingsfullmaktige.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.val.se/val/val_98/slutres/riksdag/7338.html">"Procent- och mandatfördelning riksdagsvalet 1998"</a>. Valmyndigheten (Swedish Election Authority).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Procent-+och+mandatf%C3%B6rdelning+riksdagsvalet+1998&amp;rft.pub=Valmyndigheten+%28Swedish+Election+Authority%29&amp;rft_id=http%3A%2F%2Fwww.val.se%2Fval%2Fval_98%2Fslutres%2Friksdag%2F7338.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.val.se/val/val_02/slutresultat/00R/00.html">"Val 2002: Slutresultat"</a>. Valmyndigheten.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Val+2002%3A+Slutresultat&amp;rft.pub=Valmyndigheten&amp;rft_id=http%3A%2F%2Fwww.val.se%2Fval%2Fval_02%2Fslutresultat%2F00R%2F00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.val.se/val/val2006/slutlig/R/rike/roster.html">"Val 2006, Slutresultat"</a>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Val+2006%2C+Slutresultat&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.val.se%2Fval%2Fval2006%2Fslutlig%2FR%2Frike%2Froster.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.val.se/val/val2010/slutresultat/R/rike/valda.html">"Val 2010, Slutresultat"</a>. Statistics Sweden.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Val+2010%2C+Slutresultat&amp;rft.pub=Statistics+Sweden&amp;rft_id=http%3A%2F%2Fwww.val.se%2Fval%2Fval2010%2Fslutresultat%2FR%2Frike%2Fvalda.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+%28Sweden%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mp.se/">Official site</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070209182827/http://www.riksdagen.se/templates/R_SubStartPage____12119.aspx">The Swedish Parliament: The Green Party</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Political_parties_in_Sweden_23x15px&amp;#124;border_&amp;#124;alt=Sweden&amp;#124;link=Sweden" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Political_parties_in_Sweden" title="Template:Political parties in Sweden"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Political_parties_in_Sweden" title="Template talk:Political parties in Sweden"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Political_parties_in_Sweden&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Political_parties_in_Sweden_23x15px&amp;#124;border_&amp;#124;alt=Sweden&amp;#124;link=Sweden" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Sweden" title="List of political parties in Sweden">Political parties in Sweden</a> <span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em;"><a href="/wiki/Riksdag" title="Riksdag">Riksdag</a><br /><span style="font-weight:normal;">(349 seats)</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/L%C3%B6fven_Cabinet" title="Löfven Cabinet">Government</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Swedish_Social_Democratic_Party" title="Swedish Social Democratic Party">Social Democrats</a> (113)</li>
+<li><a class="mw-selflink selflink">Green Party</a> (25)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Opposition</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Moderate_Party" title="Moderate Party">Moderate Party</a> (84)</li>
+<li><a href="/wiki/Sweden_Democrats" title="Sweden Democrats">Sweden Democrats</a> (49)</li>
+<li><a href="/wiki/Centre_Party_(Sweden)" title="Centre Party (Sweden)">Centre Party</a> (22)</li>
+<li><a href="/wiki/Left_Party_(Sweden)" title="Left Party (Sweden)">Left Party</a> (21)</li>
+<li><a href="/wiki/Liberals_(Sweden)" title="Liberals (Sweden)">Liberals</a> (19)</li>
+<li><a href="/wiki/Christian_Democrats_(Sweden)" title="Christian Democrats (Sweden)">Christian Democrats</a> (16)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.35em 1.0em; line-height:1.1em;"><a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a><br /><span style="font-weight:normal;">(20 of 751 seats)</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Swedish_Social_Democratic_Party" title="Swedish Social Democratic Party">Social Democrats</a> (5)</li>
+<li><a class="mw-selflink selflink">Green Party</a> (4)</li>
+<li><a href="/wiki/Moderate_Party" title="Moderate Party">Moderate Party</a> (3)</li>
+<li><a href="/wiki/Liberals_(Sweden)" title="Liberals (Sweden)">Liberals</a> (2)</li>
+<li><a href="/wiki/Sweden_Democrats" title="Sweden Democrats">Sweden Democrats</a> (2)</li>
+<li><a href="/wiki/Centre_Party_(Sweden)" title="Centre Party (Sweden)">Centre Party</a> (1)</li>
+<li><a href="/wiki/Left_Party_(Sweden)" title="Left Party (Sweden)">Left Party</a> (1)</li>
+<li><a href="/wiki/Christian_Democrats_(Sweden)" title="Christian Democrats (Sweden)">Christian Democrats</a> (1)</li>
+<li><a href="/wiki/Feminist_Initiative_(Sweden)" title="Feminist Initiative (Sweden)">Feminist Initiative</a> (1)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Politics_of_Sweden" title="Politics of Sweden">Politics of Sweden</a></li>
+<li><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></li>
+<li><a href="/wiki/List_of_political_parties_by_country" class="mw-redirect" title="List of political parties by country">List of political parties by country</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_parties_by_country" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_parties" title="Template:Green parties"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_parties" title="Template talk:Green parties"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_parties&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_parties_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_party" title="Green party">Green parties</a> by country</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/w/index.php?title=Ecology_and_Liberty_Party&amp;action=edit&amp;redlink=1" class="new" title="Ecology and Liberty Party (page does not exist)">Algeria</a></i></li>
+<li><a href="/w/index.php?title=Partido_Nacional_Ecol%C3%B3gico_de_Angola&amp;action=edit&amp;redlink=1" class="new" title="Partido Nacional Ecológico de Angola (page does not exist)">Angola</a></li>
+<li><a href="/wiki/The_Greens_(Benin)" title="The Greens (Benin)">Benin</a></li>
+<li>Burkina Faso
+<ul><li><a href="/wiki/Ecologist_Party_for_the_Development_of_Burkina" title="Ecologist Party for the Development of Burkina">Ecologist Party</a></li>
+<li><a href="/wiki/Greens_of_Burkina" title="Greens of Burkina">Greens of Burkina</a></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Burkina" title="Rally of the Ecologists of Burkina">Rally of the Ecologists</a></li></ul></li>
+<li><a href="/w/index.php?title=Burundi_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Burundi Green Movement (page does not exist)">Burundi</a></li>
+<li><a href="/w/index.php?title=Mouvement_des_Verts_de_Centrafique&amp;action=edit&amp;redlink=1" class="new" title="Mouvement des Verts de Centrafique (page does not exist)">Central African Republic</a></li>
+<li><a href="/w/index.php?title=Union_des_Ecologistes_Tchadiens_-_LES_VERTS&amp;action=edit&amp;redlink=1" class="new" title="Union des Ecologistes Tchadiens - LES VERTS (page does not exist)">Chad</a></li>
+<li><a href="/w/index.php?title=Defense_de_l%27Environment_Camerounais&amp;action=edit&amp;redlink=1" class="new" title="Defense de l&#39;Environment Camerounais (page does not exist)">Cameroon</a></li>
+<li><a href="/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens" title="Rally of Congolese Ecologists – The Greens">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Egyptian_Green_Party" title="Egyptian Green Party">Egypt</a></li>
+<li><a href="/w/index.php?title=Gabon_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Gabon Green Party (page does not exist)">Gabon</a></li>
+<li><a href="/w/index.php?title=Ghana_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Ghana Green Movement (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Parti_des_Ecologistes_Guineens&amp;action=edit&amp;redlink=1" class="new" title="Parti des Ecologistes Guineens (page does not exist)">Guinea</a></li>
+<li><i><a href="/w/index.php?title=Liga_Guineense_de_Protec%C3%A7ao_Ecologica&amp;action=edit&amp;redlink=1" class="new" title="Liga Guineense de Protecçao Ecologica (page does not exist)">Guinea-Bissau</a></i></li>
+<li><a href="/w/index.php?title=Parti_pour_la_Protection_de_l%27Environnement&amp;action=edit&amp;redlink=1" class="new" title="Parti pour la Protection de l&#39;Environnement (page does not exist)">Ivory Coast</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Kenya</a></li>
+<li><a href="/w/index.php?title=Parti_Vert_Hasin%27l_Madagasikara&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Hasin&#39;l Madagasikara (page does not exist)">Madagascar</a></li>
+<li><a href="/wiki/Ecologist_Party_of_Mali" title="Ecologist Party of Mali">Mali</a></li>
+<li><a href="/wiki/Les_Verts_Fraternels" title="Les Verts Fraternels">Mauritius</a></li>
+<li>Morocco
+<ul><li><a href="/w/index.php?title=The_Greens_(Morocco)&amp;action=edit&amp;redlink=1" class="new" title="The Greens (Morocco) (page does not exist)">The Greens</a></li>
+<li><i><a href="/wiki/Izigzawen" title="Izigzawen">Izigzawen</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Party_of_Mozambique" title="Greens Party of Mozambique">Mozambique</a></li>
+<li><a href="/w/index.php?title=Rassemblement_pour_un_Sahel_Vert&amp;action=edit&amp;redlink=1" class="new" title="Rassemblement pour un Sahel Vert (page does not exist)">Niger</a></li>
+<li><a href="/w/index.php?title=Green_Party_of_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Green Party of Nigeria (page does not exist)">Nigeria</a></li>
+<li><i><a href="/wiki/Democratic_Green_Party_of_Rwanda" title="Democratic Green Party of Rwanda">Rwanda</a></i></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Senegal" title="Rally of the Ecologists of Senegal">Senegal</a></li>
+<li><a href="/w/index.php?title=Sierra_Leone_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Sierra Leone Green Party (page does not exist)">Sierra Leone</a></li>
+<li>Somalia
+<ul><li><i><a href="/wiki/Somalia_Green_Party" title="Somalia Green Party">Green Party</a></i></li>
+<li><a href="/w/index.php?title=Democratic_Green_Party_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Democratic Green Party of Somalia (page does not exist)">Democratic Green Party</a></li></ul></li>
+<li>South Africa
+<ul><li><a href="/w/index.php?title=South_African_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="South African Green Alliance (page does not exist)">Green Alliance</a></li>
+<li><i><a href="/wiki/Green_Party_of_South_Africa" title="Green Party of South Africa">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=Afrique_Togo_Ecologie&amp;action=edit&amp;redlink=1" class="new" title="Afrique Togo Ecologie (page does not exist)">Togo</a></li>
+<li><a href="/wiki/Green_Tunisia_Party" title="Green Tunisia Party">Tunisia</a></li>
+<li>Uganda
+<ul><li><a href="/w/index.php?title=Ecological_Party_of_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Ecological Party of Uganda (page does not exist)">Ecological Party</a></li>
+<li><i><a href="/wiki/Uganda_Green_Party" title="Uganda Green Party">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=National_Revolution_Green_Party_Zambia&amp;action=edit&amp;redlink=1" class="new" title="National Revolution Green Party Zambia (page does not exist)">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Americas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Initiative" title="Green Initiative">Argentina</a></li>
+<li><i><a href="/wiki/Belize_Green_Independent_Party" title="Belize Green Independent Party">Belize</a></i></li>
+<li><a href="/wiki/Green_Party_of_Bolivia" title="Green Party of Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Green_Party_(Brazil)" title="Green Party (Brazil)">Brazil</a></li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Canada</a></li>
+<li><a href="/wiki/Green_Ecologist_Party_(Chile)" title="Green Ecologist Party (Chile)">Chile</a></li>
+<li><a href="/wiki/Green_Alliance_(Colombia)" title="Green Alliance (Colombia)">Colombia</a></li>
+<li><i><a href="/wiki/Cartago_Green_Party" title="Cartago Green Party">Costa Rica</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Democratic_Unity" class="mw-redirect" title="Green Party of Democratic Unity">Dominican Republic</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_Los_Verdes_de_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Partido Los Verdes de Guatemala (page does not exist)">Guatemala</a></i></li>
+<li><i><a href="/w/index.php?title=Les_Verts_de_Guyane&amp;action=edit&amp;redlink=1" class="new" title="Les Verts de Guyane (page does not exist)">French Guyana</a></i></li>
+<li><i><a href="/w/index.php?title=Parti_Vert_Ha%C3%AFtien&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Haïtien (page does not exist)">Haiti</a></i></li>
+<li><a href="/wiki/Ecologist_Green_Party_of_Mexico" title="Ecologist Green Party of Mexico">Mexico</a></li>
+<li><i><a href="/wiki/Ecologist_Green_Party_of_Nicaragua" title="Ecologist Green Party of Nicaragua">Nicaragua</a></i></li>
+<li><a href="/wiki/Green_Alternative_Ecologist_Party_of_Peru" title="Green Alternative Ecologist Party of Peru">Peru</a></li>
+<li><i><a href="/wiki/Puerto_Ricans_for_Puerto_Rico_Party" title="Puerto Ricans for Puerto Rico Party">Puerto Rico</a></i></li>
+<li><i><a href="/wiki/Saint_Vincent_and_the_Grenadines_Green_Party" title="Saint Vincent and the Grenadines Green Party">Saint Vincent and the Grenadines</a></i></li>
+<li><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">United States</a></li>
+<li>Uruguay
+<ul><li><i><a href="/wiki/Partido_Verde_Eto-Ecologista" title="Partido Verde Eto-Ecologista">Green</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_del_Sol_(Uruguay)&amp;action=edit&amp;redlink=1" class="new" title="Partido del Sol (Uruguay) (page does not exist)">Sol</a></i></li>
+<li><i><a href="/wiki/Partido_Ecologista_Radical_Intransigente" title="Partido Ecologista Radical Intransigente">PERI</a></i></li></ul></li>
+<li><a href="/wiki/Ecological_Movement_of_Venezuela" title="Ecological Movement of Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia-Pacific</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Australia
+<ul><li><a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a></li>
+<li><i><a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">Nuclear Disarmament</a> (defunct)</i></li>
+<li><i><a href="/wiki/United_Tasmania_Group" title="United Tasmania Group">United Tasmania Group</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Fiji" title="Green Party of Fiji">Fiji</a></i></li>
+<li><i><a href="/w/index.php?title=Heiura_Les_Verts_Polynesiens&amp;action=edit&amp;redlink=1" class="new" title="Heiura Les Verts Polynesiens (page does not exist)">French Polynesia</a></i></li>
+<li><a href="/w/index.php?title=Green_Party_Hong_Kong&amp;action=edit&amp;redlink=1" class="new" title="Green Party Hong Kong (page does not exist)">Hong Kong</a></li>
+<li><a href="/w/index.php?title=Uttarakhand_Parivartan_Party&amp;action=edit&amp;redlink=1" class="new" title="Uttarakhand Parivartan Party (page does not exist)">India</a></li>
+<li><i><a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Iran</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Iraq" title="Green Party of Iraq">Iraq</a></i></li>
+<li>Israel
+<ul><li><i><a href="/wiki/Green_Movement_(Israel)" title="Green Movement (Israel)">The Green Movement</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens</a></i></li>
+<li><i><a href="/wiki/Meretz" title="Meretz">Meretz</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Japan" title="Greens Japan">Japan</a></li>
+<li><i>Kurdistan</i></li>
+<li><i><a href="/wiki/Green_Party_of_Lebanon" title="Green Party of Lebanon">Lebanon</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Malaysia</a></i></li>
+<li>Mongolia
+<ul><li><a href="/wiki/Civil_Will%E2%80%93Green_Party" title="Civil Will–Green Party">Civil Will–Green</a></li>
+<li><a href="/wiki/Mongolian_Green_Party" title="Mongolian Green Party">Green Party</a></li></ul></li>
+<li>Nepal
+<ul><li><i><a href="/wiki/Hariyali_Nepal_Party" title="Hariyali Nepal Party">Hariyali</a></i></li>
+<li><a href="/w/index.php?title=Green_Civil_Society&amp;action=edit&amp;redlink=1" class="new" title="Green Civil Society (page does not exist)">Green Civil Society</a></li></ul></li>
+<li><i><a href="/w/index.php?title=The_Pacific_Greens&amp;action=edit&amp;redlink=1" class="new" title="The Pacific Greens (page does not exist)">New Caledonia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Papua_New_Guinea_Greens" title="Papua New Guinea Greens">Papua New Guinea</a></li>
+<li><a href="/w/index.php?title=Green_politics_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Green politics in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Green_Party_Korea" title="Green Party Korea">South Korea</a></li>
+<li><i><a href="/w/index.php?title=Sri_Lanka_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Sri Lanka Green Alliance (page does not exist)">Sri Lanka</a></i></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Taiwan</a></li>
+<li><i><a href="/wiki/Ecological_Movement_of_Uzbekistan" title="Ecological Movement of Uzbekistan">Uzbekistan</a></i></li>
+<li><i><a href="/wiki/Green_Confederation" title="Green Confederation">Vanuatu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">Europe</a><br />
+<div class="hlist">
+<ul><li>(<i><a href="/wiki/European_Green_Party" title="European Green Party">EGP</a></i></li>
+<li><i><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">FYEG</a></i>)</li></ul>
+</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Albania" title="Green Party of Albania">Albania</a></li>
+<li><a href="/wiki/Greens_of_Andorra" title="Greens of Andorra">Andorra</a></li>
+<li><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative">Austria</a></li>
+<li><i><a href="/wiki/Belarusian_Green_Party" title="Belarusian Green Party">Belarus</a></i></li>
+<li>Belgium
+<ul><li><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Flanders and Brussels</a></li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Wallonia and Brussels</a></li></ul></li>
+<li><i><a href="/wiki/Greens_of_Bosnia_and_Herzegovina" title="Greens of Bosnia and Herzegovina">Bosnia and Herzegovina</a></i></li>
+<li>Bulgaria
+<ul><li><i><a href="/wiki/Green_Party_of_Bulgaria" title="Green Party of Bulgaria">Green Party</a></i></li>
+<li><a href="/wiki/The_Greens_(Bulgaria)" title="The Greens (Bulgaria)">The Greens</a></li></ul></li>
+<li><i><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Croatia</a></i></li>
+<li><a href="/wiki/Movement_of_Ecologists_-_Citizens%27_Cooperation" class="mw-redirect" title="Movement of Ecologists - Citizens&#39; Cooperation">Cyprus</a></li>
+<li>Czech Republic
+<ul><li><i><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party</a></i></li>
+<li><i><a href="/wiki/Liberal-Environmental_Party" title="Liberal-Environmental Party">Liberal-Environmental Party</a></i></li></ul></li>
+<li>Denmark
+<ul><li><a href="/wiki/The_Alternative_(Denmark)" title="The Alternative (Denmark)">The Alternative</a></li>
+<li><i><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Denmark)" title="The Greens (Denmark)">The Greens</a></i></li></ul></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonia</a></li>
+<li><a href="/wiki/Green_League" title="Green League">Finland</a></li>
+<li>France
+<ul><li><i><a href="/wiki/Citizenship,_Action,_Participation_for_the_21st_Century" class="mw-redirect" title="Citizenship, Action, Participation for the 21st Century">CAP21</a></i></li>
+<li><i><a href="/wiki/G%C3%A9n%C3%A9ration_%C3%89cologie" class="mw-redirect" title="Génération Écologie">Génération Écologie</a></i></li>
+<li><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></li>
+<li><i><a href="/wiki/Mouvement_Ecologiste_Ind%C3%A9pendant" class="mw-redirect" title="Mouvement Ecologiste Indépendant">Mouvement Ecologiste Indépendant</a></i></li>
+<li><a href="/wiki/Ecologist_Party" title="Ecologist Party">Ecologist Party</a></li></ul></li>
+<li><a href="/wiki/Green_Party_of_Georgia" title="Green Party of Georgia">Georgia</a></li>
+<li>Germany
+<ul><li><a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a></li>
+<li><i><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></i></li></ul></li>
+<li>Greece
+<ul><li><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></li>
+<li><a href="/wiki/Greens_(Greece)" title="Greens (Greece)">Greens</a></li></ul></li>
+<li>Hungary
+<ul><li><i><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></i></li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></li></ul></li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Iceland</a></li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Ireland</a></li>
+<li>Italy
+<ul><li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><i><a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Kosovo" title="Green Party of Kosovo">Kosovo</a></i></li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvia</a></li>
+<li><i><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Liechtenstein</a></i></li>
+<li>Lithuania
+<ul><li><i><a href="/wiki/Lithuanian_Green_Party" title="Lithuanian Green Party">Green Party</a></i></li>
+<li><i><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></i></li></ul></li>
+<li><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">Luxembourg</a></li>
+<li><i><a href="/wiki/Democratic_Renewal_of_Macedonia" title="Democratic Renewal of Macedonia">Macedonia</a></i></li>
+<li><a href="/wiki/Democratic_Alternative_(Malta)" title="Democratic Alternative (Malta)">Malta</a></li>
+<li><a href="/wiki/Ecologist_Green_Party_(Moldova)" title="Ecologist Green Party (Moldova)">Moldova</a></li>
+<li><i><a href="/wiki/Greens_of_Montenegro" title="Greens of Montenegro">Montenegro</a></i></li>
+<li>Netherlands
+<ul><li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a></li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Norway</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">Poland</a></li>
+<li>Portugal
+<ul><li><i><a href="/wiki/Earth_Party" title="Earth Party">Earth Party</a></i></li>
+<li><a href="/wiki/Ecologist_Party_%22The_Greens%22" title="Ecologist Party &quot;The Greens&quot;">The Greens</a></li>
+<li><i><a href="/wiki/LIVRE" title="LIVRE">LIVRE</a></i></li></ul></li>
+<li>Romania
+<ul><li><i><a href="/wiki/Ecologist_Party_of_Romania" title="Ecologist Party of Romania">Ecologist Party</a></i></li>
+<li><a href="/wiki/Green_Party_(Romania)" title="Green Party (Romania)">Green Party</a></li></ul></li>
+<li>Russia
+<ul><li><a href="/wiki/Civil_United_Green_Alternative" title="Civil United Green Alternative">Civil United Green Alternative</a></li>
+<li><i><a href="/wiki/Russian_Ecological_Party_%22The_Greens%22" title="Russian Ecological Party &quot;The Greens&quot;">Ecological Party "The Greens"</a></i></li>
+<li><i><a href="/wiki/Union_of_Greens_of_Russia" title="Union of Greens of Russia">Union of Greens</a></i></li>
+<li><i><a href="/wiki/Alliance_of_Greens_and_Social_Democrats" class="mw-redirect" title="Alliance of Greens and Social Democrats">Alliance of Greens and Social Democrats</a></i></li></ul></li>
+<li>Serbia
+<ul><li><i><a href="/wiki/Green_Party_(Serbia)" title="Green Party (Serbia)">Green Party</a></i></li>
+<li><i><a href="/wiki/Greens_of_Serbia" title="Greens of Serbia">Greens of Serbia</a></i></li></ul></li>
+<li><a href="/wiki/Green_Party_(Slovakia)" title="Green Party (Slovakia)">Slovakia</a></li>
+<li>Slovenia
+<ul><li><i><a href="/wiki/Greens_of_Slovenia" class="mw-redirect" title="Greens of Slovenia">Greens</a></i></li>
+<li><a href="/wiki/Youth_Party_%E2%80%93_European_Greens" title="Youth Party – European Greens">Youth Party</a></li></ul></li>
+<li>Spain
+<ul><li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Catalonia Greens</a></li>
+<li><i><a href="/wiki/Confederation_of_the_Greens" title="Confederation of the Greens">Confederation of the Greens</a></i></li>
+<li><a href="/wiki/Equo" title="Equo">Equo</a></li></ul></li>
+<li><a class="mw-selflink selflink">Sweden</a></li>
+<li><a href="/wiki/Green_Party_of_Switzerland" title="Green Party of Switzerland">Switzerland</a></li>
+<li><i><a href="/wiki/Green_Left_Party" title="Green Left Party">Turkey</a></i></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Ukraine</a></li>
+<li>United Kingdom
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">England and Wales</a> <i>(<a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales</a>)</i></li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scotland</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:lightgreen;"><div><i>Italic</i> links indicate non-members or observers of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2228
+Cached time: 20180930232815
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.892 seconds
+Real time usage: 1.025 seconds
+Preprocessor visited node count: 6545/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 165328/2097152 bytes
+Template argument size: 8102/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 115875/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.457/10.000 seconds
+Lua memory usage: 17.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  815.920      1 -total
+ 35.11%  286.488      1 Template:Reflist
+ 19.17%  156.374      3 Template:Lang-sv
+ 14.65%  119.527     22 Template:Cite_web
+ 12.34%  100.649      1 Template:Infobox_political_party
+ 10.25%   83.592      1 Template:Infobox
+  9.84%   80.300     37 Template:Composition_bar
+  8.97%   73.195     15 Template:Cite_news
+  6.97%   56.874      2 Template:Citation_needed
+  6.44%   52.558      2 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:217373-0!canonical and timestamp 20180930232814 and revision id 861186239
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_(Sweden)&amp;oldid=861186239">https://en.wikipedia.org/w/index.php?title=Green_Party_(Sweden)&amp;oldid=861186239</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1981_establishments_in_Sweden" title="Category:1981 establishments in Sweden">1981 establishments in Sweden</a></li><li><a href="/wiki/Category:European_Green_Party" title="Category:European Green Party">European Green Party</a></li><li><a href="/wiki/Category:Environmentalism_in_Sweden" title="Category:Environmentalism in Sweden">Environmentalism in Sweden</a></li><li><a href="/wiki/Category:Global_Greens_member_parties" title="Category:Global Greens member parties">Global Greens member parties</a></li><li><a href="/wiki/Category:Green_parties_in_Europe" title="Category:Green parties in Europe">Green parties in Europe</a></li><li><a href="/wiki/Category:Political_parties_established_in_1981" title="Category:Political parties established in 1981">Political parties established in 1981</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Swedish-language_sources_(sv)" title="Category:CS1 Swedish-language sources (sv)">CS1 Swedish-language sources (sv)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Swedish-language_text" title="Category:Articles containing Swedish-language text">Articles containing Swedish-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2013" title="Category:Articles with unsourced statements from September 2013">Articles with unsourced statements from September 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2013" title="Category:Articles with unsourced statements from October 2013">Articles with unsourced statements from October 2013</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2006" title="Category:Articles containing potentially dated statements from 2006">Articles containing potentially dated statements from 2006</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_September_2013" title="Category:Articles to be expanded from September 2013">Articles to be expanded from September 2013</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+%28Sweden%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+%28Sweden%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_(Sweden)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_(Sweden)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_(Sweden)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_(Sweden)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_(Sweden)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_(Sweden)&amp;oldid=861186239" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_(Sweden)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q213451" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_%28Sweden%29&amp;id=861186239" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+%28Sweden%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+%28Sweden%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_(Sweden)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Milj%C3%B6partiet_de_Gr%C3%B6na" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A8_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1_(%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF)" title="حزب الخضر (السويد) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Partit_Verd_(Su%C3%A8cia)" title="Partit Verd (Suècia) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Strana_zelen%C3%BDch_(%C5%A0v%C3%A9dsko)" title="Strana zelených (Švédsko) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na" title="Miljöpartiet de Gröna – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na" title="Miljöpartiet de Gröna – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Roheline_Partei_(Rootsi)" title="Roheline Partei (Rootsi) – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%BF_%CE%9A%CF%8C%CE%BC%CE%BC%CE%B1_(%CE%A3%CE%BF%CF%85%CE%B7%CE%B4%CE%AF%CE%B1)" title="Πράσινο Κόμμα (Σουηδία) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Partido_Verde_(Suecia)" title="Partido Verde (Suecia) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ekologia_Partio_La_Verduloj_(Svedio)" title="Ekologia Partio La Verduloj (Svedio) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A8_%D8%B3%D8%A8%D8%B2_(%D8%B3%D9%88%D8%A6%D8%AF)" title="حزب سبز (سوئد) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Milj%C3%B6partiet" title="Miljöpartiet – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_de_l%27environnement_Les_Verts" title="Parti de l&#039;environnement Les Verts – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%85%B9%EC%83%89%EB%8B%B9_(%EC%8A%A4%EC%9B%A8%EB%8D%B4)" title="녹색당 (스웨덴) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%80" title="पर्यावरण पार्टी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Partito_Ambientalista_i_Verdi_(Svezia)" title="Partito Ambientalista i Verdi (Svezia) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%95%E1%83%94%E1%83%93%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%AC%E1%83%95%E1%83%90%E1%83%9C%E1%83%94%E1%83%97%E1%83%90_%E1%83%9E%E1%83%90%E1%83%A0%E1%83%A2%E1%83%98%E1%83%90" title="შვედეთის მწვანეთა პარტია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Milj%C3%B6partiet" title="Miljöpartiet – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na" title="Miljöpartiet de Gröna – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Z%C3%B6ld_P%C3%A1rt_(Sv%C3%A9dorsz%C3%A1g)" title="Zöld Párt (Svédország) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na" title="Miljöpartiet de Gröna – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%80_-_%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B9%E0%A4%B0%E0%A5%82" title="वातावरण पार्टी - हरियोहरू – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%B7%91%E3%81%AE%E5%85%9A_(%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3)" title="緑の党 (スウェーデン) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Milj%C3%B6partiet_de_gr%C3%B6na" title="Miljöpartiet de gröna – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na" title="Miljöpartiet de Gröna – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na" title="Miljöpartiet de Gröna – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Partia_Zielonych_(Szwecja)" title="Partia Zielonych (Szwecja) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Partido_Verde_(Su%C3%A9cia)" title="Partido Verde (Suécia) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D1%85_(%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F)" title="Партия зелёных (Швеция) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ymp%C3%A4rist%C3%B6puolue_Vihre%C3%A4t" title="Ympäristöpuolue Vihreät – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Milj%C3%B6partiet" title="Miljöpartiet – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Partido_Berde_(Suwesya)" title="Partido Berde (Suwesya) – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ye%C5%9Filler_Partisi_(%C4%B0sve%C3%A7)" title="Yeşiller Partisi (İsveç) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D1%96%D1%8F_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%85_(%D0%A8%D0%B2%D0%B5%D1%86%D1%96%D1%8F)" title="Партія зелених (Швеція) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%AF%D8%B1%DB%8C%D9%86_%D9%BE%D8%A7%D8%B1%D9%B9%DB%8C_(%D8%B3%D9%88%DB%8C%DA%88%D9%86)" title="گرین پارٹی (سویڈن) – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B6%A0%E8%89%B2%E7%92%B0%E5%A2%83%E9%BB%A8" title="綠色環境黨 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q213451#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 18:07<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_(Sweden)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.892","walltime":"1.025","ppvisitednodes":{"value":6545,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":165328,"limit":2097152},"templateargumentsize":{"value":8102,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":115875,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  815.920      1 -total"," 35.11%  286.488      1 Template:Reflist"," 19.17%  156.374      3 Template:Lang-sv"," 14.65%  119.527     22 Template:Cite_web"," 12.34%  100.649      1 Template:Infobox_political_party"," 10.25%   83.592      1 Template:Infobox","  9.84%   80.300     37 Template:Composition_bar","  8.97%   73.195     15 Template:Cite_news","  6.97%   56.874      2 Template:Citation_needed","  6.44%   52.558      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.457","limit":"10.000"},"limitreport-memusage":{"value":18519512,"limit":52428800}},"cachereport":{"origin":"mw2228","timestamp":"20180930232815","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw2173"});});</script>
+	</body>
+</html>

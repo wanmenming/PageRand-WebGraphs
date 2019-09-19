@@ -1,0 +1,896 @@
+https://en.wikipedia.org/wiki/Cerium(IV)_oxide
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cerium(IV) oxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cerium(IV)_oxide","wgTitle":"Cerium(IV) oxide","wgCurRevisionId":853157972,"wgRevisionId":853157972,"wgArticleId":1723722,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical articles with multiple compound IDs","Multiple chemicals in an infobox that need indexing","Chemical articles with multiple CAS registry numbers","Articles without KEGG source","Articles with changed CASNo identifier","Articles with changed EBI identifier","ECHA InfoCard ID from Wikidata","Articles with changed FDA identifier","Articles containing unverified chemical infoboxes","Oxides","Cerium compounds","Catalysts","Sunscreening agents"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cerium(IV)_oxide","wgRelevantArticleId":1723722,"wgRequestId":"W7kzJQrAEDYAACX-zwYAAAAC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q411844","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cerium%28IV%29_oxide.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cerium(IV)_oxide"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cerium(IV)_oxide"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cerium_IV_oxide rootpage-Cerium_IV_oxide skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Cerium(IV) oxide</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the other compound also known as cerium oxide, see <a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a>.</div>
+<table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left;&#32;;">
+<caption style="text-align:center;">Cerium(IV) oxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:Cerium(IV)_oxide.jpg" class="image" title="Cerium(IV) oxide"><img alt="Cerium(IV) oxide" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cerium%28IV%29_oxide.jpg/220px-Cerium%28IV%29_oxide.jpg" width="220" height="223" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cerium%28IV%29_oxide.jpg/330px-Cerium%28IV%29_oxide.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cerium%28IV%29_oxide.jpg/440px-Cerium%28IV%29_oxide.jpg 2x" data-file-width="597" data-file-height="605" /></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:Ceria-3D-ionic.png" class="image"><img alt="Ceria-3D-ionic.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ceria-3D-ionic.png/220px-Ceria-3D-ionic.png" width="220" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ceria-3D-ionic.png/330px-Ceria-3D-ionic.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ceria-3D-ionic.png/440px-Ceria-3D-ionic.png 2x" data-file-width="1100" data-file-height="1048" /></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Cerium(IV) oxide</div>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Ceric oxide,<br />Ceria,<br />Cerium dioxide</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=1306-38-3">1306-38-3</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li><li><span title="www.commonchemistry.org"><a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=12014-56-1">12014-56-1</a></span>&#x20;(monohydrate)<sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a href="/wiki/JSmol" class="mw-redirect" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a rel="nofollow" class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=%5BO-2%5D%3D%5BCe%2B4%5D%3D%5BO-2%5D">Interactive image</a></span></li></ul></div>
+</td></tr>
+
+
+
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=79089">CHEBI:79089</a></span><sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a rel="nofollow" class="external text" href="http://www.chemspider.com/Chemical-Structure.8395107.html">8395107</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ECHA_InfoCard" class="mw-redirect" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.013.774">100.013.774</a>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/73963">73963</a></span></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Unique_Ingredient_Identifier" title="Unique Ingredient Identifier">UNII</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="fdasis.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=619G5K328Y">619G5K328Y</a></span><sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/Ce.2O/q+4;2*-2<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;OFJATJUUUCAKMK-UHFFFAOYSA-N<sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1/Ce.2O/q+4;2*-2</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;OFJATJUUUCAKMK-UHFFFAOYAX</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">[O-2]=[Ce+4]=[O-2]</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td>CeO<sub>2</sub>&#x20;
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>172.115 g/mol&#x20; &#x20;
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>white or pale yellow solid,<br />slightly <a href="/wiki/Hygroscopy" title="Hygroscopy">hygroscopic</a>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>7.215 g/cm<sup>3</sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td>&#x20;2,400&#160;°C (4,350&#160;°F; 2,670&#160;K)&#x20;
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td>&#x20;3,500&#160;°C (6,330&#160;°F; 3,770&#160;K)&#x20;
+</td></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>insoluble
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">Magnetic susceptibility</a> (&#967;)</div>
+</td>
+<td>+26.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Structure
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Crystal_structure" title="Crystal structure">Crystal structure</a></div>
+</td>
+<td>cubic (<a href="/wiki/Fluorite" title="Fluorite">fluorite</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</td></tr>
+
+
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><a href="/wiki/NFPA_704" title="NFPA 704">NFPA 704</a>
+</td>
+<td><div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div id="on_image_elements" class="nounderlines" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_1501767339"><area href="/wiki/NFPA_704#Red" shape="poly" coords="40,0,60,20,40,40,20,20" alt="Flammability code 0: Will not burn. E.g., water" title="Flammability code 0: Will not burn. E.g., water" /><area href="/wiki/NFPA_704#Blue" shape="poly" coords="20,20,40,40,20,60,0,40" alt="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine" /><area href="/wiki/NFPA_704#Yellow" shape="poly" coords="60,20,80,40,60,60,40,40" alt="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen" title="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen" /><area href="/wiki/NFPA_704#White" shape="poly" coords="40,40,60,60,40,80,20,60" alt="Special hazards (white): no code" title="Special hazards (white): no code" /></map><img alt="NFPA 704 four-colored diamond" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" data-file-width="600" data-file-height="600" usemap="#ImageMap_1_1501767339" /></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 0: Will not burn. E.g., water">0</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine">1</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen">0</span></a></div></div></div></div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related compounds</div>
+</td>
+<td><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25&#160;°C [77&#160;°F], 100&#160;kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/12px-X_mark.svg.png" width="12" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/18px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/24px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span>&#160;<span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=476998113&amp;page2=Cerium%28IV%29+oxide">verify</a></span>&#160;(<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a>&#160;<sup><img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup>&#160;?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox&#160;references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Cerium(IV) oxide</b>, also known as <b>ceric oxide</b>, <b>ceric dioxide</b>, <b>ceria</b>, <b>cerium oxide</b> or <b>cerium dioxide</b>,  is an <a href="/wiki/Oxide" title="Oxide">oxide</a> of the <a href="/wiki/Rare-earth_metal" class="mw-redirect" title="Rare-earth metal">rare-earth metal</a> <a href="/wiki/Cerium" title="Cerium">cerium</a>. It is a pale yellow-white powder with the chemical formula CeO<sub>2</sub>.  It is an important commercial product and an intermediate in the purification of the element from the ores.  The distinctive property of this material is its reversible conversion to a <a href="/wiki/Nonstoichiometric_oxide" class="mw-redirect" title="Nonstoichiometric oxide">nonstoichiometric oxide</a>.<sup id="cite_ref-Ullmann_2-0" class="reference"><a href="#cite_note-Ullmann-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Production"><span class="tocnumber">1</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Structure_and_defect_behavior"><span class="tocnumber">2</span> <span class="toctext">Structure and defect behavior</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Defect_chemistry"><span class="tocnumber">2.1</span> <span class="toctext">Defect chemistry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Polishing_applications"><span class="tocnumber">3</span> <span class="toctext">Polishing applications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_uses"><span class="tocnumber">4</span> <span class="toctext">Other uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Catalysis"><span class="tocnumber">4.1</span> <span class="toctext">Catalysis</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mixed_conduction"><span class="tocnumber">4.2</span> <span class="toctext">Mixed conduction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Research"><span class="tocnumber">5</span> <span class="toctext">Research</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Fuel_cells"><span class="tocnumber">5.1</span> <span class="toctext">Fuel cells</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Water_splitting"><span class="tocnumber">5.2</span> <span class="toctext">Water splitting</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=1" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cerium occurs naturally as a mixture with other rare-earth elements in its principal ores <a href="/wiki/Bastnaesite" class="mw-redirect" title="Bastnaesite">bastnaesite</a> and <a href="/wiki/Monazite" title="Monazite">monazite</a>.  After extraction of the metal ions into aqueous base, Ce is separated from that mixture by addition of an oxidant followed by adjustment of the pH.  This step exploits the low solubility of CeO<sub>2</sub> and the fact that other rare-earth elements resist oxidation.<sup id="cite_ref-Ullmann_2-1" class="reference"><a href="#cite_note-Ullmann-2">&#91;2&#93;</a></sup>
+</p><p>Cerium(IV) oxide is formed by the <a href="/wiki/Calcination" title="Calcination">calcination</a> of <a href="/wiki/Cerium_oxalate" title="Cerium oxalate">cerium oxalate</a> or <a href="/wiki/Cerium_hydroxide" title="Cerium hydroxide">cerium hydroxide</a>.
+</p><p>Cerium also forms <a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">cerium(III) oxide</a>, <span class="chemf nowrap">Ce<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>, which is unstable and will oxidize to cerium(IV) oxide.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Structure_and_defect_behavior">Structure and defect behavior</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=2" title="Edit section: Structure and defect behavior">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cerium oxide adopts the <a href="/wiki/Fluorite" title="Fluorite">fluorite</a> structure, space group Fm<u style="text-decoration:overline">3</u>m, #225 containing 8-coordinate Ce<sup>4+</sup> and 4-coordinate O<sup>2−</sup>. At high temperatures it releases oxygen to give a <a href="/wiki/Nonstoichiometric_compound" class="mw-redirect" title="Nonstoichiometric compound">non-stoichiometric, anion deficient form</a> that retains the fluorite lattice.  This material has the formula CeO<sub>(2−<i>x</i>)</sub>, where 0 &lt; <i>x</i> &lt; 0.28.<sup id="cite_ref-Hayes_4-0" class="reference"><a href="#cite_note-Hayes-4">&#91;4&#93;</a></sup> The value of <i>x</i> depends on both the temperature and the oxygen partial pressure. The equation
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {x}{0.35-x}}=\left({\frac {106\,000{\text{ Pa}}}{P_{\mathrm {O} _{2}}}}\right)^{0.217}\exp \left({\frac {-195.6{\text{ kJ/mol}}}{RT}}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>x</mi>
+            <mrow>
+              <mn>0.35</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>x</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mn>106</mn>
+                  <mspace width="thinmathspace" />
+                  <mn>000</mn>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>&#xA0;Pa</mtext>
+                  </mrow>
+                </mrow>
+                <msub>
+                  <mi>P</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <msub>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi mathvariant="normal">O</mi>
+                      </mrow>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>2</mn>
+                      </mrow>
+                    </msub>
+                  </mrow>
+                </msub>
+              </mfrac>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0.217</mn>
+          </mrow>
+        </msup>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mo>&#x2212;<!-- − --></mo>
+                <mn>195.6</mn>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>&#xA0;kJ/mol</mtext>
+                </mrow>
+              </mrow>
+              <mrow>
+                <mi>R</mi>
+                <mi>T</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {x}{0.35-x}}=\left({\frac {106\,000{\text{ Pa}}}{P_{\mathrm {O} _{2}}}}\right)^{0.217}\exp \left({\frac {-195.6{\text{ kJ/mol}}}{RT}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40ae6b97018d1f8f77deec8bc09988c64bcba397" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:54.374ex; height:6.676ex;" alt="{\displaystyle {\frac {x}{0.35-x}}=\left({\frac {106\,000{\text{ Pa}}}{P_{\mathrm {O} _{2}}}}\right)^{0.217}\exp \left({\frac {-195.6{\text{ kJ/mol}}}{RT}}\right)}"/></span></dd></dl>
+<p>has been shown to predict the equilibrium non stoichiometry <i>x</i> over a wide range of oxygen partial pressures (10<sup>3</sup>–10<sup>−4</sup> Pa) and temperatures (1000–1900&#160;°C).<sup id="cite_ref-Bulfin2013_5-0" class="reference"><a href="#cite_note-Bulfin2013-5">&#91;5&#93;</a></sup>
+</p><p>The non stoichiometric form has a blue to black color, and exhibits both ionic and electronic conduction with ionic being the most significant at temperatures &gt; 500&#160;°C.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>The number of oxygen vacancies is frequently measured by using <a href="/wiki/X-ray_photoelectron_spectroscopy" title="X-ray photoelectron spectroscopy">X-ray photoelectron spectroscopy</a> to compare the ratios of <span class="chemf nowrap">Ce<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3+</sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>to <span class="chemf nowrap">Ce<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">4+</sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>.
+</p>
+<h3><span class="mw-headline" id="Defect_chemistry">Defect chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=3" title="Edit section: Defect chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the most stable <a href="/wiki/Fluorite" title="Fluorite">fluorite</a> phase of ceria, it exhibits several defects depending on partial pressure of oxygen or stress state of the material.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>The primary defects of concern are oxygen vacancies and small polarons (electrons localized on cerium cations). Increases in the number of oxygen defects increases the diffusion rate of oxide in the lattice as reflected in an increase in <a href="/wiki/Ionic_conductivity_(solid_state)" title="Ionic conductivity (solid state)">ionic conductivity</a>.  These factors recommend ceria as a solid electrolyte in <a href="/wiki/Solid-oxide_fuel_cell" class="mw-redirect" title="Solid-oxide fuel cell">solid-oxide fuel cells</a>. Undoped and doped ceria also exhibit high electronic conductivity at low partial pressures of oxygen due to reduction of the cerium ion leading to the formation of small <a href="/wiki/Polaron" title="Polaron">polarons</a>.  Since the oxygen atoms in a ceria crystal occur in planes, diffusion of these anions is facile. The diffusion rate increases as the defect concentration increases.
+</p>
+<h2><span class="mw-headline" id="Polishing_applications">Polishing applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=4" title="Edit section: Polishing applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The principal application of ceria is for polishing, especially <a href="/wiki/Chemical-mechanical_planarization" title="Chemical-mechanical planarization">chemical-mechanical planarization</a> (CMP).<sup id="cite_ref-Ullmann_2-2" class="reference"><a href="#cite_note-Ullmann-2">&#91;2&#93;</a></sup>  For this purpose, it has displaced many other oxides that were previously used, such as <a href="/wiki/Iron_oxide" title="Iron oxide">iron oxide</a> and <a href="/wiki/Zirconia" class="mw-redirect" title="Zirconia">zirconia</a>. For hobbyists, it is also known as "opticians' rouge".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=5" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>CeO<sub>2</sub> is used to decolorize glass by converting green-tinted ferrous impurities to nearly colorless ferric oxides.<sup id="cite_ref-Ullmann_2-3" class="reference"><a href="#cite_note-Ullmann-2">&#91;2&#93;</a></sup>
+</p><p>Cerium oxide has found use in <a href="/wiki/Infrared" title="Infrared">infrared filters</a>, as an oxidizing species in <a href="/wiki/Catalytic_converter" title="Catalytic converter">catalytic converters</a> and as a replacement for <a href="/wiki/Thorium_dioxide" title="Thorium dioxide">thorium dioxide</a> in <a href="/wiki/Gas_mantle" title="Gas mantle">incandescent mantles</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Catalysis">Catalysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=6" title="Edit section: Catalysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The interconvertibility of CeOx materials is the basis of the use of ceria for an oxidation catalyst.  One small but illustrative use is its use in the walls of <a href="/wiki/Self-cleaning_ovens" class="mw-redirect" title="Self-cleaning ovens">self-cleaning ovens</a> as a hydrocarbon oxidation catalyst during the high-temperature cleaning process.  Another small scale but famous example is its role in oxidation of natural gas in <a href="/wiki/Gas_mantle" title="Gas mantle">gas mantles</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Glowing_gas_mantle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glowing_gas_mantle.jpg/220px-Glowing_gas_mantle.jpg" width="220" height="229" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glowing_gas_mantle.jpg/330px-Glowing_gas_mantle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glowing_gas_mantle.jpg/440px-Glowing_gas_mantle.jpg 2x" data-file-width="1017" data-file-height="1059" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Glowing_gas_mantle.jpg" class="internal" title="Enlarge"></a></div>A glowing <a href="/wiki/Coleman_Company" title="Coleman Company">Coleman</a> <a href="/wiki/White_gas" title="White gas">white gas</a> lantern mantle.  The glowing element is mainly <a href="/wiki/Thorium_dioxide" title="Thorium dioxide">ThO<sub>2</sub></a> doped with CeO<sub>2</sub>, heated by the Ce-catalyzed oxidation of the natural gas with air.</div></div></div>
+<p>Ceria has been used as a sensor in <a href="/wiki/Catalytic_converter" title="Catalytic converter">catalytic converters</a> in automotive applications, controlling the air-exhaust ratio to reduce <a href="/wiki/Nitrogen_oxide" title="Nitrogen oxide">NO<sub><i>x</i></sub></a> and <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>.
+</p>
+<h3><span class="mw-headline" id="Mixed_conduction">Mixed conduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=7" title="Edit section: Mixed conduction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to the significant <a href="/wiki/Ionic_compound" title="Ionic compound">ionic</a> and <a href="/wiki/Electron" title="Electron">electronic</a> <a href="/wiki/Electrical_conductor" title="Electrical conductor">conduction</a> of cerium oxide, it is well suited to be used as a <a href="/wiki/Mixed_conductor" title="Mixed conductor">mixed conductor</a>.<sup id="cite_ref-MPG_13-0" class="reference"><a href="#cite_note-MPG-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=8" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Fuel_cells">Fuel cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=9" title="Edit section: Fuel cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ceria is of interest as a material for <a href="/wiki/Solid_oxide_fuel_cell" title="Solid oxide fuel cell">solid oxide fuel cells</a> (SOFCs) because of its relatively high oxygen <a href="/wiki/Fast_ion_conductor" title="Fast ion conductor">ion conductivity</a> (i.e. oxygen atoms readily move through it) at intermediate temperatures (500–650&#160;°C) and  lower association enthalpy compared to Zirconia system.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Water_splitting">Water splitting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=10" title="Edit section: Water splitting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Cerium(IV)_oxide%E2%80%93cerium(III)_oxide_cycle" title="Cerium(IV) oxide–cerium(III) oxide cycle">cerium(IV) oxide–cerium(III) oxide cycle</a> or CeO<sub>2</sub>/Ce<sub>2</sub>O<sub>3</sub> cycle is a two step <a href="/wiki/Thermochemistry" title="Thermochemistry">thermochemical</a> <a href="/wiki/Water_splitting" title="Water splitting">water splitting</a> process based on cerium(IV) oxide and <a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">cerium(III) oxide</a> for <a href="/wiki/Hydrogen_production" title="Hydrogen production">hydrogen production</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Pradyot Patnaik. <i>Handbook of Inorganic Chemicals</i>. McGraw-Hill, 2002, <style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-049439-8" title="Special:BookSources/0-07-049439-8">0-07-049439-8</a></span>
+</li>
+<li id="cite_note-Ullmann-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ullmann_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ullmann_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ullmann_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Ullmann_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Klaus Reinhardt and Herwig Winkler in "Cerium Mischmetal, Cerium Alloys, and Cerium Compounds" in Ullmann's Encyclopedia of Industrial Chemistry 2000, Wiley-VCH, Weinheim. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2F14356007.a06_139">10.1002/14356007.a06_139</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131029204441/http://courses.chem.indiana.edu/c360/documents/thermodynamicdata.pdf">"Standard Thermodynamic Properties of Chemical Substances"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://courses.chem.indiana.edu/c360/documents/thermodynamicdata.pdf">the original</a> <span class="cs1-format">(PDF)</span> on October 29, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Standard+Thermodynamic+Properties+of+Chemical+Substances&amp;rft_id=http%3A%2F%2Fcourses.chem.indiana.edu%2Fc360%2Fdocuments%2Fthermodynamicdata.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Hayes-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hayes_4-0">^</a></b></span> <span class="reference-text">Defects and Defect Processes in Nonmetallic Solids By William Hayes, A. M. Stoneham Courier Dover Publications, 2004.</span>
+</li>
+<li id="cite_note-Bulfin2013-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bulfin2013_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bulfin, B.; Lowe, A. J.; Keogh, K. A.; Murphy, B. E.; Lübben, O.; Krasnikov, S. A.; Shvets, I. V. (2013). "Analytical Model of CeO<sub>2</sub> Oxidation and Reduction". <i>The Journal of Physical Chemistry C</i>. <b>117</b> (46): 24129–24137. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1021%2Fjp406578z">10.1021/jp406578z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Physical+Chemistry+C&amp;rft.atitle=Analytical+Model+of+CeO%3Csub%3E2%3C%2Fsub%3E+Oxidation+and+Reduction&amp;rft.volume=117&amp;rft.issue=46&amp;rft.pages=24129-24137&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1021%2Fjp406578z&amp;rft.aulast=Bulfin&amp;rft.aufirst=B.&amp;rft.au=Lowe%2C+A.+J.&amp;rft.au=Keogh%2C+K.+A.&amp;rft.au=Murphy%2C+B.+E.&amp;rft.au=L%C3%BCbben%2C+O.&amp;rft.au=Krasnikov%2C+S.+A.&amp;rft.au=Shvets%2C+I.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Ghillanyova, K.; Galusek, D. (2011). "Chapter 1: Ceramic oxides".  In Riedel, Ralf; Chen, I-Wie. <i>Ceramics Science and Technology, Materials and Properties, vol 2</i>. <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-527-31156-9" title="Special:BookSources/978-3-527-31156-9">978-3-527-31156-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+1%3A+Ceramic+oxides&amp;rft.btitle=Ceramics+Science+and+Technology%2C+Materials+and+Properties%2C+vol+2&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2011&amp;rft.isbn=978-3-527-31156-9&amp;rft.aulast=Ghillanyova&amp;rft.aufirst=K.&amp;rft.au=Galusek%2C+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Munnings, C.; Badwal, S.P.S.; Fini, D. (2014). <a rel="nofollow" class="external text" href="https://link.springer.com/article/10.1007/s11581-014-1079-2">"Spontaneous stress-induced oxidation of Ce ions in Gd-doped ceria at room temperature"</a>. <i>Ionics</i>. <b>20</b> (8): 1117–1126. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs11581-014-1079-2">10.1007/s11581-014-1079-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ionics&amp;rft.atitle=Spontaneous+stress-induced+oxidation+of+Ce+ions+in+Gd-doped+ceria+at+room+temperature&amp;rft.volume=20&amp;rft.issue=8&amp;rft.pages=1117-1126&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1007%2Fs11581-014-1079-2&amp;rft.aulast=Munnings&amp;rft.aufirst=C.&amp;rft.au=Badwal%2C+S.P.S.&amp;rft.au=Fini%2C+D.&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11581-014-1079-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Badwal, S.P.S.; Daniel Fini; Fabio Ciacchi; Christopher Munnings; Justin Kimpton; John Drennan (2013). <a rel="nofollow" class="external text" href="http://pubs.rsc.org/en/Content/ArticleLanding/2013/TA/c3ta11752a#!divAbstract">"Structural and microstructural stability of ceria – gadolinia electrolyte exposed to reducing environments of high temperature fuel cells"</a>. <i>J. Mater. Chem. A</i>. <b>1</b> (36): 10768–10782. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1039%2FC3TA11752A">10.1039/C3TA11752A</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Mater.+Chem.+A&amp;rft.atitle=Structural+and+microstructural+stability+of+ceria+%E2%80%93+gadolinia+electrolyte+exposed+to+reducing+environments+of+high+temperature+fuel+cells&amp;rft.volume=1&amp;rft.issue=36&amp;rft.pages=10768-10782&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1039%2FC3TA11752A&amp;rft.aulast=Badwal&amp;rft.aufirst=S.P.S.&amp;rft.au=Daniel+Fini&amp;rft.au=Fabio+Ciacchi&amp;rft.au=Christopher+Munnings&amp;rft.au=Justin+Kimpton&amp;rft.au=John+Drennan&amp;rft_id=http%3A%2F%2Fpubs.rsc.org%2Fen%2FContent%2FArticleLanding%2F2013%2FTA%2Fc3ta11752a%23%21divAbstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cameo.mfa.org/images/3/39/Download_file_187.pdf">Properties of Common Abrasives (Boston Museum of Fine Arts)</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cameo.mfa.org/wiki/Ceric_oxide">MFA Materials database.</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130302081012/http://www.nanopartikel.info/cms/lang/en/Wissensbasis/Cerdioxid">"Cerium dioxide"</a>. <i>DaNa</i>. Archived from <a rel="nofollow" class="external text" href="http://www.nanopartikel.info/cms/lang/en/Wissensbasis/Cerdioxid">the original</a> on 2013-03-02.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DaNa&amp;rft.atitle=Cerium+dioxide&amp;rft_id=http%3A%2F%2Fwww.nanopartikel.info%2Fcms%2Flang%2Fen%2FWissensbasis%2FCerdioxid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Norman_Greenwood" title="Norman Greenwood">Greenwood, Norman  N.</a>; Earnshaw, Alan (1997). <i>Chemistry of the Elements</i> (2nd ed.). <a href="/wiki/Butterworth-Heinemann" title="Butterworth-Heinemann">Butterworth-Heinemann</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-08-037941-9" title="Special:BookSources/0-08-037941-9">0-08-037941-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemistry+of+the+Elements&amp;rft.edition=2nd&amp;rft.pub=Butterworth-Heinemann&amp;rft.date=1997&amp;rft.isbn=0-08-037941-9&amp;rft.aulast=Greenwood&amp;rft.aufirst=Norman++N.&amp;rft.au=Earnshaw%2C+Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-MPG-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-MPG_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fkf.mpg.de/2698712/MixedConductors">"Mixed conductors"</a>. Max Planck institute for solid state research<span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mixed+conductors&amp;rft.pub=Max+Planck+institute+for+solid+state+research&amp;rft_id=http%3A%2F%2Fwww.fkf.mpg.de%2F2698712%2FMixedConductors&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0167273898005402">"Electrical conductivity of the ZrO2–Ln2O3 (Ln=lanthanides) system"</a>. <i>Solid State Ionics</i>. <b>121</b>: 133–139. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0167-2738%2898%2900540-2">10.1016/S0167-2738(98)00540-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Solid+State+Ionics&amp;rft.atitle=Electrical+conductivity+of+the+ZrO2%E2%80%93Ln2O3+%28Ln%3Dlanthanides%29+system&amp;rft.volume=121&amp;rft.pages=133-139&amp;rft_id=info%3Adoi%2F10.1016%2FS0167-2738%2898%2900540-2&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0167273898005402&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090830011704/http://www.solarpaces.org/Tasks/Task2/HPST.HTM">"Hydrogen production from solar thermochemical water splitting cycles"</a>. <i>SolarPACES</i>. Archived from <a rel="nofollow" class="external text" href="http://www.solarpaces.org/Tasks/Task2/HPST.HTM">the original</a> on August 30, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SolarPACES&amp;rft.atitle=Hydrogen+production+from+solar+thermochemical+water+splitting+cycles&amp;rft_id=http%3A%2F%2Fwww.solarpaces.org%2FTasks%2FTask2%2FHPST.HTM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite class="citation journal">Hussain S, Al-Nsour F, Rice AB, Marshburn J, Yingling B, Ji Z, Zink JI, Walker NJ, Garantziotis S (2012). "Cerium dioxide nanoparticles induce apoptosis and autophagy in human peripheral blood monocytes". <i>ACS Nano</i>. <b>6</b> (7): 5820–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1021%2Fnn302235u">10.1021/nn302235u</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22717232">22717232</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACS+Nano&amp;rft.atitle=Cerium+dioxide+nanoparticles+induce+apoptosis+and+autophagy+in+human+peripheral+blood+monocytes&amp;rft.volume=6&amp;rft.issue=7&amp;rft.pages=5820-9&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1021%2Fnn302235u&amp;rft_id=info%3Apmid%2F22717232&amp;rft.aulast=Hussain&amp;rft.aufirst=S&amp;rft.au=Al-Nsour%2C+F&amp;rft.au=Rice%2C+AB&amp;rft.au=Marshburn%2C+J&amp;rft.au=Yingling%2C+B&amp;rft.au=Ji%2C+Z&amp;rft.au=Zink%2C+JI&amp;rft.au=Walker%2C+NJ&amp;rft.au=Garantziotis%2C+S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACerium%28IV%29+oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Cerium(IV)_oxide" class="extiw" title="commons:Category:Cerium(IV) oxide">Cerium(IV) oxide</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.webelements.com/compounds/cerium/">Webelements at University of Sheffield</a></li>
+<li><a rel="nofollow" class="external text" href="http://ceria.ru/">Synthesis and properties of ceria (in English/Russian)</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Cerium_compounds" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cerium_compounds" title="Template:Cerium compounds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cerium_compounds" title="Template talk:Cerium compounds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cerium_compounds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cerium_compounds" style="font-size:114%;margin:0 4em"><span style="vertical-align:1px;"><a href="/wiki/Cerium" title="Cerium">Cerium</a> compounds</span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cerium(III)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cerium(III)_bromide" title="Cerium(III) bromide">CeBr<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium(III)_carbonate" title="Cerium(III) carbonate">Ce<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium(III)_chloride" title="Cerium(III) chloride">CeCl<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium_trifluoride" class="mw-redirect" title="Cerium trifluoride">CeF<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium(III)_iodide" title="Cerium(III) iodide">CeI<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium(III)_hydroxide" title="Cerium(III) hydroxide">Ce(OH)<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Ce<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium(III)_sulfate" title="Cerium(III) sulfate">Ce<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium_nitrate#Cerium(III)_nitrates" title="Cerium nitrate">Ce(NO<sub>3</sub>)<sub>3</sub></a></li></ul></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Organocerium(III)" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Organocerium_chemistry" title="Organocerium chemistry">Organocerium(III)</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Cerium_acetylacetonate" title="Cerium acetylacetonate">Ce(acac)<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium_oxalate" title="Cerium oxalate">Ce<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Cerium(III)_methanesulfonate" title="Cerium(III) methanesulfonate">Ce(CH<sub>3</sub>SO<sub>3</sub>)<sub>3</sub></a></li>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cerium(III,IV)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Cerium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Cerium(III,IV) oxide (page does not exist)">Ce<sub>3</sub>O<sub>4</sub></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cerium(IV)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ammonium_cerium(IV)_sulfate" title="Ammonium cerium(IV) sulfate">(NH<sub>4</sub>)<sub>4</sub>Ce(SO<sub>4</sub>)<sub>4</sub>•2 H<sub>2</sub>O</a></li>
+<li><a href="/wiki/Ceric_ammonium_nitrate" title="Ceric ammonium nitrate">(NH<sub>4</sub>)<sub>2</sub>Ce(NO<sub>3</sub>)<sub>6</sub></a></li>
+<li><a href="/wiki/Cerium_hexaboride" title="Cerium hexaboride">CeB<sub>6</sub></a></li>
+<li><a href="/wiki/Cerium_nitrate#Cerium(IV)_nitrates" title="Cerium nitrate">Ce(NO<sub>3</sub>)<sub>4</sub></a></li>
+<li><a class="mw-selflink selflink">CeO<sub>2</sub></a></li>
+<li><a href="/wiki/Cerium(IV)_sulfate" title="Cerium(IV) sulfate">Ce(SO<sub>4</sub>)<sub>2</sub></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxides" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a class="mw-selflink selflink">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Hafnium(IV)_oxide" class="mw-redirect" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tin_dioxide" class="mw-redirect" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxygen_compounds" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxygen_compounds" title="Template:Oxygen compounds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxygen_compounds" title="Template talk:Oxygen compounds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxygen_compounds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxygen_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> compounds</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Silver(II)_oxide" class="mw-redirect" title="Silver(II) oxide">AgO</a></li>
+<li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Al<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Americium_dioxide" title="Americium dioxide">AmO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Americium(III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Americium(III) oxide (page does not exist)">Am<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">As<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">As<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Gold(III)_oxide" title="Gold(III) oxide">Au<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">B<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">BaO</a></li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">BeO</a></li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bi<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Bismuth_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Bismuth tetroxide (page does not exist)">BiO<sub>2</sub></a></li>
+<li><a href="/wiki/Bismuth_pentoxide" title="Bismuth pentoxide">Bi<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Bromine_dioxide" title="Bromine dioxide">BrO<sub>2</sub></a></li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Br<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Dibromine_pentoxide" title="Dibromine pentoxide">Br<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">C<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">CaO</a></li>
+<li><a href="/wiki/Calcium_peroxide" title="Calcium peroxide">CaO<sub>2</sub></a></li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">CdO</a></li>
+<li><a class="mw-selflink selflink">CeO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Cerium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Cerium(III,IV) oxide (page does not exist)">Ce<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Ce<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">ClO<sub>2</sub></a></li>
+<li><a href="/wiki/Chlorine_monoxide" title="Chlorine monoxide">Cl<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dichlorine_trioxide" title="Dichlorine trioxide">Cl<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_perchlorate" title="Chlorine perchlorate">Cl<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Dichlorine_hexoxide" title="Dichlorine hexoxide">Cl<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Cl<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">CoO</a></li>
+<li><a href="/wiki/Cobalt(III)_oxide" title="Cobalt(III) oxide">Co<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Co<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">CrO<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Cr<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Cr<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/w/index.php?title=Chromic_chromate&amp;action=edit&amp;redlink=1" class="new" title="Chromic chromate (page does not exist)">Cr<sub>5</sub>O<sub>12</sub></a></li>
+<li><a href="/w/index.php?title=Cesium_superoxide&amp;action=edit&amp;redlink=1" class="new" title="Cesium superoxide (page does not exist)">CsO<sub>2</sub></a></li>
+<li><a href="/w/index.php?title=Cesium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Cesium trioxide (page does not exist)">Cs<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">CuO</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">D<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dy<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Er<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Eu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Oxygen_difluoride" title="Oxygen difluoride"><span class="chemf nowrap">OF<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Dioxygen_difluoride" title="Dioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Trioxygen_difluoride" class="mw-redirect" title="Trioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/w/index.php?title=Fluorine_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Fluorine tetroxide (page does not exist)"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">FeO</a></li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Fe<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Fe<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Ga<sub>2</sub>O</a></li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Ga<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">GeO</a></li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">GeO<sub>2</sub></a></li>
+<li><a href="/wiki/Water" title="Water">H<sub>2</sub>O</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">H<sub>2</sub><sup>18</sup>O</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Hafnium_oxide" class="mw-redirect" title="Hafnium oxide">HfO<sub>2</sub></a></li>
+<li><a href="/wiki/Mercuric_oxide" class="mw-redirect" title="Mercuric oxide">HgO</a></li>
+<li><a href="/wiki/Mercury(I)_oxide" title="Mercury(I) oxide">Hg<sub>2</sub>O</a></li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Ho<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine tetroxide (page does not exist)">I<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Iodine_pentoxide" title="Iodine pentoxide">I<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_hexoxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine hexoxide (page does not exist)">I<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/w/index.php?title=Iodine_nonaoxide&amp;action=edit&amp;redlink=1" class="new" title="Iodine nonaoxide (page does not exist)">I<sub>4</sub>O<sub>9</sub></a></li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">In<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iridium(IV)_oxide" title="Iridium(IV) oxide">IrO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_superoxide" title="Potassium superoxide">KO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_peroxide" title="Potassium peroxide">K<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">La<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Li<sub>2</sub>O</a></li>
+<li><a href="/wiki/Lithium_peroxide" title="Lithium peroxide">Li<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">MgO</a></li>
+<li><a href="/wiki/Magnesium_peroxide" title="Magnesium peroxide">Mg<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">MnO</a></li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">MnO<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Mn<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Mn<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Molybdenum_dioxide" title="Molybdenum dioxide">MoO<sub>2</sub></a></li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">MoO<sub>3</sub></a></li>
+<li><a href="/w/index.php?title=Molybdenum(III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Molybdenum(III) oxide (page does not exist)">Mo<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">NO</a></li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">NO<sub>2</sub></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<sub>2</sub>O</a></li>
+<li><a href="/wiki/Nitrogen_trioxide" class="mw-redirect" title="Nitrogen trioxide">N<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitrogen_tetroxide" class="mw-redirect" title="Nitrogen tetroxide">N<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Nitrogen_pentoxide" class="mw-redirect" title="Nitrogen pentoxide">N<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Sodium_superoxide" title="Sodium superoxide">NaO<sub>2</sub></a></li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Na<sub>2</sub>O</a></li>
+<li><a href="/wiki/Sodium_peroxide" title="Sodium peroxide">Na<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Niobium_monoxide" title="Niobium monoxide">NbO</a></li>
+<li><a href="/wiki/Niobium_dioxide" title="Niobium dioxide">NbO<sub>2</sub></a></li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Nd<sub>2</sub>O<sub>3</sub></a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formulas</a></b></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2227
+Cached time: 20181003140037
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.796 seconds
+Real time usage: 1.079 seconds
+Preprocessor visited node count: 7664/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 219959/2097152 bytes
+Template argument size: 24417/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 35023/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.274/10.000 seconds
+Lua memory usage: 6.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  880.310      1 -total
+ 57.97%  510.339      1 Template:Chembox
+ 31.21%  274.770      1 Template:Chembox_Identifiers
+ 23.63%  208.015      1 Template:Reflist
+ 23.53%  207.172      6 Template:Chembox_headerbar
+ 22.46%  197.691     20 Template:Trim
+ 11.85%  104.310     13 Template:Main_other
+ 10.93%   96.228      1 Template:Chembox_Properties
+  8.60%   75.685      1 Template:Chembox_parametercheck
+  6.70%   58.990      1 Template:ISBN
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1723722-0!canonical!math=5 and timestamp 20181003140036 and revision id 853157972
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cerium(IV)_oxide&amp;oldid=853157972">https://en.wikipedia.org/w/index.php?title=Cerium(IV)_oxide&amp;oldid=853157972</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Oxides" title="Category:Oxides">Oxides</a></li><li><a href="/wiki/Category:Cerium_compounds" title="Category:Cerium compounds">Cerium compounds</a></li><li><a href="/wiki/Category:Catalysts" title="Category:Catalysts">Catalysts</a></li><li><a href="/wiki/Category:Sunscreening_agents" title="Category:Sunscreening agents">Sunscreening agents</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Chemical_articles_with_multiple_compound_IDs" title="Category:Chemical articles with multiple compound IDs">Chemical articles with multiple compound IDs</a></li><li><a href="/wiki/Category:Multiple_chemicals_in_an_infobox_that_need_indexing" title="Category:Multiple chemicals in an infobox that need indexing">Multiple chemicals in an infobox that need indexing</a></li><li><a href="/wiki/Category:Chemical_articles_with_multiple_CAS_registry_numbers" title="Category:Chemical articles with multiple CAS registry numbers">Chemical articles with multiple CAS registry numbers</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_with_changed_CASNo_identifier" title="Category:Articles with changed CASNo identifier">Articles with changed CASNo identifier</a></li><li><a href="/wiki/Category:Articles_with_changed_EBI_identifier" title="Category:Articles with changed EBI identifier">Articles with changed EBI identifier</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_changed_FDA_identifier" title="Category:Articles with changed FDA identifier">Articles with changed FDA identifier</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cerium%28IV%29+oxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cerium%28IV%29+oxide" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cerium(IV)_oxide" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cerium(IV)_oxide" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cerium(IV)_oxide">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cerium(IV)_oxide" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cerium(IV)_oxide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cerium(IV)_oxide&amp;oldid=853157972" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cerium(IV)_oxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411844" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cerium%28IV%29_oxide&amp;id=853157972" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cerium%28IV%29+oxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cerium%28IV%29+oxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cerium(IV)_oxide&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cerium(IV)_oxide" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A" title="أكسيد السيريوم الرباعي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF_%D8%B3%D8%B1%DB%8C%D9%88%D9%85_(IV)" title="اوکسید سریوم (IV) – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Oxid_ceri%C4%8Dit%C3%BD" title="Oxid ceričitý – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cer(IV)-oxid" title="Cer(IV)-oxid – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/%C3%93xido_de_cerio_(IV)" title="Óxido de cerio (IV) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF_%D8%B3%D8%B1%DB%8C%D9%85_(IV)" title="اکسید سریم (IV) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Oxyde_de_c%C3%A9rium(IV)" title="Oxyde de cérium(IV) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Cerium(IV)_oksida" title="Cerium(IV) oksida – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ossido_di_cerio(IV)" title="Ossido di cerio(IV) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Cerium(IV)oxide" title="Cerium(IV)oxide – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%85%B8%E5%8C%96%E3%82%BB%E3%83%AA%E3%82%A6%E3%83%A0(IV)" title="酸化セリウム(IV) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Cerium(IV)oksid" title="Cerium(IV)oksid – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/%C3%93xido_de_c%C3%A9rio_(IV)" title="Óxido de cério (IV) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Oxid_de_ceriu_(IV)" title="Oxid de ceriu (IV) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D1%86%D0%B5%D1%80%D0%B8%D1%8F(IV)" title="Оксид церия(IV) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Oxid_ceri%C4%8Dit%C3%BD" title="Oxid ceričitý – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Cerijum(IV)_oksid" title="Cerijum(IV) oksid – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Cerijum(IV)_oksid" title="Cerijum(IV) oksid – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Cerium(IV)oksidi" title="Cerium(IV)oksidi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Xeri(IV)_oxit" title="Xeri(IV) oxit – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%B0%A7%E5%8C%96%E9%93%88" title="二氧化铈 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q411844#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 August 2018, at 20:17<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cerium(IV)_oxide&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"1.079","ppvisitednodes":{"value":7664,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":219959,"limit":2097152},"templateargumentsize":{"value":24417,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35023,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  880.310      1 -total"," 57.97%  510.339      1 Template:Chembox"," 31.21%  274.770      1 Template:Chembox_Identifiers"," 23.63%  208.015      1 Template:Reflist"," 23.53%  207.172      6 Template:Chembox_headerbar"," 22.46%  197.691     20 Template:Trim"," 11.85%  104.310     13 Template:Main_other"," 10.93%   96.228      1 Template:Chembox_Properties","  8.60%   75.685      1 Template:Chembox_parametercheck","  6.70%   58.990      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.274","limit":"10.000"},"limitreport-memusage":{"value":6600336,"limit":52428800}},"cachereport":{"origin":"mw2227","timestamp":"20181003140037","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw2255"});});</script>
+	</body>
+</html>
+

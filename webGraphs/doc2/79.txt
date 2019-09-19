@@ -1,0 +1,437 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Alaska
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Alaska - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Alaska","wgTitle":"Green Party of Alaska","wgCurRevisionId":862196852,"wgRevisionId":862196852,"wgArticleId":48994227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles in need of updating from December 2015","All Wikipedia articles in need of updating","Articles needing additional references from January 2017","All articles needing additional references","Articles with multiple maintenance issues","Articles with Curlie links","Alaska Greens","Political parties in Alaska","Green Party of the United States by state"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Alaska","wgRelevantArticleId":48994227,"wgRequestId":"W7PL8wrAADYAAHZvPMgAAACQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5602966","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Alaska"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Alaska"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Alaska rootpage-Green_Party_of_Alaska skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Alaska</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Alaska&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Green_Party_of_Alaska" title="Talk:Green Party of Alaska">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small><i>(December 2015)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Alaska&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(January 2017)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #00A95C; border-bottom:2px solid #00A95C; line-height: 1;"><span class="fn org">Green Party of Alaska</span></div></th></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+P.O. Box 112947, <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage, Alaska</a> 99551</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a></td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">Green Party of the United States</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colors</th><td style="line-height:1.3em;">
+Green</td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<a rel="nofollow" class="external text" href="http://www.gp.org/alaska-greens">Alaska Greens</a></td></tr></tbody></table>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party of Alaska</b><sup id="cite_ref-GM1_1-0" class="reference"><a href="#cite_note-GM1-1">&#91;1&#93;</a></sup> is the state party organization for <a href="/wiki/Alaska" title="Alaska">Alaska</a> of the <a href="/wiki/Green_Party_(United_States)" class="mw-redirect" title="Green Party (United States)">Green Party</a> of the <a href="/wiki/United_States" title="United States">United States of America</a>.<sup id="cite_ref-doe_2-0" class="reference"><a href="#cite_note-doe-2">&#91;2&#93;</a></sup>  Alaska was the first state to gain Green Party <a href="/wiki/Ballot_access" title="Ballot access">ballot access</a>, in 1990, when <a href="/wiki/Jim_Sykes" title="Jim Sykes">Jim Sykes</a> ran for governor.  Sykes had previously filed a ballot access lawsuit, citing an earlier case, <i><a href="/wiki/Joe_Vogler" title="Joe Vogler">Vogler</a> v. <a href="/wiki/Terry_Miller_(politician)" title="Terry Miller (politician)">Miller</a></i>.
+</p><p>Like the <a href="/wiki/Alaska_Libertarian_Party" class="mw-redirect" title="Alaska Libertarian Party">Alaska Libertarian Party</a>, the Green Party organizes local affiliate groups by regions of the state rather than election districts.  It is known for calling these groups <a href="/wiki/Bioregion" title="Bioregion">bioregions</a>.  The organized bioregions of the GPAK include the Southcentral Bioregion (Anchorage area) and the Tanana-Yukon Bioregion (the Interior, around the Tanana and <a href="/wiki/Yukon_River" title="Yukon River">Yukon River</a> areas).
+</p><p>The Green Party of Alaska has gained more than 10% of the votes in past presidential and congressional elections.  The most notable example was in 2000, when Alaska voters gave presidential candidate <a href="/wiki/Ralph_Nader" title="Ralph Nader">Ralph Nader</a> his highest state percentage.  Nader made headlines when he carried the <a href="/wiki/Girdwood,_Alaska" class="mw-redirect" title="Girdwood, Alaska">Girdwood</a> precinct, located at the extreme southern end of <a href="/wiki/Anchorage" class="mw-redirect" title="Anchorage">Anchorage</a> corporate limits.  In 1996, the party's U.S. Senate nominee <a href="/w/index.php?title=Jed_Whittaker&amp;action=edit&amp;redlink=1" class="new" title="Jed Whittaker (page does not exist)">Jed Whittaker</a> came in second, out-polling Democratic nominee <a href="/wiki/Theresa_Obermeyer" title="Theresa Obermeyer">Theresa Obermeyer</a>, who had been disowned by her party.
+</p><p>The first election victory associated with the party was in 1991, when <a href="/w/index.php?title=Kelley_Weaverling&amp;action=edit&amp;redlink=1" class="new" title="Kelley Weaverling (page does not exist)">Kelley Weaverling</a> was elected <a href="/wiki/List_of_mayors_of_Cordova,_Alaska" title="List of mayors of Cordova, Alaska">mayor</a> of <a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-UPI1_4-0" class="reference"><a href="#cite_note-UPI1-4">&#91;4&#93;</a></sup>  Municipal elections in Alaska are nonpartisan, though Weaverling's association with the party was highly publicized at the time.
+</p><p>In 2005, the party sued the State of Alaska over the issue of joint primary ballots and won in the <a href="/wiki/Supreme_Court_of_Alaska" class="mw-redirect" title="Supreme Court of Alaska">Supreme Court of Alaska</a>.<sup id="cite_ref-FLaw1_5-0" class="reference"><a href="#cite_note-FLaw1-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Issues"><span class="tocnumber">1</span> <span class="toctext">Issues</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Energy_policy"><span class="tocnumber">1.1</span> <span class="toctext">Energy policy</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Health_care"><span class="tocnumber">1.2</span> <span class="toctext">Health care</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Ballot_status"><span class="tocnumber">2.1</span> <span class="toctext">Ballot status</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Sources"><span class="tocnumber">5</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Social_Media"><span class="tocnumber">6.1</span> <span class="toctext">Social Media</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Issues">Issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=1" title="Edit section: Issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Energy_policy">Energy policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=2" title="Edit section: Energy policy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Party of Alaska is the only political party in the state which is opposed to industrial oil development in the <a href="/wiki/Arctic_National_Wildlife_Refuge" title="Arctic National Wildlife Refuge">Arctic National Wildlife Refuge</a>. Like other Green parties, it supports the development of alternative fuels and energy sources, in particular <a href="/wiki/Wind_power" title="Wind power">wind power</a> and <a href="/wiki/Solar_power" title="Solar power">solar power</a>.
+</p><p>GPAK also supports an all-Alaska gas line.
+</p>
+<h3><span class="mw-headline" id="Health_care">Health care</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=3" title="Edit section: Health care">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>GPAK supports a national single-payer healthcare system.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Ballot_status">Ballot status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=5" title="Edit section: Ballot status">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Party first gained ballot access in 1990, but lost its Recognized Political Party status in 2002. Ballot access was regained in 2003 based on a court order,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> lost again in 2005, and regained in February 2006 when Superior Court Judge <a href="/w/index.php?title=Stephanie_Joannides&amp;action=edit&amp;redlink=1" class="new" title="Stephanie Joannides (page does not exist)">Stephanie Joannides</a> issued a preliminary injunction against the State of Alaska, preventing the state from denying access to the Green Party. On June 3, 2007 a lower Alaska state court upheld Alaska's new definition of "political party" and the  Green Party of Alaska was removed from the ballot. The judge wrote that she had to uphold the new definition of "political party", because the Alaska Supreme Court had upheld the old definition of "political party" on November 17, 2006.<sup id="cite_ref-BA1_7-0" class="reference"><a href="#cite_note-BA1-7">&#91;7&#93;</a></sup>
+</p><p>In 2012, the Alaska Green party put forth a statewide petition, seeking status as a "limited political party" which would allow them to put names on the ballot for presidential and vice-presidential candidates.  A total of 3,273 signatures is needed in Alaska to qualify as a limited political party.  The Alaskan Greens submitted approximately 4,500 signatures to account for any nitpicking the two major parties would inevitably assign to this petition.<sup id="cite_ref-BA2_8-0" class="reference"><a href="#cite_note-BA2-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_state_Green_Parties_in_the_United_States" title="List of state Green Parties in the United States">List of State Green Parties</a></li>
+<li><a href="/wiki/Libertarian_Party_of_Alaska" title="Libertarian Party of Alaska">Libertarian Party of Alaska</a></li>
+<li><a href="/wiki/Politics_of_Alaska" title="Politics of Alaska">Politics of Alaska</a></li>
+<li><a href="/wiki/Government_of_Alaska" title="Government of Alaska">Government of Alaska</a></li>
+<li><a href="/wiki/Elections_in_Alaska" title="Elections in Alaska">Elections in Alaska</a></li>
+<li><a href="/wiki/Political_party_strength_in_Alaska" title="Political party strength in Alaska">Political party strength in Alaska</a></li>
+<li><a href="/wiki/List_of_politics_by_U.S._state" title="List of politics by U.S. state">List of politics by U.S. state</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-GM1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-GM1_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Schreurs, Miranda; Elim Papadakis (2007). <i>The A to Z of the Green Movement</i>. Sacrecrow Press, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8108-6878-6" title="Special:BookSources/978-0-8108-6878-6">978-0-8108-6878-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+A+to+Z+of+the+Green+Movement&amp;rft.pub=Sacrecrow+Press%2C+Inc.&amp;rft.date=2007&amp;rft.isbn=978-0-8108-6878-6&amp;rft.aulast=Schreurs&amp;rft.aufirst=Miranda&amp;rft.au=Elim+Papadakis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-doe-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-doe_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.elections.alaska.gov/pi_pg.php">"Alaska Directory of Political Groups"</a>. <i>Elections.alaska.gov</i>. State of Alaska&#160;: Division of Elections<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Elections.alaska.gov&amp;rft.atitle=Alaska+Directory+of+Political+Groups&amp;rft_id=https%3A%2F%2Fwww.elections.alaska.gov%2Fpi_pg.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Paige, Anjali (July 31, 2013). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6nZ4O4f08?url=https://therubbertramps.wordpress.com/2013/07/31/cordova-alaska/">"Cordova, Alaska"</a>. The Rubber Tramps. Archived from <a rel="nofollow" class="external text" href="https://therubbertramps.wordpress.com/2013/07/31/cordova-alaska/">the original</a> on 16 January 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cordova%2C+Alaska&amp;rft.pub=The+Rubber+Tramps&amp;rft.date=2013-07-31&amp;rft.aulast=Paige&amp;rft.aufirst=Anjali&amp;rft_id=https%3A%2F%2Ftherubbertramps.wordpress.com%2F2013%2F07%2F31%2Fcordova-alaska%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-UPI1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-UPI1_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.upi.com/Archives/1991/10/04/Environmentalist-elected-mayor-of-oil-spill-town/1112686548800/">"Environmentalist elected mayor of oil spill town"</a>. Washington, DC: UPI. October 4, 1991<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Environmentalist+elected+mayor+of+oil+spill+town&amp;rft.place=Washington%2C+DC&amp;rft.pub=UPI&amp;rft.date=1991-10-04&amp;rft_id=http%3A%2F%2Fwww.upi.com%2FArchives%2F1991%2F10%2F04%2FEnvironmentalist-elected-mayor-of-oil-spill-town%2F1112686548800%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-FLaw1-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FLaw1_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170106010101/https://caselaw.findlaw.com/ak-supreme-court/1332788.html">"STATE v. GREEN PARTY OF ALASKA"</a>. Findlaw. August 12, 2005. Archived from <a rel="nofollow" class="external text" href="https://caselaw.findlaw.com/ak-supreme-court/1332788.html">the original</a> on January 6, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">January 6,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=STATE+v.+GREEN+PARTY+OF+ALASKA&amp;rft.pub=Findlaw&amp;rft.date=2005-08-12&amp;rft_id=https%3A%2F%2Fcaselaw.findlaw.com%2Fak-supreme-court%2F1332788.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://juneauempire.com/stories/073003/sta_leggreenparty.shtml">"Green Party fights to stay on ballot"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Green+Party+fights+to+stay+on+ballot&amp;rft_id=http%3A%2F%2Fjuneauempire.com%2Fstories%2F073003%2Fsta_leggreenparty.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-BA1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-BA1_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Winger, Richard (June 7, 2007). <a rel="nofollow" class="external text" href="http://www.ballot-access.org/2007/06/07/alaska-green-party-loses-ballot-access-lawsuit/">"Alaska Green Party Loses Ballot Access Lawsuit"</a>. Ballot Access News<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Green+Party+Loses+Ballot+Access+Lawsuit&amp;rft.pub=Ballot+Access+News&amp;rft.date=2007-06-07&amp;rft.aulast=Winger&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fwww.ballot-access.org%2F2007%2F06%2F07%2Falaska-green-party-loses-ballot-access-lawsuit%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-BA2-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-BA2_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ballot-access.org/2012/08/green-party-submits-alaska-petition/">"Green Party Submits Alaska Petition"</a>. Ballot Access News. August 8, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+Submits+Alaska+Petition&amp;rft.pub=Ballot+Access+News&amp;rft.date=2012-08-08&amp;rft_id=http%3A%2F%2Fwww.ballot-access.org%2F2012%2F08%2Fgreen-party-submits-alaska-petition%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Alaska" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=8" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Alaska Division of Elections. <a rel="nofollow" class="external autonumber" href="http://www.gov.state.ak.us/ltgov/elections/">[1]</a></li>
+<li>Green Party Election Results. <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20090106011800/http://greens.org/elections/">[2]</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://alaskagreens.wordpress.com/">GPAK statewide blog</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ygus.org/">Young Greens of the United States</a> - 'Youth Caucus'</li>
+<li><a rel="nofollow" class="external text" href="https://secure.gpus.org/secure/testdb/">Green Party candidates database</a></li>
+<li><a rel="nofollow" class="external text" href="https://curlie.org/Regional/North_America/United_States/Alaska/Society_and_Culture/Politics/Parties/Green/">Green Party of Alaska</a> at Curlie (based on <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a>)</li></ul>
+<h3><span class="mw-headline" id="Social_Media">Social Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit&amp;section=10" title="Edit section: Social Media">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://www.facebook.com/Green-Party-of-Alaska-145579755463442">Green Party of Alaska</a> on <a href="/wiki/Facebook" title="Facebook">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UCM5sg3NoLWX_LZ4EVopvcwQ">Green Party of Alaska's channel</a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_the_United_States" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#00A95C; color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_Party_of_the_United_States" title="Template:Green Party of the United States"><abbr title="View this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_Party_of_the_United_States" title="Template talk:Green Party of the United States"><abbr title="Discuss this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_Party_of_the_United_States&amp;action=edit"><abbr title="Edit this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States"><span style="color:white">Green Party of the United States</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_United_States_Green_Party_presidential_tickets" title="List of United States Green Party presidential tickets"><span style="color:white">Presidential tickets</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ralph_Nader_presidential_campaign,_1996" title="Ralph Nader presidential campaign, 1996"> 1996</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/Ralph_Nader_presidential_campaign,_2000" title="Ralph Nader presidential campaign, 2000"> 2000</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/David_Cobb_presidential_campaign,_2004" title="David Cobb presidential campaign, 2004"> 2004</a>: <a href="/wiki/David_Cobb" title="David Cobb">Cobb</a>/<a href="/wiki/Pat_LaMarche" title="Pat LaMarche">LaMarche</a></li>
+<li><a href="/wiki/Cynthia_McKinney_presidential_campaign,_2008" title="Cynthia McKinney presidential campaign, 2008"> 2008</a>: <a href="/wiki/Cynthia_McKinney" title="Cynthia McKinney">McKinney</a>/<a href="/wiki/Rosa_Clemente" title="Rosa Clemente">Clemente</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2012" title="Jill Stein presidential campaign, 2012"> 2012</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Cheri_Honkala" title="Cheri Honkala">Honkala</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2016" title="Jill Stein presidential campaign, 2016"> 2016</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Ajamu_Baraka" title="Ajamu Baraka">Baraka</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Presidential primaries</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_presidential_primaries,_2008" title="Green Party presidential primaries, 2008">2008</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2012" title="Green Party presidential primaries, 2012">2012</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2016" title="Green Party presidential primaries, 2016">2016</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/Green_National_Convention" title="Green National Convention"><span style="color:white">Conventions</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Green_National_Convention" title="2000 Green National Convention">2000 (Denver)</a></li>
+<li><a href="/wiki/2004_Green_National_Convention" title="2004 Green National Convention">2004 (Milwaukee)</a></li>
+<li><a href="/wiki/2008_Green_National_Convention" title="2008 Green National Convention">2008 (Chicago)</a></li>
+<li><a href="/wiki/2012_Green_National_Convention" title="2012 Green National Convention">2012 (Baltimore)</a></li>
+<li><a href="/wiki/2016_Green_National_Convention" title="2016 Green National Convention">2016 (Houston)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_state_Green_Parties_in_the_United_States" title="List of state Green Parties in the United States"><span style="color:white">Parties by state<br />and <i>territory</i></span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alabama_Green_Party" class="mw-redirect" title="Alabama Green Party">Alabama</a></li>
+<li><a class="mw-selflink selflink">Alaska</a></li>
+<li><a href="/wiki/Arizona_Green_Party" title="Arizona Green Party">Arizona</a></li>
+<li><a href="/wiki/Green_Party_of_Arkansas" title="Green Party of Arkansas">Arkansas</a></li>
+<li><a href="/wiki/Green_Party_of_California" title="Green Party of California">California</a></li>
+<li><a href="/wiki/Green_Party_of_Colorado" title="Green Party of Colorado">Colorado</a></li>
+<li><a href="/wiki/Connecticut_Green_Party" title="Connecticut Green Party">Connecticut</a></li>
+<li><a href="/wiki/Green_Party_of_Delaware" title="Green Party of Delaware">Delaware</a></li>
+<li><i><a href="/wiki/D.C._Statehood_Green_Party" title="D.C. Statehood Green Party">District of Columbia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Florida" title="Green Party of Florida">Florida</a></li>
+<li><a href="/wiki/Georgia_Green_Party" class="mw-redirect" title="Georgia Green Party">Georgia</a></li>
+<li><a href="/wiki/Green_Party_of_Hawaii" title="Green Party of Hawaii">Hawaii</a></li>
+<li><a href="/wiki/Idaho_Green_Party" title="Idaho Green Party">Idaho</a></li>
+<li><a href="/wiki/Illinois_Green_Party" title="Illinois Green Party">Illinois</a></li>
+<li><a href="/wiki/Indiana_Green_Party" class="mw-redirect" title="Indiana Green Party">Indiana</a></li>
+<li><a href="/wiki/Iowa_Green_Party" title="Iowa Green Party">Iowa</a></li>
+<li><a href="/wiki/Kansas_Green_Party" title="Kansas Green Party">Kansas</a></li>
+<li><a href="/wiki/Kentucky_Green_Party" title="Kentucky Green Party">Kentucky</a></li>
+<li><a href="/wiki/Green_Party_of_Louisiana" title="Green Party of Louisiana">Louisiana</a></li>
+<li><a href="/wiki/Maine_Green_Independent_Party" title="Maine Green Independent Party">Maine</a></li>
+<li><a href="/wiki/Maryland_Green_Party" title="Maryland Green Party">Maryland</a></li>
+<li><a href="/wiki/Green-Rainbow_Party" title="Green-Rainbow Party">Massachusetts</a></li>
+<li><a href="/wiki/Green_Party_of_Michigan" title="Green Party of Michigan">Michigan</a></li>
+<li><a href="/wiki/Green_Party_of_Minnesota" title="Green Party of Minnesota">Minnesota</a></li>
+<li><a href="/wiki/Green_Party_of_Mississippi" title="Green Party of Mississippi">Mississippi</a></li>
+<li><a href="/wiki/Green_Party_of_Missouri" class="mw-redirect" title="Green Party of Missouri">Missouri</a></li>
+<li><a href="/wiki/Montana_Green_Party" class="mw-redirect" title="Montana Green Party">Montana</a></li>
+<li><a href="/wiki/Nebraska_Green_Party" title="Nebraska Green Party">Nebraska</a></li>
+<li><a href="/wiki/Green_Party_of_Nevada" class="mw-redirect" title="Green Party of Nevada">Nevada</a></li>
+<li><a href="/wiki/Green_Party_of_New_Hampshire" class="mw-redirect" title="Green Party of New Hampshire">New Hampshire</a></li>
+<li><a href="/wiki/Green_Party_of_New_Jersey" title="Green Party of New Jersey">New Jersey</a></li>
+<li><a href="/wiki/Green_Party_of_New_Mexico" title="Green Party of New Mexico">New Mexico</a></li>
+<li><a href="/wiki/Green_Party_of_New_York" title="Green Party of New York">New York</a></li>
+<li><a href="/wiki/North_Carolina_Green_Party" title="North Carolina Green Party">North Carolina</a></li>
+<li><a href="/wiki/Green_Party_of_North_Dakota" class="mw-redirect" title="Green Party of North Dakota">North Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Ohio" title="Green Party of Ohio">Ohio</a></li>
+<li><a href="/wiki/Green_Party_of_Oklahoma" title="Green Party of Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/Pacific_Green_Party" title="Pacific Green Party">Oregon</a></li>
+<li><a href="/wiki/Green_Party_of_Pennsylvania" title="Green Party of Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/Green_Party_of_Rhode_Island" title="Green Party of Rhode Island">Rhode Island</a></li>
+<li><a href="/wiki/South_Carolina_Green_Party" title="South Carolina Green Party">South Carolina</a></li>
+<li><a href="/wiki/South_Dakota_Green_Party" class="mw-redirect" title="South Dakota Green Party">South Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Tennessee" title="Green Party of Tennessee">Tennessee</a></li>
+<li><a href="/wiki/Green_Party_of_Texas" title="Green Party of Texas">Texas</a></li>
+<li><a href="/wiki/Green_Party_of_Utah" class="mw-redirect" title="Green Party of Utah">Utah</a></li>
+<li><a href="/wiki/Vermont_Green_Party" title="Vermont Green Party">Vermont</a></li>
+<li><a href="/wiki/Green_Party_of_Virginia" title="Green Party of Virginia">Virginia</a></li>
+<li><a href="/wiki/Green_Party_of_Washington_State" title="Green Party of Washington State">Washington</a></li>
+<li><a href="/wiki/Mountain_Party" title="Mountain Party">West Virginia</a></li>
+<li><a href="/wiki/Wisconsin_Green_Party" title="Wisconsin Green Party">Wisconsin</a></li>
+<li><a href="/wiki/Green_Party_of_Wyoming" class="mw-redirect" title="Green Party of Wyoming">Wyoming</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Green Parties of the Americas</a></li>
+<li><a href="/wiki/Green_National_Committee" title="Green National Committee">Green National Committee</a></li>
+<li><a href="/wiki/Green_Senatorial_Campaign_Committee" title="Green Senatorial Campaign Committee">Green Senatorial Campaign Committee</a></li>
+<li><a href="/wiki/Greens/Green_Party_USA" title="Greens/Green Party USA">Greens/Green Party USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">History</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_of_State_Green_Parties" title="Association of State Green Parties">Association of State Green Parties</a></li>
+<li><a href="/wiki/History_of_the_Green_Party_of_the_United_States" title="History of the Green Party of the United States">Overview</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States" title="List of Green politicians who have held office in the United States">Office-holding politicians</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Alaska_political_parties" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Alaska_political_parties" title="Template:Alaska political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Alaska_political_parties" title="Template talk:Alaska political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alaska_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Alaska_political_parties" style="font-size:114%;margin:0 4em"><a href="/wiki/Alaska" title="Alaska">Alaska</a> political parties</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">With ballot status</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alaskan_Independence_Party" title="Alaskan Independence Party">Alaskan Independence</a></li>
+<li><a href="/wiki/Alaska_Democratic_Party" title="Alaska Democratic Party">Democratic</a></li>
+<li><a href="/wiki/Alaska_Libertarian_Party" class="mw-redirect" title="Alaska Libertarian Party">Libertarian</a></li>
+<li><a href="/wiki/Alaska_Republican_Party" title="Alaska Republican Party">Republican</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><span class="flagicon"><a href="/wiki/Alaska" title="Alaska"><img alt="Alaska" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/100px-Flag_of_Alaska.svg.png" width="100" height="71" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/150px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/200px-Flag_of_Alaska.svg.png 2x" data-file-width="1416" data-file-height="1000" /></a></span></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Without ballot status</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Alaska_Constitution_Party&amp;action=edit&amp;redlink=1" class="new" title="Alaska Constitution Party (page does not exist)">Constitution</a></li>
+<li><a class="mw-selflink selflink">Green</a></li>
+<li><a href="/w/index.php?title=Veterans_Party_of_Alaska&amp;action=edit&amp;redlink=1" class="new" title="Veterans Party of Alaska (page does not exist)">Veterans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Republican_Moderate_Party_of_Alaska" title="Republican Moderate Party of Alaska">Republican Moderate</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a href="/wiki/Political_party_strength_in_Alaska" title="Political party strength in Alaska">Political party strength in Alaska</a></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2193
+Cached time: 20181002194836
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.427 seconds
+Preprocessor visited node count: 2354/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 86155/2097152 bytes
+Template argument size: 6818/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20886/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 4.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  340.332      1 -total
+ 33.46%  113.867      1 Template:Reflist
+ 25.46%   86.640      3 Template:Ambox
+ 20.76%   70.659      1 Template:Infobox_American_State_Political_Party
+ 20.34%   69.224      1 Template:Multiple_issues
+ 20.06%   68.286      1 Template:Infobox_political_party
+ 17.79%   60.532      1 Template:Cite_book
+ 15.64%   53.222      1 Template:Infobox
+ 10.38%   35.322      6 Template:Cite_web
+  8.05%   27.399      1 Template:Update
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:48994227-0!canonical and timestamp 20181002194835 and revision id 862196852
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Alaska&amp;oldid=862196852">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Alaska&amp;oldid=862196852</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Alaska_Greens" title="Category:Alaska Greens">Alaska Greens</a></li><li><a href="/wiki/Category:Political_parties_in_Alaska" title="Category:Political parties in Alaska">Political parties in Alaska</a></li><li><a href="/wiki/Category:Green_Party_of_the_United_States_by_state" title="Category:Green Party of the United States by state">Green Party of the United States by state</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2015" title="Category:Wikipedia articles in need of updating from December 2015">Wikipedia articles in need of updating from December 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2017" title="Category:Articles needing additional references from January 2017">Articles needing additional references from January 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Alaska" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Alaska" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Alaska" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Alaska" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Alaska">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Alaska" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Alaska" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Alaska&amp;oldid=862196852" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Alaska&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5602966" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Alaska&amp;id=862196852" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Alaska">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Alaska&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Alaska&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5602966#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 October 2018, at 19:48<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Alaska&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.427","ppvisitednodes":{"value":2354,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":86155,"limit":2097152},"templateargumentsize":{"value":6818,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20886,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  340.332      1 -total"," 33.46%  113.867      1 Template:Reflist"," 25.46%   86.640      3 Template:Ambox"," 20.76%   70.659      1 Template:Infobox_American_State_Political_Party"," 20.34%   69.224      1 Template:Multiple_issues"," 20.06%   68.286      1 Template:Infobox_political_party"," 17.79%   60.532      1 Template:Cite_book"," 15.64%   53.222      1 Template:Infobox"," 10.38%   35.322      6 Template:Cite_web","  8.05%   27.399      1 Template:Update"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":4215578,"limit":52428800}},"cachereport":{"origin":"mw2193","timestamp":"20181002194836","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw2229"});});</script>
+	</body>
+</html>

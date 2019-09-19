@@ -1,0 +1,638 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Manitoba
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Manitoba - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Manitoba","wgTitle":"Green Party of Manitoba","wgCurRevisionId":839645584,"wgRevisionId":839645584,"wgArticleId":938163,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with topics of unclear notability from December 2015","All articles with topics of unclear notability","Articles needing additional references from December 2015","All articles needing additional references","Wikipedia articles in need of updating from December 2015","All Wikipedia articles in need of updating","Articles with multiple maintenance issues","Use mdy dates from December 2011","Articles containing French-language text","All articles with unsourced statements","Articles with unsourced statements from July 2008","Green Party of Manitoba","Organizations based in Winnipeg","Political parties established in 1998","Provincial political parties in Manitoba","1998 establishments in Manitoba"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Manitoba","wgRelevantArticleId":938163,"wgRequestId":"W7Fm3ArAIDwAAIfDeCgAAABG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5603006","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Manitoba"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Manitoba"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Manitoba rootpage-Green_Party_of_Manitoba skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Manitoba</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Green_Party_of_Manitoba" title="Talk:Green Party of Manitoba">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="plainlinks metadata ambox ambox-content ambox-Notability" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">The topic of this article <b>may not meet Wikipedia's <a href="/wiki/Wikipedia:Notability_(organizations_and_companies)" title="Wikipedia:Notability (organizations and companies)">notability guidelines for companies and organizations</a></b>.<span class="hide-when-compact"> Please help to establish notability by citing <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable secondary sources</a> that are <a href="/wiki/Wikipedia:Identifying_and_using_independent_sources" title="Wikipedia:Identifying and using independent sources">independent</a> of the topic and provide significant coverage of it beyond a mere trivial mention. If notability cannot be established, the article is likely to be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a>, <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirected</a>, or <a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">deleted</a>.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Green+Party+of+Manitoba%22&amp;num=50">"Green Party of Manitoba"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Green+Party+of+Manitoba%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Green+Party+of+Manitoba%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Green+Party+of+Manitoba%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Green+Party+of+Manitoba%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Green+Party+of+Manitoba%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small><i>(December 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(December 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small><i>(December 2015)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #99C955; border-bottom:2px solid #99C955; line-height: 1;"><span class="fn org">Green Party of Manitoba</span></div></th></tr><tr><td colspan="2" style="text-align:center">
+Active provincial party</td></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Green_Party_of_Manitoba_(logo).png" class="image"><img alt="Green Party of Manitoba (logo).png" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fa/Green_Party_of_Manitoba_%28logo%29.png/250px-Green_Party_of_Manitoba_%28logo%29.png" width="250" height="72" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fa/Green_Party_of_Manitoba_%28logo%29.png/375px-Green_Party_of_Manitoba_%28logo%29.png 1.5x, //upload.wikimedia.org/wikipedia/en/f/fa/Green_Party_of_Manitoba_%28logo%29.png 2x" data-file-width="417" data-file-height="120" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/James_Beddome" title="James Beddome">James Beddome</a></td></tr><tr><th scope="row" style="line-height:1.3em;">President</th><td class="agent" style="line-height:1.3em;">
+Dirk Hoeppner</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+1998<span style="display:none">&#160;(<span class="bday dtstart published updated">1998</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+120 Sherbrook Street<br /><a href="/wiki/Winnipeg" title="Winnipeg">Winnipeg</a>, <a href="/wiki/Manitoba" title="Manitoba">Manitoba</a><br />R3C 2B4</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats in <a href="/wiki/Legislative_Assembly_of_Manitoba" title="Legislative Assembly of Manitoba">Legislature</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">0 / 57</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99C955; width: 0%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://greenparty.mb.ca/">greenparty<wbr />.mb<wbr />.ca</a></span></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #99C955;"><ul><li><a href="/wiki/Politics_of_Manitoba" title="Politics of Manitoba">Politics of Manitoba</a></li><li><a href="/wiki/List_of_political_parties_in_Manitoba" title="List of political parties in Manitoba">Political parties</a></li><li><a href="/wiki/List_of_Manitoba_general_elections" title="List of Manitoba general elections">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party of Manitoba</b> (<a href="/wiki/French_language" title="French language">French</a>: <i lang="fr">Parti vert du Manitoba</i>) is a provincial political party in <a href="/wiki/Manitoba" title="Manitoba">Manitoba</a>, Canada, founded on November 11, 1998.   The party is legally autonomous from the <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>, though for several years many of its members also belonged to the <i>Green Party of Canada in Manitoba</i>, a federal organization established in 1996 (the two organizations were separated in May 2005).  The GPM has maintained a position as the fourth largest party in Manitoba since the <a href="/wiki/Manitoba_general_election,_2003" title="Manitoba general election, 2003">2003 election</a>, both in number of votes received and candidates run.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Policies"><span class="tocnumber">2</span> <span class="toctext">Policies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#2016_Platform"><span class="tocnumber">2.1</span> <span class="toctext">2016 Platform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Opinion_polls"><span class="tocnumber">3</span> <span class="toctext">Opinion polls</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Elections"><span class="tocnumber">4</span> <span class="toctext">Elections</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Leadership"><span class="tocnumber">5</span> <span class="toctext">Leadership</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:Green_Party_of_Manitoba_(logo_until_2011).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/24/Green_Party_of_Manitoba_%28logo_until_2011%29.png/150px-Green_Party_of_Manitoba_%28logo_until_2011%29.png" width="150" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/24/Green_Party_of_Manitoba_%28logo_until_2011%29.png/225px-Green_Party_of_Manitoba_%28logo_until_2011%29.png 1.5x, //upload.wikimedia.org/wikipedia/en/2/24/Green_Party_of_Manitoba_%28logo_until_2011%29.png 2x" data-file-width="296" data-file-height="286" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Green_Party_of_Manitoba_(logo_until_2011).png" class="internal" title="Enlarge"></a></div>Logo until 2011.</div></div></div>
+<p>The GPM is not the first "Green Party" in Manitoba history.  Former <a href="/wiki/New_Democratic_Party_of_Manitoba" title="New Democratic Party of Manitoba">New Democrat</a> Nick Ternette established a "Green Party" in Winnipeg in 1989, and fielded candidates under its banner in that year's municipal elections.  Ternette was from the left-wing of the NDP, and opposed the party's centrist direction in the 1980s.  His "Green Party" supported several progressive and environmental causes, and was further to the left than is the current GPM.  None of its candidates were elected, and the party never ran candidates at the provincial level.  Ternette is not affiliated with the GPM, although neither has he opposed it.
+</p><p>The current party was established by Winnipeg electoral reform activist Chris Billows in November 1998, with the assistance of the Green Party of Canada. Billows, Eymond Toupin, and future provincial leader <a href="/wiki/Markus_Buchart" title="Markus Buchart">Markus Buchart</a> hosted the Green Party of Canada's national convention in Winnipeg in August 1998.
+</p>
+<h2><span class="mw-headline" id="Policies">Policies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=2" title="Edit section: Policies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The GPM's policies are generally progressive.  The party is primarily focused on environmental issues, and promotes the conservation of land and non-renewable natural resources.  It has expressed concern about "urban sprawl" in Winnipeg's suburbs, has called for reform in Manitoba's commercial hog sector, and generally supports the rights of small farming interests over corporations.
+</p><p>The GPM also favours liberal positions on social issues such as <a href="/wiki/Abortion" title="Abortion">abortion</a> and <a href="/wiki/Same-sex_marriage" title="Same-sex marriage">same-sex marriage</a>, and promotes accessible public health care with emphasis on healthy lifestyles and illness prevention.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>The party supports the extension of labour protection laws to farmworkers and a reduction of Manitoba's standard work week from 40 to 32 hours. It has also endorsed full employment, and has criticized <a href="/wiki/Gary_Doer" title="Gary Doer">Gary Doer</a>'s NDP government for not reversing welfare cutbacks enacted by the previous <a href="/wiki/Progressive_Conservative_Party_of_Manitoba" title="Progressive Conservative Party of Manitoba">Tory</a> government of <a href="/wiki/Gary_Filmon" title="Gary Filmon">Gary Filmon</a>.
+</p>
+<h3><span class="mw-headline" id="2016_Platform">2016 Platform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=3" title="Edit section: 2016 Platform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The GPM released its <a href="/wiki/Manitoba_general_election,_2016" title="Manitoba general election, 2016">2016 election</a> platform, entitled "Building a Sustainable Manitoba", on April 5, 2016. The document included promises to introduce <a href="/wiki/Guaranteed_Annual_Income" class="mw-redirect" title="Guaranteed Annual Income">Guaranteed Annual Income</a> to Manitoba, a $50/tonne <a href="/wiki/Carbon_tax" title="Carbon tax">carbon tax</a>, fare-free transit, and oppose the <a href="/wiki/Energy_East" title="Energy East">Energy East pipeline</a>, among other items.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Opinion_polls">Opinion polls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=4" title="Edit section: Opinion polls">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr style="background:#e9e9e9;">
+<th width="20%">Polling Firm
+</th>
+<th width="20%">Last Date of Polling
+</th>
+<th style="width:7%;" class="unsortable">Link
+</th>
+<td bgcolor="#9999FF" width="10%" align="center"><b><a href="/wiki/Progressive_Conservative_Party_of_Manitoba" title="Progressive Conservative Party of Manitoba">PC</a></b>
+</td>
+<td bgcolor="#F4A460" width="10%" align="center"><b><a href="/wiki/Manitoba_New_Democratic_Party" class="mw-redirect" title="Manitoba New Democratic Party">NDP</a></b>
+</td>
+<td bgcolor="#EA6D6A" width="10%" align="center"><b><a href="/wiki/Manitoba_Liberal_Party" title="Manitoba Liberal Party">Liberal</a></b>
+</td>
+<td bgcolor="#99C955" width="10%" align="center"><b>Green</b>
+</td>
+<td bgcolor="#DCDCDC" width="10%" align="center"><b>Other</b>
+</td></tr>
+<tr>
+<td>Mainstreet Research
+</td>
+<td><span data-sort-value="02017-04-07&#160;!">April 7, 2017</span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.mainstreetresearch.ca/support-for-pallister-but-not-for-health-moves-carbon-tax/">URL</a>
+</td>
+<td style="background:#BCD1F7"><b>47</b>
+</td>
+<td>23
+</td>
+<td>19
+</td>
+<td>11
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Probe Research Inc
+</td>
+<td><span data-sort-value="02017-03-28&#160;!">March 28, 2017</span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.winnipegfreepress.com/local/pallisters-popularity-holding-firm-poll-418761034.html">URL</a>
+</td>
+<td style="background:#BCD1F7"><b>43</b>
+</td>
+<td>27
+</td>
+<td>20
+</td>
+<td>8
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Probe Research Inc
+</td>
+<td><span data-sort-value="02016-12-11&#160;!">December 12, 2016</span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.probe-research.com/documents/161214a%20WFP%20Party%20Standings%20press%20release.pdf">PDF</a>
+</td>
+<td style="background:#BCD1F7"><b>49</b>
+</td>
+<td>24
+</td>
+<td>19
+</td>
+<td>8
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Probe Research Inc
+</td>
+<td><span data-sort-value="02016-09-26&#160;!">September 26, 2016</span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.probe-research.com/documents/160929%20WFP%20Party%20Standings%20press%20release.pdf">PDF</a>
+</td>
+<td style="background:#BCD1F7"><b>48</b>
+</td>
+<td>20
+</td>
+<td>26
+</td>
+<td>5
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Probe Research Inc
+</td>
+<td><span data-sort-value="02016-06-16&#160;!">June 16, 2016</span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.probe-research.com/documents/160627%20WFP%20Party%20Standings%20press%20release.pdf">PDF</a>
+</td>
+<td style="background:#BCD1F7"><b>46</b>
+</td>
+<td>27
+</td>
+<td>18
+</td>
+<td>8
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="background:#ffd;"><a href="/wiki/Manitoba_general_election,_2016" title="Manitoba general election, 2016"><i>2016 election</i></a>
+</td>
+<td style="background:#ffd;"><span data-sort-value="02016-10-04&#160;!">April 19, 2016</span>
+</td>
+<td style="background:#ffd;">
+</td>
+<td style="background:#ffd;"><b>53.0</b>
+</td>
+<td style="background:#ffd;">25.7
+</td>
+<td style="background:#ffd;">14.5
+</td>
+<td style="background:#ffd;">5.1
+</td>
+<td style="background:#ffd;">1.7
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Elections">Elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=5" title="Edit section: Elections">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>General election
+</th>
+<th># of candidates
+</th>
+<th># of elected candidates
+</th>
+<th>% of popular vote
+</th>
+<th># of votes
+</th></tr>
+<tr>
+<th><a href="/wiki/Manitoba_general_election,_1999" title="Manitoba general election, 1999">1999</a>
+</th>
+<td>6
+</td>
+<td>0
+</td>
+<td>0.20%
+</td>
+<td>973
+</td></tr>
+<tr>
+<th><a href="/wiki/Manitoba_general_election,_2003" title="Manitoba general election, 2003">2003</a>
+</th>
+<td>14
+</td>
+<td>0
+</td>
+<td>0.96%
+</td>
+<td>3,792
+</td></tr>
+<tr>
+<th><a href="/wiki/Manitoba_general_election,_2007" title="Manitoba general election, 2007">2007</a>
+</th>
+<td>15
+</td>
+<td>0
+</td>
+<td>1.34%
+</td>
+<td>5,586
+</td></tr>
+<tr>
+<th><a href="/wiki/Manitoba_general_election,_2011" title="Manitoba general election, 2011">2011</a>
+</th>
+<td>32
+</td>
+<td>0
+</td>
+<td>2.52%
+</td>
+<td>10,886
+</td></tr>
+<tr>
+<th><a href="/wiki/Manitoba_general_election,_2016" title="Manitoba general election, 2016">2016</a>
+</th>
+<td>31
+</td>
+<td>0
+</td>
+<td>5.22%
+</td>
+<td>22,282
+</td></tr></tbody></table>
+<p>The GPM ran six candidates in the <a href="/wiki/Manitoba_general_election,_1999" title="Manitoba general election, 1999">provincial election of 1999</a>, and scored its best result in the Winnipeg riding of <a href="/wiki/Wolseley_(Manitoba_riding)" class="mw-redirect" title="Wolseley (Manitoba riding)">Wolseley</a>, where Phyllis Abbé, also a prominent former New Democrat, received 386 votes. Former party leader <a href="/wiki/Markus_Buchart" title="Markus Buchart">Markus Buchart</a> ran against <a href="/wiki/Premier_of_Manitoba" title="Premier of Manitoba">Premier</a> <a href="/wiki/Gary_Filmon" title="Gary Filmon">Gary Filmon</a> in the riding of <a href="/wiki/Tuxedo_(Manitoba_riding)" class="mw-redirect" title="Tuxedo (Manitoba riding)">Tuxedo</a>, and received 126 votes.  The party received 0.2% of all votes cast in the province.
+</p><p>The GPM ran fourteen candidates in the <a href="/wiki/Manitoba_general_election,_2003" title="Manitoba general election, 2003">2003 election</a>. Buchart received 1193 votes (19.5%) in Wolseley, placing second against New Democrat <a href="/wiki/Rob_Altemeyer" title="Rob Altemeyer">Rob Altemeyer</a>. The GPM as a whole received 4.08% of the vote in the ridings that it contested.
+</p><p>In the December 13, 2005, by-election held in the strongly conservative <a href="/wiki/Fort_Whyte" title="Fort Whyte">Fort Whyte</a> constituency, GPM candidate Shelagh Pizey-Allen garnered 1.77% of the vote.
+</p><p>The GPM ran fifteen candidates in the <a href="/wiki/Manitoba_general_election,_2007" title="Manitoba general election, 2007">2007 election</a>. The fifteen captured 1.33% of the vote, or 5.5% in the electoral divisions that were contested. The Green candidates received 12.32% in <a href="/wiki/Wolseley_(Manitoba_electoral_district)" title="Wolseley (Manitoba electoral district)">Wolseley</a> placing second, 8.46% in <a href="/wiki/Lord_Roberts_(electoral_district)" title="Lord Roberts (electoral district)">Lord Roberts</a>, 7.76% in <a href="/wiki/St._Boniface_(provincial_electoral_district)" title="St. Boniface (provincial electoral district)">St. Boniface</a>, 6.38% in <a href="/wiki/Fort_Rouge_(electoral_district)" title="Fort Rouge (electoral district)">Fort Rouge</a>, and third place in <a href="/wiki/Minnedosa_(electoral_district)" title="Minnedosa (electoral district)">Minnedosa</a> ahead of the <a href="/wiki/Liberal_Party_of_Manitoba" class="mw-redirect" title="Liberal Party of Manitoba">Liberal Party of Manitoba</a>.
+</p><p>In 2011, the GPM ran 32 candidates across the province and took 2.52% of the vote province-wide, or 10,886 votes, and won 4.56% of votes in ridings they contested. Party leader <a href="/wiki/James_Beddome" title="James Beddome">James Beddome</a> placed second in the <a href="/wiki/Wolseley_(Manitoba_electoral_district)" title="Wolseley (Manitoba electoral district)">Wolseley</a> constituency with 19.64% of the vote, while nine other candidates placed third in various ridings ahead of <a href="/wiki/Manitoba_Liberal_Party" title="Manitoba Liberal Party">Liberal</a> candidates.
+</p>
+<h2><span class="mw-headline" id="Leadership">Leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=6" title="Edit section: Leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Leaders of the Green Party of Manitoba</b>
+</p>
+<ol><li><a href="/wiki/Markus_Buchart" title="Markus Buchart">Markus Buchart</a>, 1998-2005</li>
+<li>Daniel Drimes, 2005</li>
+<li><a href="/wiki/Holly_Nelson" title="Holly Nelson">Holly Nelson</a>, 2005-2006</li>
+<li><a href="/wiki/Andrew_Basham" title="Andrew Basham">Andrew Basham</a>, 2006-2008</li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">James Beddome</a>, 2008-2013</li>
+<li>Alain Landry (interim), 2013-2014</li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">James Beddome</a>, 2014-</li></ol>
+<p>Markus Buchart resigned as party leader in late February 2005.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>The party's second leader was Daniel Drimes. He served as leader from April 2 to 22, 2005.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2008)">citation needed</span></a></i>&#93;</sup>
+</p><p>The party's first leadership contest under the rules of <a href="/wiki/Elections_Manitoba" title="Elections Manitoba">Elections Manitoba</a> began on July 1, 2005, and a new leader was chosen on November 20, 2005.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2008)">citation needed</span></a></i>&#93;</sup> She was <a href="/wiki/Holly_Nelson" title="Holly Nelson">Holly Nelson</a>, a retired electrical technologist and professional writer who owned a Winnipeg New Age book store, the Philosopher's Stone, during the 1990s.
+</p><p>In September 2006, a few weeks before the party's leadership convention, she stepped down, having accepted an out-of-province job.  On November 19, 2006, the party chose 23-year-old <a href="/wiki/Andrew_Basham" title="Andrew Basham">Andrew Basham</a> as its new leader.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2008)">citation needed</span></a></i>&#93;</sup>
+</p><p>On November 15, 2008, <a href="/wiki/James_Beddome" title="James Beddome">James Beddome</a> was elected leader, defeating incumbent leader Andrew Basham and contender Shane Nestruck. Beddome's first term expired November 2010, and he was acclaimed a second term.
+</p>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>Alain Landry was appointed interim party leader for the Manitoba Greens in Nov, 2013 <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> after the resignation of former leader <a href="/wiki/James_Beddome" title="James Beddome">James Beddome</a>. James stepped down to focus on his new career as a lawyer after graduating from the faculty of law at the University of Manitoba in 2013.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Landry ran as a candidate in the <a href="/wiki/Manitoba_general_election,_2007" title="Manitoba general election, 2007">2007</a> and <a href="/wiki/Manitoba_general_election,_2011" title="Manitoba general election, 2011">2011</a> elections. In January 2014, he ran in the <a href="/wiki/Morris_(electoral_district)" title="Morris (electoral district)">Morris</a> by-election.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Former leader <a href="/wiki/James_Beddome" title="James Beddome">James Beddome</a> sought to return to the leadership of the Greens and ran in the leadership race held in November 2014.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> He defeated past Green candidate Kate Storey in the contest with 21 votes to 9 for Storey.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_political_parties_in_Manitoba" title="List of political parties in Manitoba">List of political parties in Manitoba</a></li>
+<li><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">List of Green party leaders in Canada</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://greenparty.mb.ca/policies/policies">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140106082442/http://greenparty.mb.ca/policies/policies">Archived</a> January 6, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://greenparty.mb.ca/manitoba-greens-unveil-platform-2016/">"Manitoba Greens unveil Platform 2016"</a>. Green Party of Manitoba<span class="reference-accessdate">. Retrieved <span class="nowrap">April 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Manitoba+Greens+unveil+Platform+2016&amp;rft.pub=Green+Party+of+Manitoba&amp;rft_id=http%3A%2F%2Fgreenparty.mb.ca%2Fmanitoba-greens-unveil-platform-2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Manitoba" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/manitoba/green-party-leader-resigns-1.523645">"Green Party leader resigns - Manitoba - CBC News"</a>. <i>Cbc.ca</i>. March 11, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">December 25,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cbc.ca&amp;rft.atitle=Green+Party+leader+resigns+-+Manitoba+-+CBC+News&amp;rft.date=2005-03-11&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fmanitoba%2Fgreen-party-leader-resigns-1.523645&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Manitoba" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://greenparty.mb.ca/press_releases/alain-landry-appointed-green-party-interim-leader">[2]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140106040727/http://greenparty.mb.ca/press_releases/alain-landry-appointed-green-party-interim-leader">Archived</a> January 6, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.winnipegfreepress.com/local/Beddome-steps-down-as-Green-Party-of-Manitoba-leader-233069941.html">"Beddome steps down as Green Party of Manitoba leader"</a>. Winnipeg Free Press. November 22, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 25,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Beddome+steps+down+as+Green+Party+of+Manitoba+leader&amp;rft.pub=Winnipeg+Free+Press&amp;rft.date=2013-11-22&amp;rft_id=http%3A%2F%2Fwww.winnipegfreepress.com%2Flocal%2FBeddome-steps-down-as-Green-Party-of-Manitoba-leader-233069941.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Manitoba" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/manitoba/james-beddome-resigns-as-manitoba-green-party-leader-1.2437348">"James Beddome resigns as Manitoba Green Party leader - Manitoba"</a>. <i>Cbc.ca</i>. November 22, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 25,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cbc.ca&amp;rft.atitle=James+Beddome+resigns+as+Manitoba+Green+Party+leader+-+Manitoba&amp;rft.date=2013-11-22&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fmanitoba%2Fjames-beddome-resigns-as-manitoba-green-party-leader-1.2437348&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Manitoba" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.electionsmanitoba.ca/en/Voting/Candidates/MorrisOn">[3]</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140113073135/http://www.electionsmanitoba.ca/en/Voting/Candidates/MorrisOn">Archived</a> January 13, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.huffingtonpost.ca/2014/10/16/james-beddome-manitoba-green-party_n_5999462.html">"James Beddome, Ex-Manitoba Green Leader, Wants Old Job Back"</a>. Huffington Post. October 16, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">April 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=James+Beddome%2C+Ex-Manitoba+Green+Leader%2C+Wants+Old+Job+Back&amp;rft.pub=Huffington+Post&amp;rft.date=2014-10-16&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.ca%2F2014%2F10%2F16%2Fjames-beddome-manitoba-green-party_n_5999462.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Manitoba" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.winnipegsun.com/2014/11/15/green-party-re-elects-james-beddome">"Green Party re-elects James Beddome"</a>. Winnipeg Sun. November 15, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">April 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+re-elects+James+Beddome&amp;rft.pub=Winnipeg+Sun&amp;rft.date=2014-11-15&amp;rft_id=http%3A%2F%2Fwww.winnipegsun.com%2F2014%2F11%2F15%2Fgreen-party-re-elects-james-beddome&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Manitoba" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://greenparty.mb.ca/">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_Canada" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#289728;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPC" title="Template:GPC"><abbr title="View this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPC" title="Template talk:GPC"><abbr title="Discuss this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPC&amp;action=edit"><abbr title="Edit this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_Canada" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Party wings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/Green_Party_of_Canada#Provincial_&amp;_territorial_parties" title="Green Party of Canada">Provincial &amp; territorial</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta" title="Green Party of Alberta">Alberta</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">British Columbia</a></li>
+<li><a class="mw-selflink selflink">Manitoba</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick" title="Green Party of New Brunswick">New Brunswick</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia" title="Green Party of Nova Scotia">Nova Scotia</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Ontario</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island" title="Green Party of Prince Edward Island">Prince Edward Island</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec" title="Green Party of Quebec">Quebec</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan" title="Green Party of Saskatchewan">Saskatchewan</a></li>
+<li><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Municipal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burnaby_Municipal_Green_Party" title="Burnaby Municipal Green Party">Burnaby</a></li>
+<li><a href="/wiki/Green_Party_of_Vancouver" title="Green Party of Vancouver">Vancouver</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Former parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alberta_Greens" title="Alberta Greens">Alberta</a></li>
+<li><a href="/wiki/Montr%C3%A9al_%C3%89cologique" title="Montréal Écologique">Montreal</a></li>
+<li><a href="/wiki/Winnipeg_Green_Party" title="Winnipeg Green Party">Winnipeg</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Green_Maple_Leaf.svg" class="image"><img alt="Green Maple Leaf.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/60px-Green_Maple_Leaf.svg.png" width="60" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/90px-Green_Maple_Leaf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/120px-Green_Maple_Leaf.svg.png 2x" data-file-width="300" data-file-height="325" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Federal level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leaders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trevor_Hancock" title="Trevor Hancock">Hancock</a></li>
+<li><a href="/wiki/Seymour_Trieger" title="Seymour Trieger">Trieger</a></li>
+<li><a href="/wiki/Kathryn_Cholette" title="Kathryn Cholette">Cholette</a></li>
+<li><a href="/wiki/Chris_Lea" title="Chris Lea">Lea</a></li>
+<li><a href="/wiki/Wendy_Priesnitz" title="Wendy Priesnitz">Priesnitz</a></li>
+<li>Garfinkle (<i>interim</i>)</li>
+<li><a href="/wiki/Joan_Russow" title="Joan Russow">Russow</a></li>
+<li><a href="/wiki/Chris_Bradshaw" title="Chris Bradshaw">Bradshaw</a> (<i>interim</i>)</li>
+<li><a href="/wiki/Jim_Harris_(politician)" title="Jim Harris (politician)">Harris</a></li>
+<li><a href="/wiki/Elizabeth_May" title="Elizabeth May">May</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leadership elections</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_leadership_election,_2006" title="Green Party of Canada leadership election, 2006">2006</a></li>
+<li><i><a href="/wiki/Green_Party_of_Canada_leadership_elections" title="Green Party of Canada leadership elections">list</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Parliamentary election<br />candidates</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_candidates,_1984_Canadian_federal_election" title="Green Party of Canada candidates, 1984 Canadian federal election">1984</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1988_Canadian_federal_election" title="Green Party of Canada candidates, 1988 Canadian federal election">1988</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1993_Canadian_federal_election" title="Green Party of Canada candidates, 1993 Canadian federal election">1993</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1997_Canadian_federal_election" title="Green Party of Canada candidates, 1997 Canadian federal election">1997</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2000_Canadian_federal_election" title="Green Party of Canada candidates, 2000 Canadian federal election">2000</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2004_Canadian_federal_election" title="Green Party of Canada candidates, 2004 Canadian federal election">2004</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2006_Canadian_federal_election" title="Green Party of Canada candidates, 2006 Canadian federal election">2006</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2008_Canadian_federal_election" title="Green Party of Canada candidates, 2008 Canadian federal election">2008</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2011_Canadian_federal_election" title="Green Party of Canada candidates, 2011 Canadian federal election">2011</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2015_Canadian_federal_election" title="Green Party of Canada candidates, 2015 Canadian federal election">2015</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Provincial level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">Current leaders</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cheryle_Chagnon-Greyeyes" title="Cheryle Chagnon-Greyeyes">Chagnon-Greyeyes – AB</a></li>
+<li><a href="/wiki/Andrew_Weaver" title="Andrew Weaver">Weaver – BC</a></li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">Beddome – MB</a></li>
+<li><a href="/wiki/David_Coon" title="David Coon">Coon – NB</a></li>
+<li><a href="/wiki/Thomas_Trappenberg" title="Thomas Trappenberg">Trappenberg – NS</a></li>
+<li><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Schreiner – ON</a></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Bevan-Baker – PE</a></li>
+<li><a href="/wiki/Alex_Tyrrell" title="Alex Tyrrell">Tyrrell – QC</a></li>
+<li><a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Setyo – SK</a></li>
+<li><a href="/wiki/Frank_de_Jong" title="Frank de Jong">de Jong – YT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Upcoming or most recent<br />leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta_leadership_election,_2018" title="Green Party of Alberta leadership election, 2018">Alberta 2018</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia#Sterk_and_Weaver_(2007-present)" title="Green Party of British Columbia">British Columbia 2015</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba#Leaders" title="Green Party of Manitoba">Manitoba 2014</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick#2012_leadership_election" title="Green Party of New Brunswick">New Brunswick 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia#Leadership" title="Green Party of Nova Scotia">Nova Scotia 2016</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario_leadership_election,_2009" title="Green Party of Ontario leadership election, 2009">Ontario 2009</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">Prince Edward Island 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec#Current_Green_Party_of_Quebec_(2001–present)" title="Green Party of Quebec">Quebec 2013</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan#Party_leaders" title="Green Party of Saskatchewan">Saskatchewan 2016</a></li>
+<li><i><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon 2017</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_Canada" title="History of the Green Party of Canada">History</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li>
+<li><a href="/wiki/Young_Greens_of_Canada" title="Young Greens of Canada">Young Greens of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Provincial_political_parties_in_Manitoba_23x15px&amp;#124;border_&amp;#124;alt=Manitoba&amp;#124;link=Manitoba" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Manitoba_provincial_political_parties" title="Template:Manitoba provincial political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Manitoba_provincial_political_parties" title="Template talk:Manitoba provincial political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Manitoba_provincial_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Provincial_political_parties_in_Manitoba_23x15px&amp;#124;border_&amp;#124;alt=Manitoba&amp;#124;link=Manitoba" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Manitoba" title="List of political parties in Manitoba">Provincial political parties in Manitoba</a> <span class="flagicon"><a href="/wiki/Manitoba" title="Manitoba"><img alt="Manitoba" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/23px-Flag_of_Manitoba.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/35px-Flag_of_Manitoba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/46px-Flag_of_Manitoba.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Legislative_Assembly_of_Manitoba" title="Legislative Assembly of Manitoba">Legislative Assembly</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Progressive_Conservative_Party_of_Manitoba" title="Progressive Conservative Party of Manitoba">Progressive Conservative</a> (39)</li>
+<li><a href="/wiki/New_Democratic_Party_of_Manitoba" title="New Democratic Party of Manitoba">New Democratic</a> (12)</li>
+<li><a href="/wiki/Manitoba_Liberal_Party" title="Manitoba Liberal Party">Liberal</a> (4)</li>
+<li><a href="/wiki/Manitoba_Party_(2016)" title="Manitoba Party (2016)">Manitoba Party</a> (1)</li>
+<li>Independent (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other <a href="/wiki/Elections_Manitoba" title="Elections Manitoba">recognized</a> parties</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Communist_Party_of_Canada_(Manitoba)" title="Communist Party of Canada (Manitoba)">Communist</a></li>
+<li><a class="mw-selflink selflink">Green</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical parties represented in the legislature</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canadian_Party" title="Canadian Party">Canadian Party</a></li>
+<li><a href="/wiki/Dominion_Labour_Party_(in_Manitoba)" class="mw-redirect" title="Dominion Labour Party (in Manitoba)">Dominion Labour</a></li>
+<li><a href="/wiki/Independent_Labour_Party_(in_Manitoba)_(II)" class="mw-redirect" title="Independent Labour Party (in Manitoba) (II)">Independent Labour Party</a></li>
+<li><a href="/wiki/Communist_Party_of_Canada_(Manitoba)" title="Communist Party of Canada (Manitoba)">Labor-Progressive Party</a></li>
+<li><a href="/wiki/Manitoba_Co-operative_Commonwealth_Federation" class="mw-redirect" title="Manitoba Co-operative Commonwealth Federation">Co-operative Commonwealth Federation</a></li>
+<li><a href="/wiki/Manitoba_Social_Credit_Party" title="Manitoba Social Credit Party">Social Credit</a></li>
+<li><a href="/wiki/Patrons_of_Industry_in_Manitoba" title="Patrons of Industry in Manitoba">Patrons of Industry</a></li>
+<li><a href="/wiki/Progressive_Party_of_Manitoba" title="Progressive Party of Manitoba">Progressive</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2217
+Cached time: 20180930234954
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.576 seconds
+Real time usage: 0.716 seconds
+Preprocessor visited node count: 3602/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 135150/2097152 bytes
+Template argument size: 15023/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17226/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.312/10.000 seconds
+Lua memory usage: 12.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  606.628      1 -total
+ 27.68%  167.928      4 Template:Ambox
+ 20.30%  123.151      1 Template:Lang-fr
+ 19.21%  116.547      1 Template:Multiple_issues
+ 18.23%  110.617      1 Template:Reflist
+ 17.24%  104.568      1 Template:Infobox_political_party
+ 14.28%   86.609      1 Template:Infobox
+ 13.94%   84.556      6 Template:Cite_web
+  8.98%   54.503      1 Template:Notability
+  6.33%   38.383      5 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:938163-0!canonical and timestamp 20180930234954 and revision id 839645584
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Manitoba&amp;oldid=839645584">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Manitoba&amp;oldid=839645584</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_Party_of_Manitoba" title="Category:Green Party of Manitoba">Green Party of Manitoba</a></li><li><a href="/wiki/Category:Organizations_based_in_Winnipeg" title="Category:Organizations based in Winnipeg">Organizations based in Winnipeg</a></li><li><a href="/wiki/Category:Political_parties_established_in_1998" title="Category:Political parties established in 1998">Political parties established in 1998</a></li><li><a href="/wiki/Category:Provincial_political_parties_in_Manitoba" title="Category:Provincial political parties in Manitoba">Provincial political parties in Manitoba</a></li><li><a href="/wiki/Category:1998_establishments_in_Manitoba" title="Category:1998 establishments in Manitoba">1998 establishments in Manitoba</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_topics_of_unclear_notability_from_December_2015" title="Category:Articles with topics of unclear notability from December 2015">Articles with topics of unclear notability from December 2015</a></li><li><a href="/wiki/Category:All_articles_with_topics_of_unclear_notability" title="Category:All articles with topics of unclear notability">All articles with topics of unclear notability</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2015" title="Category:Articles needing additional references from December 2015">Articles needing additional references from December 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2015" title="Category:Wikipedia articles in need of updating from December 2015">Wikipedia articles in need of updating from December 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_December_2011" title="Category:Use mdy dates from December 2011">Use mdy dates from December 2011</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2008" title="Category:Articles with unsourced statements from July 2008">Articles with unsourced statements from July 2008</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Manitoba" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Manitoba" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Manitoba" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Manitoba" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Manitoba">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Manitoba" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Manitoba" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;oldid=839645584" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603006" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Manitoba&amp;id=839645584" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Manitoba">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Manitoba&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Manitoba&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_vert_du_Manitoba" title="Parti vert du Manitoba – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603006#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 May 2018, at 19:11<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Manitoba&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.576","walltime":"0.716","ppvisitednodes":{"value":3602,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":135150,"limit":2097152},"templateargumentsize":{"value":15023,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17226,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  606.628      1 -total"," 27.68%  167.928      4 Template:Ambox"," 20.30%  123.151      1 Template:Lang-fr"," 19.21%  116.547      1 Template:Multiple_issues"," 18.23%  110.617      1 Template:Reflist"," 17.24%  104.568      1 Template:Infobox_political_party"," 14.28%   86.609      1 Template:Infobox"," 13.94%   84.556      6 Template:Cite_web","  8.98%   54.503      1 Template:Notability","  6.33%   38.383      5 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.312","limit":"10.000"},"limitreport-memusage":{"value":13490098,"limit":52428800}},"cachereport":{"origin":"mw2217","timestamp":"20180930234954","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw2172"});});</script>
+	</body>
+</html>

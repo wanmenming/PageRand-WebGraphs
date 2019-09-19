@@ -1,0 +1,817 @@
+https://en.wikipedia.org/wiki/Tin_dioxide
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tin(IV) Oxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tin(IV)_Oxide","wgTitle":"Tin(IV) Oxide","wgCurRevisionId":848520564,"wgRevisionId":848520564,"wgArticleId":2367828,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PubChem ID (CID) same as Wikidata","CS1 errors: external links","Chemical articles with multiple compound IDs","Multiple chemicals in an infobox that need indexing","Chemical articles with multiple CAS registry numbers","Articles without InChI source","Articles without EBI source","Articles without KEGG source","Articles without UNII source","Articles with changed CASNo identifier","Articles with changed ChemSpider identifier","ECHA InfoCard ID from Wikidata","Articles with changed InChI identifier","Articles containing unverified chemical infoboxes","Chembox image size set","All articles with dead external links","Articles with dead external links from July 2018","Articles with permanently dead external links","Oxides","Tin compounds","Semiconductor materials"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tin(IV)_Oxide","wgRelevantArticleId":2367828,"wgRequestId":"W7-WOApAAEMAAEXi2L0AAADQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Tin_dioxide","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Tin(IV)_Oxide","wgWikibaseItemId":"Q129163","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/5d/Rutile-unit-cell-3D-balls.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tin(IV)_Oxide"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tin(IV)_Oxide"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tin_IV_Oxide rootpage-Tin_IV_Oxide skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Tin(IV) Oxide</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Tin_dioxide&amp;redirect=no" class="mw-redirect" title="Tin dioxide">Tin dioxide</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left;&#32;;">
+<caption style="text-align:center;">Tin(IV) Oxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:Rutile-unit-cell-3D-balls.png" class="image" title="3D model of tin (IV) oxide, red atom is oxide"><img alt="3D model of tin (IV) oxide, red atom is oxide" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/160px-Rutile-unit-cell-3D-balls.png" width="160" height="114" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/240px-Rutile-unit-cell-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/320px-Rutile-unit-cell-3D-balls.png 2x" data-file-width="1100" data-file-height="784" /></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a href="/wiki/File:SnO2powder.jpg" class="image" title="Sample of tin (IV) oxide"><img alt="Sample of tin (IV) oxide" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/SnO2powder.jpg/220px-SnO2powder.jpg" width="220" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/SnO2powder.jpg/330px-SnO2powder.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/SnO2powder.jpg/440px-SnO2powder.jpg 2x" data-file-width="600" data-file-height="382" /></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Tin (IV) Oxide</div>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Stannic oxide, Tin(IV) oxide, Flowers of tin,<sup id="cite_ref-mfa_1-0" class="reference"><a href="#cite_note-mfa-1">&#91;1&#93;</a></sup> <a href="/wiki/Cassiterite" title="Cassiterite">Cassiterite</a></div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=18282-10-5">18282-10-5</a></span><sup>&#160;<img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></sup></li><li><span title="www.commonchemistry.org"><a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=13472-47-4">13472-47-4</a></span>&#x20;(hydrate)<sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a href="/wiki/JSmol" class="mw-redirect" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li>(O=Sn=O):&#x20;<span title="chemapps.stolaf.edu (3D interactive model)"><a rel="nofollow" class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3D%5BSn%5D%3DO">Interactive image</a></span></li></ul></div>
+</td></tr>
+
+
+
+
+
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a rel="nofollow" class="external text" href="http://www.chemspider.com/Chemical-Structure.26988.html">26988</a></span><sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ECHA_InfoCard" class="mw-redirect" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.038.311">100.038.311</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Community_number" title="European Community number"><span title="European Community number (chemical identifier)">EC Number</span></a>
+</td>
+<td>242-159-0
+</td></tr>
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/29011">29011</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/RTECS" class="mw-redirect" title="RTECS">RTECS number</a>
+</td>
+<td>XQ4000000
+</td></tr>
+
+
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/2O.Sn<sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key:&#160;XOLBLPGZBRYERU-UHFFFAOYSA-N<sup>&#160;<img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup></div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">(O=Sn=O):&#x20;O=[Sn]=O</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td><span title="Oxygen">O</span><sub>2</sub><span title="Tin">Sn</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>150.71&#160;g·mol<sup>−1</sup> &#x20;
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>White or light grey powder<sup id="cite_ref-PGCH_2-0" class="reference"><a href="#cite_note-PGCH-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Odor" title="Odor">Odor</a>
+</td>
+<td>Odorless
+</td></tr>
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>6.95 g/cm<sup>3</sup> (20&#160;°C)<sup id="cite_ref-pubchem_3-0" class="reference"><a href="#cite_note-pubchem-3">&#91;3&#93;</a></sup><br /> 6.85 g/cm<sup>3</sup> (24&#160;°C)<sup id="cite_ref-crc_4-0" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td>&#x20;1,630&#160;°C (2,970&#160;°F; 1,900&#160;K)<sup id="cite_ref-pubchem_3-3" class="reference"><a href="#cite_note-pubchem-3">&#91;3&#93;</a></sup><sup id="cite_ref-crc_4-4" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup>&#x20;
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td>&#x20;1,800–1,900&#160;°C (3,270–3,450&#160;°F; 2,070–2,170&#160;K)&#x20;<br /> Sublimes<sup id="cite_ref-pubchem_3-1" class="reference"><a href="#cite_note-pubchem-3">&#91;3&#93;</a></sup>
+</td></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>Insoluble<sup id="cite_ref-crc_4-1" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Solubility" title="Solubility">Solubility</a>
+</td>
+<td>Soluble in hot concentrated <a href="/wiki/Alkali" title="Alkali">alkalis</a>,<sup id="cite_ref-crc_4-2" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup> concentrated <a href="/wiki/Acid" title="Acid">acids</a><br /> Insoluble in <a href="/wiki/Alcohol" title="Alcohol">alcohol</a><sup id="cite_ref-pubchem_3-2" class="reference"><a href="#cite_note-pubchem-3">&#91;3&#93;</a></sup>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">Magnetic susceptibility</a> (&#967;)</div>
+</td>
+<td>−4.1·10<sup>−5</sup> cm<sup>3</sup>/mol<sup id="cite_ref-crc_4-3" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup>
+</td></tr>
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Refractive_index" title="Refractive index">Refractive index</a> (<i>n</i><sub>D</sub>)</div>
+</td>
+<td>2.006<sup id="cite_ref-pphoic_5-0" class="reference"><a href="#cite_note-pphoic-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Structure
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Crystal_structure" title="Crystal structure">Crystal structure</a></div>
+</td>
+<td><a href="/wiki/Rutile" title="Rutile">Rutile</a> <a href="/wiki/Tetragonal_crystal_system" title="Tetragonal crystal system">tetragonal</a>, <a href="/wiki/Pearson_symbol" title="Pearson symbol">tP6</a><sup id="cite_ref-iucruber_6-0" class="reference"><a href="#cite_note-iucruber-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Space_group" title="Space group">Space group</a></div>
+</td>
+<td>P4<sub>2</sub>/mnm, No. 136<sup id="cite_ref-iucruber_6-1" class="reference"><a href="#cite_note-iucruber-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Molecular_symmetry" title="Molecular symmetry">Point group</a></div>
+</td>
+<td>4/m 2/m 2/m<sup id="cite_ref-iucruber_6-2" class="reference"><a href="#cite_note-iucruber-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Lattice_constant" title="Lattice constant">Lattice constant</a></div>
+</td>
+<td><div><i>a</i>&#160;=&#160;4.737&#160;Å, <i>c</i>&#160;=&#160;3.185&#160;Å<sup id="cite_ref-iucruber_6-3" class="reference"><a href="#cite_note-iucruber-6">&#91;6&#93;</a></sup></div><div>α&#160;=&#160;90°, β&#160;=&#160;90°, γ&#160;=&#160;90°</div>
+</td></tr>
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Coordination_geometry" title="Coordination geometry">Coordination geometry</a></div>
+</td>
+<td>Octahedral (Sn<sup>4+</sup>)<br /> Trigonal planar (O<sup>2−</sup>)
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Thermochemistry
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Heat_capacity" title="Heat capacity">Heat capacity</a> (<i>C</i>)</div>
+</td>
+<td>52.6 J/mol·K<sup id="cite_ref-crc_4-5" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_molar_entropy" title="Standard molar entropy">Std molar<br />entropy</a> (<i>S</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>49.04 J/mol·K<sup id="cite_ref-crc_4-6" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup><sup id="cite_ref-nist_7-0" class="reference"><a href="#cite_note-nist-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_enthalpy_change_of_formation" class="mw-redirect" title="Standard enthalpy change of formation">Std enthalpy of<br />formation</a> (Δ<sub>f</sub><i>H</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>−577.63 kJ/mol<sup id="cite_ref-crc_4-7" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup><sup id="cite_ref-nist_7-1" class="reference"><a href="#cite_note-nist-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Gibbs_free_energy#Standard_energy_change_of_formation" title="Gibbs free energy">Gibbs free energy</a> (&#916;<sub>f</sub><i>G</i>˚)</div>
+</td>
+<td>−515.8 kJ/mol<sup id="cite_ref-crc_4-8" class="reference"><a href="#cite_note-crc-4">&#91;4&#93;</a></sup>
+</td></tr>
+
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+
+<tr>
+<td><a href="/wiki/Safety_data_sheet" title="Safety data sheet">Safety data sheet</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.inchem.org/documents/icsc/icsc/eics0954.htm">ICSC 0954</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td><a href="/wiki/NFPA_704" title="NFPA 704">NFPA 704</a>
+</td>
+<td><div style="width:100%; background:transparent;"><div id="refs" style="float:right; padding:1px; text-align:right;"><sup id="cite_ref-fca_8-1" class="reference"><a href="#cite_note-fca-8">&#91;8&#93;</a></sup></div><div id="container" style="float:left; margin-left:1em; width:82px; font-family:sans-serif"><div id="on_image_elements" class="nounderlines" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_1154379319"><area href="/wiki/NFPA_704#Red" shape="poly" coords="40,0,60,20,40,40,20,20" alt="Flammability code 0: Will not burn. E.g., water" title="Flammability code 0: Will not burn. E.g., water" /><area href="/wiki/NFPA_704#Blue" shape="poly" coords="20,20,40,40,20,60,0,40" alt="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine" /><area href="/wiki/NFPA_704#Yellow" shape="poly" coords="60,20,80,40,60,60,40,40" alt="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen" title="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen" /><area href="/wiki/NFPA_704#White" shape="poly" coords="40,40,60,60,40,80,20,60" alt="Special hazards (white): no code" title="Special hazards (white): no code" /></map><img alt="NFPA 704 four-colored diamond" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" data-file-width="600" data-file-height="600" usemap="#ImageMap_1_1154379319" /></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 0: Will not burn. E.g., water">0</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine">1</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 0: Normally stable, even under fire exposure conditions, and is not reactive with water. E.g., liquid nitrogen">0</span></a></div></div></div></div>
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2" style="text-align:left; background-color:#f1f1f1;">Lethal dose or concentration (<i>LD</i>, <i>LC</i>):
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><i>LD</i><sub>50</sub> (<a href="/wiki/Lethal_dose#LD50" title="Lethal dose">median dose</a>)</div>
+</td>
+<td>&gt; 20 g/kg (rats, oral)<sup id="cite_ref-fca_8-0" class="reference"><a href="#cite_note-fca-8">&#91;8&#93;</a></sup>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left; background-color:#f1f1f1;">US health exposure limits (<a href="/wiki/National_Institute_for_Occupational_Safety_and_Health" title="National Institute for Occupational Safety and Health">NIOSH</a>):
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Permissible_exposure_limit" title="Permissible exposure limit">PEL</a> (Permissible)</div>
+</td>
+<td>none<sup id="cite_ref-PGCH_2-1" class="reference"><a href="#cite_note-PGCH-2">&#91;2&#93;</a></sup>
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Recommended_exposure_limit" title="Recommended exposure limit">REL</a> (Recommended)</div>
+</td>
+<td>TWA 2 mg/m<sup>3</sup><sup id="cite_ref-PGCH_2-2" class="reference"><a href="#cite_note-PGCH-2">&#91;2&#93;</a></sup>
+</td></tr>
+
+
+
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/IDLH" class="mw-redirect" title="IDLH">IDLH</a> (Immediate danger)</div>
+</td>
+<td>N.D.<sup id="cite_ref-PGCH_2-3" class="reference"><a href="#cite_note-PGCH-2">&#91;2&#93;</a></sup>
+</td></tr>
+
+
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+
+
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related <a href="/wiki/Tin" title="Tin">tin</a> <a href="/wiki/Oxide" title="Oxide">oxides</a></div>
+</td>
+<td><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a>
+</td></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25&#160;°C [77&#160;°F], 100&#160;kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/12px-X_mark.svg.png" width="12" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/18px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/24px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span>&#160;<span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=441026480&amp;page2=Tin%28IV%29+Oxide">verify</a></span>&#160;(<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a>&#160;<sup><img alt="☑" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span><img alt="☒" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" width="7" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></sup>&#160;?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox&#160;references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Tin(IV) Oxide</b>, also known as <b>stannic oxide</b>, is the <a href="/wiki/Inorganic_compound" title="Inorganic compound">inorganic compound</a> with the <a href="/wiki/Chemical_formula" title="Chemical formula">formula</a> <b>SnO<sub>2</sub></b>. The mineral form of SnO<sub>2</sub> is called <a href="/wiki/Cassiterite" title="Cassiterite">cassiterite</a>, and this is the main ore of <a href="/wiki/Tin" title="Tin">tin</a>.<sup id="cite_ref-Greenwood_9-0" class="reference"><a href="#cite_note-Greenwood-9">&#91;9&#93;</a></sup> With many other names, this <a href="/wiki/Oxide" title="Oxide">oxide</a> of tin is an important material in tin chemistry. It is a colourless, <a href="/wiki/Diamagnetic" class="mw-redirect" title="Diamagnetic">diamagnetic</a>, <a href="/wiki/Amphoteric" class="mw-redirect" title="Amphoteric">amphoteric</a> solid.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Preparation"><span class="tocnumber">2</span> <span class="toctext">Preparation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Amphoterism"><span class="tocnumber">3</span> <span class="toctext">Amphoterism</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Uses"><span class="tocnumber">4</span> <span class="toctext">Uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Ceramic_glazes"><span class="tocnumber">4.1</span> <span class="toctext">Ceramic glazes</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Polishing"><span class="tocnumber">4.2</span> <span class="toctext">Polishing</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Glass_coatings"><span class="tocnumber">4.3</span> <span class="toctext">Glass coatings</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Gas_sensing"><span class="tocnumber">4.4</span> <span class="toctext">Gas sensing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Diossido_di_stagno_7.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Diossido_di_stagno_7.jpg/200px-Diossido_di_stagno_7.jpg" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Diossido_di_stagno_7.jpg/300px-Diossido_di_stagno_7.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Diossido_di_stagno_7.jpg/400px-Diossido_di_stagno_7.jpg 2x" data-file-width="3488" data-file-height="2616" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Diossido_di_stagno_7.jpg" class="internal" title="Enlarge"></a></div>Tin (IV) oxide fibers (<a href="/wiki/Optical_microscope" title="Optical microscope">optical microscope</a>)</div></div></div>
+<p>Tin(IV) oxide crystallises with the <a href="/wiki/Rutile" title="Rutile">rutile</a> structure.  As such the tin atoms are six coordinate and the oxygen atoms three coordinate.<sup id="cite_ref-Greenwood_9-1" class="reference"><a href="#cite_note-Greenwood-9">&#91;9&#93;</a></sup> SnO<sub>2</sub> is usually regarded as an oxygen-deficient <a href="/wiki/N-type_semiconductor" class="mw-redirect" title="N-type semiconductor">n-type semiconductor</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> 
+</p><p>Hydrous forms of SnO<sub>2</sub> have been described as <b>stannic acid</b>. Such materials appear to be hydrated particles of SnO<sub>2</sub> where the composition reflects the particle size.<sup id="cite_ref-Wiberg&amp;Holleman_11-0" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Preparation">Preparation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=2" title="Edit section: Preparation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tin(IV) oxide occurs naturally. Synthetic tin(IV) oxide is produced by burning tin metal in air.<sup id="cite_ref-Wiberg&amp;Holleman_11-1" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup> Annual production is in the range of 10 kilotons.<sup id="cite_ref-Wiberg&amp;Holleman_11-2" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup> SnO<sub>2</sub> is reduced industrially to the metal with carbon in a <a href="/wiki/Reverberatory_furnace" title="Reverberatory furnace">reverberatory furnace</a> at 1200–1300&#160;°C.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Amphoterism">Amphoterism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=3" title="Edit section: Amphoterism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although SnO<sub>2</sub> is insoluble in water, it is <a href="/wiki/Amphoteric" class="mw-redirect" title="Amphoteric">amphoteric</a>, dissolving in base and acid.<sup id="cite_ref-Sherwood_13-0" class="reference"><a href="#cite_note-Sherwood-13">&#91;13&#93;</a></sup> "Stannic acid" refers to hydrated tin (IV) oxide, SnO<sub>2</sub>, which is also called "stannic hydroxide."
+</p><p>Tin oxides dissolve in acids. Halogen acids attack SnO<sub>2</sub> to give hexahalostannates,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> such as [SnI<sub>6</sub>]<sup>2−</sup>. One report describes reacting a sample in refluxing <a href="/wiki/Hydriodic_acid" class="mw-redirect" title="Hydriodic acid">HI</a> for many hours.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<dl><dd>SnO<sub>2</sub> + 6 HI → H<sub>2</sub>SnI<sub>6</sub> + 2 H<sub>2</sub>O</dd></dl>
+<p>Similarly, SnO<sub>2</sub> dissolves in sulfuric acid to give the sulfate:<sup id="cite_ref-Wiberg&amp;Holleman_11-3" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup>
+</p>
+<dl><dd>SnO<sub>2</sub> + 2 H<sub>2</sub>SO<sub>4</sub> → Sn(SO<sub>4</sub>)<sub>2</sub> + 2 H<sub>2</sub>O</dd></dl>
+<p>SnO<sub>2</sub> dissolves in strong base to give "<a href="/wiki/Stannate" title="Stannate">stannates</a>," with the nominal formula <a href="/wiki/Sodium_stannate" title="Sodium stannate">Na<sub>2</sub>SnO<sub>3</sub></a>.<sup id="cite_ref-Wiberg&amp;Holleman_11-4" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup> Dissolving the solidified SnO<sub>2</sub>/NaOH melt in water gives Na<sub>2</sub>[Sn(OH)<sub>6</sub>]<sub>2</sub>, "preparing salt," which is used in the dye industry.<sup id="cite_ref-Wiberg&amp;Holleman_11-5" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=4" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In conjunction with vanadium oxide, it is used as a catalyst for the oxidation of aromatic compounds in the synthesis of <a href="/wiki/Carboxylic_acid" title="Carboxylic acid">carboxylic acids</a> and acid anhydrides.<sup id="cite_ref-Greenwood_9-2" class="reference"><a href="#cite_note-Greenwood-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ceramic_glazes">Ceramic glazes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=5" title="Edit section: Ceramic glazes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tin(IV) oxide has long been used as an <a href="/wiki/Opacifier" title="Opacifier">opacifier</a> and as a white colorant in <a href="/wiki/Ceramic_glaze" title="Ceramic glaze">ceramic glazes</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> This has probably led to the discovery of the pigment <a href="/wiki/Lead-tin-yellow" title="Lead-tin-yellow">lead-tin-yellow</a>, which was produced using tin(IV) oxide as a compound.<sup id="cite_ref-Kühn1967_17-0" class="reference"><a href="#cite_note-Kühn1967-17">&#91;17&#93;</a></sup> The use of tin(IV) oxide has been particularly common in glazes for <a href="/wiki/Earthenware" title="Earthenware">earthenware</a>, sanitaryware and wall tiles; see the articles <a href="/wiki/Tin-glazing" title="Tin-glazing">tin-glazing</a> and <a href="/wiki/Tin-glazed_pottery" title="Tin-glazed pottery">Tin-glazed pottery</a>. Tin oxide remains in suspension in vitreous matrix of the fired glazes, and, with its high refractive index being sufficiently different from the matrix, light is scattered, and hence increases the <a href="/wiki/Opacity_(optics)" title="Opacity (optics)">opacity</a> of the glaze. The degree of dissolution increases with the firing temperature, and hence the extent of opacity diminishes.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Although dependent on the other constituents the solubility of tin oxide in glaze melts is generally low. Its solubility is increased by Na<sub>2</sub>O, K<sub>2</sub>O and B<sub>2</sub>O<sub>3</sub>, and reduced by CaO, BaO, ZnO, Al<sub>2</sub>O<sub>3</sub>, and to a limited extent PbO.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>SnO<sub>2</sub> has been used as pigment in the manufacture of glasses, enamels and ceramic glazes. Pure SnO<sub>2</sub> gives a milky white colour; other colours are achieved when mixed with other metallic oxides e.g. <a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">V<sub>2</sub>O<sub>5</sub></a> yellow; <a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Cr<sub>2</sub>O<sub>3</sub></a> pink; and <a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Sb<sub>2</sub>O<sub>5</sub></a> grey blue.<sup id="cite_ref-Wiberg&amp;Holleman_11-6" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Polishing">Polishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=6" title="Edit section: Polishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tin(IV) oxide can be used as a polishing powder,<sup id="cite_ref-Wiberg&amp;Holleman_11-7" class="reference"><a href="#cite_note-Wiberg&amp;Holleman-11">&#91;11&#93;</a></sup> sometimes in mixtures also with lead oxide, for polishing glass, jewelery, marble and silver.<sup id="cite_ref-mfa_1-1" class="reference"><a href="#cite_note-mfa-1">&#91;1&#93;</a></sup> Tin(IV) oxide for this use is sometimes called as "putty powder"<sup id="cite_ref-Sherwood_13-1" class="reference"><a href="#cite_note-Sherwood-13">&#91;13&#93;</a></sup> or "jeweler's putty".<sup id="cite_ref-mfa_1-2" class="reference"><a href="#cite_note-mfa-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Glass_coatings">Glass coatings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=7" title="Edit section: Glass coatings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SnO<sub>2</sub> coatings can be applied using <a href="/wiki/Chemical_vapor_deposition" title="Chemical vapor deposition">chemical vapor deposition</a>, vapour deposition techniques that employ <a href="/wiki/Tin(IV)_chloride" title="Tin(IV) chloride">SnCl<sub>4</sub></a><sup id="cite_ref-Greenwood_9-3" class="reference"><a href="#cite_note-Greenwood-9">&#91;9&#93;</a></sup> or organotin trihalides<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> e.g. <a href="/wiki/Butyltin_trichloride" title="Butyltin trichloride">butyltin trichloride</a> as the volatile agent. This technique is used to coat glass bottles with a thin (&lt;0.1 μm) layer of SnO<sub>2</sub>, which helps to adhere a subsequent, protective polymer coating such as polyethylene to the glass.<sup id="cite_ref-Greenwood_9-4" class="reference"><a href="#cite_note-Greenwood-9">&#91;9&#93;</a></sup>
+</p><p>Thicker layers doped with Sb or F ions are electrically conducting and used in electroluminescent devices.<sup id="cite_ref-Greenwood_9-5" class="reference"><a href="#cite_note-Greenwood-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Gas_sensing">Gas sensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=8" title="Edit section: Gas sensing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SnO<sub>2</sub> is used in <a href="/wiki/Gas_detector" title="Gas detector">sensors of combustible gases</a> including <a href="/wiki/Carbon_monoxide_detector" title="Carbon monoxide detector">carbon monoxide detectors</a>. In these the sensor area is heated to a constant temperature (few hundred °C) and in the presence of a <a href="/wiki/Combustibility" class="mw-redirect" title="Combustibility">combustible</a> gas the <a href="/wiki/Electrical_resistivity" class="mw-redirect" title="Electrical resistivity">electrical resistivity</a> drops.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+<a href="/wiki/Doping_(semiconductors)" class="mw-redirect" title="Doping (semiconductors)">Doping</a> with various compounds has been investigated (e.g. with <a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">CuO</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>). <a href="/wiki/Doping_(semiconductors)" class="mw-redirect" title="Doping (semiconductors)">Doping</a> with cobalt and manganese, gives a material that can be used in e.g. high voltage <a href="/wiki/Varistor" title="Varistor">varistors</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> Tin(IV) oxide can be doped with the oxides of <a href="/wiki/Iron" title="Iron">iron</a> or <a href="/wiki/Manganese" title="Manganese">manganese</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-mfa-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mfa_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mfa_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mfa_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121104011622/http://cameo.mfa.org/browse/record.asp?subkey=8907">"Material Name: stannic oxide"</a>. <a href="/wiki/Museum_of_Fine_Arts,_Boston" title="Museum of Fine Arts, Boston">Museum of Fine Arts, Boston</a>. 2007-02-10. Archived from <a rel="nofollow" class="external text" href="http://cameo.mfa.org/browse/record.asp?subkey=8907">the original</a> on 2012-11-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Material+Name%3A+stannic+oxide&amp;rft.pub=Museum+of+Fine+Arts%2C+Boston&amp;rft.date=2007-02-10&amp;rft_id=http%3A%2F%2Fcameo.mfa.org%2Fbrowse%2Frecord.asp%3Fsubkey%3D8907&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-PGCH-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-PGCH_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PGCH_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PGCH_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PGCH_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cdc.gov/niosh/npg/npgd0616.html">"NIOSH Pocket Guide to Chemical Hazards #0616"</a>. <a href="/wiki/National_Institute_for_Occupational_Safety_and_Health" title="National Institute for Occupational Safety and Health">National Institute for Occupational Safety and Health</a> (NIOSH).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NIOSH+Pocket+Guide+to+Chemical+Hazards+%230616&amp;rft.pub=National+Institute+for+Occupational+Safety+and+Health+%28NIOSH%29&amp;rft_id=https%3A%2F%2Fwww.cdc.gov%2Fniosh%2Fnpg%2Fnpgd0616.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pubchem-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-pubchem_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pubchem_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pubchem_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-pubchem_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/29011">CID 29011</a> from <a href="/wiki/PubChem" title="PubChem">PubChem</a></span>
+</li>
+<li id="cite_note-crc-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-crc_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-crc_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-crc_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-crc_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-crc_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-crc_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-crc_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-crc_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-crc_4-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Lide, David R., ed. (2009). <i><a href="/wiki/CRC_Handbook_of_Chemistry_and_Physics" title="CRC Handbook of Chemistry and Physics">CRC Handbook of Chemistry and Physics</a></i> (90th ed.). <a href="/wiki/Boca_Raton,_Florida" title="Boca Raton, Florida">Boca Raton, Florida</a>: <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4200-9084-0" title="Special:BookSources/978-1-4200-9084-0">978-1-4200-9084-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=CRC+Handbook+of+Chemistry+and+Physics&amp;rft.place=Boca+Raton%2C+Florida&amp;rft.edition=90th&amp;rft.pub=CRC+Press&amp;rft.date=2009&amp;rft.isbn=978-1-4200-9084-0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pphoic-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-pphoic_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Pradyot, Patnaik (2003). <i>Handbook of Inorganic Chemicals</i>. The McGraw-Hill Companies, Inc. p.&#160;940. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-049439-8" title="Special:BookSources/0-07-049439-8">0-07-049439-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Inorganic+Chemicals&amp;rft.pages=940&amp;rft.pub=The+McGraw-Hill+Companies%2C+Inc.&amp;rft.date=2003&amp;rft.isbn=0-07-049439-8&amp;rft.aulast=Pradyot&amp;rft.aufirst=Patnaik&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-iucruber-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-iucruber_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-iucruber_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-iucruber_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-iucruber_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Baur, W.H. (1956). "Über die Verfeinerung der Kristallstrukturbestimmung einiger Vertreter des Rutiltyps: TiO<sub>2</sub>, SnO<sub>2</sub>, GeO<sub>2</sub> und MgF<sub>2</sub>". <i>Acta Crystallographica</i>. <b>9</b> (6): 515–520. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1107%2FS0365110X56001388">10.1107/S0365110X56001388</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Crystallographica&amp;rft.atitle=%C3%9Cber+die+Verfeinerung+der+Kristallstrukturbestimmung+einiger+Vertreter+des+Rutiltyps%3A+TiO%3Csub%3E2%3C%2Fsub%3E%2C+SnO%3Csub%3E2%3C%2Fsub%3E%2C+GeO%3Csub%3E2%3C%2Fsub%3E+und+MgF%3Csub%3E2%3C%2Fsub%3E&amp;rft.volume=9&amp;rft.issue=6&amp;rft.pages=515-520&amp;rft.date=1956&amp;rft_id=info%3Adoi%2F10.1107%2FS0365110X56001388&amp;rft.aulast=Baur&amp;rft.aufirst=W.H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-nist-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-nist_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nist_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://webbook.nist.gov/cgi/cbook.cgi?ID=C18282105&amp;Mask=FFFF&amp;Units=SI">Stannic oxide</a> in Linstrom, Peter&#160;J.; Mallard, William&#160;G. (eds.); <i>NIST Chemistry WebBook, NIST Standard Reference Database Number 69</i>, National Institute of Standards and Technology, Gaithersburg (MD), <a rel="nofollow" class="external free" href="http://webbook.nist.gov">http://webbook.nist.gov</a> (retrieved 2014-07-04)</span>
+</li>
+<li id="cite_note-fca-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-fca_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fca_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fishersci.ca/viewmsds.do?catNo=AC223681000">"MSDS of Tin(IV) oxide"</a>. <i><a rel="nofollow" class="external free" href="https://www.fishersci.ca">https://www.fishersci.ca</a></i>. Fisher Scientific<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=https%3A%2F%2Fwww.fishersci.ca&amp;rft.atitle=MSDS+of+Tin%28IV%29+oxide&amp;rft_id=https%3A%2F%2Fwww.fishersci.ca%2Fviewmsds.do%3FcatNo%3DAC223681000&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">External link in <code class="cs1-code">&#124;website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Greenwood-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Greenwood_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Greenwood_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Greenwood_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Greenwood_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Greenwood_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Greenwood_9-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Norman_Greenwood" title="Norman Greenwood">Greenwood, Norman N.</a>; Earnshaw, Alan (1984). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=OezvAAAAMAAJ&amp;q=0-08-022057-6&amp;dq=0-08-022057-6&amp;source=bl&amp;ots=m4tIRxdwSk&amp;sig=XQTTjw5EN9n5z62JB3d0vaUEn0Y&amp;hl=en&amp;sa=X&amp;ei=UoAWUN7-EM6ziQfyxIDoCQ&amp;ved=0CD8Q6AEwBA"><i>Chemistry of the Elements</i></a>. Oxford: <a href="/wiki/Pergamon_Press" title="Pergamon Press">Pergamon Press</a>. pp.&#160;447–48. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-08-022057-6" title="Special:BookSources/0-08-022057-6">0-08-022057-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemistry+of+the+Elements&amp;rft.place=Oxford&amp;rft.pages=447-48&amp;rft.pub=Pergamon+Press&amp;rft.date=1984&amp;rft.isbn=0-08-022057-6&amp;rft.aulast=Greenwood&amp;rft.aufirst=Norman+N.&amp;rft.au=Earnshaw%2C+Alan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOezvAAAAMAAJ%26q%3D0-08-022057-6%26dq%3D0-08-022057-6%26source%3Dbl%26ots%3Dm4tIRxdwSk%26sig%3DXQTTjw5EN9n5z62JB3d0vaUEn0Y%26hl%3Den%26sa%3DX%26ei%3DUoAWUN7-EM6ziQfyxIDoCQ%26ved%3D0CD8Q6AEwBA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Solid State Chemistry: An Introduction Lesley Smart, Elaine A. Moore (2005) CRC Press <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7487-7516-1" title="Special:BookSources/0-7487-7516-1">0-7487-7516-1</a></span>
+</li>
+<li id="cite_note-Wiberg&amp;Holleman-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wiberg&amp;Holleman_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wiberg&amp;Holleman_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Wiberg&amp;Holleman_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Wiberg&amp;Holleman_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Wiberg&amp;Holleman_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Wiberg&amp;Holleman_11-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Wiberg&amp;Holleman_11-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Wiberg&amp;Holleman_11-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHollemanWiberg2001" class="citation">Holleman, Arnold Frederik; Wiberg, Egon (2001),  Wiberg, Nils, ed., <i>Inorganic Chemistry</i>, translated by Eagleson, Mary; Brewer, William, San Diego/Berlin: Academic Press/De Gruyter, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-352651-5" title="Special:BookSources/0-12-352651-5">0-12-352651-5</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.place=San+Diego%2FBerlin&amp;rft.pub=Academic+Press%2FDe+Gruyter&amp;rft.date=2001&amp;rft.isbn=0-12-352651-5&amp;rft.aulast=Holleman&amp;rft.aufirst=Arnold+Frederik&amp;rft.au=Wiberg%2C+Egon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><i>Tin: Inorganic chemistry</i>,J L Wardell, Encyclopedia of Inorganic Chemistry ed R. Bruce King, John Wiley &amp; Son Ltd., (1995) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-93620-0" title="Special:BookSources/0-471-93620-0">0-471-93620-0</a></span>
+</li>
+<li id="cite_note-Sherwood-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sherwood_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sherwood_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Inorganic &amp; Theoretical chemistry</i>, F. Sherwood Taylor, Heineman, 6th Edition (1942)</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Donaldson &amp; Grimes in Chemistry of tin ed. P.G. Harrison Blackie (1989)</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Earle R. Caley (1932). "The Action Of Hydriodic Acid On Stannic Oxide". <i>J. Am. Chem. Soc</i>. <b>54</b> (8): 3240–3243. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1021%2Fja01347a028">10.1021/ja01347a028</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=The+Action+Of+Hydriodic+Acid+On+Stannic+Oxide&amp;rft.volume=54&amp;rft.issue=8&amp;rft.pages=3240-3243&amp;rft.date=1932&amp;rft_id=info%3Adoi%2F10.1021%2Fja01347a028&amp;rft.au=Earle+R.+Caley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">’The Glazer’s Book’ – 2nd edition. <i>A.B.Searle.The Technical Press Limited.</i> London. 1935.</span>
+</li>
+<li id="cite_note-Kühn1967-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kühn1967_17-0">^</a></b></span> <span class="reference-text">Hermann Kühn, 1967, "Blei-Zinn-Gelb und seine Verwendung in der Malerei", <i>Farbe und Lack</i> <b>73</b>: 938-949</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">’A Treatise On Ceramic Industries.’ E.Bourry. Fourth edition. Scott, Greenwood &amp; son. London. 1926.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">’Ceramic Glazes’ Third edition. C.W.Parmelee &amp; C.G.Harman. <i>Cahners Books</i>, Boston, Massachusetts. 1973.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US4130673">US 4130673</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=4130673&amp;rft.cc=US&amp;rft.title="><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Joseph Watson The stannic oxide semiconductor gas sensor in The Electrical engineering Handbook 3d Edition; Sensors Nanoscience Biomedical Engineering and Instruments ed R.C Dorf CRC Press Taylor and Francis <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8493-7346-8" title="Special:BookSources/0-8493-7346-8">0-8493-7346-8</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wang, Chun-Ming; Wang, Jin-Feng; Su, Wen-Bin (2006). "Microstructural Morphology and Electrical Properties of Copper- and Niobium-Doped Tin (IV) oxide Polycrystalline Varistors". <i>Journal of the American Ceramic Society</i>. <b>89</b> (8): 2502–2508. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1551-2916.2006.01076.x">10.1111/j.1551-2916.2006.01076.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Ceramic+Society&amp;rft.atitle=Microstructural+Morphology+and+Electrical+Properties+of+Copper-+and+Niobium-Doped+Tin+%28IV%29+oxide+Polycrystalline+Varistors&amp;rft.volume=89&amp;rft.issue=8&amp;rft.pages=2502-2508&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1551-2916.2006.01076.x&amp;rft.au=Wang%2C+Chun-Ming&amp;rft.au=Wang%2C+Jin-Feng&amp;rft.au=Su%2C+Wen-Bin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a rel="nofollow" class="external autonumber" href="http://www.scielo.br/pdf/mr/v9n3/31795.pdf">[1]</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dibb A.; Cilense M; Bueno P.R; Maniette Y.; Varela J.A.; Longo E. (2006). "Evaluation of Rare Earth Oxides doping SnO<sub>2</sub>.(Co<sub>0.25</sub>,Mn<sub>0.75</sub>)O-based Varistor System". <i>Materials Research</i>. <b>9</b> (3): 339–343. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1590%2FS1516-14392006000300015">10.1590/S1516-14392006000300015</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Materials+Research&amp;rft.atitle=Evaluation+of+Rare+Earth+Oxides+doping+SnO%3Csub%3E2%3C%2Fsub%3E.%28Co%3Csub%3E0.25%3C%2Fsub%3E%2CMn%3Csub%3E0.75%3C%2Fsub%3E%29O-based+Varistor+System&amp;rft.volume=9&amp;rft.issue=3&amp;rft.pages=339-343&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1590%2FS1516-14392006000300015&amp;rft.au=Dibb+A.&amp;rft.au=Cilense+M&amp;rft.au=Bueno+P.R&amp;rft.au=Maniette+Y.&amp;rft.au=Varela+J.A.&amp;rft.au=Longo+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. Punnoose; J. Hays; A. Thurber; M. H. Engelhard; R. K. Kukkadapu; C. Wang; V. Shutthanandan &amp; S. Thevuthasan (2005). "Development of high-temperature ferromagnetism in SnO2 and paramagnetism in SnO by Fe doping". <i>Phys. Rev. B</i>. <b>72</b> (8): 054402. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1103%2FPhysRevB.72.054402">10.1103/PhysRevB.72.054402</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phys.+Rev.+B&amp;rft.atitle=Development+of+high-temperature+ferromagnetism+in+SnO2+and+paramagnetism+in+SnO+by+Fe+doping&amp;rft.volume=72&amp;rft.issue=8&amp;rft.pages=054402&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevB.72.054402&amp;rft.au=A.+Punnoose&amp;rft.au=J.+Hays&amp;rft.au=A.+Thurber&amp;rft.au=M.+H.+Engelhard&amp;rft.au=R.+K.+Kukkadapu&amp;rft.au=C.+Wang&amp;rft.au=V.+Shutthanandan&amp;rft.au=S.+Thevuthasan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pilkington.com/resources/howpilkingtonenergyadvantageworks.pdf">"How Pilkington Energy Advantage™ Low-E Glass Works"</a> <span class="cs1-format">(PDF)</span>. Pilkington Group Limited. 18 July 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+Pilkington+Energy+Advantage%E2%84%A2+Low-E+Glass+Works&amp;rft.pub=Pilkington+Group+Limited&amp;rft.date=2005-07-18&amp;rft_id=http%3A%2F%2Fwww.pilkington.com%2Fresources%2Fhowpilkingtonenergyadvantageworks.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since July 2018">permanent dead link</span></a></i>&#93;</span></sup> Technical discussion of how SnO<sub>2</sub>:F is used in <a href="/wiki/Low-emissivity" class="mw-redirect" title="Low-emissivity">low-emissivity</a> (low-E) windows. The report includes reflectance and transmittance spectra.</li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cdc.gov/niosh/npg/npgd0616.html">"NIOSH Pocket Guide to Chemical Hazards - Tin(IV) oxide (as Sn)"</a>. Centers for Disease Control and Prevention. 4 April 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NIOSH+Pocket+Guide+to+Chemical+Hazards+-+Tin%28IV%29+oxide+%28as+Sn%29&amp;rft.pub=Centers+for+Disease+Control+and+Prevention&amp;rft.date=2011-04-04&amp;rft_id=https%3A%2F%2Fwww.cdc.gov%2Fniosh%2Fnpg%2Fnpgd0616.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATin%28IV%29+Oxide" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> Information on chemical safety and exposure limits</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Tin_compounds" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Tin_compounds" title="Template:Tin compounds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tin_compounds" title="Template talk:Tin compounds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tin_compounds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tin_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Tin" title="Tin">Tin</a> compounds</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sn(II)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tin(II)_bromide" title="Tin(II) bromide">SnBr<sub>2</sub></a></li>
+<li><a href="/wiki/Tin(II)_chloride" title="Tin(II) chloride">SnCl<sub>2</sub></a></li>
+<li><a href="/wiki/Tin(II)_fluoride" title="Tin(II) fluoride">SnF<sub>2</sub></a></li>
+<li><a href="/wiki/Tin(II)_iodide" title="Tin(II) iodide">SnI<sub>2</sub></a></li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">SnO</a></li>
+<li><a href="/wiki/Tin(II)_hydroxide" title="Tin(II) hydroxide">Sn(OH)<sub>2</sub></a></li>
+<li><a href="/wiki/Tin(II)_sulfate" title="Tin(II) sulfate">SnSO<sub>4</sub></a></li>
+<li><a href="/wiki/Tin_selenide" title="Tin selenide">SnSe</a></li>
+<li><a href="/wiki/Tin_telluride" title="Tin telluride">SnTe</a></li>
+<li><a href="/wiki/Tin(II)_sulfide" title="Tin(II) sulfide">SnS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sn(IV)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tin(IV)_bromide" title="Tin(IV) bromide">SnBr<sub>4</sub></a></li>
+<li><a href="/wiki/Tin(IV)_chloride" title="Tin(IV) chloride">SnCl<sub>4</sub></a></li>
+<li><a href="/wiki/Tin(IV)_fluoride" title="Tin(IV) fluoride">SnF<sub>4</sub></a></li>
+<li><a href="/wiki/Stannane" title="Stannane">SnH<sub>4</sub></a></li>
+<li><a href="/wiki/Tin(IV)_iodide" title="Tin(IV) iodide">SnI<sub>4</sub></a></li>
+<li><a href="/wiki/Tin_dioxide" class="mw-redirect" title="Tin dioxide">SnO<sub>2</sub></a></li>
+<li><a href="/wiki/Tin(IV)_sulfide" title="Tin(IV) sulfide">SnS<sub>2</sub></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oxides" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Hafnium(IV)_oxide" class="mw-redirect" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" class="new" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tin_dioxide" class="mw-redirect" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" class="new" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" class="new" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20181010144450
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.080 seconds
+Real time usage: 1.603 seconds
+Preprocessor visited node count: 8841/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 184595/2097152 bytes
+Template argument size: 31640/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 53469/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.387/10.000 seconds
+Lua memory usage: 8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1390.591      1 -total
+ 70.80%  984.481      1 Template:Chembox
+ 29.48%  409.892      1 Template:Chembox_Identifiers
+ 22.13%  307.730      1 Template:Reflist
+ 19.29%  268.226      1 Template:Chembox_Properties
+ 17.44%  242.568     29 Template:Trim
+ 17.42%  242.207      7 Template:Chembox_headerbar
+ 10.44%  145.241     17 Template:Main_other
+  8.50%  118.132      1 Template:Chembox_parametercheck
+  6.72%   93.492      1 Template:Chembox_Elements
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2367828-0!canonical and timestamp 20181010144448 and revision id 848520564
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tin(IV)_Oxide&amp;oldid=848520564">https://en.wikipedia.org/w/index.php?title=Tin(IV)_Oxide&amp;oldid=848520564</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Oxides" title="Category:Oxides">Oxides</a></li><li><a href="/wiki/Category:Tin_compounds" title="Category:Tin compounds">Tin compounds</a></li><li><a href="/wiki/Category:Semiconductor_materials" title="Category:Semiconductor materials">Semiconductor materials</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:PubChem_ID_(CID)_same_as_Wikidata" title="Category:PubChem ID (CID) same as Wikidata">PubChem ID (CID) same as Wikidata</a></li><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:Chemical_articles_with_multiple_compound_IDs" title="Category:Chemical articles with multiple compound IDs">Chemical articles with multiple compound IDs</a></li><li><a href="/wiki/Category:Multiple_chemicals_in_an_infobox_that_need_indexing" title="Category:Multiple chemicals in an infobox that need indexing">Multiple chemicals in an infobox that need indexing</a></li><li><a href="/wiki/Category:Chemical_articles_with_multiple_CAS_registry_numbers" title="Category:Chemical articles with multiple CAS registry numbers">Chemical articles with multiple CAS registry numbers</a></li><li><a href="/wiki/Category:Articles_without_InChI_source" title="Category:Articles without InChI source">Articles without InChI source</a></li><li><a href="/wiki/Category:Articles_without_EBI_source" title="Category:Articles without EBI source">Articles without EBI source</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:Articles_with_changed_CASNo_identifier" title="Category:Articles with changed CASNo identifier">Articles with changed CASNo identifier</a></li><li><a href="/wiki/Category:Articles_with_changed_ChemSpider_identifier" title="Category:Articles with changed ChemSpider identifier">Articles with changed ChemSpider identifier</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_changed_InChI_identifier" title="Category:Articles with changed InChI identifier">Articles with changed InChI identifier</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Chembox_image_size_set" title="Category:Chembox image size set">Chembox image size set</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2018" title="Category:Articles with dead external links from July 2018">Articles with dead external links from July 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tin%28IV%29+Oxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tin%28IV%29+Oxide" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tin(IV)_Oxide" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Tin(IV)_Oxide" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Tin(IV)_Oxide">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tin(IV)_Oxide" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tin(IV)_Oxide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tin(IV)_Oxide&amp;oldid=848520564" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tin(IV)_Oxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q129163" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tin%28IV%29_Oxide&amp;id=848520564" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tin%28IV%29+Oxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tin%28IV%29+Oxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tin(IV)_Oxide&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D9%82%D8%B5%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A" title="أكسيد القصدير الرباعي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF_%D8%AA%D9%86%D9%87%E2%80%8C%DA%A9%D9%87" title="دیاوکسید تنه‌که – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Oxid_c%C3%ADni%C4%8Dit%C3%BD" title="Oxid cíničitý – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Zinn(IV)-oxid" title="Zinn(IV)-oxid – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Di%C3%B3xido_de_esta%C3%B1o" title="Dióxido de estaño – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF_%D9%82%D9%84%D8%B9" title="دی‌اکسید قلع – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dioxyde_d%27%C3%A9tain" title="Dioxyde d&#039;étain – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%82%B0%ED%99%94_%EC%A3%BC%EC%84%9D" title="산화 주석 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%A1%D5%A3%D5%AB_%D6%85%D6%84%D5%BD%D5%AB%D5%A4(IV)" title="Անագի օքսիդ(IV) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Timah_dioksida" title="Timah dioksida – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Diossido_di_stagno" title="Diossido di stagno – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%93n-dioxid" title="Ón-dioxid – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Stanum_dioksida" title="Stanum dioksida – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tin(IV)oxide" title="Tin(IV)oxide – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%BA(IV)" title="酸化スズ(IV) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Di%C3%B3xido_de_estanho" title="Dióxido de estanho – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0(IV)" title="Оксид олова(IV) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Tin(IV)_oxide" title="Tin(IV) oxide – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kositrov_dioksid" title="Kositrov dioksid – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Kalaj_dioksid" title="Kalaj dioksid – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kalaj_dioksid" title="Kalaj dioksid – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tinadioksidi" title="Tinadioksidi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tenndioxid" title="Tenndioxid – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Thi%E1%BA%BFc(IV)_oxit" title="Thiếc(IV) oxit – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%B0%A7%E5%8C%96%E9%94%A1" title="二氧化锡 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q129163#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 July 2018, at 13:11<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tin(IV)_Oxide&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.080","walltime":"1.603","ppvisitednodes":{"value":8841,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":184595,"limit":2097152},"templateargumentsize":{"value":31640,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":53469,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1390.591      1 -total"," 70.80%  984.481      1 Template:Chembox"," 29.48%  409.892      1 Template:Chembox_Identifiers"," 22.13%  307.730      1 Template:Reflist"," 19.29%  268.226      1 Template:Chembox_Properties"," 17.44%  242.568     29 Template:Trim"," 17.42%  242.207      7 Template:Chembox_headerbar"," 10.44%  145.241     17 Template:Main_other","  8.50%  118.132      1 Template:Chembox_parametercheck","  6.72%   93.492      1 Template:Chembox_Elements"]},"scribunto":{"limitreport-timeusage":{"value":"0.387","limit":"10.000"},"limitreport-memusage":{"value":8388932,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20181010144450","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>
+

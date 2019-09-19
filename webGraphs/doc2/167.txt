@@ -1,0 +1,493 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Vancouver
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Vancouver - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Vancouver","wgTitle":"Green Party of Vancouver","wgCurRevisionId":852034546,"wgRevisionId":852034546,"wgArticleId":33131092,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Official website different in Wikidata and Wikipedia","Use dmy dates from November 2011","1984 establishments in British Columbia","Green Party of British Columbia","Municipal green political parties in Canada","Municipal political parties in Vancouver","Political parties established in 1984"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Vancouver","wgRelevantArticleId":33131092,"wgRequestId":"W7FsQArAEEUAAHDTNPoAAAAW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5603052","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/f/f2/Green_Party_of_Vancouver_Logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Vancouver"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Vancouver"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Vancouver rootpage-Green_Party_of_Vancouver skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Vancouver</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #99C955; border-bottom:2px solid #99C955; line-height: 1;"><span class="fn org">Green Party of Vancouver</span></div></th></tr><tr><td colspan="2" style="text-align:center">
+Active&#160;municipal&#160;party</td></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Green_Party_of_Vancouver_Logo.png" class="image"><img alt="Green Party of Vancouver Logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Green_Party_of_Vancouver_Logo.png/250px-Green_Party_of_Vancouver_Logo.png" width="250" height="86" srcset="//upload.wikimedia.org/wikipedia/en/f/f2/Green_Party_of_Vancouver_Logo.png 1.5x" data-file-width="280" data-file-height="96" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Adriane_Carr" title="Adriane Carr">Adriane Carr</a><small> (<i>de facto</i>)</small></td></tr><tr><th scope="row" style="line-height:1.3em;">Chairperson</th><td class="agent" style="line-height:1.3em;">
+Anthony Hughes<sup id="cite_ref-Contact_1-0" class="reference"><a href="#cite_note-Contact-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+1984<sup id="cite_ref-About_2-0" class="reference"><a href="#cite_note-About-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+403-207 <a href="/wiki/Hastings_Street_(Vancouver)" title="Hastings Street (Vancouver)">West Hastings Street</a>, <a href="/wiki/Vancouver" title="Vancouver">Vancouver, British Columbia</a>, <a href="/wiki/Canada" title="Canada">Canada</a><sup id="cite_ref-Contact_1-1" class="reference"><a href="#cite_note-Contact-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centre-left" class="mw-redirect" title="Centre-left">Centre-left</a></td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+Green</td></tr><tr><th scope="row" style="line-height:1.3em;">Seats on <a href="/wiki/Vancouver_City_Council" title="Vancouver City Council">City Council</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">1 / 11</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99C955; width: 9%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats on <a href="/wiki/Vancouver_Park_Board" title="Vancouver Park Board">Park Board</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">2 / 7</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99C955; width: 29%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats on <a href="/wiki/Vancouver_School_Board" title="Vancouver School Board">School Board</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">3 / 9</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99C955; width: 33%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.vangreens.ca">www<wbr />.vangreens<wbr />.ca</a></span></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #99C955;"><ul><li><a href="/wiki/Municipal_political_parties_in_Vancouver" title="Municipal political parties in Vancouver">Political parties</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Party of Vancouver</b>, founded in 1984,<sup id="cite_ref-About_2-1" class="reference"><a href="#cite_note-About-2">&#91;2&#93;</a></sup> is a municipal <a href="/wiki/Political_party" title="Political party">political party</a> in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>. It is affiliated with both the provincial <a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">Green Party of British Columbia</a>, and the national <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>.
+</p><p>Roslyn Cassels was the first elected Green in Canada and was elected to the Vancouver Park Board in the <a href="/wiki/Vancouver_municipal_election,_1999" title="Vancouver municipal election, 1999">1999 Vancouver municipal election</a>. In 2005, <a href="/wiki/Andrea_Reimer" title="Andrea Reimer">Andrea Reimer</a> was elected to the <a href="/wiki/Vancouver_School_Board" title="Vancouver School Board">Vancouver School Board</a> as a Trustee, and in 2008 Stuart Mackinnon was elected a Park Board Commissioner.
+</p><p>The party nominated <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a> deputy leader <a href="/wiki/Adriane_Carr" title="Adriane Carr">Adriane Carr</a> as their sole nominee for <a href="/wiki/Vancouver_City_Council" title="Vancouver City Council">Vancouver City Council</a> during the <a href="/wiki/Vancouver_municipal_election,_2011" title="Vancouver municipal election, 2011">2011 Vancouver municipal election</a>.<sup id="cite_ref-VSun_3-0" class="reference"><a href="#cite_note-VSun-3">&#91;3&#93;</a></sup> Carr subsequently won the seat.<sup id="cite_ref-VO1_4-0" class="reference"><a href="#cite_note-VO1-4">&#91;4&#93;</a></sup><sup id="cite_ref-GS1_5-0" class="reference"><a href="#cite_note-GS1-5">&#91;5&#93;</a></sup> Carr retained her council seat during the <a href="/wiki/Vancouver_municipal_election,_2014" title="Vancouver municipal election, 2014">2014 Vancouver municipal election</a>, winning with the highest number of votes of any council candidate.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> School board candidate Janet Fraser and Park Board candidates Michael Wiebe and Stuart Mackinnon were also elected.
+</p><p>The Green Party of Vancouver further increased its seat count following the <a href="/wiki/Vancouver_municipal_by-election,_2017" title="Vancouver municipal by-election, 2017">2017 Vancouver municipal by-election</a> where all three of the party's school board candidates were elected. The party will run 10 candidates in the <a href="/wiki/Vancouver_municipal_election,_2018" title="Vancouver municipal election, 2018">2018 Vancouver municipal election</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Platform"><span class="tocnumber">1</span> <span class="toctext">Platform</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Council_Platform"><span class="tocnumber">1.1</span> <span class="toctext">Council Platform</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Park_Board_Platform"><span class="tocnumber">1.2</span> <span class="toctext">Park Board Platform</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#School_Board_Platform"><span class="tocnumber">1.3</span> <span class="toctext">School Board Platform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Election_Results"><span class="tocnumber">2</span> <span class="toctext">Election Results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Prior_to_2014"><span class="tocnumber">2.1</span> <span class="toctext">Prior to 2014</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#2014_municipal_election"><span class="tocnumber">2.2</span> <span class="toctext">2014 municipal election</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#2017_municipal_by-election"><span class="tocnumber">2.3</span> <span class="toctext">2017 municipal by-election</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#2018_municipal_election"><span class="tocnumber">2.4</span> <span class="toctext">2018 municipal election</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#City_Council"><span class="tocnumber">2.4.1</span> <span class="toctext">City Council</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Parks_Board"><span class="tocnumber">2.4.2</span> <span class="toctext">Parks Board</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#School_Board"><span class="tocnumber">2.4.3</span> <span class="toctext">School Board</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Platform">Platform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=1" title="Edit section: Platform">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For the 2014 Vancouver municipal election, the Green Party of Vancouver focused on the following aspects in its <a href="/wiki/Party_platform" title="Party platform">platform</a>:
+</p>
+<h3><span class="mw-headline" id="Council_Platform">Council Platform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=2" title="Edit section: Council Platform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Public_interest" title="Public interest">Public interest</a> first</li>
+<li>Real affordable housing</li>
+<li>A compassionate, safe, and inclusive city</li>
+<li>People-centred planning</li>
+<li>Practical transportation solutions</li>
+<li>A robust and resilient local economy</li>
+<li>A genuine <a href="/wiki/Sustainable_city" title="Sustainable city">green city</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Park_Board_Platform">Park Board Platform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=3" title="Edit section: Park Board Platform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Community-driven planning</li>
+<li>Accessible, safe <a href="/wiki/Public_space" title="Public space">public spaces</a> for everyone</li>
+<li>Strengthening stakeholder communication</li>
+<li>Maximizing facility usage with a stronger digital strategy</li>
+<li>Green initiatives: <a href="/wiki/Zero_waste" title="Zero waste">zero waste</a>, local food systems, and access to nature</li>
+<li>Parks that focus on natural features</li>
+<li>Revitalized facility and <a href="/wiki/Park" title="Park">park</a> infrastructure</li>
+<li>Outdoor pools and <a href="/wiki/National_Historic_Sites_of_Canada" title="National Historic Sites of Canada">heritage buildings</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="School_Board_Platform">School Board Platform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=4" title="Edit section: School Board Platform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Fully funded <a href="/wiki/State_school" title="State school">public schools</a></li>
+<li>Inclusive schools to support vulnerable students</li>
+<li>Schools as the heart of the community</li>
+<li>Safe schools for everyone</li>
+<li>Financial sustainability and transparency</li>
+<li>Healthy schools</li>
+<li>Genuine green schools<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Election_Results">Election Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=5" title="Edit section: Election Results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Election</th>
+<th>Council</th>
+<th>School Board</th>
+<th>Park Board</th>
+<th>Seat change
+</th></tr>
+<tr>
+<td><a href="/wiki/Vancouver_municipal_election,_1999" title="Vancouver municipal election, 1999">Vancouver municipal election, 1999</a></td>
+<td>0</td>
+<td>0</td>
+<td><b>1</b></td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />1
+</td></tr>
+<tr>
+<td><a href="/wiki/Vancouver_municipal_election,_2002" title="Vancouver municipal election, 2002">Vancouver municipal election, 2002</a></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" />1
+</td></tr>
+<tr>
+<td><a href="/wiki/Vancouver_municipal_election,_2005" title="Vancouver municipal election, 2005">Vancouver municipal election, 2005</a></td>
+<td>0</td>
+<td><b>1</b></td>
+<td>0</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />1
+</td></tr>
+<tr>
+<td><a href="/wiki/Vancouver_municipal_election,_2008" title="Vancouver municipal election, 2008">Vancouver municipal election, 2008</a></td>
+<td>0</td>
+<td>0</td>
+<td><b>1</b></td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" />
+</td></tr>
+<tr>
+<td><a href="/wiki/Vancouver_municipal_election,_2011" title="Vancouver municipal election, 2011">Vancouver municipal election, 2011</a></td>
+<td><b>1</b></td>
+<td>0</td>
+<td>0</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" />
+</td></tr>
+<tr>
+<td><a href="/wiki/Vancouver_municipal_election,_2014" title="Vancouver municipal election, 2014">Vancouver municipal election, 2014</a></td>
+<td><b>1</b></td>
+<td><b>1</b></td>
+<td><b>2</b></td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />3
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Prior_to_2014">Prior to 2014</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=6" title="Edit section: Prior to 2014">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Roslyn Cassels was the first elected Green in Canada and was elected to the Vancouver Park Board in the <a href="/wiki/Vancouver_municipal_election,_1999" title="Vancouver municipal election, 1999">1999 Vancouver municipal election</a>. In 2005, <a href="/wiki/Andrea_Reimer" title="Andrea Reimer">Andrea Reimer</a> was elected to the <a href="/wiki/Vancouver_School_Board" title="Vancouver School Board">Vancouver School Board</a> as a Trustee, and in 2008 Stuart Mackinnon was elected a Park Board Commissioner.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2014_municipal_election">2014 municipal election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=7" title="Edit section: 2014 municipal election">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Party of Vancouver nominated seven candidates for the <a href="/wiki/Vancouver_municipal_election,_2014" title="Vancouver municipal election, 2014">2014 Vancouver municipal election</a>, held on November 15th 2014. <a href="/wiki/Adriane_Carr" title="Adriane Carr">Adriane Carr</a> received the most votes of any council candidate.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>School board candidate Janet Fraser and Park Board candidates Michael Wiebe and Stuart Mackinnon were also elected.
+</p>
+<h3><span class="mw-headline" id="2017_municipal_by-election">2017 municipal by-election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=8" title="Edit section: 2017 municipal by-election">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Vancouver_municipal_by-election,_2017" title="Vancouver municipal by-election, 2017">2017 Vancouver municipal by-election</a> was called to replace a single vacant council seat, due to <a href="/wiki/Geoff_Meggs" title="Geoff Meggs">Geoff Meggs</a>' departure to take on the role of Premier <a href="/wiki/John_Horgan" title="John Horgan">John Horgan</a>'s chief of staff. The by-election was also meant to elect a new board of school trustees, who had been dismissed by provincial education minister <a href="/wiki/Mike_Bernier" title="Mike Bernier">Mike Bernier</a> after failing to pass a balanced budget and allegations of workplace harassment arose.
+</p><p>The Green Party of Vancouver ran Pete Fry for council and Janet Fraser, Estrellita Gonzalez and Judy Zaichkowsky for school board. All three school trustee candidates were elected, finishing in the top three spots.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> <a href="/wiki/Non-Partisan_Association" title="Non-Partisan Association">Non-Partisan Association</a> candidate <a href="/wiki/Hector_Bremner" title="Hector Bremner">Hector Bremner</a> was elected to council, and Fry finished a close third behind anti-poverty activist <a href="/wiki/Jean_Swanson" title="Jean Swanson">Jean Swanson</a>.
+</p>
+<h3><span class="mw-headline" id="2018_municipal_election">2018 municipal election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=9" title="Edit section: 2018 municipal election">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Party of Vancouver nominated 11 candidates to run in the <a href="/wiki/Vancouver_municipal_election,_2018" title="Vancouver municipal election, 2018">2018 Vancouver municipal election</a> on June 28th, 2018.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> School board candidate Nicholas Chernen resigned on July 9th, 2018 after it was discovered that he had failed to disclose his involvement in a pending lawsuit to the party,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> resulting in the party running four council candidates, three school board candidates, and three park board candidates. Prior to the election, both the Vancouver School Board and Park Board were chaired by Green Party <a href="/wiki/Incumbents" class="mw-redirect" title="Incumbents">incumbents</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="City_Council">City Council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=10" title="Edit section: City Council">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Adriane_Carr" title="Adriane Carr">Adriane Carr</a> (incumbent)</li>
+<li>Pete Fry</li>
+<li>Michael Wiebe</li>
+<li>David Wong</li></ul>
+<h4><span class="mw-headline" id="Parks_Board">Parks Board</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=11" title="Edit section: Parks Board">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Dave Demers</li>
+<li>Camil Dumont</li>
+<li>Stuart Mackinnon (incumbent)</li></ul>
+<h4><span class="mw-headline" id="School_Board">School Board</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=12" title="Edit section: School Board">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Lois Chan-Pedley</li>
+<li>Janet Fraser (incumbent)</li>
+<li>Estrellita Gonzalez (incumbent)</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">Green Party of British Columbia</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Contact-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Contact_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Contact_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vangreens.ca/contact">"Contact"</a>. Green Party of Vancouver<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Contact&amp;rft.pub=Green+Party+of+Vancouver&amp;rft_id=http%3A%2F%2Fwww.vangreens.ca%2Fcontact&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-About-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-About_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-About_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vangreens.ca/about">"About"</a>. Green Party of Vancouver<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About&amp;rft.pub=Green+Party+of+Vancouver&amp;rft_id=http%3A%2F%2Fwww.vangreens.ca%2Fabout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-VSun-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-VSun_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Lee, Jeff (12 September 2011). <a rel="nofollow" class="external text" href="http://www.vancouversun.com/news/Adriane+Carr+hopes+Vancouver+council+Greens+alone/5390340/story.html">"Adriane Carr hopes to run for Vancouver council as Greens go it alone"</a>. <a href="/wiki/Vancouver_Sun" title="Vancouver Sun">Vancouver Sun</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Adriane+Carr+hopes+to+run+for+Vancouver+council+as+Greens+go+it+alone&amp;rft.pub=Vancouver+Sun&amp;rft.date=2011-09-12&amp;rft.aulast=Lee&amp;rft.aufirst=Jeff&amp;rft_id=http%3A%2F%2Fwww.vancouversun.com%2Fnews%2FAdriane%2BCarr%2Bhopes%2BVancouver%2Bcouncil%2BGreens%2Balone%2F5390340%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-VO1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-VO1_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Montgomery, Christina (19 November 2011). <a rel="nofollow" class="external text" href="https://www.webcitation.org/63L8XEWyx?url=http://www.vancouverobserver.com/politics/2011/11/19/carr-takes-surprise-council-seat-final-poll-goes-green">"Carr takes surprise council seat as final poll goes Green"</a>. <i>Vancouver Observer</i>. Vancouver, British Columbia. Archived from <a rel="nofollow" class="external text" href="http://www.vancouverobserver.com/politics/2011/11/19/carr-takes-surprise-council-seat-final-poll-goes-green">the original</a> on 20 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vancouver+Observer&amp;rft.atitle=Carr+takes+surprise+council+seat+as+final+poll+goes+Green&amp;rft.date=2011-11-19&amp;rft.aulast=Montgomery&amp;rft.aufirst=Christina&amp;rft_id=http%3A%2F%2Fwww.vancouverobserver.com%2Fpolitics%2F2011%2F11%2F19%2Fcarr-takes-surprise-council-seat-final-poll-goes-green&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GS1-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-GS1_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hui, Stephen (19 November 2011). <a rel="nofollow" class="external text" href="https://www.webcitation.org/63L9lCLhM?url=http://www.straight.com/article-544211/vancouver/greens-adriane-carr-elected-vancouver-city-council">"Greens' Adriane Carr elected to Vancouver city council"</a>. <i><a href="/wiki/The_Georgia_Straight" title="The Georgia Straight">The Georgia Straight</a></i>. Vancouver, British Columbia. Archived from <a rel="nofollow" class="external text" href="https://www.straight.com/article-544211/vancouver/greens-adriane-carr-elected-vancouver-city-council">the original</a> on 20 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Georgia+Straight&amp;rft.atitle=Greens%27+Adriane+Carr+elected+to+Vancouver+city+council&amp;rft.date=2011-11-19&amp;rft.aulast=Hui&amp;rft.aufirst=Stephen&amp;rft_id=https%3A%2F%2Fwww.straight.com%2Farticle-544211%2Fvancouver%2Fgreens-adriane-carr-elected-vancouver-city-council&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Stueck, W; Holdsworth, P (2014-11-16). <a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/news/british-columbia/greens-grow-in-power-despite-one-win-on-council/article21608066/">"Green Party of Vancouver grows in power despite one win on council"</a>. The Globe and Mail Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+of+Vancouver+grows+in+power+despite+one+win+on+council&amp;rft.pub=The+Globe+and+Mail+Inc.&amp;rft.date=2014-11-16&amp;rft.au=Stueck%2C+W&amp;rft.au=Holdsworth%2C+P&amp;rft_id=https%3A%2F%2Fwww.theglobeandmail.com%2Fnews%2Fbritish-columbia%2Fgreens-grow-in-power-despite-one-win-on-council%2Farticle21608066%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://campaign-vangreens.nationbuilder.com/council">"Green Party of Vancouver Council Platform"</a>. Green Party of Vancouver<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+of+Vancouver+Council+Platform&amp;rft.pub=Green+Party+of+Vancouver&amp;rft_id=http%3A%2F%2Fcampaign-vangreens.nationbuilder.com%2Fcouncil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://campaign-vangreens.nationbuilder.com/parks">"Green Party of Vancouver Park Board Platform"</a>. Green Party of Vancouver<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+of+Vancouver+Park+Board+Platform&amp;rft.pub=Green+Party+of+Vancouver&amp;rft_id=http%3A%2F%2Fcampaign-vangreens.nationbuilder.com%2Fparks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://campaign-vangreens.nationbuilder.com/schools">"Green Party of Vancouver School Board Platform"</a>. Green Party of Vancouver<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+of+Vancouver+School+Board+Platform&amp;rft.pub=Green+Party+of+Vancouver&amp;rft_id=http%3A%2F%2Fcampaign-vangreens.nationbuilder.com%2Fschools&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://former.vancouver.ca/electionresults2008/index.htm">"Election Results: November 15, 2008"</a>. <i>City of Vancouver</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=City+of+Vancouver&amp;rft.atitle=Election+Results%3A+November+15%2C+2008&amp;rft_id=http%3A%2F%2Fformer.vancouver.ca%2Felectionresults2008%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://vancouver.ca/election/2014/results.aspx">"Official results of the 2014 civic election"</a>. <i>City of Vancouver</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=City+of+Vancouver&amp;rft.atitle=Official+results+of+the+2014+civic+election&amp;rft_id=https%3A%2F%2Fvancouver.ca%2Felection%2F2014%2Fresults.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://vancouver.ca/election/2017/results.aspx">"2017 by-election results"</a>. <i>City of Vancouver</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=City+of+Vancouver&amp;rft.atitle=2017+by-election+results&amp;rft_id=https%3A%2F%2Fvancouver.ca%2Felection%2F2017%2Fresults.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.vangreens.ca/vancouver_greens_nominate_11_candidates_for_civic_election">"Vancouver Greens Nominate 11 Candidates for Civic Election"</a>. <i>www.vangreens.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.vangreens.ca&amp;rft.atitle=Vancouver+Greens+Nominate+11+Candidates+for+Civic+Election&amp;rft_id=https%3A%2F%2Fwww.vangreens.ca%2Fvancouver_greens_nominate_11_candidates_for_civic_election&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.vangreens.ca/180709_media_advisory_nicholas_chernen">"GREEN PARTY OF VANCOUVER ACCEPTS RESIGNATION OF SCHOOL BOARD CANDIDATE NICHOLAS CHERNEN"</a>. <i>www.vangreens.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.vangreens.ca&amp;rft.atitle=GREEN+PARTY+OF+VANCOUVER+ACCEPTS+RESIGNATION+OF+SCHOOL+BOARD+CANDIDATE+NICHOLAS+CHERNEN&amp;rft_id=https%3A%2F%2Fwww.vangreens.ca%2F180709_media_advisory_nicholas_chernen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.vangreens.ca/vancouver_greens_nominate_11_candidates_for_civic_election">"Vancouver Greens Nominate 11 Candidates for Civic Election"</a>. <i>www.vangreens.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.vangreens.ca&amp;rft.atitle=Vancouver+Greens+Nominate+11+Candidates+for+Civic+Election&amp;rft_id=https%3A%2F%2Fwww.vangreens.ca%2Fvancouver_greens_nominate_11_candidates_for_civic_election&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Vancouver" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.vangreens.ca/">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_Canada" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#289728;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPC" title="Template:GPC"><abbr title="View this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPC" title="Template talk:GPC"><abbr title="Discuss this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPC&amp;action=edit"><abbr title="Edit this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_Canada" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Party wings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/Green_Party_of_Canada#Provincial_&amp;_territorial_parties" title="Green Party of Canada">Provincial &amp; territorial</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta" title="Green Party of Alberta">Alberta</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">British Columbia</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba" title="Green Party of Manitoba">Manitoba</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick" title="Green Party of New Brunswick">New Brunswick</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia" title="Green Party of Nova Scotia">Nova Scotia</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Ontario</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island" title="Green Party of Prince Edward Island">Prince Edward Island</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec" title="Green Party of Quebec">Quebec</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan" title="Green Party of Saskatchewan">Saskatchewan</a></li>
+<li><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Municipal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burnaby_Municipal_Green_Party" title="Burnaby Municipal Green Party">Burnaby</a></li>
+<li><a class="mw-selflink selflink">Vancouver</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Former parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alberta_Greens" title="Alberta Greens">Alberta</a></li>
+<li><a href="/wiki/Montr%C3%A9al_%C3%89cologique" title="Montréal Écologique">Montreal</a></li>
+<li><a href="/wiki/Winnipeg_Green_Party" title="Winnipeg Green Party">Winnipeg</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Green_Maple_Leaf.svg" class="image"><img alt="Green Maple Leaf.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/60px-Green_Maple_Leaf.svg.png" width="60" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/90px-Green_Maple_Leaf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/120px-Green_Maple_Leaf.svg.png 2x" data-file-width="300" data-file-height="325" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Federal level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leaders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trevor_Hancock" title="Trevor Hancock">Hancock</a></li>
+<li><a href="/wiki/Seymour_Trieger" title="Seymour Trieger">Trieger</a></li>
+<li><a href="/wiki/Kathryn_Cholette" title="Kathryn Cholette">Cholette</a></li>
+<li><a href="/wiki/Chris_Lea" title="Chris Lea">Lea</a></li>
+<li><a href="/wiki/Wendy_Priesnitz" title="Wendy Priesnitz">Priesnitz</a></li>
+<li>Garfinkle (<i>interim</i>)</li>
+<li><a href="/wiki/Joan_Russow" title="Joan Russow">Russow</a></li>
+<li><a href="/wiki/Chris_Bradshaw" title="Chris Bradshaw">Bradshaw</a> (<i>interim</i>)</li>
+<li><a href="/wiki/Jim_Harris_(politician)" title="Jim Harris (politician)">Harris</a></li>
+<li><a href="/wiki/Elizabeth_May" title="Elizabeth May">May</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leadership elections</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_leadership_election,_2006" title="Green Party of Canada leadership election, 2006">2006</a></li>
+<li><i><a href="/wiki/Green_Party_of_Canada_leadership_elections" title="Green Party of Canada leadership elections">list</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Parliamentary election<br />candidates</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_candidates,_1984_Canadian_federal_election" title="Green Party of Canada candidates, 1984 Canadian federal election">1984</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1988_Canadian_federal_election" title="Green Party of Canada candidates, 1988 Canadian federal election">1988</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1993_Canadian_federal_election" title="Green Party of Canada candidates, 1993 Canadian federal election">1993</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1997_Canadian_federal_election" title="Green Party of Canada candidates, 1997 Canadian federal election">1997</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2000_Canadian_federal_election" title="Green Party of Canada candidates, 2000 Canadian federal election">2000</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2004_Canadian_federal_election" title="Green Party of Canada candidates, 2004 Canadian federal election">2004</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2006_Canadian_federal_election" title="Green Party of Canada candidates, 2006 Canadian federal election">2006</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2008_Canadian_federal_election" title="Green Party of Canada candidates, 2008 Canadian federal election">2008</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2011_Canadian_federal_election" title="Green Party of Canada candidates, 2011 Canadian federal election">2011</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2015_Canadian_federal_election" title="Green Party of Canada candidates, 2015 Canadian federal election">2015</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Provincial level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">Current leaders</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cheryle_Chagnon-Greyeyes" title="Cheryle Chagnon-Greyeyes">Chagnon-Greyeyes – AB</a></li>
+<li><a href="/wiki/Andrew_Weaver" title="Andrew Weaver">Weaver – BC</a></li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">Beddome – MB</a></li>
+<li><a href="/wiki/David_Coon" title="David Coon">Coon – NB</a></li>
+<li><a href="/wiki/Thomas_Trappenberg" title="Thomas Trappenberg">Trappenberg – NS</a></li>
+<li><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Schreiner – ON</a></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Bevan-Baker – PE</a></li>
+<li><a href="/wiki/Alex_Tyrrell" title="Alex Tyrrell">Tyrrell – QC</a></li>
+<li><a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Setyo – SK</a></li>
+<li><a href="/wiki/Frank_de_Jong" title="Frank de Jong">de Jong – YT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Upcoming or most recent<br />leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta_leadership_election,_2018" title="Green Party of Alberta leadership election, 2018">Alberta 2018</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia#Sterk_and_Weaver_(2007-present)" title="Green Party of British Columbia">British Columbia 2015</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba#Leaders" title="Green Party of Manitoba">Manitoba 2014</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick#2012_leadership_election" title="Green Party of New Brunswick">New Brunswick 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia#Leadership" title="Green Party of Nova Scotia">Nova Scotia 2016</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario_leadership_election,_2009" title="Green Party of Ontario leadership election, 2009">Ontario 2009</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">Prince Edward Island 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec#Current_Green_Party_of_Quebec_(2001–present)" title="Green Party of Quebec">Quebec 2013</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan#Party_leaders" title="Green Party of Saskatchewan">Saskatchewan 2016</a></li>
+<li><i><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon 2017</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_Canada" title="History of the Green Party of Canada">History</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li>
+<li><a href="/wiki/Young_Greens_of_Canada" title="Young Greens of Canada">Young Greens of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Municipal_political_parties_in_Vancouver_23x15px&amp;#124;border_&amp;#124;alt=Vancouver&amp;#124;link=Vancouver" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Vancouver_political_parties" title="Template:Vancouver political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Vancouver_political_parties" title="Template talk:Vancouver political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Vancouver_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Municipal_political_parties_in_Vancouver_23x15px&amp;#124;border_&amp;#124;alt=Vancouver&amp;#124;link=Vancouver" style="font-size:114%;margin:0 4em"><a href="/wiki/Municipal_political_parties_in_Vancouver" title="Municipal political parties in Vancouver">Municipal political parties in Vancouver</a> <span class="flagicon"><a href="/wiki/Vancouver" title="Vancouver"><img alt="Vancouver" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Vancouver_%28Canada%29.svg/23px-Flag_of_Vancouver_%28Canada%29.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Vancouver_%28Canada%29.svg/35px-Flag_of_Vancouver_%28Canada%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Vancouver_%28Canada%29.svg/46px-Flag_of_Vancouver_%28Canada%29.svg.png 2x" data-file-width="800" data-file-height="400" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vancouver_City_Council" title="Vancouver City Council">City Council</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vision_Vancouver" title="Vision Vancouver">Vision</a> (6)</li>
+<li><a href="/wiki/Non-Partisan_Association" title="Non-Partisan Association">Non-Partisan Association</a> (4)</li>
+<li><a class="mw-selflink selflink">Green</a> (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vancouver_Park_Board" title="Vancouver Park Board">Park Board</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Non-Partisan_Association" title="Non-Partisan Association">Non-Partisan Association</a> (3)</li>
+<li><a class="mw-selflink selflink">Green</a> (2)</li>
+<li><a href="/wiki/Vision_Vancouver" title="Vision Vancouver">Vision</a> (1)</li>
+<li>Independent (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vancouver_School_Board" title="Vancouver School Board">School Board</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vision_Vancouver" title="Vision Vancouver">Vision</a> (3)</li>
+<li><a class="mw-selflink selflink">Green</a> (3)</li>
+<li><a href="/wiki/Non-Partisan_Association" title="Non-Partisan Association">Non-Partisan Association</a> (2)</li>
+<li><a href="/wiki/OneCity_Vancouver" title="OneCity Vancouver">OneCity</a> (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other active parties</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coalition_of_Progressive_Electors" title="Coalition of Progressive Electors">Coalition of Progressive Electors</a></li>
+<li><a href="/wiki/Neighbourhoods_for_a_Sustainable_Vancouver" title="Neighbourhoods for a Sustainable Vancouver">Neighbourhoods for a Sustainable Vancouver</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Electors%27_Action_Movement" title="The Electors&#39; Action Movement">The Electors' Action Movement</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2268
+Cached time: 20181001003721
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.432 seconds
+Real time usage: 0.509 seconds
+Preprocessor visited node count: 2948/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 91302/2097152 bytes
+Template argument size: 3341/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 39324/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.187/10.000 seconds
+Lua memory usage: 4.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  404.530      1 -total
+ 37.15%  150.298      2 Template:Reflist
+ 36.31%  146.866      1 Template:Infobox_political_party
+ 31.57%  127.692     15 Template:Cite_web
+ 30.17%  122.051      1 Template:Infobox
+ 11.85%   47.954      5 Template:Navbox
+  7.47%   30.213      1 Template:GPC
+  6.63%   26.807      1 Template:Official_website
+  5.36%   21.695      3 Template:Composition_bar
+  4.71%   19.066      1 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33131092-0!canonical and timestamp 20181001003720 and revision id 852034546
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Vancouver&amp;oldid=852034546">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Vancouver&amp;oldid=852034546</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1984_establishments_in_British_Columbia" title="Category:1984 establishments in British Columbia">1984 establishments in British Columbia</a></li><li><a href="/wiki/Category:Green_Party_of_British_Columbia" title="Category:Green Party of British Columbia">Green Party of British Columbia</a></li><li><a href="/wiki/Category:Municipal_green_political_parties_in_Canada" title="Category:Municipal green political parties in Canada">Municipal green political parties in Canada</a></li><li><a href="/wiki/Category:Municipal_political_parties_in_Vancouver" title="Category:Municipal political parties in Vancouver">Municipal political parties in Vancouver</a></li><li><a href="/wiki/Category:Political_parties_established_in_1984" title="Category:Political parties established in 1984">Political parties established in 1984</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2011" title="Category:Use dmy dates from November 2011">Use dmy dates from November 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Vancouver" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Vancouver" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Vancouver" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Vancouver" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Vancouver">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Vancouver" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Vancouver" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;oldid=852034546" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603052" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Vancouver&amp;id=852034546" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Vancouver">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Vancouver&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Vancouver&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5603052#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 July 2018, at 05:56<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Vancouver&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.432","walltime":"0.509","ppvisitednodes":{"value":2948,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91302,"limit":2097152},"templateargumentsize":{"value":3341,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":39324,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  404.530      1 -total"," 37.15%  150.298      2 Template:Reflist"," 36.31%  146.866      1 Template:Infobox_political_party"," 31.57%  127.692     15 Template:Cite_web"," 30.17%  122.051      1 Template:Infobox"," 11.85%   47.954      5 Template:Navbox","  7.47%   30.213      1 Template:GPC","  6.63%   26.807      1 Template:Official_website","  5.36%   21.695      3 Template:Composition_bar","  4.71%   19.066      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.187","limit":"10.000"},"limitreport-memusage":{"value":4809460,"limit":52428800}},"cachereport":{"origin":"mw2268","timestamp":"20181001003721","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":594,"wgHostname":"mw2268"});});</script>
+	</body>
+</html>

@@ -1,0 +1,893 @@
+https://en.wikipedia.org/wiki/Ecologist_Green_Party_of_Mexico
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ecologist Green Party of Mexico - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ecologist_Green_Party_of_Mexico","wgTitle":"Ecologist Green Party of Mexico","wgCurRevisionId":857142486,"wgRevisionId":857142486,"wgArticleId":441421,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","CS1 Spanish-language sources (es)","Articles needing additional references from August 2008","All articles needing additional references","Articles needing POV-check from April 2018","All NPOV disputes","Articles containing Spanish-language text","Ecologist Green Party of Mexico","Political parties established in 1993","Political parties in Mexico","Organizations that oppose LGBT rights"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ecologist_Green_Party_of_Mexico","wgRelevantArticleId":441421,"wgRequestId":"W7FcIQrAADYAAHq1Wd4AAAAO","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q383718","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/PVE_dark_logo_%28Mexico%29.svg/1200px-PVE_dark_logo_%28Mexico%29.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ecologist_Green_Party_of_Mexico"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ecologist_Green_Party_of_Mexico"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ecologist_Green_Party_of_Mexico rootpage-Ecologist_Green_Party_of_Mexico skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Ecologist Green Party of Mexico</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(August 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-criticism" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <i>Criticism</i> or <i>Controversy</i> section <b>may compromise the article's <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a> of the subject</b>.<span class="hide-when-compact"> Please <a href="/wiki/Wikipedia:Neutral_point_of_view#Article_structure" title="Wikipedia:Neutral point of view">integrate the section's contents</a> into the article as a whole, or rewrite the material.</span>  <small><i>(April 2018)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #9AC95E; border-bottom:2px solid #9AC95E; line-height: 1;"><span class="fn org">Ecologist Green Party of Mexico</span><br /><span class="nickname" lang="Spanish" style="font-size: 0.8em;">Partido Verde Ecologista de México</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:PVE_dark_logo_(Mexico).svg" class="image"><img alt="PVE dark logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/PVE_dark_logo_%28Mexico%29.svg/200px-PVE_dark_logo_%28Mexico%29.svg.png" width="200" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/PVE_dark_logo_%28Mexico%29.svg/300px-PVE_dark_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/PVE_dark_logo_%28Mexico%29.svg/400px-PVE_dark_logo_%28Mexico%29.svg.png 2x" data-file-width="500" data-file-height="501" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">English name</th><td class="nickname" style="line-height:1.3em;">
+Ecological Green Party of Mexico</td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Jorge_Emilio_Gonz%C3%A1lez_Mart%C3%ADnez" title="Jorge Emilio González Martínez">Jorge Emilio González Martínez</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">President</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Carlos_Alberto_Puente_Salas" title="Carlos Alberto Puente Salas">Carlos Alberto Puente Salas</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+14&#160;May&#160;1993<span style="display:none">&#160;(<span class="bday dtstart published updated">1993-05-14</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+Loma Bonita 18 Lomas Altas, Miguel Hidalgo <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>, México 11950</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><br /><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centre-right_politics" title="Centre-right politics">Centre-right</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Todos_por_M%C3%A9xico" title="Todos por México">Todos por México</a></td></tr><tr><th scope="row" style="line-height:1.3em;">International affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Continental affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<span style="background-color:#9AC95E; color:black; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats in the <a href="/wiki/Chamber_of_Deputies_(Mexico)" title="Chamber of Deputies (Mexico)">Chamber of Deputies</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">11 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 2%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats in the <a href="/wiki/Senate_(Mexico)" class="mw-redirect" title="Senate (Mexico)">Senate</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">5 / 128</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 4%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_Mexican_state_governors" class="mw-redirect" title="List of Mexican state governors">Governorships</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">0 / 32</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 0%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats in <a href="/wiki/List_of_Mexican_state_legislatures" title="List of Mexican state legislatures">State legislatures</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">77 / 1,124</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 7%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<a rel="nofollow" class="external text" href="http://www.partidoverde.org.mx/">http://www.partidoverde.org.mx/</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #9AC95E;"><ul><li><a href="/wiki/Politics_of_Mexico" title="Politics of Mexico">Politics of Mexico</a></li><li><a href="/wiki/List_of_political_parties_in_Mexico" title="List of political parties in Mexico">Political parties</a></li><li><a href="/wiki/Elections_in_Mexico" title="Elections in Mexico">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Ecological Green Party of <a href="/wiki/Mexico" title="Mexico">Mexico</a></b> (<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <i lang="es">Partido Verde Ecologista de México</i>, <b>PVEM</b> or <b>PVE</b>) is a <a href="/wiki/Green_conservatism" title="Green conservatism">green-conservative</a> <a href="/wiki/List_of_political_parties_in_Mexico" title="List of political parties in Mexico">political party in Mexico</a>. In the 2012 Legislative elections, the party took 34 seats in the <a href="/wiki/Chamber_of_Deputies_of_Mexico" class="mw-redirect" title="Chamber of Deputies of Mexico">Chamber of Deputies</a> (out of 500) and nine seats in the <a href="/wiki/Senate_of_Mexico" class="mw-redirect" title="Senate of Mexico">Senate</a> (out of 128).<sup id="cite_ref-CRSSeelke_4-0" class="reference"><a href="#cite_note-CRSSeelke-4">&#91;4&#93;</a></sup> During the <a href="/wiki/Mexican_general_election,_2012" title="Mexican general election, 2012">2012 Presidential election</a>, PVEM supported <a href="/wiki/Enrique_Pe%C3%B1a_Nieto" title="Enrique Peña Nieto">Enrique Peña Nieto (EPN)</a>, the candidate from the <a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">Institutional Revolutionary Party (PRI)</a>, who was elected.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Controversies"><span class="tocnumber">1</span> <span class="toctext">Controversies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Pro-death_penalty_campaign"><span class="tocnumber">1.1</span> <span class="toctext">Pro-death penalty campaign</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Anti-LGBT_rights_factions"><span class="tocnumber">1.2</span> <span class="toctext">Anti-LGBT rights factions</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Accusations_of_corruption_and_nepotism"><span class="tocnumber">1.3</span> <span class="toctext">Accusations of corruption and nepotism</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Unlawful_political_advertising_in_movie_theaters"><span class="tocnumber">1.4</span> <span class="toctext">Unlawful political advertising in movie theaters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Electoral_history"><span class="tocnumber">2</span> <span class="toctext">Electoral history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Presidential_elections"><span class="tocnumber">2.1</span> <span class="toctext">Presidential elections</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Congressional_elections"><span class="tocnumber">2.2</span> <span class="toctext">Congressional elections</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Chamber_of_Deputies"><span class="tocnumber">2.2.1</span> <span class="toctext">Chamber of Deputies</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Senate_elections"><span class="tocnumber">2.2.2</span> <span class="toctext">Senate elections</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Controversies">Controversies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=1" title="Edit section: Controversies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pro-death_penalty_campaign">Pro-death penalty campaign</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=2" title="Edit section: Pro-death penalty campaign">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Green_ad_for_death_penalty_in_Mexico.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Green_ad_for_death_penalty_in_Mexico.jpg/220px-Green_ad_for_death_penalty_in_Mexico.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Green_ad_for_death_penalty_in_Mexico.jpg/330px-Green_ad_for_death_penalty_in_Mexico.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Green_ad_for_death_penalty_in_Mexico.jpg/440px-Green_ad_for_death_penalty_in_Mexico.jpg 2x" data-file-width="1024" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Green_ad_for_death_penalty_in_Mexico.jpg" class="internal" title="Enlarge"></a></div>A Green Party billboard promoting the restoration of the death penalty<sup id="cite_ref-VoA_5-0" class="reference"><a href="#cite_note-VoA-5">&#91;5&#93;</a></sup></div></div></div>
+<p>In 2008, the PVEM initiated an advertising campaign in favor of reintroducing the <a href="/wiki/Capital_punishment_in_Mexico" title="Capital punishment in Mexico">death penalty in Mexico</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> This led to the <a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a>'s withdrawal of recognition of the PVEM as a legitimate green party.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Anti-LGBT_rights_factions">Anti-LGBT rights factions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=3" title="Edit section: Anti-LGBT rights factions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During an interview, PVE candidate <a href="/w/index.php?title=Gamaliel_Ramirez&amp;action=edit&amp;redlink=1" class="new" title="Gamaliel Ramirez (page does not exist)">Gamaliel Ramirez</a> verbally attacked an openly gay candidate for Guadalajara mayor and called for criminal laws against homosexuality to be established. In the following days, Ramirez issued a written apology after the party expressed disappointment at his remarks.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>While the party has pledged to support LGBT rights issues, 3 representatives abstained from a vote on <a href="/wiki/Same-sex_marriage_in_Mexico_City" title="Same-sex marriage in Mexico City">Mexico City granting legal recognition to same-sex couples</a>.
+</p>
+<h3><span class="mw-headline" id="Accusations_of_corruption_and_nepotism">Accusations of corruption and nepotism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=4" title="Edit section: Accusations of corruption and nepotism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The PVEM is also widely criticized because its current leader, <a href="/wiki/Jorge_Emilio_Gonz%C3%A1lez_Mart%C3%ADnez" title="Jorge Emilio González Martínez">Jorge Emilio González Martínez</a>, was appointed for being the son of former leader <a href="/wiki/Jorge_Gonz%C3%A1lez_Torres" title="Jorge González Torres">Jorge González Torres</a>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> and for supporting the political and business agenda of Mexican businessman <a href="/wiki/V%C3%ADctor_Gonz%C3%A1lez_Torres" title="Víctor González Torres">Víctor González Torres</a>, owner of the <i>Farmacias Similares</i> drugstore franchise and González Martínez's uncle.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Unlawful_political_advertising_in_movie_theaters">Unlawful political advertising in movie theaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=5" title="Edit section: Unlawful political advertising in movie theaters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In January 2015, the <a href="/wiki/National_Electoral_Institute" class="mw-redirect" title="National Electoral Institute">National Electoral Institute</a> (INE) ordered the PVEM and theater chains <a href="/wiki/Cinemex" title="Cinemex">Cinemex</a> and <a href="/wiki/Cin%C3%A9polis" title="Cinépolis">Cinépolis</a> to cease airing PVEM advertisements, on the grounds of fairness in electoral contests. When the PVEM and the theaters did not comply, the INE imposed a fine of $35 million on the PVEM and $7 million on both theater chains.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Electoral_history">Electoral history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=6" title="Edit section: Electoral history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Presidential_elections">Presidential elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=7" title="Edit section: Presidential elections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Election year
+</th>
+<th>Candidate
+</th>
+<th># votes
+</th>
+<th>% vote
+</th>
+<th>Result
+</th>
+<th>Note
+</th></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_1994" title="Mexican general election, 1994">1994</a>
+</th>
+<td><a href="/wiki/Jorge_Gonz%C3%A1lez_Torres" title="Jorge González Torres">Jorge González Torres</a>
+</td>
+<td>327,313
+</td>
+<td>0.93
+</td>
+<td><img alt="Red X" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/13px-Red_x.svg.png" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/20px-Red_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/26px-Red_x.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display: none;">N</span> Defeated
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2000" title="Mexican general election, 2000">2000</a>
+</th>
+<td colspan="4" bgcolor="#cccccc">
+</td>
+<td>support <a href="/wiki/National_Action_Party_(Mexico)" title="National Action Party (Mexico)">PAN</a> Candidate; Coalition: <a href="/wiki/Alliance_for_Change_(Mexico)" title="Alliance for Change (Mexico)">Alliance for Change</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2006" title="Mexican general election, 2006">2006</a>
+</th>
+<td colspan="4" bgcolor="#cccccc">
+</td>
+<td>support <a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">PRI</a> Candidate; Coalition: <a href="/wiki/Alliance_for_Mexico" title="Alliance for Mexico">Alliance for Mexico</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2012" title="Mexican general election, 2012">2012</a>
+</th>
+<td colspan="4" bgcolor="#cccccc">
+</td>
+<td>support <a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">PRI</a> Candidate; Coalition: <a href="/w/index.php?title=Committed_to_Mexico&amp;action=edit&amp;redlink=1" class="new" title="Committed to Mexico (page does not exist)">Committed to Mexico</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2018" title="Mexican general election, 2018">2018</a>
+</th>
+<td colspan="4" bgcolor="#cccccc">
+</td>
+<td>support <a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">PRI</a> Candidate; Coalition: <a href="/wiki/Todos_por_M%C3%A9xico" title="Todos por México">Todos por México</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Congressional_elections">Congressional elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=8" title="Edit section: Congressional elections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Chamber_of_Deputies">Chamber of Deputies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=9" title="Edit section: Chamber of Deputies">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="2">Election year
+</th>
+<th colspan="2">Constituency
+</th>
+<th colspan="2">PR
+</th>
+<th rowspan="2"># of seats
+</th>
+<th rowspan="2">Position
+</th>
+<th colspan="2" rowspan="2">Presidency
+</th>
+<th rowspan="2">Note
+</th></tr>
+<tr>
+<th>votes
+</th>
+<th>%
+</th>
+<th>votes
+</th>
+<th>%
+</th></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_1994" title="Mexican general election, 1994">1994</a>
+</th>
+<td>470,951
+</td>
+<td>1.4
+</td>
+<td>479,594
+</td>
+<td>1.4
+</td>
+<td><div style="width: 100px;"><span class="nowrap">00 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Ernesto_Zedillo" title="Ernesto Zedillo">Ernesto Zedillo</a></td>
+<td><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/35px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/46px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_legislative_election,_1997" title="Mexican legislative election, 1997">1997</a>
+</th>
+<td>1,105,688
+</td>
+<td>3.8
+</td>
+<td>1,116,137
+</td>
+<td>3.8
+</td>
+<td><div style="width: 100px;"><span class="nowrap">08 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 2%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Ernesto_Zedillo" title="Ernesto Zedillo">Ernesto Zedillo</a></td>
+<td><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/35px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/46px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2000" title="Mexican general election, 2000">2000</a>
+</th>
+<td colspan="4" bgcolor="#cccccc"><i>see: <a href="/wiki/National_Action_Party_(Mexico)" title="National Action Party (Mexico)">National Action Party</a></i>
+</td>
+<td><div style="width: 100px;"><span class="nowrap">17 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 3%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Vicente_Fox" title="Vicente Fox">Vicente Fox</a></td>
+<td><a href="/wiki/File:PAN_logo_(Mexico).svg" class="image"><img alt="PAN logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/23px-PAN_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/35px-PAN_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/46px-PAN_logo_%28Mexico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+</td>
+<td>Coalition: <a href="/wiki/Alliance_for_Change_(Mexico)" title="Alliance for Change (Mexico)">Alliance for Change</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_legislative_election,_2003" title="Mexican legislative election, 2003">2003</a>
+</th>
+<td>1,063,741
+</td>
+<td>4.1
+</td>
+<td>1,068,721
+</td>
+<td>4.1
+</td>
+<td><div style="width: 100px;"><span class="nowrap">17 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 3%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Vicente_Fox" title="Vicente Fox">Vicente Fox</a></td>
+<td><a href="/wiki/File:PAN_logo_(Mexico).svg" class="image"><img alt="PAN logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/23px-PAN_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/35px-PAN_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/46px-PAN_logo_%28Mexico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2006" title="Mexican general election, 2006">2006</a>
+</th>
+<td colspan="4" bgcolor="#cccccc"><i>see: <a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">Institutional Revolutionary Party</a></i>
+</td>
+<td><div style="width: 100px;"><span class="nowrap">19 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Felipe_Calder%C3%B3n" title="Felipe Calderón">Felipe Calderón</a></td>
+<td><a href="/wiki/File:PAN_logo_(Mexico).svg" class="image"><img alt="PAN logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/23px-PAN_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/35px-PAN_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/46px-PAN_logo_%28Mexico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+</td>
+<td>Coalition: <a href="/wiki/Alliance_for_Mexico" title="Alliance for Mexico">Alliance for Mexico</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_legislative_election,_2009" title="Mexican legislative election, 2009">2009</a>
+</th>
+<td>2,318,138
+</td>
+<td>6.7
+</td>
+<td>2,326,016
+</td>
+<td>6.7
+</td>
+<td><div style="width: 100px;"><span class="nowrap">21 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Felipe_Calder%C3%B3n" title="Felipe Calderón">Felipe Calderón</a></td>
+<td><a href="/wiki/File:PAN_logo_(Mexico).svg" class="image"><img alt="PAN logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/23px-PAN_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/35px-PAN_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/46px-PAN_logo_%28Mexico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2012" title="Mexican general election, 2012">2012</a>
+</th>
+<td>3,045,385
+</td>
+<td>6.44
+</td>
+<td>3,054,718
+</td>
+<td>6.43
+</td>
+<td><div style="width: 100px;"><span class="nowrap">34 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 7%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Enrique_Pe%C3%B1a_Nieto" title="Enrique Peña Nieto">Enrique Peña Nieto</a></td>
+<td><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/35px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/46px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>
+</td>
+<td>Coalition: <a href="/w/index.php?title=Committed_to_Mexico&amp;action=edit&amp;redlink=1" class="new" title="Committed to Mexico (page does not exist)">Committed to Mexico</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_legislative_election,_2015" title="Mexican legislative election, 2015">2015</a>
+</th>
+<td>2,740,208
+</td>
+<td>7.57
+</td>
+<td>2,757,170
+</td>
+<td>7.54
+</td>
+<td><div style="width: 100px;"><span class="nowrap">47 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 9%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Enrique_Pe%C3%B1a_Nieto" title="Enrique Peña Nieto">Enrique Peña Nieto</a></td>
+<td><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/35px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/46px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>
+</td>
+<td>Coalition: <a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">PRI</a> <a href="/wiki/Ecological_Green_Party_of_Mexico" class="mw-redirect" title="Ecological Green Party of Mexico">PVEM</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2018" title="Mexican general election, 2018">2018</a>
+</th>
+<td>TBD
+</td>
+<td>TBD
+</td>
+<td>TBD
+</td>
+<td>TBD
+</td>
+<td><div style="width: 100px;"><span class="nowrap">17 / 500</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 3%; height: 100%;"></div></div></div>
+</td>
+<td>TBD
+</td>
+<td><a href="/wiki/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador" title="Andrés Manuel López Obrador">Andrés Manuel López Obrador</a></td>
+<td><a href="/wiki/File:Morena_Party_(Mexico).svg" class="image"><img alt="Morena Party (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Morena_Party_%28Mexico%29.svg/23px-Morena_Party_%28Mexico%29.svg.png" width="23" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Morena_Party_%28Mexico%29.svg/35px-Morena_Party_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Morena_Party_%28Mexico%29.svg/46px-Morena_Party_%28Mexico%29.svg.png 2x" data-file-width="630" data-file-height="178" /></a>
+</td>
+<td>Coalition: Todos por México
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Senate_elections">Senate elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=10" title="Edit section: Senate elections">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="2">Election year
+</th>
+<th colspan="2">Constituency
+</th>
+<th colspan="2">PR
+</th>
+<th rowspan="2"># of seats
+</th>
+<th rowspan="2">Position
+</th>
+<th colspan="2" rowspan="2">Presidency
+</th>
+<th rowspan="2">Note
+</th></tr>
+<tr>
+<th>votes
+</th>
+<th>%
+</th>
+<th>votes
+</th>
+<th>%
+</th></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_1994" title="Mexican general election, 1994">1994</a>
+</th>
+<td colspan="2" bgcolor="#cccccc">
+</td>
+<td>438,941
+</td>
+<td>1.3
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 128</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Ernesto_Zedillo" title="Ernesto Zedillo">Ernesto Zedillo</a></td>
+<td><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/35px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/46px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_legislative_election,_1997" title="Mexican legislative election, 1997">1997</a>
+</th>
+<td colspan="2" bgcolor="#cccccc">
+</td>
+<td>1,180,04
+</td>
+<td>4.0
+</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 128</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 0.8%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Ernesto_Zedillo" title="Ernesto Zedillo">Ernesto Zedillo</a></td>
+<td><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/35px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/46px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2000" title="Mexican general election, 2000">2000</a>
+</th>
+<td colspan="4" bgcolor="#cccccc"><i>see: <a href="/wiki/National_Action_Party_(Mexico)" title="National Action Party (Mexico)">National Action Party</a></i>
+</td>
+<td><div style="width: 100px;"><span class="nowrap">5 / 128</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Vicente_Fox" title="Vicente Fox">Vicente Fox</a></td>
+<td><a href="/wiki/File:PAN_logo_(Mexico).svg" class="image"><img alt="PAN logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/23px-PAN_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/35px-PAN_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/46px-PAN_logo_%28Mexico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+</td>
+<td>Coalition: <a href="/wiki/Alliance_for_Change_(Mexico)" title="Alliance for Change (Mexico)">Alliance for Change</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2006" title="Mexican general election, 2006">2006</a>
+</th>
+<td colspan="4" bgcolor="#cccccc"><i>see: <a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">Institutional Revolutionary Party</a></i>
+</td>
+<td><div style="width: 100px;"><span class="nowrap">6 / 128</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 5%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Felipe_Calder%C3%B3n" title="Felipe Calderón">Felipe Calderón</a></td>
+<td><a href="/wiki/File:PAN_logo_(Mexico).svg" class="image"><img alt="PAN logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/23px-PAN_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/35px-PAN_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/46px-PAN_logo_%28Mexico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+</td>
+<td>Coalition: <a href="/wiki/Alliance_for_Mexico" title="Alliance for Mexico">Alliance for Mexico</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2012" title="Mexican general election, 2012">2012</a>
+</th>
+<td>867,056
+</td>
+<td>1.9
+</td>
+<td>2,881,923
+</td>
+<td>6.1
+</td>
+<td><div style="width: 100px;"><span class="nowrap">9 / 128</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 7%; height: 100%;"></div></div></div>
+</td>
+<td>Minority
+</td>
+<td><a href="/wiki/Enrique_Pe%C3%B1a_Nieto" title="Enrique Peña Nieto">Enrique Peña Nieto</a></td>
+<td><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png" width="23" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/35px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/46px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>
+</td>
+<td>Coalition: <a href="/w/index.php?title=Committed_to_Mexico&amp;action=edit&amp;redlink=1" class="new" title="Committed to Mexico (page does not exist)">Committed to Mexico</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mexican_general_election,_2018" title="Mexican general election, 2018">2018</a>
+</th>
+<td>TBD
+</td>
+<td>TBD
+</td>
+<td>TBD
+</td>
+<td>TBD
+</td>
+<td><div style="width: 100px;"><span class="nowrap">5 / 128</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #9AC95E; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td>TBD
+</td>
+<td><a href="/wiki/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador" title="Andrés Manuel López Obrador">Andrés Manuel López Obrador</a></td>
+<td><a href="/wiki/File:Morena_Party_(Mexico).svg" class="image"><img alt="Morena Party (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Morena_Party_%28Mexico%29.svg/23px-Morena_Party_%28Mexico%29.svg.png" width="23" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Morena_Party_%28Mexico%29.svg/35px-Morena_Party_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Morena_Party_%28Mexico%29.svg/46px-Morena_Party_%28Mexico%29.svg.png 2x" data-file-width="630" data-file-height="178" /></a>
+</td>
+<td>Coalition: Todos por México
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Bauducco, Gabriel. <a rel="nofollow" class="external text" href="http://www.elsiglodetorreon.com.mx/noticia/54521.html">"Jorge Emilio González: Un niño verde y precoz"</a>. <i>elsiglodetorreon.com.mx</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=elsiglodetorreon.com.mx&amp;rft.atitle=Jorge+Emilio+Gonz%C3%A1lez%3A+Un+ni%C3%B1o+verde+y+precoz&amp;rft.aulast=Bauducco&amp;rft.aufirst=Gabriel&amp;rft_id=http%3A%2F%2Fwww.elsiglodetorreon.com.mx%2Fnoticia%2F54521.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFHaynes2005" class="citation">Haynes, Jeffrey (2005), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=gfsiBg0YshMC&amp;pg=PA177&amp;dq=Ecologist+Green+Party+of+Mexico&amp;hl=en&amp;sa=X&amp;ei=yc9TT5PYD4qe0QXSjZnjCw&amp;redir_esc=y#v=onepage&amp;q=Ecologist%20Green%20Party%20of%20Mexico&amp;f=false"><i>Comparative Politics in a Globalizing World</i></a>, Polity, p.&#160;177</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Comparative+Politics+in+a+Globalizing+World&amp;rft.pages=177&amp;rft.pub=Polity&amp;rft.date=2005&amp;rft.aulast=Haynes&amp;rft.aufirst=Jeffrey&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DgfsiBg0YshMC%26pg%3DPA177%26dq%3DEcologist%2BGreen%2BParty%2Bof%2BMexico%26hl%3Den%26sa%3DX%26ei%3Dyc9TT5PYD4qe0QXSjZnjCw%26redir_esc%3Dy%23v%3Donepage%26q%3DEcologist%2520Green%2520Party%2520of%2520Mexico%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation"><i>Mexico Today: An Encyclopedia of Life in the Republic</i>, ABC-CLIO, 2012, p.&#160;509</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mexico+Today%3A+An+Encyclopedia+of+Life+in+the+Republic&amp;rft.pages=509&amp;rft.pub=ABC-CLIO&amp;rft.date=2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CRSSeelke-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRSSeelke_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Seelke, Claire. <a rel="nofollow" class="external text" href="http://www.fas.org/sgp/crs/row/R42548.pdf">"Mexico's 2012 Elections"</a> <span class="cs1-format">(PDF)</span>. Congressional Research Service<span class="reference-accessdate">. Retrieved <span class="nowrap">10 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mexico%E2%80%99s+2012+Elections&amp;rft.pub=Congressional+Research+Service&amp;rft.aulast=Seelke&amp;rft.aufirst=Claire&amp;rft_id=http%3A%2F%2Fwww.fas.org%2Fsgp%2Fcrs%2Frow%2FR42548.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-VoA-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-VoA_5-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFBlears,_James2009" class="citation">Blears, James (26 February 2009), <a rel="nofollow" class="external text" href="http://www.voanews.com/english/archive/2009-02/2009-02-26-voa70.cfm?CFID=268715431&amp;CFTOKEN=68417225&amp;jsessionid=de30eb5d6f20f30581bb226a15225f4c705f"><i>Mexico's Green Party Urges Death Penalty for Kidnappers</i></a>, <a href="/wiki/VOA_News" class="mw-redirect" title="VOA News">VOA News</a><span class="reference-accessdate">, retrieved <span class="nowrap">2 August</span> 2009</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mexico%27s+Green+Party+Urges+Death+Penalty+for+Kidnappers&amp;rft.pub=VOA+News&amp;rft.date=2009-02-26&amp;rft.au=Blears%2C+James&amp;rft_id=http%3A%2F%2Fwww.voanews.com%2Fenglish%2Farchive%2F2009-02%2F2009-02-26-voa70.cfm%3FCFID%3D268715431%26CFTOKEN%3D68417225%26jsessionid%3Dde30eb5d6f20f30581bb226a15225f4c705f&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://latimesblogs.latimes.com/laplaza/2008/12/death-penalty-a.html">"La Plaza"</a>. <i>Los Angeles Times</i>. 10 December 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=La+Plaza&amp;rft.date=2008-12-10&amp;rft_id=http%3A%2F%2Flatimesblogs.latimes.com%2Flaplaza%2F2008%2F12%2Fdeath-penalty-a.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Tim Johnson, <a rel="nofollow" class="external text" href="http://www.mcclatchydc.com/news/nation-world/world/article24731080.html">For Mexico's Ecologist Green Party, 'green' mostly means money, not environment</a>, McClatchy Newspapers (June 18, 2012).</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120222124246/http://guadalajarareporter.com/news-mainmenu-82/guadalajara/24457-jalisco-elections-partido-social-democratica-gay-candidate.html">"Green Party rival crossed the line, says gay candidate"</a>. <i>Guadalajara Reporter</i>. May 16, 2009. Archived from <a rel="nofollow" class="external text" href="http://guadalajarareporter.com/news-mainmenu-82/guadalajara/24457-jalisco-elections-partido-social-democratica-gay-candidate.html">the original</a> on 22 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Guadalajara+Reporter&amp;rft.atitle=Green+Party+rival+crossed+the+line%2C+says+gay+candidate&amp;rft.date=2009-05-16&amp;rft_id=http%3A%2F%2Fguadalajarareporter.com%2Fnews-mainmenu-82%2Fguadalajara%2F24457-jalisco-elections-partido-social-democratica-gay-candidate.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Thompson, Barnard. <a rel="nofollow" class="external text" href="http://mexidata.info/id143.html">"Corruption inferences and the Green Party of Mexico"</a>. <i>MexiData.info</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MexiData.info&amp;rft.atitle=Corruption+inferences+and+the+Green+Party+of+Mexico&amp;rft.aulast=Thompson&amp;rft.aufirst=Barnard&amp;rft_id=http%3A%2F%2Fmexidata.info%2Fid143.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304110243/http://mexico.cnn.com/nacional/2011/03/02/la-ley-simi-y-las-farmaceuticas">"Miguel Ángel Toscano, dos años de escándalos sanitarios en la Cofepris"</a> (in Spanish). Archived from <a rel="nofollow" class="external text" href="http://mexico.cnn.com/nacional/2011/03/02/la-ley-simi-y-las-farmaceuticas">the original</a> on 2016-03-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Miguel+%C3%81ngel+Toscano%2C+dos+a%C3%B1os+de+esc%C3%A1ndalos+sanitarios+en+la+Cofepris&amp;rft_id=http%3A%2F%2Fmexico.cnn.com%2Fnacional%2F2011%2F03%2F02%2Fla-ley-simi-y-las-farmaceuticas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Staff, Forbes (3 March 2015). <a rel="nofollow" class="external text" href="https://www.forbes.com.mx/cuanto-pagara-pvem-al-ine-por-spot-cien-minutos/">"Partido Verde, Cinemex y Cinépolis: crónica de una multa anunciada • Forbes México"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Partido+Verde%2C+Cinemex+y+Cin%C3%A9polis%3A+cr%C3%B3nica+de+una+multa+anunciada+%E2%80%A2+Forbes+M%C3%A9xico&amp;rft.date=2015-03-03&amp;rft.aulast=Staff&amp;rft.aufirst=Forbes&amp;rft_id=https%3A%2F%2Fwww.forbes.com.mx%2Fcuanto-pagara-pvem-al-ine-por-spot-cien-minutos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcologist+Green+Party+of+Mexico" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.partidoverde.org.mx">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/world/americas/7866811.stm">Death penalty debate grows in Mexico</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/world/americas/7846249.stm">Mexico to rethink death penalty</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Political_parties_in_Mexico_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="padding:3px"><table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Main_Mexican_political_parties" title="Template:Main Mexican political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Main_Mexican_political_parties" title="Template talk:Main Mexican political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Main_Mexican_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Political_parties_in_Mexico_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Mexico" title="List of political parties in Mexico">Political parties in Mexico</a> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480" /></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/File:PAN_logo_(Mexico).svg" class="image"><img alt="PAN logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/15px-PAN_logo_%28Mexico%29.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/23px-PAN_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/30px-PAN_logo_%28Mexico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a>&#160;<a href="/wiki/National_Action_Party_(Mexico)" title="National Action Party (Mexico)">PAN</a></li>
+<li><a href="/wiki/File:PRI_logo_(Mexico).svg" class="image"><img alt="PRI logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/15px-PRI_logo_%28Mexico%29.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/23px-PRI_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/30px-PRI_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a>&#160;<a href="/wiki/Institutional_Revolutionary_Party" title="Institutional Revolutionary Party">PRI</a></li>
+<li><a href="/wiki/File:PRD_logo_(Mexico).svg" class="image"><img alt="PRD logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/PRD_logo_%28Mexico%29.svg/15px-PRD_logo_%28Mexico%29.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/PRD_logo_%28Mexico%29.svg/23px-PRD_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/PRD_logo_%28Mexico%29.svg/30px-PRD_logo_%28Mexico%29.svg.png 2x" data-file-width="300" data-file-height="300" /></a> <a href="/wiki/Party_of_the_Democratic_Revolution" title="Party of the Democratic Revolution">PRD</a></li>
+<li><a href="/wiki/File:PVE_dark_logo_(Mexico).svg" class="image"><img alt="PVE dark logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/PVE_dark_logo_%28Mexico%29.svg/15px-PVE_dark_logo_%28Mexico%29.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/PVE_dark_logo_%28Mexico%29.svg/23px-PVE_dark_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/PVE_dark_logo_%28Mexico%29.svg/30px-PVE_dark_logo_%28Mexico%29.svg.png 2x" data-file-width="500" data-file-height="501" /></a> <a class="mw-selflink selflink">PVEM</a></li>
+<li><a href="/wiki/File:Logo_Partido_Movimiento_Ciudadano_(M%C3%A9xico).svg" class="image"><img alt="Logo Partido Movimiento Ciudadano (México).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg/15px-Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg.png" width="15" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg/23px-Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg/30px-Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/Citizens%27_Movement_(Mexico)" title="Citizens&#39; Movement (Mexico)">MC</a></li>
+<li><a href="/wiki/File:Morena_Party_(Mexico).png" class="image"><img alt="Morena Party (Mexico).png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Morena_Party_%28Mexico%29.png/15px-Morena_Party_%28Mexico%29.png" width="15" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Morena_Party_%28Mexico%29.png/23px-Morena_Party_%28Mexico%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Morena_Party_%28Mexico%29.png/30px-Morena_Party_%28Mexico%29.png 2x" data-file-width="470" data-file-height="471" /></a> <a href="/wiki/National_Regeneration_Movement" title="National Regeneration Movement">MRN</a></li>
+<li><a href="/wiki/File:Worker%27s_Party_logo_(Mexico).svg" class="image"><img alt="Worker&#39;s Party logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Worker%27s_Party_logo_%28Mexico%29.svg/15px-Worker%27s_Party_logo_%28Mexico%29.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Worker%27s_Party_logo_%28Mexico%29.svg/23px-Worker%27s_Party_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Worker%27s_Party_logo_%28Mexico%29.svg/30px-Worker%27s_Party_logo_%28Mexico%29.svg.png 2x" data-file-width="469" data-file-height="470" /></a> <a href="/wiki/Labor_Party_(Mexico)" title="Labor Party (Mexico)">PT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/File:Humanista_Party_(Mexico).png" class="image"><img alt="Humanista Party (Mexico).png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Humanista_Party_%28Mexico%29.png/15px-Humanista_Party_%28Mexico%29.png" width="15" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Humanista_Party_%28Mexico%29.png/23px-Humanista_Party_%28Mexico%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Humanista_Party_%28Mexico%29.png/30px-Humanista_Party_%28Mexico%29.png 2x" data-file-width="470" data-file-height="471" /></a> <a href="/wiki/Humanist_Party_(Mexico)" title="Humanist Party (Mexico)">PH</a></li>
+<li><a href="/wiki/File:PSD_logo_(Mexico).svg" class="image"><img alt="PSD logo (Mexico).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/PSD_logo_%28Mexico%29.svg/15px-PSD_logo_%28Mexico%29.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/PSD_logo_%28Mexico%29.svg/23px-PSD_logo_%28Mexico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/PSD_logo_%28Mexico%29.svg/30px-PSD_logo_%28Mexico%29.svg.png 2x" data-file-width="200" data-file-height="200" /></a> <a href="/wiki/Social_Democratic_Party_(Mexico)" title="Social Democratic Party (Mexico)">PSD</a></li>
+<li><a href="/wiki/File:Partido_Nueva_Alianza_(M%C3%A9xico).svg" class="image"><img alt="Partido Nueva Alianza (México).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Partido_Nueva_Alianza_%28M%C3%A9xico%29.svg/15px-Partido_Nueva_Alianza_%28M%C3%A9xico%29.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Partido_Nueva_Alianza_%28M%C3%A9xico%29.svg/23px-Partido_Nueva_Alianza_%28M%C3%A9xico%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Partido_Nueva_Alianza_%28M%C3%A9xico%29.svg/30px-Partido_Nueva_Alianza_%28M%C3%A9xico%29.svg.png 2x" data-file-width="470" data-file-height="471" /></a> <a href="/wiki/New_Alliance_Party_(Mexico)" title="New Alliance Party (Mexico)">PANAL</a></li>
+<li><a href="/wiki/File:Encuentro_Social_Party_(Mexico).png" class="image"><img alt="Encuentro Social Party (Mexico).png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Encuentro_Social_Party_%28Mexico%29.png/15px-Encuentro_Social_Party_%28Mexico%29.png" width="15" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Encuentro_Social_Party_%28Mexico%29.png/23px-Encuentro_Social_Party_%28Mexico%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Encuentro_Social_Party_%28Mexico%29.png/30px-Encuentro_Social_Party_%28Mexico%29.png 2x" data-file-width="2000" data-file-height="2004" /></a> <a href="/wiki/Social_Encounter_Party" title="Social Encounter Party">PES</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Politics" title="Portal:Politics">Portal:Politics</a></li>
+<li><a href="/wiki/List_of_political_parties_by_country" class="mw-redirect" title="List of political parties by country">List of political parties</a></li>
+<li><a href="/wiki/Politics_of_Mexico" title="Politics of Mexico">Politics of Mexico</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_parties_by_country" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_parties" title="Template:Green parties"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_parties" title="Template talk:Green parties"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_parties&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_parties_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_party" title="Green party">Green parties</a> by country</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/w/index.php?title=Ecology_and_Liberty_Party&amp;action=edit&amp;redlink=1" class="new" title="Ecology and Liberty Party (page does not exist)">Algeria</a></i></li>
+<li><a href="/w/index.php?title=Partido_Nacional_Ecol%C3%B3gico_de_Angola&amp;action=edit&amp;redlink=1" class="new" title="Partido Nacional Ecológico de Angola (page does not exist)">Angola</a></li>
+<li><a href="/wiki/The_Greens_(Benin)" title="The Greens (Benin)">Benin</a></li>
+<li>Burkina Faso
+<ul><li><a href="/wiki/Ecologist_Party_for_the_Development_of_Burkina" title="Ecologist Party for the Development of Burkina">Ecologist Party</a></li>
+<li><a href="/wiki/Greens_of_Burkina" title="Greens of Burkina">Greens of Burkina</a></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Burkina" title="Rally of the Ecologists of Burkina">Rally of the Ecologists</a></li></ul></li>
+<li><a href="/w/index.php?title=Burundi_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Burundi Green Movement (page does not exist)">Burundi</a></li>
+<li><a href="/w/index.php?title=Mouvement_des_Verts_de_Centrafique&amp;action=edit&amp;redlink=1" class="new" title="Mouvement des Verts de Centrafique (page does not exist)">Central African Republic</a></li>
+<li><a href="/w/index.php?title=Union_des_Ecologistes_Tchadiens_-_LES_VERTS&amp;action=edit&amp;redlink=1" class="new" title="Union des Ecologistes Tchadiens - LES VERTS (page does not exist)">Chad</a></li>
+<li><a href="/w/index.php?title=Defense_de_l%27Environment_Camerounais&amp;action=edit&amp;redlink=1" class="new" title="Defense de l&#39;Environment Camerounais (page does not exist)">Cameroon</a></li>
+<li><a href="/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens" title="Rally of Congolese Ecologists – The Greens">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Egyptian_Green_Party" title="Egyptian Green Party">Egypt</a></li>
+<li><a href="/w/index.php?title=Gabon_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Gabon Green Party (page does not exist)">Gabon</a></li>
+<li><a href="/w/index.php?title=Ghana_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Ghana Green Movement (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Parti_des_Ecologistes_Guineens&amp;action=edit&amp;redlink=1" class="new" title="Parti des Ecologistes Guineens (page does not exist)">Guinea</a></li>
+<li><i><a href="/w/index.php?title=Liga_Guineense_de_Protec%C3%A7ao_Ecologica&amp;action=edit&amp;redlink=1" class="new" title="Liga Guineense de Protecçao Ecologica (page does not exist)">Guinea-Bissau</a></i></li>
+<li><a href="/w/index.php?title=Parti_pour_la_Protection_de_l%27Environnement&amp;action=edit&amp;redlink=1" class="new" title="Parti pour la Protection de l&#39;Environnement (page does not exist)">Ivory Coast</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Kenya</a></li>
+<li><a href="/w/index.php?title=Parti_Vert_Hasin%27l_Madagasikara&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Hasin&#39;l Madagasikara (page does not exist)">Madagascar</a></li>
+<li><a href="/wiki/Ecologist_Party_of_Mali" title="Ecologist Party of Mali">Mali</a></li>
+<li><a href="/wiki/Les_Verts_Fraternels" title="Les Verts Fraternels">Mauritius</a></li>
+<li>Morocco
+<ul><li><a href="/w/index.php?title=The_Greens_(Morocco)&amp;action=edit&amp;redlink=1" class="new" title="The Greens (Morocco) (page does not exist)">The Greens</a></li>
+<li><i><a href="/wiki/Izigzawen" title="Izigzawen">Izigzawen</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Party_of_Mozambique" title="Greens Party of Mozambique">Mozambique</a></li>
+<li><a href="/w/index.php?title=Rassemblement_pour_un_Sahel_Vert&amp;action=edit&amp;redlink=1" class="new" title="Rassemblement pour un Sahel Vert (page does not exist)">Niger</a></li>
+<li><a href="/w/index.php?title=Green_Party_of_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Green Party of Nigeria (page does not exist)">Nigeria</a></li>
+<li><i><a href="/wiki/Democratic_Green_Party_of_Rwanda" title="Democratic Green Party of Rwanda">Rwanda</a></i></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Senegal" title="Rally of the Ecologists of Senegal">Senegal</a></li>
+<li><a href="/w/index.php?title=Sierra_Leone_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Sierra Leone Green Party (page does not exist)">Sierra Leone</a></li>
+<li>Somalia
+<ul><li><i><a href="/wiki/Somalia_Green_Party" title="Somalia Green Party">Green Party</a></i></li>
+<li><a href="/w/index.php?title=Democratic_Green_Party_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Democratic Green Party of Somalia (page does not exist)">Democratic Green Party</a></li></ul></li>
+<li>South Africa
+<ul><li><a href="/w/index.php?title=South_African_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="South African Green Alliance (page does not exist)">Green Alliance</a></li>
+<li><i><a href="/wiki/Green_Party_of_South_Africa" title="Green Party of South Africa">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=Afrique_Togo_Ecologie&amp;action=edit&amp;redlink=1" class="new" title="Afrique Togo Ecologie (page does not exist)">Togo</a></li>
+<li><a href="/wiki/Green_Tunisia_Party" title="Green Tunisia Party">Tunisia</a></li>
+<li>Uganda
+<ul><li><a href="/w/index.php?title=Ecological_Party_of_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Ecological Party of Uganda (page does not exist)">Ecological Party</a></li>
+<li><i><a href="/wiki/Uganda_Green_Party" title="Uganda Green Party">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=National_Revolution_Green_Party_Zambia&amp;action=edit&amp;redlink=1" class="new" title="National Revolution Green Party Zambia (page does not exist)">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Americas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Initiative" title="Green Initiative">Argentina</a></li>
+<li><i><a href="/wiki/Belize_Green_Independent_Party" title="Belize Green Independent Party">Belize</a></i></li>
+<li><a href="/wiki/Green_Party_of_Bolivia" title="Green Party of Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Green_Party_(Brazil)" title="Green Party (Brazil)">Brazil</a></li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Canada</a></li>
+<li><a href="/wiki/Green_Ecologist_Party_(Chile)" title="Green Ecologist Party (Chile)">Chile</a></li>
+<li><a href="/wiki/Green_Alliance_(Colombia)" title="Green Alliance (Colombia)">Colombia</a></li>
+<li><i><a href="/wiki/Cartago_Green_Party" title="Cartago Green Party">Costa Rica</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Democratic_Unity" class="mw-redirect" title="Green Party of Democratic Unity">Dominican Republic</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_Los_Verdes_de_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Partido Los Verdes de Guatemala (page does not exist)">Guatemala</a></i></li>
+<li><i><a href="/w/index.php?title=Les_Verts_de_Guyane&amp;action=edit&amp;redlink=1" class="new" title="Les Verts de Guyane (page does not exist)">French Guyana</a></i></li>
+<li><i><a href="/w/index.php?title=Parti_Vert_Ha%C3%AFtien&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Haïtien (page does not exist)">Haiti</a></i></li>
+<li><a class="mw-selflink selflink">Mexico</a></li>
+<li><i><a href="/wiki/Ecologist_Green_Party_of_Nicaragua" title="Ecologist Green Party of Nicaragua">Nicaragua</a></i></li>
+<li><a href="/wiki/Green_Alternative_Ecologist_Party_of_Peru" title="Green Alternative Ecologist Party of Peru">Peru</a></li>
+<li><i><a href="/wiki/Puerto_Ricans_for_Puerto_Rico_Party" title="Puerto Ricans for Puerto Rico Party">Puerto Rico</a></i></li>
+<li><i><a href="/wiki/Saint_Vincent_and_the_Grenadines_Green_Party" title="Saint Vincent and the Grenadines Green Party">Saint Vincent and the Grenadines</a></i></li>
+<li><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">United States</a></li>
+<li>Uruguay
+<ul><li><i><a href="/wiki/Partido_Verde_Eto-Ecologista" title="Partido Verde Eto-Ecologista">Green</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_del_Sol_(Uruguay)&amp;action=edit&amp;redlink=1" class="new" title="Partido del Sol (Uruguay) (page does not exist)">Sol</a></i></li>
+<li><i><a href="/wiki/Partido_Ecologista_Radical_Intransigente" title="Partido Ecologista Radical Intransigente">PERI</a></i></li></ul></li>
+<li><a href="/wiki/Ecological_Movement_of_Venezuela" title="Ecological Movement of Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia-Pacific</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Australia
+<ul><li><a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a></li>
+<li><i><a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">Nuclear Disarmament</a> (defunct)</i></li>
+<li><i><a href="/wiki/United_Tasmania_Group" title="United Tasmania Group">United Tasmania Group</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Fiji" title="Green Party of Fiji">Fiji</a></i></li>
+<li><i><a href="/w/index.php?title=Heiura_Les_Verts_Polynesiens&amp;action=edit&amp;redlink=1" class="new" title="Heiura Les Verts Polynesiens (page does not exist)">French Polynesia</a></i></li>
+<li><a href="/w/index.php?title=Green_Party_Hong_Kong&amp;action=edit&amp;redlink=1" class="new" title="Green Party Hong Kong (page does not exist)">Hong Kong</a></li>
+<li><a href="/w/index.php?title=Uttarakhand_Parivartan_Party&amp;action=edit&amp;redlink=1" class="new" title="Uttarakhand Parivartan Party (page does not exist)">India</a></li>
+<li><i><a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Iran</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Iraq" title="Green Party of Iraq">Iraq</a></i></li>
+<li>Israel
+<ul><li><i><a href="/wiki/Green_Movement_(Israel)" title="Green Movement (Israel)">The Green Movement</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens</a></i></li>
+<li><i><a href="/wiki/Meretz" title="Meretz">Meretz</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Japan" title="Greens Japan">Japan</a></li>
+<li><i>Kurdistan</i></li>
+<li><i><a href="/wiki/Green_Party_of_Lebanon" title="Green Party of Lebanon">Lebanon</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Malaysia</a></i></li>
+<li>Mongolia
+<ul><li><a href="/wiki/Civil_Will%E2%80%93Green_Party" title="Civil Will–Green Party">Civil Will–Green</a></li>
+<li><a href="/wiki/Mongolian_Green_Party" title="Mongolian Green Party">Green Party</a></li></ul></li>
+<li>Nepal
+<ul><li><i><a href="/wiki/Hariyali_Nepal_Party" title="Hariyali Nepal Party">Hariyali</a></i></li>
+<li><a href="/w/index.php?title=Green_Civil_Society&amp;action=edit&amp;redlink=1" class="new" title="Green Civil Society (page does not exist)">Green Civil Society</a></li></ul></li>
+<li><i><a href="/w/index.php?title=The_Pacific_Greens&amp;action=edit&amp;redlink=1" class="new" title="The Pacific Greens (page does not exist)">New Caledonia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Papua_New_Guinea_Greens" title="Papua New Guinea Greens">Papua New Guinea</a></li>
+<li><a href="/w/index.php?title=Green_politics_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Green politics in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Green_Party_Korea" title="Green Party Korea">South Korea</a></li>
+<li><i><a href="/w/index.php?title=Sri_Lanka_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Sri Lanka Green Alliance (page does not exist)">Sri Lanka</a></i></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Taiwan</a></li>
+<li><i><a href="/wiki/Ecological_Movement_of_Uzbekistan" title="Ecological Movement of Uzbekistan">Uzbekistan</a></i></li>
+<li><i><a href="/wiki/Green_Confederation" title="Green Confederation">Vanuatu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">Europe</a><br />
+<div class="hlist">
+<ul><li>(<i><a href="/wiki/European_Green_Party" title="European Green Party">EGP</a></i></li>
+<li><i><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">FYEG</a></i>)</li></ul>
+</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Albania" title="Green Party of Albania">Albania</a></li>
+<li><a href="/wiki/Greens_of_Andorra" title="Greens of Andorra">Andorra</a></li>
+<li><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative">Austria</a></li>
+<li><i><a href="/wiki/Belarusian_Green_Party" title="Belarusian Green Party">Belarus</a></i></li>
+<li>Belgium
+<ul><li><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Flanders and Brussels</a></li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Wallonia and Brussels</a></li></ul></li>
+<li><i><a href="/wiki/Greens_of_Bosnia_and_Herzegovina" title="Greens of Bosnia and Herzegovina">Bosnia and Herzegovina</a></i></li>
+<li>Bulgaria
+<ul><li><i><a href="/wiki/Green_Party_of_Bulgaria" title="Green Party of Bulgaria">Green Party</a></i></li>
+<li><a href="/wiki/The_Greens_(Bulgaria)" title="The Greens (Bulgaria)">The Greens</a></li></ul></li>
+<li><i><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Croatia</a></i></li>
+<li><a href="/wiki/Movement_of_Ecologists_-_Citizens%27_Cooperation" class="mw-redirect" title="Movement of Ecologists - Citizens&#39; Cooperation">Cyprus</a></li>
+<li>Czech Republic
+<ul><li><i><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party</a></i></li>
+<li><i><a href="/wiki/Liberal-Environmental_Party" title="Liberal-Environmental Party">Liberal-Environmental Party</a></i></li></ul></li>
+<li>Denmark
+<ul><li><a href="/wiki/The_Alternative_(Denmark)" title="The Alternative (Denmark)">The Alternative</a></li>
+<li><i><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Denmark)" title="The Greens (Denmark)">The Greens</a></i></li></ul></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonia</a></li>
+<li><a href="/wiki/Green_League" title="Green League">Finland</a></li>
+<li>France
+<ul><li><i><a href="/wiki/Citizenship,_Action,_Participation_for_the_21st_Century" class="mw-redirect" title="Citizenship, Action, Participation for the 21st Century">CAP21</a></i></li>
+<li><i><a href="/wiki/G%C3%A9n%C3%A9ration_%C3%89cologie" class="mw-redirect" title="Génération Écologie">Génération Écologie</a></i></li>
+<li><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></li>
+<li><i><a href="/wiki/Mouvement_Ecologiste_Ind%C3%A9pendant" class="mw-redirect" title="Mouvement Ecologiste Indépendant">Mouvement Ecologiste Indépendant</a></i></li>
+<li><a href="/wiki/Ecologist_Party" title="Ecologist Party">Ecologist Party</a></li></ul></li>
+<li><a href="/wiki/Green_Party_of_Georgia" title="Green Party of Georgia">Georgia</a></li>
+<li>Germany
+<ul><li><a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a></li>
+<li><i><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></i></li></ul></li>
+<li>Greece
+<ul><li><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></li>
+<li><a href="/wiki/Greens_(Greece)" title="Greens (Greece)">Greens</a></li></ul></li>
+<li>Hungary
+<ul><li><i><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></i></li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></li></ul></li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Iceland</a></li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Ireland</a></li>
+<li>Italy
+<ul><li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><i><a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Kosovo" title="Green Party of Kosovo">Kosovo</a></i></li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvia</a></li>
+<li><i><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Liechtenstein</a></i></li>
+<li>Lithuania
+<ul><li><i><a href="/wiki/Lithuanian_Green_Party" title="Lithuanian Green Party">Green Party</a></i></li>
+<li><i><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></i></li></ul></li>
+<li><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">Luxembourg</a></li>
+<li><i><a href="/wiki/Democratic_Renewal_of_Macedonia" title="Democratic Renewal of Macedonia">Macedonia</a></i></li>
+<li><a href="/wiki/Democratic_Alternative_(Malta)" title="Democratic Alternative (Malta)">Malta</a></li>
+<li><a href="/wiki/Ecologist_Green_Party_(Moldova)" title="Ecologist Green Party (Moldova)">Moldova</a></li>
+<li><i><a href="/wiki/Greens_of_Montenegro" title="Greens of Montenegro">Montenegro</a></i></li>
+<li>Netherlands
+<ul><li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a></li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Norway</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">Poland</a></li>
+<li>Portugal
+<ul><li><i><a href="/wiki/Earth_Party" title="Earth Party">Earth Party</a></i></li>
+<li><a href="/wiki/Ecologist_Party_%22The_Greens%22" title="Ecologist Party &quot;The Greens&quot;">The Greens</a></li>
+<li><i><a href="/wiki/LIVRE" title="LIVRE">LIVRE</a></i></li></ul></li>
+<li>Romania
+<ul><li><i><a href="/wiki/Ecologist_Party_of_Romania" title="Ecologist Party of Romania">Ecologist Party</a></i></li>
+<li><a href="/wiki/Green_Party_(Romania)" title="Green Party (Romania)">Green Party</a></li></ul></li>
+<li>Russia
+<ul><li><a href="/wiki/Civil_United_Green_Alternative" title="Civil United Green Alternative">Civil United Green Alternative</a></li>
+<li><i><a href="/wiki/Russian_Ecological_Party_%22The_Greens%22" title="Russian Ecological Party &quot;The Greens&quot;">Ecological Party "The Greens"</a></i></li>
+<li><i><a href="/wiki/Union_of_Greens_of_Russia" title="Union of Greens of Russia">Union of Greens</a></i></li>
+<li><i><a href="/wiki/Alliance_of_Greens_and_Social_Democrats" class="mw-redirect" title="Alliance of Greens and Social Democrats">Alliance of Greens and Social Democrats</a></i></li></ul></li>
+<li>Serbia
+<ul><li><i><a href="/wiki/Green_Party_(Serbia)" title="Green Party (Serbia)">Green Party</a></i></li>
+<li><i><a href="/wiki/Greens_of_Serbia" title="Greens of Serbia">Greens of Serbia</a></i></li></ul></li>
+<li><a href="/wiki/Green_Party_(Slovakia)" title="Green Party (Slovakia)">Slovakia</a></li>
+<li>Slovenia
+<ul><li><i><a href="/wiki/Greens_of_Slovenia" class="mw-redirect" title="Greens of Slovenia">Greens</a></i></li>
+<li><a href="/wiki/Youth_Party_%E2%80%93_European_Greens" title="Youth Party – European Greens">Youth Party</a></li></ul></li>
+<li>Spain
+<ul><li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Catalonia Greens</a></li>
+<li><i><a href="/wiki/Confederation_of_the_Greens" title="Confederation of the Greens">Confederation of the Greens</a></i></li>
+<li><a href="/wiki/Equo" title="Equo">Equo</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Sweden)" title="Green Party (Sweden)">Sweden</a></li>
+<li><a href="/wiki/Green_Party_of_Switzerland" title="Green Party of Switzerland">Switzerland</a></li>
+<li><i><a href="/wiki/Green_Left_Party" title="Green Left Party">Turkey</a></i></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Ukraine</a></li>
+<li>United Kingdom
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">England and Wales</a> <i>(<a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales</a>)</i></li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scotland</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:lightgreen;"><div><i>Italic</i> links indicate non-members or observers of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2229
+Cached time: 20180930232834
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.608 seconds
+Real time usage: 0.779 seconds
+Preprocessor visited node count: 3604/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 95467/2097152 bytes
+Template argument size: 5388/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27291/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.311/10.000 seconds
+Lua memory usage: 12.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  630.004      1 -total
+ 25.99%  163.750      1 Template:Lang-es
+ 21.70%  136.738      1 Template:Reflist
+ 21.60%  136.056      1 Template:Infobox_political_party
+ 17.70%  111.507      1 Template:Infobox
+ 12.56%   79.113      6 Template:Cite_web
+ 10.53%   66.357     19 Template:Composition_bar
+  9.43%   59.412      1 Template:More_citations_needed
+  6.32%   39.832     19 Template:Min
+  6.12%   38.584      2 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:441421-0!canonical and timestamp 20180930232833 and revision id 857142486
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;oldid=857142486">https://en.wikipedia.org/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;oldid=857142486</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ecologist_Green_Party_of_Mexico" title="Category:Ecologist Green Party of Mexico">Ecologist Green Party of Mexico</a></li><li><a href="/wiki/Category:Political_parties_established_in_1993" title="Category:Political parties established in 1993">Political parties established in 1993</a></li><li><a href="/wiki/Category:Political_parties_in_Mexico" title="Category:Political parties in Mexico">Political parties in Mexico</a></li><li><a href="/wiki/Category:Organizations_that_oppose_LGBT_rights" title="Category:Organizations that oppose LGBT rights">Organizations that oppose LGBT rights</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2008" title="Category:Articles needing additional references from August 2008">Articles needing additional references from August 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_POV-check_from_April_2018" title="Category:Articles needing POV-check from April 2018">Articles needing POV-check from April 2018</a></li><li><a href="/wiki/Category:All_NPOV_disputes" title="Category:All NPOV disputes">All NPOV disputes</a></li><li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ecologist+Green+Party+of+Mexico" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ecologist+Green+Party+of+Mexico" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ecologist_Green_Party_of_Mexico" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ecologist_Green_Party_of_Mexico" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ecologist_Green_Party_of_Mexico">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ecologist_Green_Party_of_Mexico" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ecologist_Green_Party_of_Mexico" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;oldid=857142486" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q383718" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ecologist_Green_Party_of_Mexico&amp;id=857142486" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ecologist+Green+Party+of+Mexico">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ecologist+Green+Party+of+Mexico&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Partido_Verde_Ecologista_de_M%C3%A9xico" title="Partido Verde Ecologista de México – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Partido_Verde_Ecologista_de_M%C3%A9xico" title="Partido Verde Ecologista de México – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Partido_Verde_Ecologista_de_M%C3%A9xico" title="Partido Verde Ecologista de México – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_vert_%C3%A9cologiste_du_Mexique" title="Parti vert écologiste du Mexique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A9%95%EC%8B%9C%EC%BD%94_%ED%99%98%EA%B2%BD%EC%A3%BC%EC%9D%98_%EB%85%B9%EC%83%89%EB%8B%B9" title="멕시코 환경주의 녹색당 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Partido_Verde_Ecologista_de_M%C3%A9xico" title="Partido Verde Ecologista de México – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Groene_Ecologische_Partij_van_Mexico" title="Groene Ecologische Partij van Mexico – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%B7%91%E3%81%AE%E5%85%9A_(%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3)" title="緑の党 (メキシコ) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Partido_Verde_Ecologista_de_M%C3%A9xico" title="Partido Verde Ecologista de México – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Partido_Verde_Ecologista_do_M%C3%A9xico" title="Partido Verde Ecologista do México – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B8" title="Зелёная экологическая партия Мексики – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Ecologist_Green_Pairty_o_Mexico" title="Ecologist Green Pairty o Mexico – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Meksikon_ekologinen_vihre%C3%A4_puolue" title="Meksikon ekologinen vihreä puolue – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Partido_Verde_Ecologista_de_M%C3%A9xico" title="Partido Verde Ecologista de México – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%94%9F%E6%80%81%E4%B8%BB%E4%B9%89%E7%BB%BF%E5%85%9A" title="墨西哥生态主义绿党 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q383718#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 August 2018, at 20:49<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ecologist_Green_Party_of_Mexico&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.608","walltime":"0.779","ppvisitednodes":{"value":3604,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":95467,"limit":2097152},"templateargumentsize":{"value":5388,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27291,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  630.004      1 -total"," 25.99%  163.750      1 Template:Lang-es"," 21.70%  136.738      1 Template:Reflist"," 21.60%  136.056      1 Template:Infobox_political_party"," 17.70%  111.507      1 Template:Infobox"," 12.56%   79.113      6 Template:Cite_web"," 10.53%   66.357     19 Template:Composition_bar","  9.43%   59.412      1 Template:More_citations_needed","  6.32%   39.832     19 Template:Min","  6.12%   38.584      2 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.311","limit":"10.000"},"limitreport-memusage":{"value":13291168,"limit":52428800}},"cachereport":{"origin":"mw2229","timestamp":"20180930232834","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":864,"wgHostname":"mw2229"});});</script>
+	</body>
+</html>

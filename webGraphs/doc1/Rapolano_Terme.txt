@@ -1,0 +1,294 @@
+https://en.wikipedia.org/wiki/Rapolano_Terme
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rapolano Terme - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rapolano_Terme","wgTitle":"Rapolano Terme","wgCurRevisionId":849944194,"wgRevisionId":849944194,"wgArticleId":6751002,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles containing Italian-language text","Coordinates on Wikidata","Official website different in Wikidata and Wikipedia","Italian commune articles with missing parameters","Wikipedia articles with GND identifiers","Wikipedia articles with VIAF identifiers","All stub articles","Cities and towns in Tuscany","Communes of the Province of Siena","Crete Senesi","Spa towns in Italy","Tuscany geography stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rapolano_Terme","wgRelevantArticleId":6751002,"wgRequestId":"W8NXyQpAADsAAIjOZQAAAADY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":43.283333333333,"lon":11.6},"wgWikibaseItemId":"Q91395","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RapolanoTermePanorama1.JPG/1200px-RapolanoTermePanorama1.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rapolano_Terme"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rapolano_Terme&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Rapolano_Terme&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Rapolano_Terme"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rapolano_Terme rootpage-Rapolano_Terme skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Rapolano Terme</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none"> in Tuscany, Italy</div>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Rapolano Terme</span></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+<span class="category"><i lang="it" title="Italian language text"><a href="/wiki/Comune" title="Comune">Comune</a></i></span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center;font-weight:bold;">
+Comune di Rapolano Terme</td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center">
+<a href="/wiki/File:RapolanoTermePanorama1.JPG" class="image"><img alt="RapolanoTermePanorama1.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RapolanoTermePanorama1.JPG/250px-RapolanoTermePanorama1.JPG" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RapolanoTermePanorama1.JPG/375px-RapolanoTermePanorama1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RapolanoTermePanorama1.JPG/500px-RapolanoTermePanorama1.JPG 2x" data-file-width="2592" data-file-height="1944" /></a></td></tr><tr class="mergedtoprow"><td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tbody><tr><td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:RapolanoTerme-Stemma.gif" class="image" title="Coat of arms of Rapolano Terme"><img alt="Coat of arms of Rapolano Terme" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f7/RapolanoTerme-Stemma.gif/100px-RapolanoTerme-Stemma.gif" width="100" height="164" srcset="//upload.wikimedia.org/wikipedia/en/f/f7/RapolanoTerme-Stemma.gif 1.5x" data-file-width="126" data-file-height="207" /></a><br /><small>Coat of arms</small></td></tr></tbody></table></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center">
+<div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:Italy_provincial_location_map_2015.svg" class="image" title="Rapolano Terme is located in Italy"><img alt="Rapolano Terme is located in Italy" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Italy_provincial_location_map_2015.svg/250px-Italy_provincial_location_map_2015.svg.png" width="250" height="314" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Italy_provincial_location_map_2015.svg/375px-Italy_provincial_location_map_2015.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Italy_provincial_location_map_2015.svg/500px-Italy_provincial_location_map_2015.svg.png 2x" data-file-width="1034" data-file-height="1299" /></a><div style="position:absolute;top:34.025%;left:42.188%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Rapolano Terme" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Rapolano Terme" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Rapolano Terme</div></div></div></div><div><small>Location of Rapolano Terme in Italy</small></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">
+Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rapolano_Terme&amp;params=43_17_N_11_36_E_type:city(4,932)_region:IT"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°17′N</span> <span class="longitude">11°36′E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.283°N 11.600°E</span><span style="display:none">&#xfeff; / <span class="geo">43.283; 11.600</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rapolano_Terme&amp;params=43_17_N_11_36_E_type:city(4,932)_region:IT"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°17′N</span> <span class="longitude">11°36′E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.283°N 11.600°E</span><span style="display:none">&#xfeff; / <span class="geo">43.283; 11.600</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td>
+<a href="/wiki/Italy" title="Italy">Italy</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_Italy" title="Regions of Italy">Region</a></th><td>
+<a href="/wiki/Tuscany" title="Tuscany">Tuscany</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Provinces_of_Italy" title="Provinces of Italy">Province</a></th><td>
+<a href="/wiki/Province_of_Siena" title="Province of Siena">Siena</a> (SI)</td></tr><tr class="mergedtoprow"><th scope="row"><i lang="it" title="Italian language text"><a href="/wiki/Frazione" title="Frazione">Frazioni</a></i></th><td>
+<b></b><small>Armaiolo, Modanella, Poggio Santa Cecilia, San Gimignanello, <a href="/wiki/Serre_di_Rapolano" title="Serre di Rapolano">Serre di Rapolano</a></small></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Government<span style="font-weight:normal"></span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Mayor</th><td>
+Emiliano Spanu</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<span style="font-weight:normal"></span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>
+83.04&#160;km<sup>2</sup> (32.06&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<span style="font-weight:normal"></span></th><td>
+334&#160;m (1,096&#160;ft)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(31 December 2010)<sup id="cite_ref-istat_1-0" class="reference"><a href="#cite_note-istat-1">&#91;1&#93;</a></sup></span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>
+5,308</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>
+64/km<sup>2</sup> (170/sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th><td>
+Rapolanesi</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td>
+<a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td>
+<a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">UTC+2</a> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td></tr><tr class="mergedtoprow"><th scope="row">Postal code</th><td class="adr">
+<span class="postal-code">53040</span></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Area_codes_in_Italy" class="mw-redirect" title="Area codes in Italy">Dialing&#160;code</a></th><td>
+0577</td></tr><tr class="mergedtoprow"><th scope="row">Website</th><td>
+<span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.comune.rapolano.si.it/">Official website</a></span></span></td></tr></tbody></table>  
+<p><b>Rapolano Terme</b> is a <i><a href="/wiki/Comune" title="Comune">comune</a></i> (municipality) in the <a href="/wiki/Province_of_Siena" title="Province of Siena">Province of Siena</a> in the <a href="/wiki/Italy" title="Italy">Italian</a> region <a href="/wiki/Tuscany" title="Tuscany">Tuscany</a>, located about 60 kilometres (37&#160;mi) southeast of <a href="/wiki/Florence" title="Florence">Florence</a> and about 20 kilometres (12&#160;mi) east of <a href="/wiki/Siena" title="Siena">Siena</a> in the area known as the <a href="/wiki/Crete_Senesi" title="Crete Senesi">Crete Senesi</a>.
+</p><p>Until 1949 it was known simply as <b>Rapolano</b>.
+</p><p>The municipality includes several minor towns, among which the village of <a href="/wiki/Serre_di_Rapolano" title="Serre di Rapolano">Serre di Rapolano</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rapolano_Terme&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-istat-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-istat_1-0">^</a></b></span> <span class="reference-text">All demographics and other statistics: Italian statistical institute <a href="/wiki/National_Institute_of_Statistics_(Italy)" class="mw-redirect" title="National Institute of Statistics (Italy)">Istat</a>.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rapolano_Terme&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Rapolano_Terme" class="extiw" title="commons:Category:Rapolano Terme">Rapolano Terme</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20020602161842/http://www.comune.rapolano.si.it/">Official website</a></li></ul>
+<div style="clear:both;"></div>
+<div role="navigation" class="navbox" aria-labelledby="Tuscany_·_Comuni_of_the_Province_of_Siena" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Province_of_Siena" title="Template:Province of Siena"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Province_of_Siena" title="Template talk:Province of Siena"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Province_of_Siena&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tuscany_·_Comuni_of_the_Province_of_Siena" style="font-size:114%;margin:0 4em"><a href="/wiki/Tuscany" title="Tuscany">Tuscany</a> &#183; <i><a href="/wiki/Comune" title="Comune">Comuni</a></i> of the <a href="/wiki/Province_of_Siena" title="Province of Siena">Province of Siena</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abbadia_San_Salvatore" title="Abbadia San Salvatore">Abbadia San Salvatore</a></li>
+<li><a href="/wiki/Asciano" title="Asciano">Asciano</a></li>
+<li><a href="/wiki/Buonconvento" title="Buonconvento">Buonconvento</a></li>
+<li><a href="/wiki/Casole_d%27Elsa" title="Casole d&#39;Elsa">Casole d'Elsa</a></li>
+<li><a href="/wiki/Castellina_in_Chianti" title="Castellina in Chianti">Castellina in Chianti</a></li>
+<li><a href="/wiki/Castelnuovo_Berardenga" title="Castelnuovo Berardenga">Castelnuovo Berardenga</a></li>
+<li><a href="/wiki/Castiglione_d%27Orcia" title="Castiglione d&#39;Orcia">Castiglione d'Orcia</a></li>
+<li><a href="/wiki/Cetona" title="Cetona">Cetona</a></li>
+<li><a href="/wiki/Chianciano_Terme" title="Chianciano Terme">Chianciano Terme</a></li>
+<li><a href="/wiki/Chiusdino" title="Chiusdino">Chiusdino</a></li>
+<li><a href="/wiki/Chiusi" title="Chiusi">Chiusi</a></li>
+<li><a href="/wiki/Colle_di_Val_d%27Elsa" title="Colle di Val d&#39;Elsa">Colle di Val d'Elsa</a></li>
+<li><a href="/wiki/Gaiole_in_Chianti" title="Gaiole in Chianti">Gaiole in Chianti</a></li>
+<li><a href="/wiki/Montalcino" title="Montalcino">Montalcino</a></li>
+<li><a href="/wiki/Montepulciano" title="Montepulciano">Montepulciano</a></li>
+<li><a href="/wiki/Monteriggioni" title="Monteriggioni">Monteriggioni</a></li>
+<li><a href="/wiki/Monteroni_d%27Arbia" title="Monteroni d&#39;Arbia">Monteroni d'Arbia</a></li>
+<li><a href="/wiki/Monticiano" title="Monticiano">Monticiano</a></li>
+<li><a href="/wiki/Murlo" title="Murlo">Murlo</a></li>
+<li><a href="/wiki/Piancastagnaio" title="Piancastagnaio">Piancastagnaio</a></li>
+<li><a href="/wiki/Pienza" title="Pienza">Pienza</a></li>
+<li><a href="/wiki/Poggibonsi" title="Poggibonsi">Poggibonsi</a></li>
+<li><a href="/wiki/Radda_in_Chianti" title="Radda in Chianti">Radda in Chianti</a></li>
+<li><a href="/wiki/Radicofani" title="Radicofani">Radicofani</a></li>
+<li><a href="/wiki/Radicondoli" title="Radicondoli">Radicondoli</a></li>
+<li><a class="mw-selflink selflink">Rapolano Terme</a></li>
+<li><a href="/wiki/San_Casciano_dei_Bagni" title="San Casciano dei Bagni">San Casciano dei Bagni</a></li>
+<li><a href="/wiki/San_Gimignano" title="San Gimignano">San Gimignano</a></li>
+<li><a href="/wiki/San_Quirico_d%27Orcia" title="San Quirico d&#39;Orcia">San Quirico d'Orcia</a></li>
+<li><a href="/wiki/Sarteano" title="Sarteano">Sarteano</a></li>
+<li><a href="/wiki/Siena" title="Siena">Siena</a></li>
+<li><a href="/wiki/Sinalunga" title="Sinalunga">Sinalunga</a></li>
+<li><a href="/wiki/Sovicille" title="Sovicille">Sovicille</a></li>
+<li><a href="/wiki/Torrita_di_Siena" title="Torrita di Siena">Torrita di Siena</a></li>
+<li><a href="/wiki/Trequanda" title="Trequanda">Trequanda</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Provincia_di_Siena-Stemma.svg" class="image" title="Province of Siena"><img alt="Province of Siena" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Provincia_di_Siena-Stemma.svg/55px-Provincia_di_Siena-Stemma.svg.png" width="55" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Provincia_di_Siena-Stemma.svg/83px-Provincia_di_Siena-Stemma.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Provincia_di_Siena-Stemma.svg/110px-Provincia_di_Siena-Stemma.svg.png 2x" data-file-width="530" data-file-height="820" /></a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q91395&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q91395&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q91395" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"> <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/139983329">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4442600-8">4442600-8</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/139983329">139983329</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Tuscany.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Tuscany.svg/30px-Flag_of_Tuscany.svg.png" width="30" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Tuscany.svg/45px-Flag_of_Tuscany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Tuscany.svg/60px-Flag_of_Tuscany.svg.png 2x" data-file-width="648" data-file-height="432" /></a></td><td><i>This Tuscany location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Rapolano_Terme&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Tuscany-geo-stub" title="Template:Tuscany-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tuscany-geo-stub" title="Template talk:Tuscany-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tuscany-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20181014145050
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.536 seconds
+Real time usage: 0.662 seconds
+Preprocessor visited node count: 4318/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61853/2097152 bytes
+Template argument size: 18663/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 402/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.294/10.000 seconds
+Lua memory usage: 12.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  609.266      1 -total
+ 76.49%  466.053      1 Template:Infobox_Italian_comune
+ 70.79%  431.309      1 Template:Infobox_settlement
+ 33.77%  205.767      1 Template:Short_description
+ 27.53%  167.729      2 Template:Lang
+ 27.35%  166.648      1 Template:Infobox
+  6.73%   41.032      1 Template:Province_of_Siena
+  6.57%   40.022      2 Template:Convert
+  6.41%   39.083      1 Template:Navbox_Province_of_Italy
+  5.57%   33.932     11 Template:Both
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6751002-0!canonical and timestamp 20181014145049 and revision id 849944194
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rapolano_Terme&amp;oldid=849944194">https://en.wikipedia.org/w/index.php?title=Rapolano_Terme&amp;oldid=849944194</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_and_towns_in_Tuscany" title="Category:Cities and towns in Tuscany">Cities and towns in Tuscany</a></li><li><a href="/wiki/Category:Communes_of_the_Province_of_Siena" title="Category:Communes of the Province of Siena">Communes of the Province of Siena</a></li><li><a href="/wiki/Category:Crete_Senesi" title="Category:Crete Senesi">Crete Senesi</a></li><li><a href="/wiki/Category:Spa_towns_in_Italy" title="Category:Spa towns in Italy">Spa towns in Italy</a></li><li><a href="/wiki/Category:Tuscany_geography_stubs" title="Category:Tuscany geography stubs">Tuscany geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_containing_Italian-language_text" title="Category:Articles containing Italian-language text">Articles containing Italian-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Italian_commune_articles_with_missing_parameters" title="Category:Italian commune articles with missing parameters">Italian commune articles with missing parameters</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rapolano+Terme" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rapolano+Terme" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Rapolano_Terme" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Rapolano_Terme" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Rapolano_Terme">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Rapolano_Terme&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rapolano_Terme&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rapolano_Terme" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rapolano_Terme" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rapolano_Terme&amp;oldid=849944194" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rapolano_Terme&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q91395" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rapolano_Terme&amp;id=849944194" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rapolano+Terme">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rapolano+Terme&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rapolano_Terme&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rapolano_Terme" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Rapolano_Terme" hreflang="en">Wikivoyage</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%A8%D9%88%D9%84%D8%A7%D9%86%D9%88_%D8%AA%D9%8A%D8%B1%D9%85%D9%8A" title="رابولانو تيرمي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B1%D8%A7%D9%BE%D9%88%D9%84%D8%A7%D9%86%D9%88_%D8%AA%D8%B1%D9%85%D9%87" title="راپولانو ترمه – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BF%D0%B0%D0%BB%D0%B0%D0%BD%D0%B0-%D0%A2%D1%8D%D1%80%D0%BC%D1%8D" title="Рапалана-Тэрмэ – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BF%D0%BE%D0%BB%D0%B0%D0%BD%D0%BE_%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Раполано Терме – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Rapolano_Terme_(munisipyo)" title="Rapolano Terme (munisipyo) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%BE%D9%88%D9%84%D8%A7%D9%86%D9%88_%D8%AA%D8%B1%D9%85%D9%87" title="راپولانو ترمه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%9D%BC%ED%8F%B4%EB%9D%BC%EB%85%B8%ED%85%8C%EB%A5%B4%EB%A9%94" title="라폴라노테르메 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A1%D5%BA%D5%B8%D5%AC%D5%A1%D5%B6%D5%B8_%D5%8F%D5%A5%D6%80%D5%B4%D5%A5" title="Ռապոլանո Տերմե – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BF%D0%BE%D0%BB%D0%B0%D0%BD%D0%BE-%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Раполано-Терме – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Rapolanum" title="Rapolanum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%9D%E3%83%A9%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%86%E3%83%AB%E3%83%A1" title="ラポラーノ・テルメ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BF%D0%BE%D0%BB%D0%B0%D0%BD%D0%BE-%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Раполано-Терме – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Rapolanu_Termi" title="Rapolanu Termi – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BF%D0%BE%D0%BB%D0%B0%D0%BD%D0%BE_%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Раполано Терме – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Rapolano_Terme,_Siena" title="Rapolano Terme, Siena – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Tarantino" lang="roa-Tara" hreflang="roa-Tara" class="interlanguage-link-target">Tarandíne</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BF%D0%BE%D0%BB%D0%B0%D0%BD%D0%BE-%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Раполано-Терме – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Rapo%C5%82an_Terme" title="Rapołan Terme – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Rapolano_Terme" title="Rapolano Terme – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%8B%89%E6%B3%A2%E6%8B%89%E8%AF%BA%E6%B3%B0%E5%B0%94%E6%A2%85" title="拉波拉诺泰尔梅 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q91395#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 July 2018, at 13:38<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rapolano_Terme&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.536","walltime":"0.662","ppvisitednodes":{"value":4318,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61853,"limit":2097152},"templateargumentsize":{"value":18663,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":402,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  609.266      1 -total"," 76.49%  466.053      1 Template:Infobox_Italian_comune"," 70.79%  431.309      1 Template:Infobox_settlement"," 33.77%  205.767      1 Template:Short_description"," 27.53%  167.729      2 Template:Lang"," 27.35%  166.648      1 Template:Infobox","  6.73%   41.032      1 Template:Province_of_Siena","  6.57%   40.022      2 Template:Convert","  6.41%   39.083      1 Template:Navbox_Province_of_Italy","  5.57%   33.932     11 Template:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.294","limit":"10.000"},"limitreport-memusage":{"value":13170834,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20181014145050","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":753,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>
+

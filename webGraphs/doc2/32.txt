@@ -1,0 +1,573 @@
+https://en.wikipedia.org/wiki/Outline_of_green_politics
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Outline of green politics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Outline_of_green_politics","wgTitle":"Outline of green politics","wgCurRevisionId":851635576,"wgRevisionId":851635576,"wgArticleId":303094,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia outlines","Green politics","Environmentalism","Liberalism","Lists of environmental topics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Outline_of_green_politics","wgRelevantArticleId":303094,"wgRequestId":"W7ILBwrAAD4AAIPDPBQAAACO","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7112651","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Outline_of_green_politics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Outline_of_green_politics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Outline_of_green_politics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Outline_of_green_politics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Outline_of_green_politics rootpage-Outline_of_green_politics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Outline of green politics</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The following <a href="/wiki/Outline_(list)" title="Outline (list)">outline</a> is provided as an overview and topical guide to green politics:
+</p><p><b><a href="/wiki/Green_politics" title="Green politics">Green politics</a></b> &#8211; <a href="/wiki/Political_ideology" class="mw-redirect" title="Political ideology">political ideology</a> that aims for the creation of an ecologically sustainable society rooted in <a href="/wiki/Environmentalism" title="Environmentalism">environmentalism</a>, <a href="/wiki/Social_liberalism" title="Social liberalism">social liberalism</a>, and <a href="/wiki/Grassroots_democracy" title="Grassroots democracy">grassroots democracy</a>.<sup id="cite_ref-Wall_1-0" class="reference"><a href="#cite_note-Wall-1">&#91;1&#93;</a></sup>  It began taking shape in the western world in the 1970s; since then Green parties have developed and established themselves in many countries across the globe, and have achieved some electoral success.
+</p>
+<div class="toclimit-2"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Nature_of_green_politics"><span class="tocnumber">1</span> <span class="toctext">Nature of green politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Essence_of_green_politics"><span class="tocnumber">1.1</span> <span class="toctext">Essence of green politics</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Contributing_philosophies"><span class="tocnumber">1.2</span> <span class="toctext">Contributing philosophies</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Overlapping_movements"><span class="tocnumber">1.3</span> <span class="toctext">Overlapping movements</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Green_schools_of_thought"><span class="tocnumber">2</span> <span class="toctext">Green schools of thought</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Values_and_principles"><span class="tocnumber">3</span> <span class="toctext">Values and principles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Democracy"><span class="tocnumber">3.1</span> <span class="toctext">Democracy</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Environment"><span class="tocnumber">3.2</span> <span class="toctext">Environment</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Feminism"><span class="tocnumber">3.3</span> <span class="toctext">Feminism</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Green_economics"><span class="tocnumber">3.4</span> <span class="toctext">Green economics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Policy_issues"><span class="tocnumber">4</span> <span class="toctext">Policy issues</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Organizations"><span class="tocnumber">5</span> <span class="toctext">Organizations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Worldwide"><span class="tocnumber">5.1</span> <span class="toctext">Worldwide</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Green_federations"><span class="tocnumber">5.2</span> <span class="toctext">Green federations</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Europe"><span class="tocnumber">5.3</span> <span class="toctext">Europe</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Green_parties_in_Europe"><span class="tocnumber">5.3.1</span> <span class="toctext">Green parties in Europe</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Africa_and_Asia"><span class="tocnumber">5.4</span> <span class="toctext">Africa and Asia</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Americas"><span class="tocnumber">5.5</span> <span class="toctext">Americas</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Green_parties_in_the_Americas"><span class="tocnumber">5.5.1</span> <span class="toctext">Green parties in the Americas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Oceania"><span class="tocnumber">5.6</span> <span class="toctext">Oceania</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Alliances"><span class="tocnumber">6</span> <span class="toctext">Alliances</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Notable_persons"><span class="tocnumber">7</span> <span class="toctext">Notable persons</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Green_publications"><span class="tocnumber">8</span> <span class="toctext">Green publications</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#&quot;False_Friends&quot;"><span class="tocnumber">9</span> <span class="toctext">"False Friends"</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Nature_of_green_politics">Nature of green politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=1" title="Edit section: Nature of green politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Green politics can be described as:
+</p>
+<ul><li><a href="/wiki/Activism" title="Activism">activism</a></li>
+<li>an <a href="/wiki/Ideology" title="Ideology">ideology</a>
+<ul><li>a <a href="/wiki/Political_ideology" class="mw-redirect" title="Political ideology">political ideology</a></li></ul></li>
+<li>a <a href="/wiki/Social_movement" title="Social movement">social movement</a>
+<ul><li>a <a href="/wiki/Political_movement" title="Political movement">political movement</a>
+<ul><li>part of the <a href="/wiki/Environmental_movement" title="Environmental movement">environmental movement</a></li></ul></li></ul></li></ul>
+<h3><span class="mw-headline" id="Essence_of_green_politics">Essence of green politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=2" title="Edit section: Essence of green politics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Green_politics" title="Green politics">Green politics</a>
+</p>
+<ul><li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Green_state" class="mw-redirect" title="Green state">Green state</a></li></ul>
+<h3><span class="mw-headline" id="Contributing_philosophies">Contributing philosophies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=3" title="Edit section: Contributing philosophies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Agrarianism" title="Agrarianism">Agrarianism</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li>
+<li><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a></li></ul>
+<h3><span class="mw-headline" id="Overlapping_movements">Overlapping movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=4" title="Edit section: Overlapping movements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Green politics shares many ideas with the following movements:
+</p>
+<ul><li><a href="/wiki/Animal_rights_movement" title="Animal rights movement">Animal rights movement</a></li>
+<li><a href="/wiki/Anti-globalization_movement" title="Anti-globalization movement">Anti-globalization movement</a></li>
+<li><a href="/wiki/Climate_movement" title="Climate movement">Climate movement</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Feminist_movement" title="Feminist movement">Feminist movement</a></li>
+<li><a href="/wiki/Local_food_movement" class="mw-redirect" title="Local food movement">Local food movement</a></li>
+<li><a href="/wiki/Peace_movement" title="Peace movement">Peace movement</a></li></ul>
+<h2><span class="mw-headline" id="Green_schools_of_thought">Green schools of thought</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=5" title="Edit section: Green schools of thought">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-feminism" class="mw-redirect" title="Eco-feminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a>
+<ul><li><a href="/wiki/Anarchism_and_nature" class="mw-redirect" title="Anarchism and nature">Anarchism and nature</a></li></ul></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a>
+<ul><li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li></ul></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Green_municipalism" title="Green municipalism">Green municipalism</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li>
+<li><a href="/wiki/Green_syndicalism" class="mw-redirect" title="Green syndicalism">Green syndicalism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li></ul>
+<h2><span class="mw-headline" id="Values_and_principles">Values and principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=6" title="Edit section: Values and principles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=Four_Pillars_of_the_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Four Pillars of the Green Party (page does not exist)">Four Pillars of the Green Party</a>
+<ul><li><a href="/wiki/Ecological_wisdom" class="mw-redirect" title="Ecological wisdom">Ecological wisdom</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a>
+<ul><li><a href="/wiki/Pacifism" title="Pacifism">Pacifism</a></li>
+<li><a href="/wiki/Peace_movement" title="Peace movement">Peace movement</a></li></ul></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a>
+<ul><li><a href="/wiki/Human_rights" title="Human rights">Human rights</a>
+<ul><li><a href="/wiki/Civil_liberties" title="Civil liberties">Civil liberties</a></li></ul></li>
+<li><a href="/wiki/Social_equality" title="Social equality">Social equality</a>
+<ul><li><a href="/wiki/Economic_egalitarianism" class="mw-redirect" title="Economic egalitarianism">Economic egalitarianism</a>
+<ul><li><a href="/wiki/Equal_opportunity" title="Equal opportunity">Equal opportunity</a></li></ul></li></ul></li>
+<li><a href="/wiki/Solidarity" title="Solidarity">Solidarity</a></li></ul></li></ul></li>
+<li><a href="/wiki/Global_Greens_Charter" title="Global Greens Charter">Global Greens Charter</a></li></ul>
+<h3><span class="mw-headline" id="Democracy">Democracy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=7" title="Edit section: Democracy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Consensus_democracy" title="Consensus democracy">Consensus democracy</a></li>
+<li><a href="/wiki/Deliberative_democracy" title="Deliberative democracy">Deliberative democracy</a></li>
+<li><a href="/wiki/Direct_democracy" title="Direct democracy">Direct democracy</a></li>
+<li><a href="/wiki/Participatory_democracy" title="Participatory democracy">Participatory democracy</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Bioregional_democracy" class="mw-redirect" title="Bioregional democracy">Bioregional democracy</a></li>
+<li><a href="/wiki/Inclusive_Democracy" title="Inclusive Democracy">Inclusive Democracy</a></li></ul>
+<h3><span class="mw-headline" id="Environment">Environment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=8" title="Edit section: Environment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">List of environmental issues</a></li>
+<li><a href="/wiki/Ecotheology" title="Ecotheology">Ecotheology</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Green technology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+<h3><span class="mw-headline" id="Feminism">Feminism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=9" title="Edit section: Feminism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ecofeminism" title="Ecofeminism">Ecofeminism</a></li>
+<li><a href="/wiki/Feminist_economics" title="Feminist economics">Feminist economics</a></li></ul>
+<h3><span class="mw-headline" id="Green_economics">Green economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=10" title="Edit section: Green economics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Green_economics" class="mw-redirect" title="Green economics">Green economics</a>
+</p>
+<ul><li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Feminist_economics" title="Feminist economics">Feminist economics</a></li>
+<li><a href="/wiki/Free-market_environmentalism" title="Free-market environmentalism">Free-market environmentalism</a></li>
+<li><a href="/wiki/Georgism" title="Georgism">Georgism</a></li>
+<li><a href="/wiki/Geolibertarianism" title="Geolibertarianism">Geolibertarianism</a></li></ul>
+<h2><span class="mw-headline" id="Policy_issues">Policy issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=11" title="Edit section: Policy issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A few issues affect most of the green parties around the world, and can often inhibit global cooperation. Some affect structure, and others affect policy:
+</p>
+<ul><li><a href="/wiki/Anti-nuclear" class="mw-redirect" title="Anti-nuclear">Anti-nuclear</a></li>
+<li><a href="/wiki/Bioregionalism" title="Bioregionalism">Bioregionalism</a></li>
+<li><a href="/wiki/Biosafety" title="Biosafety">Biosafety</a></li>
+<li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Electoral_reform" title="Electoral reform">Electoral reform</a></li>
+<li><a href="/wiki/Fundi_(politics)" title="Fundi (politics)">Fundamentalism</a> vs. <a href="/wiki/Realism_(international_relations)" title="Realism (international relations)">Realism</a></li>
+<li><a href="/wiki/Greenwashing" title="Greenwashing">Greenwashing</a></li>
+<li><a href="/wiki/Indigenous_peoples" title="Indigenous peoples">Indigenous peoples</a></li>
+<li><a href="/wiki/Land_reform" title="Land reform">Land reform</a></li>
+<li><a href="/wiki/Natural_capitalism" class="mw-redirect" title="Natural capitalism">Natural capitalism</a></li>
+<li><a href="/wiki/Primate_extinction" class="mw-redirect" title="Primate extinction">Primate extinction</a></li>
+<li><a href="/wiki/Prometheanism" title="Prometheanism">Prometheanism</a></li>
+<li><a href="/wiki/Rainforest_destruction" class="mw-redirect" title="Rainforest destruction">Rainforest destruction</a></li>
+<li><a href="/wiki/Safe_trade" title="Safe trade">Safe trade</a></li></ul>
+<p>On matters of <a href="/wiki/Ecology" title="Ecology">ecology</a>, <a href="/wiki/Extinction" title="Extinction">extinction</a>, <a href="/wiki/Biosafety" title="Biosafety">biosafety</a>, <a href="/wiki/Biosecurity" title="Biosecurity">biosecurity</a>, <a href="/wiki/Safe_trade" title="Safe trade">safe trade</a> and <a href="/w/index.php?title=Health_security&amp;action=edit&amp;redlink=1" class="new" title="Health security (page does not exist)">health security</a>, "<a href="/wiki/Green_party" title="Green party">Greens</a>" generally agree.  There are very substantial policy differences between and among Green Parties in various countries and cultures, and a continuing debate about the degree to which natural ecology and human needs align.  Agreement on particular issues is often reached using a <a href="/wiki/Consensus_decision-making" title="Consensus decision-making">consensus decision making</a> process.
+</p>
+<h2><span class="mw-headline" id="Organizations">Organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=12" title="Edit section: Organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Worldwide">Worldwide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=13" title="Edit section: Worldwide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li>WEP - <a href="/wiki/World_Ecological_Parties" title="World Ecological Parties">World Ecological Parties</a></li></ul>
+<h3><span class="mw-headline" id="Green_federations">Green federations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=14" title="Edit section: Green federations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The member parties of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a> (see for details) are organised into four continental federations  <a rel="nofollow" class="external autonumber" href="http://globalgreens.info/index.php">[1]</a>.
+</p>
+<ul><li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas / Federación de los Partidos Verdes de las Américas</a></li>
+<li><a href="/wiki/Asia-Pacific_Green_Network" class="mw-redirect" title="Asia-Pacific Green Network">Asia-Pacific Green Network</a></li>
+<li><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">European Federation of Green Parties</a></li></ul>
+<p>The European Federation of Green Parties formed itself as the European Green Party on 22 February 2004, in the run-up to <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> elections in June, 2004, a further step in trans-national integration.
+</p>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=15" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/European_Federation_of_Green_Parties/European_Free_Alliance" class="mw-redirect" title="European Federation of Green Parties/European Free Alliance">European Federation of Green Parties/European Free Alliance</a> (Faction in the European Parliament)</li></ul>
+<h4><span class="mw-headline" id="Green_parties_in_Europe">Green parties in Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=16" title="Edit section: Green parties in Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Austrian_Green_Party" class="mw-redirect" title="Austrian Green Party">Austrian Green Party</a> (Austria)</li>
+<li><a href="/wiki/Groen!" class="mw-redirect" title="Groen!">Groen!</a> (Belgium)</li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Ecolo</a> (Belgium)</li>
+<li><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party (Czech Republic)</a></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonian Greens</a></li>
+<li><a href="/wiki/Vihre%C3%A4_Liitto" class="mw-redirect" title="Vihreä Liitto">Vihreä Liitto</a> (Finland)</li>
+<li><a href="/wiki/Europe_%C3%89cologie%E2%80%93The_Greens" class="mw-redirect" title="Europe Écologie–The Greens">Les Verts</a> (France)</li>
+<li><a href="/wiki/Alliance_%2790/The_Greens" class="mw-redirect" title="Alliance &#39;90/The Greens">Alliance '90/The Greens</a> (Germany)</li>
+<li><a href="/wiki/Green_Party_faction_(Bundestag)" title="Green Party faction (Bundestag)">Green Party faction (Bundestag)</a> (Germany)</li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Left-Green Movement</a> (Iceland)</li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Green Party (Ireland)</a></li>
+<li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a> (Italy)</li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvian Green Party</a> (Latvia)</li>
+<li><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Free List (Liechtenstein)</a></li>
+<li><a href="/wiki/Environment_Party_The_Greens_(Norway)" class="mw-redirect" title="Environment Party The Greens (Norway)">Environment Party The Greens (Norway)</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">The Greens (Poland)</a></li>
+<li><a href="/wiki/The_Greens_(Portugal)" class="mw-redirect" title="The Greens (Portugal)">The Greens (Portugal)</a></li>
+<li><a href="/wiki/Land_Party" title="Land Party">Partido da Terra</a> (Galiza)</li>
+<li><a href="/wiki/Partido_da_Terra" class="mw-redirect" title="Partido da Terra">Partido da Terra</a> (Portugal)</li>
+<li><a href="/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na" class="mw-redirect" title="Miljöpartiet de Gröna">Miljöpartiet de Gröna</a> (Sweden)</li>
+<li><a href="/wiki/Green_Party_of_Switzerland" title="Green Party of Switzerland">Green Party of Switzerland</a></li>
+<li><a href="/wiki/Green_Liberal_Party_of_Switzerland" title="Green Liberal Party of Switzerland">Green Liberal Party of Switzerland</a></li>
+<li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a> (The Netherlands)</li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens (Netherlands)</a> (The Netherlands)
+<ul><li><i>article also known as <a href="/wiki/De_Groenen" class="mw-redirect" title="De Groenen">De Groenen</a></i></li></ul></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Party of Greens of Ukraine</a> (Ukraine)</li>
+<li>United Kingdom:</li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Green Party in Northern Ireland</a> (Northern Ireland)</li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a> (England and Wales)</li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scottish Green Party</a> (Scotland)</li>
+<li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Initiative for Catalonia Greens</a> (Spain, only in Catalonia)</li></ul>
+<h3><span class="mw-headline" id="Africa_and_Asia">Africa and Asia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=17" title="Edit section: Africa and Asia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ha-Yerukim" class="mw-redirect" title="Ha-Yerukim">Ha-Yerukim</a> (Israel)</li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Green Party of Pakistan</a></li>
+<li><a href="/wiki/ECOPEACE_Party" title="ECOPEACE Party">ECOPEACE Party</a> (South Africa)</li>
+<li><a href="/wiki/Libyan_Arab_Jamahiriya" class="mw-redirect" title="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Mazingira Green Party of Kenya</a></li>
+<li><a href="/wiki/Rainbow_and_Greens" title="Rainbow and Greens">Rainbow and Greens</a> (Japan)</li>
+<li><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Green Party of Malaysia</a></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Green Party Taiwan</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.iraqgreen.net/">Iraqi Green Party</a></li></ul>
+<h3><span class="mw-headline" id="Americas">Americas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=18" title="Edit section: Americas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Federation_of_Green_Parties_of_the_Americas" class="mw-redirect" title="Federation of Green Parties of the Americas">Federation of Green Parties of the Americas</a></li></ul>
+<h4><span class="mw-headline" id="Green_parties_in_the_Americas">Green parties in the Americas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=19" title="Edit section: Green parties in the Americas">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Green_Ecological_Party_of_Mexico" class="mw-redirect" title="Green Ecological Party of Mexico">Green Ecological Party of Mexico</a> (Mexico)</li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a> (Canada)
+<ul><li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">Green Party of British Columbia</a> (Canada)</li>
+<li><a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Green Party of Ontario</a> (Canada)</li>
+<li><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">List of Green party leaders in Canada</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(United_States)" class="mw-redirect" title="Green Party (United States)">Green Party (United States)</a> (USA)
+<ul><li><i>See also <a href="/w/index.php?title=Green_Committees_of_Correspondence&amp;action=edit&amp;redlink=1" class="new" title="Green Committees of Correspondence (page does not exist)">Green Committees of Correspondence</a>, <a href="/wiki/Greens/Green_Party_USA" title="Greens/Green Party USA">Greens/Green Party USA</a>, <a href="/wiki/Boston_Proposal" class="mw-redirect" title="Boston Proposal">Boston Proposal</a></i></li>
+<li><a href="/wiki/The_Green_Party_of_Alaska" class="mw-redirect" title="The Green Party of Alaska">The Green Party of Alaska</a>, etc.</li>
+<li><a href="/w/index.php?title=Green_Party_Central_Option&amp;action=edit&amp;redlink=1" class="new" title="Green Party Central Option (page does not exist)">Green Party Central Option</a> (Colombia)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Oceania">Oceania</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=20" title="Edit section: Oceania">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Australian_Greens_Party" class="mw-redirect" title="Australian Greens Party">Australian Greens Party</a> (Australia)</li>
+<li><a href="/wiki/United_Tasmania_Party" class="mw-redirect" title="United Tasmania Party">United Tasmania Party</a> (Australia)</li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">Green Party of Aotearoa New Zealand</a> (New Zealand)</li>
+<li><a href="/wiki/Values_Party" title="Values Party">Values Party</a> (New Zealand, historical)</li>
+<li><a href="/wiki/Wild_Greens" title="Wild Greens">Wild Greens</a> (New Zealand Green Party youth movement)</li></ul>
+<h2><span class="mw-headline" id="Alliances">Alliances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=21" title="Edit section: Alliances">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Blue-green_alliance" class="mw-redirect" title="Blue-green alliance">Blue-green alliance</a></li>
+<li><a href="/wiki/Red-green_alliance" class="mw-redirect" title="Red-green alliance">Red-green alliance</a></li></ul>
+<h2><span class="mw-headline" id="Notable_persons">Notable persons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=22" title="Edit section: Notable persons">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Adolfo_Aguilar_Z%C3%ADnser" title="Adolfo Aguilar Zínser">Adolfo Aguilar Zínser</a> (Mexico; Green Senate 1997-2000)</li>
+<li><a href="/wiki/Lord_Beaumont_of_Whitley" class="mw-redirect" title="Lord Beaumont of Whitley">Lord Beaumont of Whitley</a> (United Kingdom; former member of the Houses of Parliament)</li>
+<li><a href="/wiki/Natalie_Bennett" title="Natalie Bennett">Natalie Bennett</a> (United Kingdom; current leader of the Green Party of England and Wales)</li>
+<li><a href="/wiki/Ingrid_Betancourt" class="mw-redirect" title="Ingrid Betancourt">Ingrid Betancourt</a> (Colombia; presidency candidate 2002, kidnapped 2002-2008)</li>
+<li><a href="/wiki/Joseph_Beuys" title="Joseph Beuys">Joseph Beuys</a> (Germany; artist and founder member of the German Green Party)</li>
+<li><a href="/wiki/Jello_Biafra" title="Jello Biafra">Jello Biafra</a> (USA; singer-songwriter and runner-up in the US Green Party's Presidential nomination 2000)</li>
+<li><a href="/wiki/Bob_Brown" title="Bob Brown">Bob Brown</a> (Australia; former leader of the Australian Greens and Senator 1996-2012)</li>
+<li><a href="/wiki/Martin_Burs%C3%ADk" title="Martin Bursík">Martin Bursík</a> (The Czech Republic; former leader of the Czech Green Party and Minister of the Environment)</li>
+<li><a href="/wiki/Peter_Camejo" title="Peter Camejo">Peter Camejo</a> (USA; three-time Green Californian gubernatorial candidate and independent vice-presidential candidate 2004)</li>
+<li><a href="/wiki/David_Cobb" title="David Cobb">David Cobb</a> (USA; US Green Party's presidential candidate 2004)</li>
+<li><a href="/wiki/Daniel_Cohn-Bendit" title="Daniel Cohn-Bendit">Daniel Cohn-Bendit</a> (France / Germany; former student leader in 1968 and member of the European Parliament 1994-2014)</li>
+<li><a href="/wiki/Robert_Cramer_(Swiss_politician)" title="Robert Cramer (Swiss politician)">Robert Cramer</a> (Switzerland; Green representative in the Swiss Council of States)</li>
+<li><a href="/wiki/Felix_Dodds" title="Felix Dodds">Felix Dodds</a> (United Kingdom; environmental author, futurist, and activist)</li>
+<li><a href="/wiki/Vera_Dua" title="Vera Dua">Vera Dua</a> (Belgium; former Flemish Green Party leader and Minister of Agriculture and Environment 1999-2003)</li>
+<li><a href="/wiki/Ren%C3%A9_Dumont" title="René Dumont">René Dumont</a> (France; first Green presidential candidate 1974, forefather of the French Green Party Les Verts and founding member of ATTAC)</li>
+<li><a href="/wiki/Indulis_Emsis" title="Indulis Emsis">Indulis Emsis</a> (Latvia; Prime Minister of Latvia for ten months in 2004, first Green politician to lead a country)</li>
+<li><a href="/wiki/Joschka_Fischer" title="Joschka Fischer">Joschka Fischer</a> (Germany; leading figure in the German Greens and Vice Chancellor of Germany and Foreign Minister 1998-2005)</li>
+<li><a href="/wiki/Monica_Frassoni" title="Monica Frassoni">Monica Frassoni</a> (Italy; co-chair of the European Greens group in the European Parliament 2002-2009)</li>
+<li><a href="/wiki/Liaquat_Ali_Khan" title="Liaquat Ali Khan">Liaquat Ali Khan</a> (Pakistan; first Prime Minister of the modern Pakistan)</li>
+<li><a href="/wiki/Jim_Harris_(politician)" title="Jim Harris (politician)">Jim Harris</a> (Canada; former leader of the Canadian Green Party 2003-2006)</li>
+<li><a href="/wiki/Femke_Halsema" title="Femke Halsema">Femke Halsema</a> (Netherlands; leader of the Dutch GreenLeft parliamentary party 2002-2010)</li>
+<li><a href="/wiki/Petra_Kelly" title="Petra Kelly">Petra Kelly</a> (Germany; founding member of the German Greens)</li>
+<li><a href="/wiki/Fritz_Kuhn" title="Fritz Kuhn">Fritz Kuhn</a> (Germany; former chair of German Green's parliamentary group 2005-2009 and first Green mayor of Stuttgart since 2012)</li>
+<li><a href="/wiki/Renate_K%C3%BCnast" title="Renate Künast">Renate Künast</a> (Germany; German Minister of Consumer Protection, Food and Agriculture 2001-2005 and chair of the German Green's parliamentary group 2005-2013)</li>
+<li><a href="/wiki/Winona_LaDuke" title="Winona LaDuke">Winona LaDuke</a> (USA; Native American activist and environmentalist; US Green Party's vice-presidential candidate 1996 and 2000)</li>
+<li><a href="/wiki/Brice_Lalonde" title="Brice Lalonde">Brice Lalonde</a> (France; French Minister of the Environment 1991-1992 and founder of the green party Génération Ecologie)</li>
+<li><a href="/wiki/Alain_Lipietz" title="Alain Lipietz">Alain Lipietz</a> (France; Green engineer and economist; member of the European Parliament 1999-2009)</li>
+<li><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> (United Kingdom; co-leader of the Green Party of England and Wales 2016-Present and first Green member of the Houses of Commons since 2010)</li>
+<li><a href="/wiki/Ulrike_Lunacek" title="Ulrike Lunacek">Ulrike Lunacek</a> (Austria; Vice President of the European Parliament since 2014)</li>
+<li><a href="/wiki/Wangari_Maathai" title="Wangari Maathai">Wangari Maathai</a> (Kenya; environmental and political activist; Nobel Peace Prize winner 2004)</li>
+<li><a href="/wiki/No%C3%ABl_Mam%C3%A8re" title="Noël Mamère">Noël Mamère</a> (France; Green Party's presidential candidate 2002 and former member of the European Parliament)</li>
+<li><a href="/wiki/Elizabeth_May" title="Elizabeth May">Elizabeth May</a> (Canada; current leader of the Green Party of Canada and first Green member of the Canadian Parliament)</li>
+<li><a href="/wiki/Ralph_Nader" title="Ralph Nader">Ralph Nader</a> (USA; US Green Party's Presidential Candidate 1996 and 2000 as well as independent Presidential Candidate in 2004 and 2008)</li>
+<li><a href="/w/index.php?title=Ken_Pentel&amp;action=edit&amp;redlink=1" class="new" title="Ken Pentel (page does not exist)">Ken Pentel</a> (USA; US Green Party's gubernatorial candidate in Minnesota in 1998, 2002 and 2006)</li>
+<li><a href="/wiki/Jonathon_Porritt" title="Jonathon Porritt">Jonathon Porritt</a> (United Kingdom; environmentalist and advocate of the Green Party of England and Wales)</li>
+<li><a href="/wiki/%C3%85sa_Romson" title="Åsa Romson">Åsa Romson</a> (Sweden; Swedish Minister for the Environment and Deputy Prime Minister since 2014)</li>
+<li><a href="/wiki/Claudia_Roth" title="Claudia Roth">Claudia Roth</a> (Germany; German Green Party leader from 2004 to 2013 and Vice President of the Bundestag since 2013)</li>
+<li><a href="/wiki/Paul_Rosenm%C3%B6ller" title="Paul Rosenmöller">Paul Rosenmöller</a> (Netherlands; leader of the Dutch GreenLeft Party 1994-2002)</li>
+<li><a href="/wiki/Otto_Schily" title="Otto Schily">Otto Schily</a> (Germany; German Interior Minister 1998-2005; later switched to SPD)</li>
+<li><a href="/wiki/E._F._Schumacher" title="E. F. Schumacher">E. F. Schumacher</a> (Germany / United Kingdom; Green economic thinker)</li>
+<li><a href="/wiki/Peter_Singer" title="Peter Singer">Peter Singer</a> (Australia; moral philosopher and Green candidate for the Australian Senate in 1996)</li>
+<li><a href="/wiki/Charlene_Spretnak" title="Charlene Spretnak">Charlene Spretnak</a> (USA; ecofeminist and cofounder of the US Green Party)</li>
+<li><a href="/wiki/Bart_Staes" title="Bart Staes">Bart Staes</a> (Belgium; Green member of the European Parliament since 1999)</li>
+<li><a href="/wiki/Jill_Stein" title="Jill Stein">Jill Stein</a> (USA; US Green Party's Presidential Candidate for 2012, 2016 and suspected 2020 run)</li>
+<li><a href="/wiki/Jarom%C3%ADr_%C5%A0t%C4%9Btina" title="Jaromír Štětina">Jaromír Štětina</a> (Czech Republic; Green Senator 2004-2014 and member of the European parliament since 2014)</li>
+<li><a href="/wiki/J%C3%BCrgen_Trittin" title="Jürgen Trittin">Jürgen Trittin</a> (Germany; German Minister for the Environment, Nature Conservation and Nuclear Safety 1998-2005 and chair of the Green parliamentary group 2009-2013)</li>
+<li><a href="/wiki/Alexander_Van_der_Bellen" title="Alexander Van der Bellen">Alexander Van der Bellen</a> (Austria; leader of the Austrian Green Party 1997-2008 and President-elect of Austria by winning the presidential election 2016)</li>
+<li><a href="/wiki/Raimonds_V%C4%93jonis" title="Raimonds Vējonis">Raimonds Vējonis</a> (Latvia; President of Latvia since 2015, making him the first green head of state worldwide)</li>
+<li><a href="/wiki/Jason_West" title="Jason West">Jason West</a> (USA; former mayor of New Paltz, New York and same-sex marriage activist)</li>
+<li><a href="/wiki/Blair_Wilson" title="Blair Wilson">Blair Wilson</a> (Canada; former liberal member of the Canadian Parliament, later became member of the Green Party)</li></ul>
+<h2><span class="mw-headline" id="Green_publications">Green publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=23" title="Edit section: Green publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_environmental_books" title="List of environmental books">List of environmental books</a>
+<ul><li><a href="/wiki/List_of_Australian_environmental_books" title="List of Australian environmental books">List of Australian environmental books</a></li>
+<li><a href="/wiki/List_of_books_about_energy_issues" title="List of books about energy issues">List of books about energy issues</a></li>
+<li><a href="/wiki/List_of_books_about_nuclear_issues" title="List of books about nuclear issues">List of books about nuclear issues</a></li></ul></li>
+<li><a href="/wiki/List_of_environmental_journals" title="List of environmental journals">List of environmental journals</a>
+<ul><li><a href="/wiki/List_of_scholarly_journals_in_environmental_economics" class="mw-redirect" title="List of scholarly journals in environmental economics">List of scholarly journals in environmental economics</a></li>
+<li><a href="/wiki/List_of_environmental_law_reviews_and_journals" class="mw-redirect" title="List of environmental law reviews and journals">List of environmental law reviews and journals</a>
+<ul><li><a href="/wiki/List_of_environmental_lawsuits" title="List of environmental lawsuits">List of environmental lawsuits</a></li></ul></li>
+<li><a href="/wiki/List_of_ornithology_journals" title="List of ornithology journals">List of ornithology journals</a></li>
+<li><a href="/wiki/List_of_wildlife_magazines" title="List of wildlife magazines">List of wildlife magazines</a></li></ul></li>
+<li><a href="/wiki/List_of_environmental_periodicals" title="List of environmental periodicals">List of environmental periodicals</a></li>
+<li><a href="/wiki/List_of_environmental_agreements" class="mw-redirect" title="List of environmental agreements">List of environmental agreements</a></li>
+<li><a href="/wiki/List_of_environmental_reports" title="List of environmental reports">List of environmental reports</a></li>
+<li><a href="/wiki/List_of_environmental_websites" title="List of environmental websites">List of environmental websites</a></li></ul>
+<h2><span id=".22False_Friends.22"></span><span class="mw-headline" id="&quot;False_Friends&quot;">"False Friends"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=24" title="Edit section: &quot;False Friends&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>"Green" articles that don't relate in any way to Green politics or parties</i>
+</p>
+<ul><li><a href="/wiki/Greenpeace" title="Greenpeace">Greenpeace</a>&#160;&#8211;&#32;an environmentalist <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">NGO</a></li>
+<li><a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a>&#160;&#8211;&#32;chemistry in <a href="/wiki/Agriculture" title="Agriculture">agriculture</a></li>
+<li><a href="/wiki/Pan-Green_Coalition" title="Pan-Green Coalition">Pan-Green Coalition</a>&#160;&#8211;&#32;<a href="/wiki/Politics_of_Taiwan" class="mw-redirect" title="Politics of Taiwan">politics of Taiwan</a></li>
+<li><a href="/wiki/European_United_Left%E2%80%93Nordic_Green_Left" title="European United Left–Nordic Green Left">European United Left–Nordic Green Left</a>&#160;&#8211;&#32;socialist faction in the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Activism" title="Activism">Activism</a></li>
+<li><a href="/wiki/Climate_movement" title="Climate movement">Climate movement</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Environmental_community_organizations" title="Environmental community organizations">Environmental community organizations</a></li>
+<li><a href="/wiki/Environmental_groups_and_resources_serving_K%E2%80%9312_schools" title="Environmental groups and resources serving K–12 schools">Environmental groups and resources serving K–12 schools</a></li>
+<li><a href="/wiki/Environmental_organizations" class="mw-redirect" title="Environmental organizations">Environmental organizations</a></li>
+<li><a href="/wiki/Environmental_protection" title="Environmental protection">Environmental protection</a></li>
+<li><a href="/wiki/Environmental_Tariff" class="mw-redirect" title="Environmental Tariff">Environmental Tariff</a></li>
+<li><a href="/wiki/Gaian_Greens" title="Gaian Greens">Gaian Greens</a></li>
+<li><a href="/wiki/Green_International" class="mw-redirect" title="Green International">Green International</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li>
+<li><a href="/wiki/List_of_environmental_organizations" title="List of environmental organizations">List of environmental organizations</a></li>
+<li><a href="/wiki/Viridian_design_movement" title="Viridian design movement">Viridian Greens</a></li>
+<li><a href="/wiki/Nordic_agrarian_parties" title="Nordic agrarian parties">Nordic agrarian parties</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Free-market_environmentalism" title="Free-market environmentalism">Free-market environmentalism</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/List_of_conservation_topics" class="mw-redirect" title="List of conservation topics">List of conservation topics</a></li>
+<li><a href="/wiki/List_of_conservation_issues" class="mw-redirect" title="List of conservation issues">List of conservation issues</a></li>
+<li><a href="/wiki/List_of_environmental_disasters" title="List of environmental disasters">List of environmental disasters</a></li>
+<li><a href="/wiki/List_of_environmental_organizations" title="List of environmental organizations">List of environmental organizations</a></li>
+<li><a href="/wiki/Lists_of_environmental_topics" title="Lists of environmental topics">Lists of environmental topics</a></li>
+<li><a href="/wiki/List_of_green_parties" class="mw-redirect" title="List of green parties">List of green parties</a></li>
+<li><a href="/wiki/List_of_sustainability_topics" class="mw-redirect" title="List of sustainability topics">List of sustainability topics</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Wall-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wall_1-0">^</a></b></span> <span class="reference-text"><a href="#Wal10">Wall 2010</a>. p. 12-13.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit&amp;section=27" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+    <div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Green politics</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a>
+    </div>
+    <ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wiktionary.org/wiki/Special:Search/Green_politics" class="extiw" title="wikt:Special:Search/Green politics">Definitions</a> from Wiktionary</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Special:Search/Green_politics" class="extiw" title="c:Special:Search/Green politics">Media</a> from Wikimedia Commons</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/41px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/54px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikinews.org/wiki/Special:Search/Green_politics" class="extiw" title="n:Special:Search/Green politics">News</a> from Wikinews</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" width="23" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiquote.org/wiki/Special:Search/Green_politics" class="extiw" title="q:Special:Search/Green politics">Quotations</a> from Wikiquote</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" width="26" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikisource.org/wiki/Special:Search/Green_politics" class="extiw" title="s:Special:Search/Green politics">Texts</a> from Wikisource</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikibooks.org/wiki/Special:Search/Green_politics" class="extiw" title="b:Special:Search/Green politics">Textbooks</a> from Wikibooks</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Special:Search/Green_politics" class="extiw" title="v:Special:Search/Green politics">Learning resources</a> from Wikiversity</span>
+            </li>
+    </ul>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071012081813/http://www.global.greens.org.au/charter.htm">Global Greens Charter, Canberra 2001</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sussex.ac.uk/Users/ssfa2/ecology.html"><i>Ecology and Society</i> – book on politics and sociology of environmentalism</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Outlines" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Outline_footer" title="Template:Outline footer"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Outline_footer" title="Template talk:Outline footer"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Outline_footer&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Outlines" style="font-size:114%;margin:0 4em"><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">Outlines</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Portal:Contents/Outlines#General_reference" title="Portal:Contents/Outlines">General reference</a>
+<ul><li><a href="/wiki/Portal:Contents/Outlines#Culture_and_the_arts" title="Portal:Contents/Outlines">Culture and the arts</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Geography_and_places" title="Portal:Contents/Outlines">Geography and places</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Health_and_fitness" title="Portal:Contents/Outlines">Health and fitness</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#History_and_events" title="Portal:Contents/Outlines">History and events</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Mathematics_and_logic" title="Portal:Contents/Outlines">Mathematics and logic</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Natural_and_physical_sciences" title="Portal:Contents/Outlines">Natural and physical sciences</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#People_and_self" title="Portal:Contents/Outlines">People and self</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Philosophy_and_thinking" title="Portal:Contents/Outlines">Philosophy and thinking</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Religion_and_belief_systems" title="Portal:Contents/Outlines">Religion and belief systems</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Society_and_social_sciences" title="Portal:Contents/Outlines">Society and social sciences</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Technology_and_applied_sciences" title="Portal:Contents/Outlines">Technology and applied sciences</a></li></ul></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2277
+Cached time: 20180913063613
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.159 seconds
+Preprocessor visited node count: 606/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13657/2097152 bytes
+Template argument size: 202/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 352/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.011/10.000 seconds
+Lua memory usage: 780 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   62.948      1 -total
+ 44.69%   28.134      1 Template:Reflist
+ 28.86%   18.169      1 Template:Outline_footer
+ 24.99%   15.729      1 Template:Navbox
+ 14.68%    9.242      1 Template:Sisterlinks
+  6.06%    3.812      4 Template:Spaced_ndash
+  4.39%    2.761      1 Template:Main_other
+  3.88%    2.445      1 Template:TOC_limit
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:303094-0!canonical and timestamp 20180913063613 and revision id 851635576
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Outline_of_green_politics&amp;oldid=851635576">https://en.wikipedia.org/w/index.php?title=Outline_of_green_politics&amp;oldid=851635576</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_outlines" title="Category:Wikipedia outlines">Wikipedia outlines</a></li><li><a href="/wiki/Category:Green_politics" title="Category:Green politics">Green politics</a></li><li><a href="/wiki/Category:Environmentalism" title="Category:Environmentalism">Environmentalism</a></li><li><a href="/wiki/Category:Liberalism" title="Category:Liberalism">Liberalism</a></li><li><a href="/wiki/Category:Lists_of_environmental_topics" title="Category:Lists of environmental topics">Lists of environmental topics</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Outline+of+green+politics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Outline+of+green+politics" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Outline_of_green_politics" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Outline_of_green_politics" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Outline_of_green_politics">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Outline_of_green_politics&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Outline_of_green_politics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Outline_of_green_politics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Outline_of_green_politics&amp;oldid=851635576" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Outline_of_green_politics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7112651" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Outline_of_green_politics&amp;id=851635576" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Outline+of+green+politics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Outline+of+green+politics&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Outline_of_green_politics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Popis_zelenih_tema" title="Popis zelenih tema – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7112651#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 July 2018, at 16:19<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Outline_of_green_politics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.159","ppvisitednodes":{"value":606,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13657,"limit":2097152},"templateargumentsize":{"value":202,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":352,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   62.948      1 -total"," 44.69%   28.134      1 Template:Reflist"," 28.86%   18.169      1 Template:Outline_footer"," 24.99%   15.729      1 Template:Navbox"," 14.68%    9.242      1 Template:Sisterlinks","  6.06%    3.812      4 Template:Spaced_ndash","  4.39%    2.761      1 Template:Main_other","  3.88%    2.445      1 Template:TOC_limit"]},"scribunto":{"limitreport-timeusage":{"value":"0.011","limit":"10.000"},"limitreport-memusage":{"value":798967,"limit":52428800}},"cachereport":{"origin":"mw2277","timestamp":"20180913063613","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw2236"});});</script>
+	</body>
+</html>

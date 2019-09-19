@@ -1,0 +1,744 @@
+https://en.wikipedia.org/wiki/Carbonic_anhydrase
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Carbonic anhydrase - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carbonic_anhydrase","wgTitle":"Carbonic anhydrase","wgCurRevisionId":861130666,"wgRevisionId":861130666,"wgArticleId":45079602,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Protein pages needing a picture","All articles with unsourced statements","Articles with unsourced statements from February 2014","EC 4.2.1","Zinc enzymes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carbonic_anhydrase","wgRelevantArticleId":45079602,"wgRequestId":"W8IlkQpAADoAAIOAAsYAAACL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q284089","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/40/Carbonic_anhydrase.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carbonic_anhydrase"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Carbonic_anhydrase"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carbonic_anhydrase rootpage-Carbonic_anhydrase skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Carbonic anhydrase</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Carbonate dehydratase</th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Carbonic_anhydrase.png" class="image"><img alt="Carbonic anhydrase.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Carbonic_anhydrase.png/240px-Carbonic_anhydrase.png" width="240" height="219" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Carbonic_anhydrase.png/360px-Carbonic_anhydrase.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Carbonic_anhydrase.png/480px-Carbonic_anhydrase.png 2x" data-file-width="611" data-file-height="558" /></a><div><a href="/wiki/Ribbon_diagram" title="Ribbon diagram">Ribbon diagram</a> of human carbonic anhydrase II, with zinc ion visible in the center</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://www.chem.qmul.ac.uk/iubmb/enzyme/EC4/2/1/1.html">4.2.1.1</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/CAS_registry_number" class="mw-redirect" title="CAS registry number">CAS number</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=9001-03-0&amp;title=">9001-03-0 </a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ddd">Databases</th></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/IntEnz" title="IntEnz">IntEnz</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/intenz/query?cmd=SearchEC&amp;ec=4.2.1.1">IntEnz view</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/BRENDA" title="BRENDA">BRENDA</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://www.brenda-enzymes.org/enzyme.php?ecno=4.2.1.1">BRENDA entry</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/ExPASy" title="ExPASy">ExPASy</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://www.expasy.org/enzyme/4.2.1.1">NiceZyme view</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/KEGG" title="KEGG">KEGG</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://www.genome.ad.jp/dbget-bin/www_bget?enzyme+4.2.1.1">KEGG entry</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/MetaCyc" title="MetaCyc">MetaCyc</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="https://biocyc.org/META/substring-search?type=NIL&amp;object=4.2.1.1">metabolic pathway</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/PRIAM_enzyme_specific_profiles" class="mw-redirect" title="PRIAM enzyme specific profiles">PRIAM</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=4.2.1.1">profile</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a> structures</th><td style="background-color: #eee">
+<span style="font-size:85%;"><a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=EnzymeClassificationQuery&amp;Enzyme_Classification=4.2.1.1">RCSB PDB</a> <a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:4.2.1.1">PDBe</a> <a rel="nofollow" class="external text" href="//www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=4.2.1.1">PDBsum</a></span></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Gene_Ontology" class="mw-redirect" title="Gene Ontology">Gene Ontology</a></th><td style="background-color: #eee">
+<span style="font-size:85%;"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?query=0004089&amp;view=details">AmiGO </a> / <a rel="nofollow" class="external text" href="//www.ebi.ac.uk/QuickGO/term/GO:0004089">QuickGO</a></span></td></tr><tr><td colspan="2" style="text-align:center;background-color: #eee">
+<table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%"><tbody><tr><th colspan="2" style="text-align:center;background-color: #ddd">Search</th></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;">
+<a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=4.2.1.1%5BEC/RN%20Number%5D%20AND%20pubmed%20pmc%20local%5Bsb%5D">articles</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed" title="PubMed">PubMed</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;">
+<a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=4.2.1.1%5BEC/RN%20Number%5D">articles</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;">
+<a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/protein?term=4.2.1.1%5BEC/RN%20Number%5D">proteins</a></td></tr></tbody></table></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Eukaryotic-type carbonic anhydrase</th></tr><tr><th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th></tr><tr><th scope="row" style="background-color: #e7dcc3">Symbol</th><td style="background-color: #eee">
+Carb_anhydrase</td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF00194">PF00194</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/InterPro" title="InterPro">InterPro</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/interpro/entry/IPR001148">IPR001148</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/PROSITE" title="PROSITE">PROSITE</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://www.expasy.org/cgi-bin/prosite-search-ac?PDOC00146">PDOC00146</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Structural_Classification_of_Proteins" class="mw-redirect" title="Structural Classification of Proteins">SCOP</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?tlev=fa;&amp;pdb=1can">1can</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/SUPERFAMILY" class="mw-redirect" title="SUPERFAMILY">SUPERFAMILY</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://supfam.org/SUPERFAMILY/cgi-bin/search.cgi?search_field=1can">1can</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Membranome_database" title="Membranome database">Membranome</a></th><td style="background-color: #eee">
+<a rel="nofollow" class="external text" href="http://membranome.org/protein_superfamilies/333">333</a></td></tr><tr><td colspan="2" style="text-align:center;background-color: #eee">
+<table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%"><tbody><tr><th colspan="2" style="text-align:center;background-color: #ddd">Available protein structures:</th></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;">
+<a rel="nofollow" class="external text" href="http://pfam.xfam.org/family/PF00194?tab=pdbBlock">structures</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;">
+<a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=PfamIdQuery&amp;pfamID=PF00194">RCSB PDB</a>; <a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/pdbe/entry/search/index?pfam_accession:PF00194">PDBe</a>; <a rel="nofollow" class="external text" href="https://pdbj.org/searchFor?query=PF00194">PDBj</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PDBsum" title="PDBsum">PDBsum</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;">
+<a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPfamStr.pl?pfam_id=PF00194">structure summary</a></td></tr></tbody></table></td></tr></tbody></table>
+<p>The <b>carbonic anhydrases</b> (or <b>carbonate dehydratases</b>) form a family of <a href="/wiki/Enzyme" title="Enzyme">enzymes</a> that <a href="/wiki/Catalyst" class="mw-redirect" title="Catalyst">catalyze</a> the interconversion between <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and <a href="/wiki/Water" title="Water">water</a> and the <a href="/wiki/Dissociation_(chemistry)" title="Dissociation (chemistry)">dissociated</a> ions of <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a> (i.e.  <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> and <a href="/wiki/Hydrogen_ion" title="Hydrogen ion">hydrogen ions</a>). This interconversion is a <a href="/wiki/Reversible_reaction" title="Reversible reaction">reversible reaction</a> and the enzyme catalyzes both reactions, forward and reverse.<sup id="cite_ref-pmid9336012_1-0" class="reference"><a href="#cite_note-pmid9336012-1">&#91;1&#93;</a></sup> The <a href="/wiki/Active_site" title="Active site">active site</a> of most carbonic anhydrases contains a <a href="/wiki/Zinc" title="Zinc">zinc</a> ion; they are therefore classified as <a href="/wiki/Metalloprotein" title="Metalloprotein">metalloenzymes</a>.
+</p><p>The most important functions of this enzyme in <a href="/wiki/Animal" title="Animal">animals</a> is to maintain <a href="/wiki/Acid%E2%80%93base_homeostasis" title="Acid–base homeostasis">acid-base balance</a> in <a href="/wiki/Blood" title="Blood">blood</a> and other tissues, and to help transport carbon dioxide out of tissues.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Reaction"><span class="tocnumber">1</span> <span class="toctext">Reaction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mechanism"><span class="tocnumber">2</span> <span class="toctext">Mechanism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Families"><span class="tocnumber">3</span> <span class="toctext">Families</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#α-CA"><span class="tocnumber">3.1</span> <span class="toctext">α-CA</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#β-CA"><span class="tocnumber">3.2</span> <span class="toctext">β-CA</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#γ-CA"><span class="tocnumber">3.3</span> <span class="toctext">γ-CA</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#δ-CA"><span class="tocnumber">3.4</span> <span class="toctext">δ-CA</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#ζ-CA"><span class="tocnumber">3.5</span> <span class="toctext">ζ-CA</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#η-CA"><span class="tocnumber">3.6</span> <span class="toctext">η-CA</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Structure_and_function"><span class="tocnumber">4</span> <span class="toctext">Structure and function</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Cadmium-containing_carbonic_anhydrase"><span class="tocnumber">5</span> <span class="toctext">Cadmium-containing carbonic anhydrase</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Similarities_to_other_carbonic_anhydrases"><span class="tocnumber">5.1</span> <span class="toctext">Similarities to other carbonic anhydrases</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Differences_from_other_carbonic_anhydrases"><span class="tocnumber">5.2</span> <span class="toctext">Differences from other carbonic anhydrases</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Transport_of_cadmium"><span class="tocnumber">5.3</span> <span class="toctext">Transport of cadmium</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#CDCA-like_proteins"><span class="tocnumber">5.4</span> <span class="toctext">CDCA-like proteins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Industrial_applications"><span class="tocnumber">6</span> <span class="toctext">Industrial applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Carbon_capture_and_sequestration"><span class="tocnumber">6.1</span> <span class="toctext">Carbon capture and sequestration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Reaction">Reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=1" title="Edit section: Reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The reaction catalyzed by carbonic anhydrase is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\rm {CO_{2}+H_{2}O{\xrightarrow {Carbonic\ anhydrase}}H^{+}+HCO_{3}^{-}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">C</mi>
+            <msub>
+              <mi mathvariant="normal">O</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi mathvariant="normal">H</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msub>
+            <mi mathvariant="normal">O</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mo>&#x2192;</mo>
+                <mpadded width="+0.611em" lspace="0.278em" voffset=".15em">
+                  <mi mathvariant="normal">C</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">b</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mtext>&#xA0;</mtext>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">y</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                </mpadded>
+              </mover>
+            </mrow>
+            <msup>
+              <mi mathvariant="normal">H</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>+</mo>
+              </mrow>
+            </msup>
+            <mo>+</mo>
+            <mi mathvariant="normal">H</mi>
+            <mi mathvariant="normal">C</mi>
+            <msubsup>
+              <mi mathvariant="normal">O</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>3</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>&#x2212;<!-- − --></mo>
+              </mrow>
+            </msubsup>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\rm {CO_{2}+H_{2}O{\xrightarrow {Carbonic\ anhydrase}}H^{+}+HCO_{3}^{-}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2f38c44a71653f3c34c6844ac965028346853ef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; margin-top: -0.329ex; width:40.492ex; height:4.509ex;" alt="{\displaystyle {\rm {CO_{2}+H_{2}O{\xrightarrow {Carbonic\ anhydrase}}H^{+}+HCO_{3}^{-}}}}"/></span> (in <a href="/wiki/Biological_tissue" class="mw-redirect" title="Biological tissue">tissues</a> – high CO<sub>2</sub> concentration)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></dd></dl>
+<p>The <a href="/wiki/Reaction_rate" title="Reaction rate">reaction rate</a> of carbonic anhydrase is one of the fastest of all enzymes, and its rate is typically limited by the <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> rate of its <a href="/wiki/Substrate_(biochemistry)" class="mw-redirect" title="Substrate (biochemistry)">substrates</a>.
+Typical catalytic rates of the different forms of this enzyme ranging between 10<sup>4</sup> and 10<sup>6</sup> reactions per second.<sup id="cite_ref-Lindskog_1997_4-0" class="reference"><a href="#cite_note-Lindskog_1997-4">&#91;4&#93;</a></sup>
+</p><p>The reverse reaction is relatively slow (kinetics in the 15-second range) in the absence of a catalyst.  This is why a carbonated drink does not instantly degas when opening the container; however it will rapidly degas in the mouth when it comes in contact with carbonic anhydrase that is contained in saliva.<sup id="cite_ref-pmid9784398_5-0" class="reference"><a href="#cite_note-pmid9784398-5">&#91;5&#93;</a></sup>
+</p><p>An anhydrase is defined as an enzyme that catalyzes the removal of a water molecule from a compound, and so it is this "reverse" reaction that gives carbonic anhydrase its name, because it removes a water molecule from carbonic acid.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\rm {HCO_{3}^{-}+H^{+}\rightarrow CO_{2}+H_{2}O}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">H</mi>
+            <mi mathvariant="normal">C</mi>
+            <msubsup>
+              <mi mathvariant="normal">O</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>3</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>&#x2212;<!-- − --></mo>
+              </mrow>
+            </msubsup>
+            <mo>+</mo>
+            <msup>
+              <mi mathvariant="normal">H</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>+</mo>
+              </mrow>
+            </msup>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi mathvariant="normal">C</mi>
+            <msub>
+              <mi mathvariant="normal">O</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi mathvariant="normal">H</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msub>
+            <mi mathvariant="normal">O</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\rm {HCO_{3}^{-}+H^{+}\rightarrow CO_{2}+H_{2}O}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d8034197c7aaa1fe831b7d8b7551e6a9579e265" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:28.435ex; height:3.176ex;" alt="{\displaystyle {\rm {HCO_{3}^{-}+H^{+}\rightarrow CO_{2}+H_{2}O}}}"/></span>  (in <a href="/wiki/Lung" title="Lung">lungs</a> and <a href="/wiki/Nephrons" class="mw-redirect" title="Nephrons">nephrons</a> of the <a href="/wiki/Kidney" title="Kidney">kidney</a> – low CO<sub>2</sub> concentration, in plant cells)</dd></dl>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=2" title="Edit section: Mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Carbonic_anhydrase_1CA2_active_site.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Carbonic_anhydrase_1CA2_active_site.png/200px-Carbonic_anhydrase_1CA2_active_site.png" width="200" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Carbonic_anhydrase_1CA2_active_site.png/300px-Carbonic_anhydrase_1CA2_active_site.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Carbonic_anhydrase_1CA2_active_site.png/400px-Carbonic_anhydrase_1CA2_active_site.png 2x" data-file-width="1240" data-file-height="1240" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Carbonic_anhydrase_1CA2_active_site.png" class="internal" title="Enlarge"></a></div>Close-up rendering of active site of human carbonic anhydrase II, showing three <a href="/wiki/Histidine" title="Histidine">histidine</a> residues and a <a href="/wiki/Hydroxide" title="Hydroxide">hydroxide</a> group coordinating (dashed lines) the <a href="/wiki/Zinc" title="Zinc">zinc</a> ion at center. From <span class="plainlinks"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a>: <a rel="nofollow" class="external text" href="https://www.rcsb.org/structure/1CA2">1CA2</a></span>&#8203;.</div></div></div>
+<p>A <a href="/wiki/Zinc" title="Zinc">zinc</a> <a href="/wiki/Prosthetic_group" class="mw-redirect" title="Prosthetic group">prosthetic group</a> in the enzyme is coordinated in three positions by <a href="/wiki/Histidine" title="Histidine">histidine</a> <a href="/wiki/Side_chain" title="Side chain">side-chains</a>. The fourth coordination position is occupied by water. This causes polarisation of the hydrogen-oxygen bond, making the oxygen slightly more positive, thereby weakening the bond.
+</p><p>A fourth histidine is placed close to the substrate of water molecule and accepts a <a href="/wiki/Proton" title="Proton">proton</a>, in an example of  <a href="/w/index.php?title=General_acid&amp;action=edit&amp;redlink=1" class="new" title="General acid (page does not exist)">general acid</a> – <a href="/w/index.php?title=General_base&amp;action=edit&amp;redlink=1" class="new" title="General base (page does not exist)">general base</a> <a href="/wiki/Catalysis" title="Catalysis">catalysis</a> (see the article "<a href="/wiki/Acid_catalysis" title="Acid catalysis">Acid catalysis</a>"). This leaves a <a href="/wiki/Hydroxide" title="Hydroxide">hydroxide</a> attached to the zinc.
+</p><p>The active site also contains a specificity pocket for carbon dioxide, bringing it close to the hydroxide group. This allows the electron-rich hydroxide to attack the carbon dioxide, forming bicarbonate.
+</p>
+<h2><span class="mw-headline" id="Families">Families</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=3" title="Edit section: Families">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Carbonic_anhydrase_1CA2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Carbonic_anhydrase_1CA2.png/200px-Carbonic_anhydrase_1CA2.png" width="200" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Carbonic_anhydrase_1CA2.png/300px-Carbonic_anhydrase_1CA2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Carbonic_anhydrase_1CA2.png/400px-Carbonic_anhydrase_1CA2.png 2x" data-file-width="1200" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Carbonic_anhydrase_1CA2.png" class="internal" title="Enlarge"></a></div>Ribbon diagram of human carbonic anhydrase II. <a href="/wiki/Active_site" title="Active site">Active site</a> <a href="/wiki/Zinc" title="Zinc">zinc</a> ion visible at center. From <span class="plainlinks"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a>: <a rel="nofollow" class="external text" href="https://www.rcsb.org/structure/1CA2">1CA2</a></span>&#8203;.</div></div></div>
+<p>There are at least five distinct CA families (α, β, γ, δ and ζ). These families have no significant <a href="/wiki/Protein_sequence" class="mw-redirect" title="Protein sequence">amino acid sequence</a> similarity and in most cases are thought to be an example of <a href="/wiki/Convergent_evolution" title="Convergent evolution">convergent evolution</a>. The α-CAs are found in humans.
+</p>
+<h3><span id=".CE.B1-CA"></span><span class="mw-headline" id="α-CA">α-CA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=4" title="Edit section: α-CA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Vertebrate" title="Vertebrate">Vertebrates</a>, <a href="/wiki/Algae" title="Algae">algae</a> and some <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> have this family of CAs.
+</p><p>The CA enzymes found in <a href="/wiki/Mammal" title="Mammal">mammals</a> are divided into four broad subgroups,<sup id="cite_ref-pmid11875253_6-0" class="reference"><a href="#cite_note-pmid11875253-6">&#91;6&#93;</a></sup> which, in turn consist of several isoforms:
+</p>
+<ul><li>the <a href="/wiki/Cytosol" title="Cytosol">cytosolic</a> CAs (CA-I, <a href="/wiki/Carbonic_anhydrase_II" title="Carbonic anhydrase II">CA-II</a>, CA-III, CA-VII and CA XIII) (<i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1368">CA1</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1373">CA2</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1374">CA3</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1381">CA7</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=14914">CA13</a></i>)</li>
+<li><a href="/wiki/Mitochondrion" title="Mitochondrion">mitochondrial</a> CAs (CA-VA and CA-VB) (<i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?match=CA5A">CA5A</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?match=CA5B">CA5B</a></i>)</li>
+<li>secreted CAs (CA-VI) (<i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1380">CA6</a></i>)</li>
+<li>membrane-associated CAs (CA-IV, CA-IX, CA-XII, CA-XIV and CA-XV) (<i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1375">CA4</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1383">CA9</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1371">CA12</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1372">CA14</a></i>)</li></ul>
+<p>There are three additional "acatalytic" CA isoforms (CA-VIII, CA-X, and CA-XI) (<i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1382">CA8</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1369">CA10</a></i>, <i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1370">CA11</a></i>) whose functions remain unclear.<sup id="cite_ref-pmid9878252_7-0" class="reference"><a href="#cite_note-pmid9878252-7">&#91;7&#93;</a></sup>
+</p>
+<table class="wikitable" align="center">
+
+<caption>Comparison of mammalian carbonic anhydrases
+</caption>
+<tbody><tr>
+<th>Isoform
+</th>
+<th>Gene
+</th>
+<th><a href="/wiki/Molecular_mass" title="Molecular mass">Molecular mass</a><sup id="cite_ref-boron_8-0" class="reference"><a href="#cite_note-boron-8">&#91;8&#93;</a></sup>
+</th>
+<th>Location (cell)
+</th>
+<th>Location (tissue)<sup id="cite_ref-boron_8-1" class="reference"><a href="#cite_note-boron-8">&#91;8&#93;</a></sup>
+</th>
+<th>Specific activity of human enzymes (except for mouse CA XV) (s<sup>−1</sup>)<sup id="cite_ref-Hilvo_2008_9-0" class="reference"><a href="#cite_note-Hilvo_2008-9">&#91;9&#93;</a></sup>
+</th>
+<th>Sensitivity to <a href="/wiki/Sulfonamide" title="Sulfonamide">sulfonamides</a> (acetazolamide in this table) K<sub>I</sub> (nM)<sup id="cite_ref-Hilvo_2008_9-1" class="reference"><a href="#cite_note-Hilvo_2008-9">&#91;9&#93;</a></sup>
+</th></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_I" class="mw-redirect" title="Carbonic anhydrase I">CA-I</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1368">CA1</a></i></td>
+<td>29 kDa</td>
+<td><a href="/wiki/Cytosol" title="Cytosol">cytosol</a></td>
+<td><a href="/wiki/Red_blood_cell" title="Red blood cell">red blood cell</a> and <a href="/wiki/Gastrointestinal_tract" title="Gastrointestinal tract">GI tract</a></td>
+<td>2.0 × 10<sup>5</sup></td>
+<td>250
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_II" title="Carbonic anhydrase II">CA-II</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1373">CA2</a></i></td>
+<td>29 kDa</td>
+<td><a href="/wiki/Cytosol" title="Cytosol">cytosol</a></td>
+<td>almost ubiquitous</td>
+<td>1.4 × 10<sup>6</sup></td>
+<td>12
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_III" class="mw-redirect" title="Carbonic anhydrase III">CA-III</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1374">CA3</a></i></td>
+<td>29 kDa</td>
+<td><a href="/wiki/Cytosol" title="Cytosol">cytosol</a></td>
+<td>8% of soluble protein in Type I <a href="/wiki/Muscle" title="Muscle">muscle</a></td>
+<td>1.3 × 10<sup>4</sup></td>
+<td>240000
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_IV" class="mw-redirect" title="Carbonic anhydrase IV">CA-IV</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1375">CA4</a></i></td>
+<td>35 kDa</td>
+<td>extracellular <a href="/wiki/Glycophosphatidylinositol" class="mw-redirect" title="Glycophosphatidylinositol">GPI</a>-linked</td>
+<td><a href="/wiki/Gastrointestinal_tract" title="Gastrointestinal tract">GI tract</a>, <a href="/wiki/Kidney" title="Kidney">kidney</a>, endothelium</td>
+<td>1.1 × 10<sup>6</sup></td>
+<td>74
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Carbonic_anhydrase_VA&amp;action=edit&amp;redlink=1" class="new" title="Carbonic anhydrase VA (page does not exist)">CA-VA</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?match=CA5A">CA5A</a></i></td>
+<td>34.7 kDa (predicted)</td>
+<td><a href="/wiki/Mitochondria" class="mw-redirect" title="Mitochondria">mitochondria</a></td>
+<td>liver</td>
+<td>2.9 × 10<sup>5</sup></td>
+<td>63
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_VB" class="mw-redirect" title="Carbonic anhydrase VB">CA-VB</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?match=CA5B">CA5B</a></i></td>
+<td>36.4 kDa (predicted)</td>
+<td><a href="/wiki/Mitochondria" class="mw-redirect" title="Mitochondria">mitochondria</a></td>
+<td>widely distributed</td>
+<td>9.5 × 10<sup>5</sup></td>
+<td>54
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_VI" title="Carbonic anhydrase VI">CA-VI</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1380">CA6</a></i></td>
+<td>39–42 kDa</td>
+<td>secretory</td>
+<td>saliva and milk</td>
+<td>3.4 × 10<sup>5</sup></td>
+<td>11
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_VII" class="mw-redirect" title="Carbonic anhydrase VII">CA-VII</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1381">CA7</a></i></td>
+<td>29 kDa</td>
+<td><a href="/wiki/Cytosol" title="Cytosol">cytosol</a></td>
+<td>widely distributed</td>
+<td>9.5 × 10<sup>5</sup></td>
+<td>2.5
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_IX" class="mw-redirect" title="Carbonic anhydrase IX">CA-IX</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1383">CA9</a></i></td>
+<td>54, 58 kDa</td>
+<td><a href="/wiki/Cell_membrane" title="Cell membrane">cell membrane</a>-associated</td>
+<td>normal <a href="/wiki/Gastrointestinal_tract" title="Gastrointestinal tract">GI tract</a>, several cancers</td>
+<td>1.1 × 10<sup>6</sup></td>
+<td>16
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_XII" class="mw-redirect" title="Carbonic anhydrase XII">CA-XII</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1371">CA12</a></i></td>
+<td>44 kDa</td>
+<td>extracellularily located <a href="/wiki/Active_site" title="Active site">active site</a></td>
+<td><a href="/wiki/Kidney" title="Kidney">kidney</a>, certain <a href="/wiki/Cancer" title="Cancer">cancers</a></td>
+<td>4.2 × 10<sup>5</sup></td>
+<td>5.7
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Carbonic_anhydrase_XIII&amp;action=edit&amp;redlink=1" class="new" title="Carbonic anhydrase XIII (page does not exist)">CA-XIII</a><sup id="cite_ref-Lehtonen_2004_10-0" class="reference"><a href="#cite_note-Lehtonen_2004-10">&#91;10&#93;</a></sup></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=14914">CA13</a></i></td>
+<td>29 kDa</td>
+<td><a href="/wiki/Cytosol" title="Cytosol">cytosol</a></td>
+<td>widely distributed</td>
+<td>1.5 × 10<sup>5</sup></td>
+<td>16
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonic_anhydrase_XIV" class="mw-redirect" title="Carbonic anhydrase XIV">CA-XIV</a></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=1372">CA14</a></i></td>
+<td>54 kDa</td>
+<td>extracellularily located <a href="/wiki/Active_site" title="Active site">active site</a></td>
+<td><a href="/wiki/Kidney" title="Kidney">kidney</a>, <a href="/wiki/Heart" title="Heart">heart</a>, <a href="/wiki/Skeletal_muscle" title="Skeletal muscle">skeletal muscle</a>, <a href="/wiki/Brain" title="Brain">brain</a></td>
+<td>3.1 × 10<sup>5</sup></td>
+<td>41
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Carbonic_anhydrase_XV&amp;action=edit&amp;redlink=1" class="new" title="Carbonic anhydrase XV (page does not exist)">CA-XV</a><sup id="cite_ref-Hilvo_2005_11-0" class="reference"><a href="#cite_note-Hilvo_2005-11">&#91;11&#93;</a></sup></td>
+<td><i><a rel="nofollow" class="external text" href="https://www.genenames.org/data/hgnc_data.php?hgnc_id=80733">CA15</a></i></td>
+<td>34–36 kDa</td>
+<td>extracellular <a href="/wiki/Glycophosphatidylinositol" class="mw-redirect" title="Glycophosphatidylinositol">GPI</a>-linked</td>
+<td><a href="/wiki/Kidney" title="Kidney">kidney</a>, not expressed in human tissues</td>
+<td>4.7 × 10<sup>5</sup></td>
+<td>72
+</td></tr></tbody></table>
+<h3><span id=".CE.B2-CA"></span><span class="mw-headline" id="β-CA">β-CA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=5" title="Edit section: β-CA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most <a href="/wiki/Prokaryote" title="Prokaryote">prokaryotic</a> and plant <a href="/wiki/Chloroplast" title="Chloroplast">chloroplast</a> CAs belong to the beta family.
+Two <a href="/wiki/Sequence_motif" title="Sequence motif">signature patterns</a> for this family have been identified:
+</p>
+<ul><li>C-[SA]-D-S-R-[LIVM]-x-[AP]</li>
+<li>[EQ]-[YF]-A-[LIVM]-x(2)-[LIVM]-x(4)-[LIVMF](3)-x-G-H-x(2)-C-G</li></ul>
+<h3><span id=".CE.B3-CA"></span><span class="mw-headline" id="γ-CA">γ-CA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=6" title="Edit section: γ-CA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The gamma class of CAs come from <a href="/wiki/Methanogen" title="Methanogen">methanogens</a>, <a href="/wiki/Methane-producing_bacteria" class="mw-redirect" title="Methane-producing bacteria">methane-producing bacteria</a> that grow in hot springs.
+</p>
+<h3><span id=".CE.B4-CA"></span><span class="mw-headline" id="δ-CA">δ-CA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=7" title="Edit section: δ-CA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The delta class of CAs has been described in <a href="/wiki/Diatom" title="Diatom">diatoms</a>. The distinction of this class of CA has recently<sup id="cite_ref-Sawaya_2006_12-0" class="reference"><a href="#cite_note-Sawaya_2006-12">&#91;12&#93;</a></sup> come into question, however.
+</p>
+<h3><span id=".CE.B6-CA"></span><span class="mw-headline" id="ζ-CA">ζ-CA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=8" title="Edit section: ζ-CA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The zeta class of CAs occurs exclusively in <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> in a few <a href="/wiki/Chemolithotroph" class="mw-redirect" title="Chemolithotroph">chemolithotrophs</a> and marine <a href="/wiki/Cyanobacteria" title="Cyanobacteria">cyanobacteria</a> that contain cso-<a href="/wiki/Carboxysome" title="Carboxysome">carboxysomes</a>.<sup id="cite_ref-pmid14729686_13-0" class="reference"><a href="#cite_note-pmid14729686-13">&#91;13&#93;</a></sup> Recent 3-dimensional analyses<sup id="cite_ref-Sawaya_2006_12-1" class="reference"><a href="#cite_note-Sawaya_2006-12">&#91;12&#93;</a></sup> suggest that ζ-CA bears some structural resemblance to β-CA, particularly near the metal ion site. Thus, the two forms may be distantly related, even though the underlying <a href="/wiki/Protein_sequence" class="mw-redirect" title="Protein sequence">amino acid sequence</a> has since diverged considerably.
+</p>
+<h3><span id=".CE.B7-CA"></span><span class="mw-headline" id="η-CA">η-CA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=9" title="Edit section: η-CA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The eta family of CAs was recently found in organisms of the genus <i><a href="/wiki/Plasmodium" title="Plasmodium">Plasmodium</a></i>. These are a group of enzymes previously thought to belong to the alpha family of CAs, however it has been demonstrated that η-CAs have unique features, such as their metal ion coordination pattern.<sup id="cite_ref-pmid25168745_14-0" class="reference"><a href="#cite_note-pmid25168745-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Structure_and_function">Structure and function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=10" title="Edit section: Structure and function">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several forms of carbonic anhydrase occur in nature. In the best-studied <i>α-carbonic anhydrase</i> form present in animals, the zinc ion is coordinated by the <a href="/wiki/Imidazole" title="Imidazole">imidazole</a> rings of 3 <a href="/wiki/Histidine" title="Histidine">histidine</a> residues, His94, His96, and His119.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>&#93;</sup>
+</p><p>The primary function of the enzyme in animals is to interconvert carbon dioxide and bicarbonate to maintain <a href="/wiki/Acid%E2%80%93base_homeostasis" title="Acid–base homeostasis">acid-base balance</a> in blood and other tissues, and to help transport carbon dioxide out of tissues.
+</p><p>There are at least 14 different isoforms in mammals. <a href="/wiki/Plant" title="Plant">Plants</a> contain a different form called <i>β-carbonic anhydrase</i>, which, from an evolutionary standpoint, is a distinct enzyme, but participates in the same reaction and also uses a zinc ion in its active site.  In plants, carbonic anhydrase helps raise the concentration of CO<sub>2</sub> within the <a href="/wiki/Chloroplast" title="Chloroplast">chloroplast</a> in order to increase the carboxylation rate of the enzyme <a href="/wiki/RuBisCO" title="RuBisCO">RuBisCO</a>. This is the reaction that integrates CO<sub>2</sub> into <a href="/wiki/Organic_carbon" class="mw-redirect" title="Organic carbon">organic carbon</a> sugars during <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a>, and can use only the CO<sub>2</sub> form of carbon, not carbonic acid or bicarbonate.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Cadmium-containing_carbonic_anhydrase">Cadmium-containing carbonic anhydrase</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=11" title="Edit section: Cadmium-containing carbonic anhydrase">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Marine <a href="/wiki/Diatom" title="Diatom">diatoms</a> have been found to express a new form of ζ carbonic anhydrase. <a href="/wiki/Thalassiosira_weissflogii" title="Thalassiosira weissflogii"><i>T. weissflogii</i></a>, a species of <a href="/wiki/Phytoplankton" title="Phytoplankton">phytoplankton</a> common to many marine ecosystems, was found to contain carbonic anhydrase with a <a href="/wiki/Cadmium" title="Cadmium">cadmium</a> ion in place of zinc.<sup id="cite_ref-Park_et_al_15-0" class="reference"><a href="#cite_note-Park_et_al-15">&#91;15&#93;</a></sup> Previously, it had been believed that cadmium was a toxic metal with no biological function whatsoever. However, this species of phytoplankton appears to have adapted to the low levels of zinc in the ocean by using cadmium when there is not enough zinc.<sup id="cite_ref-Lane_et_al_16-0" class="reference"><a href="#cite_note-Lane_et_al-16">&#91;16&#93;</a></sup> Although the concentration of cadmium in sea water is also low (about 1x10<sup>−16</sup> <a href="/wiki/Molar_concentration" title="Molar concentration">molar</a>), there is an environmental advantage to being able to use either metal depending on which is more available at the time. This type of carbonic anhydrase is therefore cambialistic, meaning it can interchange the metal in its active site with other metals (namely, zinc and cadmium).<sup id="cite_ref-Bertini_et_al_corrected_17-0" class="reference"><a href="#cite_note-Bertini_et_al_corrected-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Similarities_to_other_carbonic_anhydrases">Similarities to other carbonic anhydrases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=12" title="Edit section: Similarities to other carbonic anhydrases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The mechanism of cadmium carbonic anhydrase (CDCA) is essentially the same as that of other carbonic anhydrases in its conversion of carbon dioxide and water into bicarbonate and a proton.<sup id="cite_ref-Book_on_Cadmium_18-0" class="reference"><a href="#cite_note-Book_on_Cadmium-18">&#91;18&#93;</a></sup> Additionally, like the other carbonic anhydrases, CDCA makes the reaction go almost as fast as the diffusion rate of its substrates, and it can be inhibited by <a href="/wiki/Sulfonamide" title="Sulfonamide">sulfonamide</a> and <a href="/wiki/Sulfamate" class="mw-redirect" title="Sulfamate">sulfamate</a> derivatives.<sup id="cite_ref-Book_on_Cadmium_18-1" class="reference"><a href="#cite_note-Book_on_Cadmium-18">&#91;18&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Differences_from_other_carbonic_anhydrases">Differences from other carbonic anhydrases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=13" title="Edit section: Differences from other carbonic anhydrases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Unlike most other carbonic anhydrases, the active site metal ion is not bound by three histidine residues and a hydroxide ion. Instead, it is bound by two <a href="/wiki/Cysteine" title="Cysteine">cysteine</a> residues, one histidine residue, and a hydroxide ion, which is characteristic of β-CA.<sup id="cite_ref-Book_on_Cadmium_18-2" class="reference"><a href="#cite_note-Book_on_Cadmium-18">&#91;18&#93;</a></sup><sup id="cite_ref-Xu_et_al_19-0" class="reference"><a href="#cite_note-Xu_et_al-19">&#91;19&#93;</a></sup> Due to the fact that cadmium is a <a href="/wiki/HSAB_theory" title="HSAB theory">soft acid</a>, it will be more tightly bound by <a href="/wiki/HSAB_theory" title="HSAB theory">soft base</a> ligands.<sup id="cite_ref-Bertini_et_al_corrected_17-1" class="reference"><a href="#cite_note-Bertini_et_al_corrected-17">&#91;17&#93;</a></sup> The <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> atoms on the cysteine residues are soft bases, thus binding the cadmium more tightly than the nitrogen on histidine residues would. CDCA also has a three-dimensional folding structure that is unlike any other carbonic anhydrase, and its amino acid sequence is dissimilar to the other carbonic anhydrases.<sup id="cite_ref-Book_on_Cadmium_18-3" class="reference"><a href="#cite_note-Book_on_Cadmium-18">&#91;18&#93;</a></sup> It is a <a href="/wiki/Monomer" title="Monomer">monomer</a> with three domains, each one identical in amino acid sequence and each one containing an active site with a metal ion.<sup id="cite_ref-Xu_et_al_19-1" class="reference"><a href="#cite_note-Xu_et_al-19">&#91;19&#93;</a></sup>
+</p><p>Another key difference between CDCA and the other carbonic anhydrases is that CDCA has a mechanism for switching out its cadmium ion for a zinc ion in the event that zinc becomes more available to the phytoplankton than cadmium. The active site of CDCA is essentially "gated" by a chain of nine <a href="/wiki/Amino_acid" title="Amino acid">amino acids</a> with <a href="/wiki/Glycine" title="Glycine">glycine</a> residues at positions 1 and 9. Normally, this gate remains closed and the cadmium ion is trapped inside. However, due to the flexibility and position of the glycine residues, this gate can be opened in order to remove the cadmium ion. A zinc ion can then be put in its place and the gate will close behind it.<sup id="cite_ref-Book_on_Cadmium_18-4" class="reference"><a href="#cite_note-Book_on_Cadmium-18">&#91;18&#93;</a></sup> As a <a href="/wiki/HSAB_theory" title="HSAB theory">borderline acid</a>, zinc will not bind as tightly to the cysteine ligands as cadmium would, but the enzyme will still be active and reasonably efficient. The metal in the active site can be switched between zinc and cadmium depending on which one is more abundant at the time. It is the ability of CDCA to utilize either cadmium or zinc that likely gives <i>T. weissflogii</i> a survival advantage.<sup id="cite_ref-Lane_et_al_16-1" class="reference"><a href="#cite_note-Lane_et_al-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Transport_of_cadmium">Transport of cadmium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=14" title="Edit section: Transport of cadmium">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cadmium is still considered lethal to phytoplankton in high amounts. Studies have shown that <i>T. weissflogii</i> has an initial toxic response to cadmium when exposed to it. The toxicity of the metal is reduced by the transcription and translation of <a href="/wiki/Phytochelatin" title="Phytochelatin">phytochelatin</a>, which are proteins that can bind and transport cadmium. Once bound by phytochelatin, cadmium is no longer toxic, and it can be safely transported to the CDCA enzyme.<sup id="cite_ref-Park_et_al_15-1" class="reference"><a href="#cite_note-Park_et_al-15">&#91;15&#93;</a></sup> It's also been shown that the uptake of cadmium via phytochelatin leads to a significant increase in CDCA expression.<sup id="cite_ref-Park_et_al_15-2" class="reference"><a href="#cite_note-Park_et_al-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="CDCA-like_proteins">CDCA-like proteins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=15" title="Edit section: CDCA-like proteins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other phytoplankton from different water sources have been tested for the presence of CDCA. It was found that many of them contain proteins that are homologous to the CDCA found in <i>T. weissflogii</i>.<sup id="cite_ref-Park_et_al_15-3" class="reference"><a href="#cite_note-Park_et_al-15">&#91;15&#93;</a></sup> This includes species from <a href="/wiki/Great_Bay_(New_Jersey)" title="Great Bay (New Jersey)">Great Bay, New Jersey</a> as well as in the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> near the <a href="/wiki/Equator" title="Equator">equator</a>. In all species tested, CDCA-like proteins showed high levels of expression even in high concentrations of zinc and in the absence of cadmium.<sup id="cite_ref-Park_et_al_15-4" class="reference"><a href="#cite_note-Park_et_al-15">&#91;15&#93;</a></sup> The similarity between these proteins and the CDCA expressed by <i>T. weissflogii</i> varied, but they were always at least 67% similar.<sup id="cite_ref-Park_et_al_15-5" class="reference"><a href="#cite_note-Park_et_al-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Industrial_applications">Industrial applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=16" title="Edit section: Industrial applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Carbon_capture_and_sequestration">Carbon capture and sequestration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=17" title="Edit section: Carbon capture and sequestration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></div>
+<p>Carbonic anhydrase may prove to be a cost-effective means of capturing carbon dioxide from industrial emitters, such as coal power plants. The biggest challenge engineers face implementing carbonic anhydrase for this use is the harsh conditions of the flue (exhaust) streams. Researchers have used directed evolution to create a form of carbonic anhydrase that can withstand temperatures up to 107&#160;°C and extreme alkalinity (pH &gt; 10).<sup id="cite_ref-:0_20-0" class="reference"><a href="#cite_note-:0-20">&#91;20&#93;</a></sup> A pilot run with the more stable CA on a flue stream that consisted of 12–13% mol composition CO₂ had a capture rate of 63.6% over a 60-hour period with no noticeable effects in enzyme performance. CA was placed in a N-methyldiethanolamine (MDEA) solution where it served to increase the concentration difference (driving force) of CO<sub>2</sub> between the flue stream of the power plant and liquid phase in a liquid-gas contactor.<sup id="cite_ref-:0_20-1" class="reference"><a href="#cite_note-:0-20">&#91;20&#93;</a></sup> According to Codexis, a research firm involved with the directed evolution of carbonic anhydrase, CA added to liquid-gas contactors would decrease the absorbed column size and desorber volume by 90% and 80% respectively, so capex costs for installing a typical CCS unit would fall by $146 million, making carbon capture a much more viable option for energy firms that use fossil fuels.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Carbonic_anhydrase_inhibitor" title="Carbonic anhydrase inhibitor">Carbonic anhydrase inhibitor</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pmid9336012-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9336012_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Badger MR, Price GD (1994). "The role of carbonic anhydrase in photosynthesis". <i>Annu. Rev. Plant Physiol. Plant Mol. Biol</i>. <b>45</b>: 369–392. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1146%2Fannurev.pp.45.060194.002101">10.1146/annurev.pp.45.060194.002101</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annu.+Rev.+Plant+Physiol.+Plant+Mol.+Biol.&amp;rft.atitle=The+role+of+carbonic+anhydrase+in+photosynthesis&amp;rft.volume=45&amp;rft.pages=369-392&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.pp.45.060194.002101&amp;rft.aulast=Badger&amp;rft.aufirst=MR&amp;rft.au=Price%2C+GD&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdb101.rcsb.org/motm/49">"PDB101: Molecule of the Month: Carbonic Anhydrase"</a>. <i>RCSB: PDB-101</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=RCSB%3A+PDB-101&amp;rft.atitle=PDB101%3A+Molecule+of+the+Month%3A+Carbonic+Anhydrase&amp;rft_id=http%3A%2F%2Fpdb101.rcsb.org%2Fmotm%2F49&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Carbonic acid has a pK<sub>a</sub> of around 6.36 (the exact value depends on the medium) so at pH 7 a small percentage of the bicarbonate is protonated. See <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a> for details concerning the equilibria HCO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br /><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> + H<sup>+</sup><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rightleftharpoons }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo class="MJX-variant" stretchy="false">&#x21CC;<!-- ⇌ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rightleftharpoons }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1c37b981df851b9e54e489e017b1481e37d418f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;" alt="\rightleftharpoons "/></span> H<sub>2</sub>CO<sub>3</sub> and H<sub>2</sub>CO<sub>3</sub><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rightleftharpoons }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo class="MJX-variant" stretchy="false">&#x21CC;<!-- ⇌ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rightleftharpoons }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1c37b981df851b9e54e489e017b1481e37d418f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;" alt="\rightleftharpoons "/></span> CO<sub>2</sub> + H<sub>2</sub>O</span>
+</li>
+<li id="cite_note-Lindskog_1997-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lindskog_1997_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lindskog S (1997). "Structure and mechanism of carbonic anhydrase". <i>Pharmacol. Ther</i>. <b>74</b> (1): 1–20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0163-7258%2896%2900198-2">10.1016/S0163-7258(96)00198-2</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9336012">9336012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pharmacol.+Ther.&amp;rft.atitle=Structure+and+mechanism+of+carbonic+anhydrase&amp;rft.volume=74&amp;rft.issue=1&amp;rft.pages=1-20&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1016%2FS0163-7258%2896%2900198-2&amp;rft_id=info%3Apmid%2F9336012&amp;rft.aulast=Lindskog&amp;rft.aufirst=S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pmid9784398-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9784398_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Thatcher BJ, Doherty AE, Orvisky E, Martin BM, Henkin RI (September 1998). "Gustin from human parotid saliva is carbonic anhydrase VI". <i>Biochem. Biophys. Res. Commun</i>. <b>250</b> (3): 635–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1006%2Fbbrc.1998.9356">10.1006/bbrc.1998.9356</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9784398">9784398</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochem.+Biophys.+Res.+Commun.&amp;rft.atitle=Gustin+from+human+parotid+saliva+is+carbonic+anhydrase+VI&amp;rft.volume=250&amp;rft.issue=3&amp;rft.pages=635-41&amp;rft.date=1998-09&amp;rft_id=info%3Adoi%2F10.1006%2Fbbrc.1998.9356&amp;rft_id=info%3Apmid%2F9784398&amp;rft.aulast=Thatcher&amp;rft.aufirst=BJ&amp;rft.au=Doherty%2C+AE&amp;rft.au=Orvisky%2C+E&amp;rft.au=Martin%2C+BM&amp;rft.au=Henkin%2C+RI&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pmid11875253-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid11875253_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Breton S (2001). <a rel="nofollow" class="external text" href="http://www.joplink.net/prev/200107/4.html">"The cellular physiology of carbonic anhydrases"</a>. <i>JOP</i>. <b>2</b> (4 Suppl): 159–64. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11875253">11875253</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=JOP&amp;rft.atitle=The+cellular+physiology+of+carbonic+anhydrases&amp;rft.volume=2&amp;rft.issue=4+Suppl&amp;rft.pages=159-64&amp;rft.date=2001&amp;rft_id=info%3Apmid%2F11875253&amp;rft.aulast=Breton&amp;rft.aufirst=S&amp;rft_id=http%3A%2F%2Fwww.joplink.net%2Fprev%2F200107%2F4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pmid9878252-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9878252_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lovejoy DA, Hewett-Emmett D, Porter CA, Cepoi D, Sheffield A, Vale WW, Tashian RE (1998). "Evolutionarily conserved, "acatalytic" carbonic anhydrase-related protein XI contains a sequence motif present in the neuropeptide sauvagine: the human CA-RP XI gene (CA11) is embedded between the secretor gene cluster and the DBP gene at 19q13.3". <i>Genomics</i>. <b>54</b> (3): 484–93. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1006%2Fgeno.1998.5585">10.1006/geno.1998.5585</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9878252">9878252</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Genomics&amp;rft.atitle=Evolutionarily+conserved%2C+%22acatalytic%22+carbonic+anhydrase-related+protein+XI+contains+a+sequence+motif+present+in+the+neuropeptide+sauvagine%3A+the+human+CA-RP+XI+gene+%28CA11%29+is+embedded+between+the+secretor+gene+cluster+and+the+DBP+gene+at+19q13.3&amp;rft.volume=54&amp;rft.issue=3&amp;rft.pages=484-93&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1006%2Fgeno.1998.5585&amp;rft_id=info%3Apmid%2F9878252&amp;rft.aulast=Lovejoy&amp;rft.aufirst=DA&amp;rft.au=Hewett-Emmett%2C+D&amp;rft.au=Porter%2C+CA&amp;rft.au=Cepoi%2C+D&amp;rft.au=Sheffield%2C+A&amp;rft.au=Vale%2C+WW&amp;rft.au=Tashian%2C+RE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-boron-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-boron_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-boron_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Unless else specified: <cite class="citation book">Boron WF (2005). <i>Medical Physiology: A Cellular And Molecular Approach</i>. Elsevier/Saunders. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4160-2328-3" title="Special:BookSources/1-4160-2328-3">1-4160-2328-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Medical+Physiology%3A+A+Cellular+And+Molecular+Approach&amp;rft.pub=Elsevier%2FSaunders&amp;rft.date=2005&amp;rft.isbn=1-4160-2328-3&amp;rft.au=Boron+WF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> Page 638</span>
+</li>
+<li id="cite_note-Hilvo_2008-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hilvo_2008_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hilvo_2008_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Hilvo M, Baranauskiene L, Salzano AM, Scaloni A, Matulis D, Innocenti A, Scozzafava A, Monti SM, Di Fiore A, De Simone G, Lindfors M, Jänis J, Valjakka J, Pastoreková S, Pastorek J, Kulomaa MS, Nordlund HR, Supuran CT, Parkkila S (2008). "Biochemical characterization of CA IX, one of the most active carbonic anhydrase isozymes". <i>J. Biol. Chem</i>. <b>283</b> (41): 27799–809. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1074%2Fjbc.M800938200">10.1074/jbc.M800938200</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18703501">18703501</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.atitle=Biochemical+characterization+of+CA+IX%2C+one+of+the+most+active+carbonic+anhydrase+isozymes&amp;rft.volume=283&amp;rft.issue=41&amp;rft.pages=27799-809&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1074%2Fjbc.M800938200&amp;rft_id=info%3Apmid%2F18703501&amp;rft.aulast=Hilvo&amp;rft.aufirst=M&amp;rft.au=Baranauskiene%2C+L&amp;rft.au=Salzano%2C+AM&amp;rft.au=Scaloni%2C+A&amp;rft.au=Matulis%2C+D&amp;rft.au=Innocenti%2C+A&amp;rft.au=Scozzafava%2C+A&amp;rft.au=Monti%2C+SM&amp;rft.au=Di+Fiore%2C+A&amp;rft.au=De+Simone%2C+G&amp;rft.au=Lindfors%2C+M&amp;rft.au=J%C3%A4nis%2C+J&amp;rft.au=Valjakka%2C+J&amp;rft.au=Pastorekov%C3%A1%2C+S&amp;rft.au=Pastorek%2C+J&amp;rft.au=Kulomaa%2C+MS&amp;rft.au=Nordlund%2C+HR&amp;rft.au=Supuran%2C+CT&amp;rft.au=Parkkila%2C+S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Lehtonen_2004-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lehtonen_2004_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lehtonen J, Shen B, Vihinen M, Casini A, Scozzafava A, Supuran CT, Parkkila AK, Saarnio J, Kivelä AJ, Waheed A, Sly WS, Parkkila S (2004). "Characterization of CA XIII, a novel member of the carbonic anhydrase isozyme family". <i>J. Biol. Chem</i>. <b>279</b> (4): 2719–27. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1074%2Fjbc.M308984200">10.1074/jbc.M308984200</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14600151">14600151</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.atitle=Characterization+of+CA+XIII%2C+a+novel+member+of+the+carbonic+anhydrase+isozyme+family&amp;rft.volume=279&amp;rft.issue=4&amp;rft.pages=2719-27&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1074%2Fjbc.M308984200&amp;rft_id=info%3Apmid%2F14600151&amp;rft.aulast=Lehtonen&amp;rft.aufirst=J&amp;rft.au=Shen%2C+B&amp;rft.au=Vihinen%2C+M&amp;rft.au=Casini%2C+A&amp;rft.au=Scozzafava%2C+A&amp;rft.au=Supuran%2C+CT&amp;rft.au=Parkkila%2C+AK&amp;rft.au=Saarnio%2C+J&amp;rft.au=Kivel%C3%A4%2C+AJ&amp;rft.au=Waheed%2C+A&amp;rft.au=Sly%2C+WS&amp;rft.au=Parkkila%2C+S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Hilvo_2005-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hilvo_2005_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hilvo M, Tolvanen M, Clark A, Shen B, Shah GN, Waheed A, Halmi P, Hänninen M, Hämäläinen JM, Vihinen M, Sly WS, Parkkila S (2005). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1317667">"Characterization of CA XV, a new GPI-anchored form of carbonic anhydrase"</a>. <i>Biochem. J</i>. <b>392</b> (Pt 1): 83–92. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1042%2FBJ20051102">10.1042/BJ20051102</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1317667">1317667</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16083424">16083424</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochem.+J.&amp;rft.atitle=Characterization+of+CA+XV%2C+a+new+GPI-anchored+form+of+carbonic+anhydrase&amp;rft.volume=392&amp;rft.issue=Pt+1&amp;rft.pages=83-92&amp;rft.date=2005&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1317667&amp;rft_id=info%3Apmid%2F16083424&amp;rft_id=info%3Adoi%2F10.1042%2FBJ20051102&amp;rft.aulast=Hilvo&amp;rft.aufirst=M&amp;rft.au=Tolvanen%2C+M&amp;rft.au=Clark%2C+A&amp;rft.au=Shen%2C+B&amp;rft.au=Shah%2C+GN&amp;rft.au=Waheed%2C+A&amp;rft.au=Halmi%2C+P&amp;rft.au=H%C3%A4nninen%2C+M&amp;rft.au=H%C3%A4m%C3%A4l%C3%A4inen%2C+JM&amp;rft.au=Vihinen%2C+M&amp;rft.au=Sly%2C+WS&amp;rft.au=Parkkila%2C+S&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1317667&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Sawaya_2006-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sawaya_2006_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sawaya_2006_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Sawaya MR, Cannon GC, Heinhorst S, Tanaka S, Williams EB, Yeates TO, Kerfeld CA (2006). "The structure of beta-carbonic anhydrase from the carboxysomal shell reveals a distinct subclass with one active site for the price of two". <i>J. Biol. Chem</i>. <b>281</b> (11): 7546–55. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1074%2Fjbc.M510464200">10.1074/jbc.M510464200</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16407248">16407248</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.atitle=The+structure+of+beta-carbonic+anhydrase+from+the+carboxysomal+shell+reveals+a+distinct+subclass+with+one+active+site+for+the+price+of+two&amp;rft.volume=281&amp;rft.issue=11&amp;rft.pages=7546-55&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1074%2Fjbc.M510464200&amp;rft_id=info%3Apmid%2F16407248&amp;rft.aulast=Sawaya&amp;rft.aufirst=MR&amp;rft.au=Cannon%2C+GC&amp;rft.au=Heinhorst%2C+S&amp;rft.au=Tanaka%2C+S&amp;rft.au=Williams%2C+EB&amp;rft.au=Yeates%2C+TO&amp;rft.au=Kerfeld%2C+CA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pmid14729686-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid14729686_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">So AK, Espie GS, Williams EB, Shively JM, Heinhorst S, Cannon GC (2004). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC321498">"A novel evolutionary lineage of carbonic anhydrase (zeta class) is a component of the carboxysome shell"</a>. <i>J. Bacteriol</i>. <b>186</b> (3): 623–30. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1128%2FJB.186.3.623-630.2004">10.1128/JB.186.3.623-630.2004</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC321498">321498</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14729686">14729686</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bacteriol.&amp;rft.atitle=A+novel+evolutionary+lineage+of+carbonic+anhydrase+%28zeta+class%29+is+a+component+of+the+carboxysome+shell&amp;rft.volume=186&amp;rft.issue=3&amp;rft.pages=623-30&amp;rft.date=2004&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC321498&amp;rft_id=info%3Apmid%2F14729686&amp;rft_id=info%3Adoi%2F10.1128%2FJB.186.3.623-630.2004&amp;rft.aulast=So&amp;rft.aufirst=AK&amp;rft.au=Espie%2C+GS&amp;rft.au=Williams%2C+EB&amp;rft.au=Shively%2C+JM&amp;rft.au=Heinhorst%2C+S&amp;rft.au=Cannon%2C+GC&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC321498&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pmid25168745-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid25168745_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Del Prete S, Vullo D, Fisher GM, Andrews KT, Poulsen SA, Capasso C, Supuran CT (Sep 2014). "Discovery of a new family of carbonic anhydrases in the malaria pathogen Plasmodium falciparum—the η-carbonic anhydrases". <i>Bioorganic &amp; Medicinal Chemistry Letters</i>. <b>24</b> (18): 4389–96. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.bmcl.2014.08.015">10.1016/j.bmcl.2014.08.015</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25168745">25168745</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bioorganic+%26+Medicinal+Chemistry+Letters&amp;rft.atitle=Discovery+of+a+new+family+of+carbonic+anhydrases+in+the+malaria+pathogen+Plasmodium+falciparum%E2%80%94the+%CE%B7-carbonic+anhydrases&amp;rft.volume=24&amp;rft.issue=18&amp;rft.pages=4389-96&amp;rft.date=2014-09&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bmcl.2014.08.015&amp;rft_id=info%3Apmid%2F25168745&amp;rft.aulast=Del+Prete&amp;rft.aufirst=S&amp;rft.au=Vullo%2C+D&amp;rft.au=Fisher%2C+GM&amp;rft.au=Andrews%2C+KT&amp;rft.au=Poulsen%2C+SA&amp;rft.au=Capasso%2C+C&amp;rft.au=Supuran%2C+CT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Park_et_al-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Park_et_al_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Park_et_al_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Park_et_al_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Park_et_al_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Park_et_al_15-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Park_et_al_15-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Park H, McGinn PJ, More l F (19 May 2008). "Expression of cadmium carbonic anhydrase of diatoms in seawater". <i>Aquatic Microbial Ecology</i>. <b>51</b>: 183–193. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3354%2Fame01192">10.3354/ame01192</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Aquatic+Microbial+Ecology&amp;rft.atitle=Expression+of+cadmium+carbonic+anhydrase+of+diatoms+in+seawater&amp;rft.volume=51&amp;rft.pages=183-193&amp;rft.date=2008-05-19&amp;rft_id=info%3Adoi%2F10.3354%2Fame01192&amp;rft.aulast=Park&amp;rft.aufirst=H&amp;rft.au=McGinn%2C+PJ&amp;rft.au=More+l%2C+FMM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Lane_et_al-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lane_et_al_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lane_et_al_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lane TW, Saito MA, George GN, Pickering IJ, Prince RC, Morel FM (May 2005). "Biochemistry: a cadmium enzyme from a marine diatom". <i>Nature</i>. <b>435</b> (7038): 42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2F435042a">10.1038/435042a</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15875011">15875011</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Biochemistry%3A+a+cadmium+enzyme+from+a+marine+diatom&amp;rft.volume=435&amp;rft.issue=7038&amp;rft.pages=42&amp;rft.date=2005-05&amp;rft_id=info%3Adoi%2F10.1038%2F435042a&amp;rft_id=info%3Apmid%2F15875011&amp;rft.aulast=Lane&amp;rft.aufirst=TW&amp;rft.au=Saito%2C+MA&amp;rft.au=George%2C+GN&amp;rft.au=Pickering%2C+IJ&amp;rft.au=Prince%2C+RC&amp;rft.au=Morel%2C+FM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Bertini_et_al_corrected-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bertini_et_al_corrected_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bertini_et_al_corrected_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Bertini I, Gray H, Stiefel E, Valentine J (2007). <i>Biological Inorganic Chemistry: Structure and Reactivity</i> (First ed.). Sausalito, California: University Science Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-891389-43-6" title="Special:BookSources/978-1-891389-43-6">978-1-891389-43-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Biological+Inorganic+Chemistry%3A+Structure+and+Reactivity&amp;rft.place=Sausalito%2C+California&amp;rft.edition=First&amp;rft.pub=University+Science+Books&amp;rft.date=2007&amp;rft.isbn=978-1-891389-43-6&amp;rft.aulast=Bertini&amp;rft.aufirst=Ivano&amp;rft.au=Gray%2C+Harry&amp;rft.au=Stiefel%2C+Edward&amp;rft.au=Valentine%2C+Joan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Book_on_Cadmium-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Book_on_Cadmium_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Book_on_Cadmium_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Book_on_Cadmium_18-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Book_on_Cadmium_18-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Book_on_Cadmium_18-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Sigel A, Sigel H, Sigel RK (2013). <i>Cadmium from toxicity to essentiality</i>. Dordrecht: Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-94-007-5179-8" title="Special:BookSources/978-94-007-5179-8">978-94-007-5179-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cadmium+from+toxicity+to+essentiality&amp;rft.place=Dordrecht&amp;rft.pub=Springer&amp;rft.date=2013&amp;rft.isbn=978-94-007-5179-8&amp;rft.aulast=Sigel&amp;rft.aufirst=Astrid&amp;rft.au=Sigel%2C+Helmut&amp;rft.au=Sigel%2C+Roland+K.O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Xu_et_al-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Xu_et_al_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Xu_et_al_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Xu Y, Feng L, Jeffrey PD, Shi Y, Morel FM (Mar 2008). "Structure and metal exchange in the cadmium carbonic anhydrase of marine diatoms". <i>Nature</i>. <b>452</b> (7183): 56–61. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnature06636">10.1038/nature06636</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18322527">18322527</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Structure+and+metal+exchange+in+the+cadmium+carbonic+anhydrase+of+marine+diatoms&amp;rft.volume=452&amp;rft.issue=7183&amp;rft.pages=56-61&amp;rft.date=2008-03&amp;rft_id=info%3Adoi%2F10.1038%2Fnature06636&amp;rft_id=info%3Apmid%2F18322527&amp;rft.aulast=Xu&amp;rft.aufirst=Y&amp;rft.au=Feng%2C+L&amp;rft.au=Jeffrey%2C+PD&amp;rft.au=Shi%2C+Y&amp;rft.au=Morel%2C+FM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Alvizo, Oscar (June 2014). <a rel="nofollow" class="external text" href="http://www.pnas.org/content/111/46/16436.full.pdf">"Directed evolution of an ultrastable carbonic anhydrase for highly efficient carbon capture from flue gas"</a> <span class="cs1-format">(PDF)</span>. <i>PNAS</i>. <b>111</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.1411461111">10.1073/pnas.1411461111</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4246266">4246266</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PNAS&amp;rft.atitle=Directed+evolution+of+an+ultrastable+carbonic+anhydrase+for+highly+efficient+carbon+capture+from+flue+gas&amp;rft.volume=111&amp;rft.date=2014-06&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4246266&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1411461111&amp;rft.aulast=Alvizo&amp;rft.aufirst=Oscar&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F111%2F46%2F16436.full.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em;">
+<ul><li><cite class="citation journal">Lyall V, Alam RI, Phan DQ, Ereso GL, Phan TH, Malik SA, Montrose MH, Chu S, Heck GL, Feldman GM, DeSimone JA (September 2001). "Decrease in rat taste receptor cell <a href="/wiki/Intracellular_pH" title="Intracellular pH">intracellular pH</a> is the proximate stimulus in sour taste transduction". <i>Am. J. Physiol., Cell Physiol</i>. <b>281</b> (3): C1005–13. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11502578">11502578</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Am.+J.+Physiol.%2C+Cell+Physiol.&amp;rft.atitle=Decrease+in+rat+taste+receptor+cell+intracellular+pH+is+the+proximate+stimulus+in+sour+taste+transduction&amp;rft.volume=281&amp;rft.issue=3&amp;rft.pages=C1005-13&amp;rft.date=2001-09&amp;rft_id=info%3Apmid%2F11502578&amp;rft.aulast=Lyall&amp;rft.aufirst=V&amp;rft.au=Alam%2C+RI&amp;rft.au=Phan%2C+DQ&amp;rft.au=Ereso%2C+GL&amp;rft.au=Phan%2C+TH&amp;rft.au=Malik%2C+SA&amp;rft.au=Montrose%2C+MH&amp;rft.au=Chu%2C+S&amp;rft.au=Heck%2C+GL&amp;rft.au=Feldman%2C+GM&amp;rft.au=DeSimone%2C+JA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation web">Goodsell D (2004-01-01). <a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/101/motm.do?momID=49">"Carbonic Anhydrase"</a>. <i>PDB Molecule of the Month</i>. Protein Data Bank<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PDB+Molecule+of+the+Month&amp;rft.atitle=Carbonic+Anhydrase&amp;rft.date=2004-01-01&amp;rft.au=Goodsell+D&amp;rft_id=http%3A%2F%2Fwww.rcsb.org%2Fpdb%2F101%2Fmotm.do%3FmomID%3D49&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonic+anhydrase" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Carbonic_anhydrases" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#e7dcc3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Carbonic_anhydrases" title="Template:Carbonic anhydrases"><abbr title="View this template" style=";background:#e7dcc3;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Carbonic_anhydrases" title="Template talk:Carbonic anhydrases"><abbr title="Discuss this template" style=";background:#e7dcc3;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Carbonic_anhydrases&amp;action=edit"><abbr title="Edit this template" style=";background:#e7dcc3;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Carbonic_anhydrases" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Carbonic anhydrases</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CA1_(gene)" title="CA1 (gene)">CA1</a></li>
+<li><a href="/wiki/Carbonic_anhydrase_II" title="Carbonic anhydrase II">CA2</a></li>
+<li><a href="/wiki/Carbonic_anhydrase_III,_muscle_specific" title="Carbonic anhydrase III, muscle specific">CA3</a></li>
+<li><a href="/wiki/Carbonic_anhydrase_4" title="Carbonic anhydrase 4">CA4</a></li>
+<li><a href="/w/index.php?title=CA5A&amp;action=edit&amp;redlink=1" class="new" title="CA5A (page does not exist)">CA5A</a></li>
+<li><a href="/wiki/CA5B" title="CA5B">CA5B</a></li>
+<li><a href="/wiki/Carbonic_anhydrase_VI" title="Carbonic anhydrase VI">CA6</a></li>
+<li><a href="/wiki/Carbonic_anhydrase_7" title="Carbonic anhydrase 7">CA7</a></li>
+<li><a href="/wiki/CA8" title="CA8">CA8</a></li>
+<li><a href="/wiki/Carbonic_anhydrase_9" title="Carbonic anhydrase 9">CA9</a></li>
+<li><a href="/wiki/CA10" title="CA10">CA10</a></li>
+<li><a href="/wiki/CA11" title="CA11">CA11</a></li>
+<li><a href="/wiki/CA12" title="CA12">CA12</a></li>
+<li><a href="/w/index.php?title=CA13&amp;action=edit&amp;redlink=1" class="new" title="CA13 (page does not exist)">CA13</a></li>
+<li><a href="/wiki/CA14" title="CA14">CA14</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Carbon-oxygen_lyases_(EC_4.2)_(primarily_dehydratases)" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Carbon-oxygen_lyases" title="Template:Carbon-oxygen lyases"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Carbon-oxygen_lyases" title="Template talk:Carbon-oxygen lyases"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Carbon-oxygen_lyases&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Carbon-oxygen_lyases_(EC_4.2)_(primarily_dehydratases)" style="font-size:114%;margin:0 4em">Carbon-oxygen <a href="/wiki/Lyase" title="Lyase">lyases</a> (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> 4.2) (primarily <a href="/wiki/Dehydratase" title="Dehydratase">dehydratases</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_EC_numbers_(EC_4)#EC_4.2.1:_Hydro-Lyases" title="List of EC numbers (EC 4)">4.2.1</a>: Hydro-Lyases</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Carbonic anhydrase</a></li>
+<li><a href="/wiki/Fumarase" title="Fumarase">Fumarase</a></li>
+<li><a href="/wiki/Aconitase" title="Aconitase">Aconitase</a></li>
+<li><a href="/wiki/Enolase" title="Enolase">Enolase</a>
+<ul><li><a href="/wiki/Alpha-enolase" title="Alpha-enolase">Alpha</a></li>
+<li><a href="/wiki/Enolase_2" title="Enolase 2">Enolase 2</a></li></ul></li>
+<li><a href="/wiki/Enoyl-CoA_hydratase" title="Enoyl-CoA hydratase">Enoyl-CoA hydratase</a>/<a href="/wiki/3-Hydroxyacyl_ACP_dehydrase" title="3-Hydroxyacyl ACP dehydrase">3-Hydroxyacyl ACP dehydrase</a></li>
+<li><a href="/wiki/Methylglutaconyl-CoA_hydratase" title="Methylglutaconyl-CoA hydratase">Methylglutaconyl-CoA hydratase</a></li>
+<li><a href="/wiki/Tryptophan_synthase" title="Tryptophan synthase">Tryptophan synthase</a></li>
+<li><a href="/wiki/Cystathionine_beta_synthase" title="Cystathionine beta synthase">Cystathionine beta synthase</a></li>
+<li><a href="/wiki/Porphobilinogen_synthase" title="Porphobilinogen synthase">Porphobilinogen synthase</a></li>
+<li><a href="/wiki/3-Isopropylmalate_dehydratase" title="3-Isopropylmalate dehydratase">3-Isopropylmalate dehydratase</a></li>
+<li><a href="/wiki/Urocanase" title="Urocanase">Urocanase</a></li>
+<li><a href="/wiki/Uroporphyrinogen_III_synthase" title="Uroporphyrinogen III synthase">Uroporphyrinogen III synthase</a></li>
+<li><a href="/wiki/Nitrile_hydratase" title="Nitrile hydratase">Nitrile hydratase</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_EC_numbers_(EC_4)#EC_4.2.2:_Acting_on_Polysaccharides" title="List of EC numbers (EC 4)">4.2.2</a>: Acting on polysaccharides</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hyaluronate_lyase" title="Hyaluronate lyase">Hyaluronate lyase</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_EC_numbers_(EC_4)#EC_4.2.3:_Acting_on_phosphates" title="List of EC numbers (EC 4)">4.2.3</a>: Acting on phosphates</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Threonine_synthase" title="Threonine synthase">Threonine synthase</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_EC_numbers_(EC_4)#EC_4.2.99:_Other_Carbon-Oxygen_Lyases" title="List of EC numbers (EC 4)">4.2.99</a>: Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carboxymethyloxysuccinate_lyase" title="Carboxymethyloxysuccinate lyase">Carboxymethyloxysuccinate lyase</a></li>
+<li><a href="/wiki/Hydroperoxide_lyase" title="Hydroperoxide lyase">Hydroperoxide lyase</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Enzymes" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Enzymes" title="Template:Enzymes"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Enzymes" title="Template talk:Enzymes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Enzymes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Enzymes" style="font-size:114%;margin:0 4em"><a href="/wiki/Enzyme" title="Enzyme">Enzymes</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Activity</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Active_site" title="Active site">Active site</a></li>
+<li><a href="/wiki/Binding_site" title="Binding site">Binding site</a></li>
+<li><a href="/wiki/Catalytic_triad" title="Catalytic triad">Catalytic triad</a></li>
+<li><a href="/wiki/Oxyanion_hole" title="Oxyanion hole">Oxyanion hole</a></li>
+<li><a href="/wiki/Enzyme_promiscuity" title="Enzyme promiscuity">Enzyme promiscuity</a></li>
+<li><a href="/wiki/Catalytically_perfect_enzyme" class="mw-redirect" title="Catalytically perfect enzyme">Catalytically perfect enzyme</a></li>
+<li><a href="/wiki/Coenzyme" class="mw-redirect" title="Coenzyme">Coenzyme</a></li>
+<li><a href="/wiki/Cofactor_(biochemistry)" title="Cofactor (biochemistry)">Cofactor</a></li>
+<li><a href="/wiki/Enzyme_catalysis" title="Enzyme catalysis">Enzyme catalysis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regulation</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allosteric_regulation" title="Allosteric regulation">Allosteric regulation</a></li>
+<li><a href="/wiki/Cooperativity" title="Cooperativity">Cooperativity</a></li>
+<li><a href="/wiki/Enzyme_inhibitor" title="Enzyme inhibitor">Enzyme inhibitor</a></li>
+<li><a href="/wiki/Enzyme_activator" title="Enzyme activator">Enzyme activator</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Classification</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></li>
+<li><a href="/wiki/Enzyme_superfamily" class="mw-redirect" title="Enzyme superfamily">Enzyme superfamily</a></li>
+<li><a href="/wiki/Enzyme_family" class="mw-redirect" title="Enzyme family">Enzyme family</a></li>
+<li><a href="/wiki/List_of_enzymes" title="List of enzymes">List of enzymes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Kinetics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enzyme_kinetics" title="Enzyme kinetics">Enzyme kinetics</a></li>
+<li><a href="/wiki/Eadie%E2%80%93Hofstee_diagram" title="Eadie–Hofstee diagram">Eadie–Hofstee diagram</a></li>
+<li><a href="/wiki/Hanes%E2%80%93Woolf_plot" title="Hanes–Woolf plot">Hanes–Woolf plot</a></li>
+<li><a href="/wiki/Lineweaver%E2%80%93Burk_plot" title="Lineweaver–Burk plot">Lineweaver–Burk plot</a></li>
+<li><a href="/wiki/Michaelis%E2%80%93Menten_kinetics" title="Michaelis–Menten kinetics">Michaelis–Menten kinetics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>EC1 <a href="/wiki/Oxidoreductase" title="Oxidoreductase">Oxidoreductases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_1)" title="List of EC numbers (EC 1)">list</a>)</li>
+<li><b>EC2 <a href="/wiki/Transferase" title="Transferase">Transferases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_2)" title="List of EC numbers (EC 2)">list</a>)</li>
+<li><b>EC3 <a href="/wiki/Hydrolase" title="Hydrolase">Hydrolases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_3)" title="List of EC numbers (EC 3)">list</a>)</li>
+<li><b>EC4 <a href="/wiki/Lyase" title="Lyase">Lyases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_4)" title="List of EC numbers (EC 4)">list</a>)</li>
+<li><b>EC5 <a href="/wiki/Isomerase" title="Isomerase">Isomerases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_5)" title="List of EC numbers (EC 5)">list</a>)</li>
+<li><b>EC6 <a href="/wiki/Ligase" title="Ligase">Ligases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_6)" title="List of EC numbers (EC 6)">list</a>)</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.3em 1.7em 0.1em;font-size:88%;text-align:center"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:TPI1_structure.png" class="image"><img alt="TPI1 structure.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TPI1_structure.png/24px-TPI1_structure.png" width="24" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TPI1_structure.png/36px-TPI1_structure.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TPI1_structure.png/48px-TPI1_structure.png 2x" data-file-width="1452" data-file-height="914" /></a></span><a href="/wiki/Portal:Molecular_and_Cellular_Biology" class="mw-redirect" title="Portal:Molecular and Cellular Biology">Molecular and Cellular Biology portal</a></span></li></ul></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1246
+Cached time: 20181010145639
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.612 seconds
+Real time usage: 4.990 seconds
+Preprocessor visited node count: 2528/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 108285/2097152 bytes
+Template argument size: 2913/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 64472/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.850/10.000 seconds
+Lua memory usage: 5.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 3787.169      1 -total
+ 50.32% 1905.528      1 Template:Reflist
+ 37.19% 1408.580     16 Template:Cite_journal
+ 24.98%  945.982      4 Template:Infobox
+ 11.28%  427.368      1 Template:Pfam_box
+ 11.26%  426.502      1 Template:Enzyme
+ 10.34%  391.737      2 Template:Citation_needed
+  8.90%  336.944      2 Template:Fix
+  5.66%  214.208      4 Template:Category_handler
+  3.47%  131.366      3 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:45079602-0!canonical!math=5 and timestamp 20181010145634 and revision id 861130666
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carbonic_anhydrase&amp;oldid=861130666">https://en.wikipedia.org/w/index.php?title=Carbonic_anhydrase&amp;oldid=861130666</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:EC_4.2.1" title="Category:EC 4.2.1">EC 4.2.1</a></li><li><a href="/wiki/Category:Zinc_enzymes" title="Category:Zinc enzymes">Zinc enzymes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Protein_pages_needing_a_picture" title="Category:Protein pages needing a picture">Protein pages needing a picture</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carbonic+anhydrase" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carbonic+anhydrase" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Carbonic_anhydrase" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Carbonic_anhydrase" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Carbonic_anhydrase">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Carbonic_anhydrase" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Carbonic_anhydrase" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carbonic_anhydrase&amp;oldid=861130666" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carbonic_anhydrase&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q284089" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carbonic_anhydrase&amp;id=861130666" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carbonic+anhydrase">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Carbonic+anhydrase&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Carbonic_anhydrase&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Carbonic_anhydrase" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D9%87%D9%8A%D8%AF%D8%B1%D8%A7%D8%B2_%D9%83%D8%B1%D8%A8%D9%88%D9%86%D9%8A" title="أنهيدراز كربوني – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Anhidrasa_carb%C3%B2nica" title="Anhidrasa carbònica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kulsyreanhydrase" title="Kulsyreanhydrase – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/%CE%91-Carboanhydrasen" title="Α-Carboanhydrasen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anhidrasa_carb%C3%B3nica" title="Anhidrasa carbónica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A8%D9%86%DB%8C%DA%A9_%D8%A2%D9%86%D9%87%DB%8C%D8%AF%D8%B1%D8%A7%D8%B2" title="کربنیک آنهیدراز – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Anhydrase_carbonique" title="Anhydrase carbonique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D6%80%D5%A2%D5%B8%D5%A1%D5%B6%D5%B0%D5%AB%D5%A4%D6%80%D5%A1%D5%A6%D5%B6%D5%A5%D6%80" title="Կարբոանհիդրազներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Carbonato_deidratasi" title="Carbonato deidratasi – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%91%D7%95%D7%A0%D7%99%D7%A7_%D7%90%D7%A0%D7%94%D7%99%D7%93%D7%A8%D7%90%D7%96" title="קרבוניק אנהידראז – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Carboanhydrase" title="Carboanhydrase – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%82%AD%E9%85%B8%E8%84%B1%E6%B0%B4%E9%85%B5%E7%B4%A0" title="炭酸脱水酵素 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Karbonsyreanhydrase" title="Karbonsyreanhydrase – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Anhydrazy_w%C4%99glanowe" title="Anhydrazy węglanowe – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Anidrase_carb%C3%B3nica" title="Anidrase carbónica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Karbonatna_dehidrataza" title="Karbonatna dehidrataza – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Karbonatna_dehidrataza" title="Karbonatna dehidrataza – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hiilihappoanhydraasi" title="Hiilihappoanhydraasi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Karboanhydras" title="Karboanhydras – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Karbonik_anhidraz" title="Karbonik anhidraz – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q284089#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 09:29<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Carbonic_anhydrase&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.612","walltime":"4.990","ppvisitednodes":{"value":2528,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":108285,"limit":2097152},"templateargumentsize":{"value":2913,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":64472,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 3787.169      1 -total"," 50.32% 1905.528      1 Template:Reflist"," 37.19% 1408.580     16 Template:Cite_journal"," 24.98%  945.982      4 Template:Infobox"," 11.28%  427.368      1 Template:Pfam_box"," 11.26%  426.502      1 Template:Enzyme"," 10.34%  391.737      2 Template:Citation_needed","  8.90%  336.944      2 Template:Fix","  5.66%  214.208      4 Template:Category_handler","  3.47%  131.366      3 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.850","limit":"10.000"},"limitreport-memusage":{"value":5300515,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20181010145639","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1263"});});</script>
+	</body>
+</html>
+

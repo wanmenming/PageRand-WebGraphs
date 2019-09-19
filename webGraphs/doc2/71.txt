@@ -1,0 +1,544 @@
+https://en.wikipedia.org/wiki/Green_Party_of_Saskatchewan
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of Saskatchewan - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_Saskatchewan","wgTitle":"Green Party of Saskatchewan","wgCurRevisionId":861105091,"wgRevisionId":861105091,"wgArticleId":486293,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia references cleanup from December 2015","All articles needing references cleanup","Articles covered by WikiProject Wikify from December 2015","All articles covered by WikiProject Wikify","Articles with topics of unclear notability from December 2015","All articles with topics of unclear notability","Articles that may contain original research from December 2015","All articles that may contain original research","Articles lacking reliable references from December 2015","All articles lacking reliable references","Wikipedia articles in need of updating from December 2015","All Wikipedia articles in need of updating","Articles needing additional references from March 2011","All articles needing additional references","Articles with multiple maintenance issues","Use mdy dates from July 2011","All articles with unsourced statements","Articles with unsourced statements from March 2011","Articles with unsourced statements from March 2017","Use mdy dates from December 2011","Green Party of Saskatchewan","Provincial political parties in Saskatchewan","Political parties established in 1998","1998 establishments in Saskatchewan","Organizations based in Saskatoon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_Saskatchewan","wgRelevantArticleId":486293,"wgRequestId":"W7FnnQrAEEYAAH6vFNYAAAAW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3366820","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/f/f9/Sask_Green_Logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_Saskatchewan"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_Saskatchewan"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_Saskatchewan rootpage-Green_Party_of_Saskatchewan skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of Saskatchewan</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Green_Party_of_Saskatchewan" title="Talk:Green Party of Saskatchewan">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>has an unclear citation style</b>.<span class="hide-when-compact"> The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a> and <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>.</span>  <small><i>(December 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Notability" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">The topic of this article <b>may not meet Wikipedia's <a href="/wiki/Wikipedia:Notability_(organizations_and_companies)" title="Wikipedia:Notability (organizations and companies)">notability guidelines for companies and organizations</a></b>.<span class="hide-when-compact"> Please help to establish notability by citing <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable secondary sources</a> that are <a href="/wiki/Wikipedia:Identifying_and_using_independent_sources" title="Wikipedia:Identifying and using independent sources">independent</a> of the topic and provide significant coverage of it beyond a mere trivial mention. If notability cannot be established, the article is likely to be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a>, <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirected</a>, or <a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">deleted</a>.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Green+Party+of+Saskatchewan%22&amp;num=50">"Green Party of Saskatchewan"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Green+Party+of+Saskatchewan%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Green+Party+of+Saskatchewan%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Green+Party+of+Saskatchewan%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Green+Party+of+Saskatchewan%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Green+Party+of+Saskatchewan%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small><i>(December 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article  <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <small><i>(December 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>.<span class="hide-when-compact"> Please improve this  by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span>  <small><i>(December 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small><i>(December 2015)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(March 2011)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #99C955; border-bottom:2px solid #99C955; line-height: 1;"><span class="fn org">Saskatchewan Green Party</span></div></th></tr><tr><td colspan="2" style="text-align:center">
+Active&#160;provincial&#160;party</td></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Sask_Green_Logo.png" class="image"><img alt="Sask Green Logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Sask_Green_Logo.png/180px-Sask_Green_Logo.png" width="180" height="69" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Sask_Green_Logo.png/270px-Sask_Green_Logo.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f9/Sask_Green_Logo.png/360px-Sask_Green_Logo.png 2x" data-file-width="508" data-file-height="196" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Shawn Setyo</a><sup id="cite_ref-BNO1_1-0" class="reference"><a href="#cite_note-BNO1-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">President</th><td class="agent" style="line-height:1.3em;">
+Michael Wright</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+1998</td></tr><tr><th scope="row" style="line-height:1.3em;">Headquarters</th><td class="label" style="line-height:1.3em;">
+Box 31027, RPO Broadway<br /><a href="/wiki/Saskatoon,_Saskatchewan" class="mw-redirect" title="Saskatoon, Saskatchewan">Saskatoon, Saskatchewan</a><br />S7H 5S8</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;">
+<a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats in <a href="/wiki/Legislative_Assembly_of_Saskatchewan" title="Legislative Assembly of Saskatchewan">Legislature</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">0 / 61</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99C955; width: 0%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.saskgreen.ca">www<wbr />.saskgreen<wbr />.ca</a></span></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #99C955;"><ul><li><a href="/wiki/Politics_of_Saskatchewan" title="Politics of Saskatchewan">Politics of Saskatchewan</a></li><li><a href="/wiki/List_of_political_parties_in_Saskatchewan" title="List of political parties in Saskatchewan">Political parties</a></li><li><a href="/wiki/List_of_Saskatchewan_general_elections" title="List of Saskatchewan general elections">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Saskatchewan Green Party</b> is a <a href="/wiki/Green_party" title="Green party">Green</a> political party in the Canadian province of <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>.
+</p><p>It was founded in 1998 as the <b>New Green Alliance</b> (NGA) by environmental and social justice activists frustrated by the <a href="/wiki/Social_democratic" class="mw-redirect" title="Social democratic">social democratic</a> <a href="/wiki/Saskatchewan_New_Democratic_Party" title="Saskatchewan New Democratic Party">Saskatchewan New Democratic Party</a>'s move to the right under <a href="/wiki/Roy_Romanow" title="Roy Romanow">Roy Romanow</a>. Unlike many Green parties in Canada, the NGA was decidedly left wing, favouring, for example, <a href="/wiki/Progressive_taxation" class="mw-redirect" title="Progressive taxation">progressive taxation</a>, workers' rights and the elimination of poverty. NGA supporters believed that the <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a> and <a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Green Party of Ontario</a> were essentially eco-capitalist parties because they favour regressive <a href="/wiki/Consumption_tax" title="Consumption tax">consumption taxes</a> and oppose taxes on incomes and corporations.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2011)">citation needed</span></a></i>&#93;</sup> The NGA also opposed <a href="/wiki/Privatization" title="Privatization">privatization</a> of <a href="/wiki/Crown_corporation" class="mw-redirect" title="Crown corporation">Crown corporations</a>. As a Green party, the NGA supported ecological agriculture, balanced ecological forestry and forest use, and promote a soft energy path. The NGA was committed to peace and non-violence, and in contrast to the Green Party of Canada, took a strong stance against the U.S. war in Iraq.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2011)">citation needed</span></a></i>&#93;</sup>
+</p><p>The NGA ran candidates in Saskatchewan elections, but was unable to win any seats in the <a href="/wiki/Legislative_Assembly_of_Saskatchewan" title="Legislative Assembly of Saskatchewan">Legislative Assembly of Saskatchewan</a>. In the <a href="/wiki/Saskatchewan_general_election,_2003" title="Saskatchewan general election, 2003">2003 election</a>, the NGA nominated 27 candidates who received only 2,504 votes (about 0.5% of the vote), compared to 189,000 for the NDP. This was a decline from the <a href="/wiki/Saskatchewan_general_election,_1999" title="Saskatchewan general election, 1999">1999 election</a>, when the party received 5% of the vote in the 16 ridings where it ran candidates.
+</p><p>The Green Party failed to win any seats in the provincial election of 2007.
+</p><p>At the party's 2005 convention, its members voted to change the party name to the <b>Green Party of Saskatchewan</b> because "Green Party" is more recognized by voters and because the "Alliance" part of the old name could cause confusion. The party is not affiliated with the Green Party of Canada but shares common values and Global Principals.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Green_Party_of_Saskatchewan_logo.png" class="image"><img alt="Former Green Party of Saskatchewan logo" src="//upload.wikimedia.org/wikipedia/en/thumb/5/51/Green_Party_of_Saskatchewan_logo.png/220px-Green_Party_of_Saskatchewan_logo.png" width="220" height="83" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/5/51/Green_Party_of_Saskatchewan_logo.png 1.5x" data-file-width="225" data-file-height="85" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Green_Party_of_Saskatchewan_logo.png" class="internal" title="Enlarge"></a></div>Former logo</div></div></div>
+<p>In the 2011 provincial election, the Green Party of Saskatchewan fielded its first Full Slate of 58 candidates under the Leadership of Victor Lau. Not winning any seats, but having almost 1/2 of the candidates Female; it was a historic moment for the GPS. This cemented the Green Party of Saskatchewan as the Third Party.
+</p><p>The GPS has nominated 61 candidates (30 of whom are women) in anticipation of the next provincial election. This completion occurred on August 27, 2014.
+</p><p>In July 2016, <a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Shawn Setyo</a> took over as interim leader and was elected to become the new leader of the party in October 2016.<sup id="cite_ref-BNO1_1-1" class="reference"><a href="#cite_note-BNO1-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#New_Green_Alliance"><span class="tocnumber">1</span> <span class="toctext">New Green Alliance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Change_in_party_name"><span class="tocnumber">2</span> <span class="toctext">Change in party name</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#2011_to_the_present"><span class="tocnumber">3</span> <span class="toctext">2011 to the present</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Election_results"><span class="tocnumber">4</span> <span class="toctext">Election results</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Party_leaders"><span class="tocnumber">5</span> <span class="toctext">Party leaders</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="New_Green_Alliance">New Green Alliance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=1" title="Edit section: New Green Alliance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The New Green Alliance was the original name of the Green Party of Saskatchewan. In the year 1999 the NGA had been recognized as an official party. A convention was set for March to adopt the constitution and a platform for the <a href="/wiki/Saskatchewan_provincial_election,_1999" class="mw-redirect" title="Saskatchewan provincial election, 1999">1999 election</a>. Premier <a href="/wiki/Roy_Romanow" title="Roy Romanow">Roy Romanow</a> declared that the NGA was "40 years out of date". The press commonly described the NGA as an attempt to revive the old CCF. Given the dwindling support for the NDP reflected in all the public opinion polls, the formation of a new party on the left could not be ignored.
+</p><p>In early March a conference was held in Saskatoon, sponsored by the <a href="/w/index.php?title=Saskatchewan_Coalition_for_Social_Justice&amp;action=edit&amp;redlink=1" class="new" title="Saskatchewan Coalition for Social Justice (page does not exist)">Saskatchewan Coalition for Social Justice</a>: "The Saskatchewan NDP in Power: A Critical Appraisal". Around 150 political activists attended. There was widespread criticism of the Romanow government, and three political options were identified. First there were those who felt that the left should continue to operate within the NDP. This had the weakest support at the conference. The second thrust was to continue to work in popular groups like the SCSJ and the <a href="/wiki/Council_of_Canadians" class="mw-redirect" title="Council of Canadians">Council of Canadians</a>, which was expanding in Saskatchewan. The third position was to join the New Green Alliance. The conference revealed that many on the left, despite their dismay over the political direction of the NDP, were still not willing to join a new political party.
+</p><p>The second convention of the NGA was held in Saskatoon near the end of March. The constitution was approved in principle. But the primary focus of the convention was the forthcoming election. As required under the constitution, the party platform was adopted at the convention.
+</p><p>The early election caught the NGA by surprise. In all, the party only was able to field 16 candidates. Another eight nominations were in sight but failed to get the necessary support to complete the required formal paperwork by the cut-off date. The NGA were all but shut out by the mainstream media during the general election. The CBC refused to allow Neil Sinclair, the leader of the NGA, to participate in the television debates, and refused to let party members in the studio during the debate. On election night television stations did not put the NGA on their boards recording votes in the ridings. The NGA did relatively well. Where they ran candidates, they received on average five percent of the votes.
+</p>
+<h2><span class="mw-headline" id="Change_in_party_name">Change in party name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=2" title="Edit section: Change in party name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Party of Saskatchewan has often been described as much more left than the federal party. The GPS during the <a href="/wiki/Saskatchewan_general_election,_2003" title="Saskatchewan general election, 2003">2003 provincial election</a> with new leader Ben Webster focused on issues such as raise the minimum wage back up to the highest in Canada (as in the 1970s), increase social assistance rates to the Basic Needs Level which have been frozen since 1982, and of course the environment. However, even though the party ran more candidates in the 2003 election, the support fell to nearly 0.5%.
+</p><p>The Green Party of Saskatchewan had three new leaders between the 2003 and 2007 elections. Neal Anderson, Victor Lau, and <a href="/wiki/John_Kern_(Canadian_politician)" title="John Kern (Canadian politician)">John Kern</a> stepped up and stepped down from the GPS leadership in just two years. John Kern was forced to resign due to personal circumstances. Victor Lau later became a candidate in the 2007 Saskatchewan election.
+</p><p>The Green Party of Saskatchewan ran a much stronger campaign during the <a href="/wiki/Saskatchewan_general_election,_2007" title="Saskatchewan general election, 2007">2007 provincial election</a> running a virtual full slate with 48 out of 58 ridings with Green candidates. The GPS were able to capture 2.0% of the vote with candidates receiving anywhere between 1.23% to 6.24% or the vote. The highest was in the riding of <a href="/wiki/Cumberland_(Saskatchewan_provincial_electoral_district)" title="Cumberland (Saskatchewan provincial electoral district)">Cumberland</a> where the Green candidate placed ahead of the Liberal candidate. During the campaign, the GPS was led by <a href="/wiki/Sandra_Finley" title="Sandra Finley">Sandra Finley</a> who ran in the riding of <a href="/wiki/Saskatoon_Nutana" title="Saskatoon Nutana">Saskatoon Nutana</a> capturing 4.1% of the vote. Only three candidates were able to achieve a higher result.
+</p><p>In April 2008, the Green Party of Saskatchewan elected a new executive including deputy leader <a href="/w/index.php?title=Tory_McGregor&amp;action=edit&amp;redlink=1" class="new" title="Tory McGregor (page does not exist)">Tory McGregor</a> and president <a href="/w/index.php?title=Kelly_Patrick&amp;action=edit&amp;redlink=1" class="new" title="Kelly Patrick (page does not exist)">Kelly Patrick</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2017)">citation needed</span></a></i>&#93;</sup> A by-election in <a href="/wiki/Cumberland_(Saskatchewan_provincial_electoral_district)" title="Cumberland (Saskatchewan provincial electoral district)">Cumberland</a> was called for June 25, 2008. The party announced that deputy leader <a href="/w/index.php?title=Tory_McGregor&amp;action=edit&amp;redlink=1" class="new" title="Tory McGregor (page does not exist)">Tory McGregor</a> was nominated as the candidate and placed third behind the <a href="/wiki/Saskatchewan_Party" title="Saskatchewan Party">Saskatchewan Party</a>.
+</p>
+<h2><span class="mw-headline" id="2011_to_the_present">2011 to the present</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=3" title="Edit section: 2011 to the present">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On September 6, 2011, the day after Labour Day (and the unofficial kickoff for the 2011 provincial election campaign, Green Party Leader Larissa Shasko resigned to join the campaign of Regina South NDP candidate Yens Pedersen. Deputy Leader Victor Lau was elevated to become Party Leader, a decision that was reinforced by party members at a special leadership convention held on September 25, 2011. With little time to prepare, Victor and his team ran a full slate of 58 candidates, 43% of which were women. Although no Green Party MLAs were elected, the party emerged from the election as the third largest party in the province, after the Saskatchewan Party and the New Democratic Party.
+</p><p>Since the 2011 election, the party has begun an effort to organize on a constituency by constituency basis across the province. In March 2015, the party was rebranded as the <b>Saskatchewan Green Party</b> and adopted a new logo that includes a red lion.
+</p>
+<h2><span class="mw-headline" id="Election_results">Election results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=4" title="Edit section: Election results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Election
+</th>
+<th># of Candidates
+</th>
+<th>Total votes
+</th>
+<th>% of popular vote
+</th></tr>
+<tr>
+<td><a href="/wiki/Saskatchewan_general_election,_1999" title="Saskatchewan general election, 1999">1999</a>
+</td>
+<td>16 out of 58
+</td>
+<td>4,101
+</td>
+<td>1.01%
+</td></tr>
+<tr>
+<td><a href="/wiki/Saskatchewan_general_election,_2003" title="Saskatchewan general election, 2003">2003</a>
+</td>
+<td>27 out of 58
+</td>
+<td>2,323
+</td>
+<td>0.55%
+</td></tr>
+<tr>
+<td><a href="/wiki/Saskatchewan_general_election,_2007" title="Saskatchewan general election, 2007">2007</a>
+</td>
+<td>48 out of 58
+</td>
+<td>9,076
+</td>
+<td>2.01%
+</td></tr>
+<tr>
+<td><a href="/wiki/Saskatchewan_general_election,_2011" title="Saskatchewan general election, 2011">2011</a>
+</td>
+<td>58 out of 58
+</td>
+<td>11,461
+</td>
+<td>2.89%
+</td></tr>
+<tr>
+<td><a href="/wiki/Saskatchewan_general_election,_2016" title="Saskatchewan general election, 2016">2016</a>
+</td>
+<td>61 out of 61
+</td>
+<td>7,967
+</td>
+<td>1.83%
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Party_leaders">Party leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=5" title="Edit section: Party leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=Neil_Sinclair_(politics)&amp;action=edit&amp;redlink=1" class="new" title="Neil Sinclair (politics) (page does not exist)">Neil Sinclair</a> 1999-2002</li>
+<li><a href="/w/index.php?title=Ben_Webster_(politics)&amp;action=edit&amp;redlink=1" class="new" title="Ben Webster (politics) (page does not exist)">Ben Webster</a> 2004–2005</li>
+<li><a href="/w/index.php?title=The_Rev._Neal_Anderson_(Canadian_politician)&amp;action=edit&amp;redlink=1" class="new" title="The Rev. Neal Anderson (Canadian politician) (page does not exist)">Neal Anderson</a> 2005–2006</li>
+<li><a href="/wiki/Victor_Lau" title="Victor Lau">Victor Lau</a> 2006</li>
+<li><a href="/wiki/John_Kern_(Canadian_politician)" title="John Kern (Canadian politician)">John Kern</a> 2006</li>
+<li><a href="/wiki/Sandra_Finley" title="Sandra Finley">Sandra Finley</a> 2006–2008</li>
+<li><a href="/wiki/Amber_Jones" title="Amber Jones">Amber Jones</a> 2008–2009</li>
+<li><a href="/wiki/Larissa_Shasko" title="Larissa Shasko">Larissa Shasko</a> 2009–2011<sup id="cite_ref-Shasko-Resign_2-0" class="reference"><a href="#cite_note-Shasko-Resign-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/Victor_Lau" title="Victor Lau">Victor Lau</a> 2011–2016<sup id="cite_ref-Shasko-Resign_2-1" class="reference"><a href="#cite_note-Shasko-Resign-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Shawn Setyo</a> 2016–present</li></ul>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_political_parties_in_Saskatchewan" title="List of political parties in Saskatchewan">List of political parties in Saskatchewan</a></li>
+<li><a href="/wiki/Politics_of_Saskatchewan" title="Politics of Saskatchewan">Politics of Saskatchewan</a></li>
+<li><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">List of Green party leaders in Canada</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-BNO1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BNO1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BNO1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Cairns, John (1 August 2016). <a rel="nofollow" class="external text" href="http://www.newsoptimist.ca/news/local-news/green-party-leader-in-battlefords-to-see-spill-impact-1.2313905">"Green Party leader in Battlefords to see spill impact"</a>. <i>The Battlefords News-Optimist</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Battlefords+News-Optimist&amp;rft.atitle=Green+Party+leader+in+Battlefords+to+see+spill+impact&amp;rft.date=2016-08-01&amp;rft.aulast=Cairns&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwww.newsoptimist.ca%2Fnews%2Flocal-news%2Fgreen-party-leader-in-battlefords-to-see-spill-impact-1.2313905&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Saskatchewan" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Shasko-Resign-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shasko-Resign_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shasko-Resign_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/saskatchewan/story/2011/09/06/sk-green-party-saskatchewan-1108.html">"Saskatchewan Green Party leader resigns"</a>. <i><a href="/wiki/CBC_News" title="CBC News">CBC News</a></i>. 6 September 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CBC+News&amp;rft.atitle=Saskatchewan+Green+Party+leader+resigns&amp;rft.date=2011-09-06&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fsaskatchewan%2Fstory%2F2011%2F09%2F06%2Fsk-green-party-saskatchewan-1108.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+Saskatchewan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.saskgreen.ca">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_Canada" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#289728;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPC" title="Template:GPC"><abbr title="View this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPC" title="Template talk:GPC"><abbr title="Discuss this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPC&amp;action=edit"><abbr title="Edit this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_Canada" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Party wings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/Green_Party_of_Canada#Provincial_&amp;_territorial_parties" title="Green Party of Canada">Provincial &amp; territorial</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta" title="Green Party of Alberta">Alberta</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">British Columbia</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba" title="Green Party of Manitoba">Manitoba</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick" title="Green Party of New Brunswick">New Brunswick</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia" title="Green Party of Nova Scotia">Nova Scotia</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Ontario</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island" title="Green Party of Prince Edward Island">Prince Edward Island</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec" title="Green Party of Quebec">Quebec</a></li>
+<li><a class="mw-selflink selflink">Saskatchewan</a></li>
+<li><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Municipal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burnaby_Municipal_Green_Party" title="Burnaby Municipal Green Party">Burnaby</a></li>
+<li><a href="/wiki/Green_Party_of_Vancouver" title="Green Party of Vancouver">Vancouver</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Former parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alberta_Greens" title="Alberta Greens">Alberta</a></li>
+<li><a href="/wiki/Montr%C3%A9al_%C3%89cologique" title="Montréal Écologique">Montreal</a></li>
+<li><a href="/wiki/Winnipeg_Green_Party" title="Winnipeg Green Party">Winnipeg</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Green_Maple_Leaf.svg" class="image"><img alt="Green Maple Leaf.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/60px-Green_Maple_Leaf.svg.png" width="60" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/90px-Green_Maple_Leaf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/120px-Green_Maple_Leaf.svg.png 2x" data-file-width="300" data-file-height="325" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Federal level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leaders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trevor_Hancock" title="Trevor Hancock">Hancock</a></li>
+<li><a href="/wiki/Seymour_Trieger" title="Seymour Trieger">Trieger</a></li>
+<li><a href="/wiki/Kathryn_Cholette" title="Kathryn Cholette">Cholette</a></li>
+<li><a href="/wiki/Chris_Lea" title="Chris Lea">Lea</a></li>
+<li><a href="/wiki/Wendy_Priesnitz" title="Wendy Priesnitz">Priesnitz</a></li>
+<li>Garfinkle (<i>interim</i>)</li>
+<li><a href="/wiki/Joan_Russow" title="Joan Russow">Russow</a></li>
+<li><a href="/wiki/Chris_Bradshaw" title="Chris Bradshaw">Bradshaw</a> (<i>interim</i>)</li>
+<li><a href="/wiki/Jim_Harris_(politician)" title="Jim Harris (politician)">Harris</a></li>
+<li><a href="/wiki/Elizabeth_May" title="Elizabeth May">May</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leadership elections</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_leadership_election,_2006" title="Green Party of Canada leadership election, 2006">2006</a></li>
+<li><i><a href="/wiki/Green_Party_of_Canada_leadership_elections" title="Green Party of Canada leadership elections">list</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Parliamentary election<br />candidates</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_candidates,_1984_Canadian_federal_election" title="Green Party of Canada candidates, 1984 Canadian federal election">1984</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1988_Canadian_federal_election" title="Green Party of Canada candidates, 1988 Canadian federal election">1988</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1993_Canadian_federal_election" title="Green Party of Canada candidates, 1993 Canadian federal election">1993</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1997_Canadian_federal_election" title="Green Party of Canada candidates, 1997 Canadian federal election">1997</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2000_Canadian_federal_election" title="Green Party of Canada candidates, 2000 Canadian federal election">2000</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2004_Canadian_federal_election" title="Green Party of Canada candidates, 2004 Canadian federal election">2004</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2006_Canadian_federal_election" title="Green Party of Canada candidates, 2006 Canadian federal election">2006</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2008_Canadian_federal_election" title="Green Party of Canada candidates, 2008 Canadian federal election">2008</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2011_Canadian_federal_election" title="Green Party of Canada candidates, 2011 Canadian federal election">2011</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2015_Canadian_federal_election" title="Green Party of Canada candidates, 2015 Canadian federal election">2015</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Provincial level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">Current leaders</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cheryle_Chagnon-Greyeyes" title="Cheryle Chagnon-Greyeyes">Chagnon-Greyeyes – AB</a></li>
+<li><a href="/wiki/Andrew_Weaver" title="Andrew Weaver">Weaver – BC</a></li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">Beddome – MB</a></li>
+<li><a href="/wiki/David_Coon" title="David Coon">Coon – NB</a></li>
+<li><a href="/wiki/Thomas_Trappenberg" title="Thomas Trappenberg">Trappenberg – NS</a></li>
+<li><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Schreiner – ON</a></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Bevan-Baker – PE</a></li>
+<li><a href="/wiki/Alex_Tyrrell" title="Alex Tyrrell">Tyrrell – QC</a></li>
+<li><a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Setyo – SK</a></li>
+<li><a href="/wiki/Frank_de_Jong" title="Frank de Jong">de Jong – YT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Upcoming or most recent<br />leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta_leadership_election,_2018" title="Green Party of Alberta leadership election, 2018">Alberta 2018</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia#Sterk_and_Weaver_(2007-present)" title="Green Party of British Columbia">British Columbia 2015</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba#Leaders" title="Green Party of Manitoba">Manitoba 2014</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick#2012_leadership_election" title="Green Party of New Brunswick">New Brunswick 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia#Leadership" title="Green Party of Nova Scotia">Nova Scotia 2016</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario_leadership_election,_2009" title="Green Party of Ontario leadership election, 2009">Ontario 2009</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">Prince Edward Island 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec#Current_Green_Party_of_Quebec_(2001–present)" title="Green Party of Quebec">Quebec 2013</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan#Party_leaders" title="Green Party of Saskatchewan">Saskatchewan 2016</a></li>
+<li><i><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon 2017</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_Canada" title="History of the Green Party of Canada">History</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of Green politicians who have held office in Canada">List of Green politicians who have held office in Canada</a></li>
+<li><a href="/wiki/Young_Greens_of_Canada" title="Young Greens of Canada">Young Greens of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Provincial_political_parties_in_Saskatchewan_23x15px&amp;#124;border_&amp;#124;alt=Saskatchewan&amp;#124;link=Saskatchewan" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Saskatchewan_provincial_political_parties" title="Template:Saskatchewan provincial political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Saskatchewan_provincial_political_parties" title="Template talk:Saskatchewan provincial political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Saskatchewan_provincial_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Provincial_political_parties_in_Saskatchewan_23x15px&amp;#124;border_&amp;#124;alt=Saskatchewan&amp;#124;link=Saskatchewan" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Saskatchewan" title="List of political parties in Saskatchewan">Provincial political parties in Saskatchewan</a> <span class="flagicon"><a href="/wiki/Saskatchewan" title="Saskatchewan"><img alt="Saskatchewan" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/23px-Flag_of_Saskatchewan.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/35px-Flag_of_Saskatchewan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/46px-Flag_of_Saskatchewan.svg.png 2x" data-file-width="992" data-file-height="496" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Represented in the <a href="/wiki/Legislative_Assembly_of_Saskatchewan" title="Legislative Assembly of Saskatchewan">Legislative Assembly</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Saskatchewan_Party" title="Saskatchewan Party">Saskatchewan Party</a> (50)</li>
+<li><a href="/wiki/Saskatchewan_New_Democratic_Party" title="Saskatchewan New Democratic Party">New Democratic</a> (11)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other parties recognized by <br /><a href="/wiki/Elections_Saskatchewan" title="Elections Saskatchewan">Elections Saskatchewan</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Green</a></li>
+<li><a href="/wiki/Saskatchewan_Liberal_Party" title="Saskatchewan Liberal Party">Liberal</a></li>
+<li><a href="/wiki/Progressive_Conservative_Party_of_Saskatchewan" title="Progressive Conservative Party of Saskatchewan">Progressive Conservative</a></li>
+<li><a href="/wiki/Western_Independence_Party_of_Saskatchewan" title="Western Independence Party of Saskatchewan">Western Independence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical political parties</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Saskatchewan_New_Democratic_Party#Co-operative_Commonwealth_Federation_(Saskatchewan_Section)" title="Saskatchewan New Democratic Party">Co-operative Commonwealth Federation</a></li>
+<li><a href="/wiki/Labour_candidates_and_parties_in_Canada#Saskatchewan" title="Labour candidates and parties in Canada">Farmer-Labour Group</a></li>
+<li><a href="/wiki/Progressive_Party_of_Saskatchewan" title="Progressive Party of Saskatchewan">Progressive Party</a></li>
+<li><a href="/wiki/Communist_Party_of_Canada_(Saskatchewan)" title="Communist Party of Canada (Saskatchewan)">Communist/Unity/Labor-Progressive</a></li>
+<li><a href="/wiki/Social_Credit_Party_of_Saskatchewan" title="Social Credit Party of Saskatchewan">Social Credit</a></li>
+<li><a href="/wiki/Unionest_Party" title="Unionest Party">Unionest Party</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Politics" title="Portal:Politics">Portal:Politics</a></li>
+<li><a href="/wiki/List_of_political_parties_by_country" class="mw-redirect" title="List of political parties by country">List of political parties</a></li>
+<li><a href="/wiki/Politics_of_Canada" title="Politics of Canada">Politics of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Politics_of_Saskatchewan" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Saskatchewan_politics" title="Template:Saskatchewan politics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Saskatchewan_politics" title="Template talk:Saskatchewan politics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Saskatchewan_politics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Politics_of_Saskatchewan" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_Saskatchewan" title="Politics of Saskatchewan">Politics of Saskatchewan</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/Lieutenant_Governor_of_Saskatchewan" title="Lieutenant Governor of Saskatchewan">Lieutenant Governor</a> <span style="font-size:85%;">(<a href="/wiki/List_of_lieutenant_governors_of_Saskatchewan" title="List of lieutenant governors of Saskatchewan">List</a>)</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/W._Thomas_Molloy" title="W. Thomas Molloy">W. Thomas Molloy</a></li></ul>
+</div></td><td class="navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Flag_of_Saskatchewan.svg" class="image"><img alt="Flag of Saskatchewan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/100px-Flag_of_Saskatchewan.svg.png" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/150px-Flag_of_Saskatchewan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/200px-Flag_of_Saskatchewan.svg.png 2x" data-file-width="992" data-file-height="496" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/Premier_of_Saskatchewan" title="Premier of Saskatchewan">Premier</a><br /><span style="font-size:85%;">(<a href="/wiki/List_of_premiers_of_Saskatchewan" title="List of premiers of Saskatchewan">List</a> - <a href="/wiki/List_of_premiers_of_Saskatchewan_by_time_in_office" title="List of premiers of Saskatchewan by time in office">Premiers by time in office</a>)</span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scott_Moe" title="Scott Moe">Scott Moe</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/Leader_of_the_Official_Opposition_(Canada)" title="Leader of the Official Opposition (Canada)">Opposition Leader</a> <span style="font-size:85%;">(<a href="/wiki/Leader_of_the_Opposition_(Saskatchewan)" class="mw-redirect" title="Leader of the Opposition (Saskatchewan)">List</a>)</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ryan_Meili" title="Ryan Meili">Ryan Meili</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/Speaker_of_the_Legislative_Assembly_of_Saskatchewan" title="Speaker of the Legislative Assembly of Saskatchewan">Speaker of the Assembly</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mark_Docherty_(politician)" title="Mark Docherty (politician)">Mark Docherty</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/Legislative_Assembly_of_Saskatchewan" title="Legislative Assembly of Saskatchewan">Legislature</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/27th_Legislative_Assembly_of_Saskatchewan" class="mw-redirect" title="27th Legislative Assembly of Saskatchewan">Current assembly</a></li>
+<li><a href="/wiki/List_of_Saskatchewan_Legislative_Assemblies" class="mw-redirect" title="List of Saskatchewan Legislative Assemblies">Former legislatures</a></li>
+<li><a href="/wiki/Executive_Council_of_Saskatchewan" title="Executive Council of Saskatchewan">Cabinet</a></li>
+<li><a href="/wiki/List_of_Saskatchewan_provincial_electoral_districts" title="List of Saskatchewan provincial electoral districts">Electoral districts</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/List_of_political_parties_in_Saskatchewan" title="List of political parties in Saskatchewan">Political parties</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Greens</a></li>
+<li><a href="/wiki/Progressive_Conservative_Party_of_Saskatchewan" title="Progressive Conservative Party of Saskatchewan">Progressive Conservatives</a></li>
+<li><a href="/wiki/Saskatchewan_Liberal_Party" title="Saskatchewan Liberal Party">Liberals</a></li>
+<li><a href="/wiki/Saskatchewan_New_Democratic_Party" title="Saskatchewan New Democratic Party">New Democrats</a></li>
+<li><a href="/wiki/Saskatchewan_Party" title="Saskatchewan Party">Saskatchewan Party</a></li>
+<li class="mw-empty-elt"></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/List_of_political_parties_in_Saskatchewan#Historical_parties" title="List of political parties in Saskatchewan">Historic parties</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aboriginal_People%27s_Party" title="Aboriginal People&#39;s Party">Aboriginal People's Party</a></li>
+<li>Alliance</li>
+<li><a href="/wiki/Communist_Party_of_Canada_(Saskatchewan)" title="Communist Party of Canada (Saskatchewan)">Communist - Labour-Progressive</a> <a href="/wiki/Unity_(Canada)" title="Unity (Canada)">- "Unity"</a></li>
+<li><a href="/wiki/Economic_Group_(Saskatchewan)" title="Economic Group (Saskatchewan)">Economic Group</a></li>
+<li><a href="/w/index.php?title=First_Nations_Party_of_Saskatchewan&amp;action=edit&amp;redlink=1" class="new" title="First Nations Party of Saskatchewan (page does not exist)">First Nations Party</a></li>
+<li><a href="/wiki/Saskatchewan_Marijuana_Party" title="Saskatchewan Marijuana Party">Marijuana Party</a></li>
+<li><a href="/wiki/Nonpartisan_League" title="Nonpartisan League">Non-Partisan League</a></li>
+<li><a href="/wiki/Progressive_Party_of_Saskatchewan" title="Progressive Party of Saskatchewan">Progressives</a></li>
+<li><a href="/w/index.php?title=Saskatchewan_Democratic_Action_Party&amp;action=edit&amp;redlink=1" class="new" title="Saskatchewan Democratic Action Party (page does not exist)">Saskatchewan Democratic Action</a></li>
+<li><a href="/wiki/Social_Credit_Party_of_Saskatchewan" title="Social Credit Party of Saskatchewan">Social Credit</a></li>
+<li><a href="/wiki/Unionest_Party" title="Unionest Party">Unionest</a></li>
+<li><a href="/wiki/Western_Canada_Concept_Party_of_Saskatchewan" title="Western Canada Concept Party of Saskatchewan">Western Canada Concept</a></li>
+<li class="mw-empty-elt"></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;"><a href="/wiki/List_of_Saskatchewan_general_elections" title="List of Saskatchewan general elections">Elections</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Saskatchewan_general_election,_2016" title="Saskatchewan general election, 2016">2016 general election</a></li>
+<li><a href="/wiki/List_of_Saskatchewan_general_elections" title="List of Saskatchewan general elections">Past elections</a></li>
+<li><a href="/wiki/List_of_Saskatchewan_provincial_electoral_districts" title="List of Saskatchewan provincial electoral districts">Electoral districts</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:140px;">Other Canadian politics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Politics_of_Canada" title="Politics of Canada">Federal</a></li>
+<li><a href="/wiki/Politics_of_British_Columbia" title="Politics of British Columbia">BC</a></li>
+<li><a href="/wiki/Politics_of_Alberta" title="Politics of Alberta">AB</a></li>
+<li><a href="/wiki/Politics_of_Saskatchewan" title="Politics of Saskatchewan">SK</a></li>
+<li><a href="/wiki/Politics_of_Manitoba" title="Politics of Manitoba">MB</a></li>
+<li><a href="/wiki/Politics_of_Ontario" title="Politics of Ontario">ON</a></li>
+<li><a href="/wiki/Politics_of_Quebec" title="Politics of Quebec">QC</a></li>
+<li><a href="/wiki/Politics_of_New_Brunswick" title="Politics of New Brunswick">NB</a></li>
+<li><a href="/wiki/Politics_of_Nova_Scotia" title="Politics of Nova Scotia">NS</a></li>
+<li><a href="/wiki/Politics_of_Prince_Edward_Island" title="Politics of Prince Edward Island">PEI</a></li>
+<li><a href="/wiki/Politics_of_Newfoundland_and_Labrador" title="Politics of Newfoundland and Labrador">NL</a></li>
+<li><a href="/wiki/Politics_of_Yukon" class="mw-redirect" title="Politics of Yukon">YU</a></li>
+<li><a href="/wiki/Politics_of_Northwest_Territories" class="mw-redirect" title="Politics of Northwest Territories">NT</a></li>
+<li><a href="/wiki/Politics_of_Nunavut" class="mw-redirect" title="Politics of Nunavut">NU</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2269
+Cached time: 20181001001734
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.480 seconds
+Real time usage: 0.623 seconds
+Preprocessor visited node count: 3233/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 173805/2097152 bytes
+Template argument size: 23959/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5691/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 4.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  484.624      1 -total
+ 44.43%  215.322      7 Template:Ambox
+ 30.32%  146.955      1 Template:Multiple_issues
+ 21.48%  104.113      1 Template:Infobox_political_party
+ 18.45%   89.392      1 Template:Reflist
+ 17.29%   83.811      1 Template:Infobox
+ 14.31%   69.351      1 Template:Cite_web
+  8.40%   40.703      1 Template:Notability
+  8.27%   40.101      6 Template:Navbox
+  7.12%   34.506      3 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:486293-0!canonical and timestamp 20181001001733 and revision id 861105091
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_Saskatchewan&amp;oldid=861105091">https://en.wikipedia.org/w/index.php?title=Green_Party_of_Saskatchewan&amp;oldid=861105091</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_Party_of_Saskatchewan" title="Category:Green Party of Saskatchewan">Green Party of Saskatchewan</a></li><li><a href="/wiki/Category:Provincial_political_parties_in_Saskatchewan" title="Category:Provincial political parties in Saskatchewan">Provincial political parties in Saskatchewan</a></li><li><a href="/wiki/Category:Political_parties_established_in_1998" title="Category:Political parties established in 1998">Political parties established in 1998</a></li><li><a href="/wiki/Category:1998_establishments_in_Saskatchewan" title="Category:1998 establishments in Saskatchewan">1998 establishments in Saskatchewan</a></li><li><a href="/wiki/Category:Organizations_based_in_Saskatoon" title="Category:Organizations based in Saskatoon">Organizations based in Saskatoon</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_December_2015" title="Category:Wikipedia references cleanup from December 2015">Wikipedia references cleanup from December 2015</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_December_2015" title="Category:Articles covered by WikiProject Wikify from December 2015">Articles covered by WikiProject Wikify from December 2015</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_with_topics_of_unclear_notability_from_December_2015" title="Category:Articles with topics of unclear notability from December 2015">Articles with topics of unclear notability from December 2015</a></li><li><a href="/wiki/Category:All_articles_with_topics_of_unclear_notability" title="Category:All articles with topics of unclear notability">All articles with topics of unclear notability</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_December_2015" title="Category:Articles that may contain original research from December 2015">Articles that may contain original research from December 2015</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_December_2015" title="Category:Articles lacking reliable references from December 2015">Articles lacking reliable references from December 2015</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2015" title="Category:Wikipedia articles in need of updating from December 2015">Wikipedia articles in need of updating from December 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2011" title="Category:Articles needing additional references from March 2011">Articles needing additional references from March 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_July_2011" title="Category:Use mdy dates from July 2011">Use mdy dates from July 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2011" title="Category:Articles with unsourced statements from March 2011">Articles with unsourced statements from March 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2017" title="Category:Articles with unsourced statements from March 2017">Articles with unsourced statements from March 2017</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_December_2011" title="Category:Use mdy dates from December 2011">Use mdy dates from December 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+Saskatchewan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+Saskatchewan" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_Saskatchewan" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_Saskatchewan" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_Saskatchewan">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_Saskatchewan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_Saskatchewan" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;oldid=861105091" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3366820" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_Saskatchewan&amp;id=861105091" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+Saskatchewan">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+Saskatchewan&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_Saskatchewan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_vert_de_la_Saskatchewan" title="Parti vert de la Saskatchewan – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3366820#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 03:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_Saskatchewan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.480","walltime":"0.623","ppvisitednodes":{"value":3233,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":173805,"limit":2097152},"templateargumentsize":{"value":23959,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5691,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  484.624      1 -total"," 44.43%  215.322      7 Template:Ambox"," 30.32%  146.955      1 Template:Multiple_issues"," 21.48%  104.113      1 Template:Infobox_political_party"," 18.45%   89.392      1 Template:Reflist"," 17.29%   83.811      1 Template:Infobox"," 14.31%   69.351      1 Template:Cite_web","  8.40%   40.703      1 Template:Notability","  8.27%   40.101      6 Template:Navbox","  7.12%   34.506      3 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.198","limit":"10.000"},"limitreport-memusage":{"value":4893686,"limit":52428800}},"cachereport":{"origin":"mw2269","timestamp":"20181001001734","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":723,"wgHostname":"mw2269"});});</script>
+	</body>
+</html>

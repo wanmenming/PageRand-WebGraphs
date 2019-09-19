@@ -1,0 +1,583 @@
+https://en.wikipedia.org/wiki/The_Green_Movement_(Israel)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Movement (Israel) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Movement_(Israel)","wgTitle":"Green Movement (Israel)","wgCurRevisionId":839284968,"wgRevisionId":839284968,"wgArticleId":20521352,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Hebrew-language sources (he)","Articles containing Hebrew-language text","Green political parties in Israel","Political parties established in 2008","2008 establishments in Israel","Political parties in Israel"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Movement_(Israel)","wgRelevantArticleId":20521352,"wgRequestId":"W7IMwgrAEDUAAIAoXYoAAABS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"The_Green_Movement_(Israel)","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Green_Movement_(Israel)","wgWikibaseItemId":"Q2035027","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/7/70/Israel_Green_Movement_logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Movement_(Israel)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Movement_(Israel)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Movement_(Israel)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Movement_(Israel)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Movement_Israel rootpage-Green_Movement_Israel skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Movement (Israel)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=The_Green_Movement_(Israel)&amp;redirect=no" class="mw-redirect" title="The Green Movement (Israel)">The Green Movement (Israel)</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens (Israel)</a>.</div>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #BDD158; border-bottom:2px solid #BDD158; line-height: 1;"><span class="fn org">The Green Movement</span><br /><span class="nickname" style="font-size: 0.8em;">התנועה הירוקה</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:Israel_Green_Movement_logo.png" class="image"><img alt="Israel Green Movement logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/7/70/Israel_Green_Movement_logo.png/180px-Israel_Green_Movement_logo.png" width="180" height="154" srcset="//upload.wikimedia.org/wikipedia/en/7/70/Israel_Green_Movement_logo.png 1.5x" data-file-width="214" data-file-height="183" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+Eran Ben-Yemini<br /><a href="/wiki/Yael_Cohen_Paran" title="Yael Cohen Paran">Yael Cohen Paran</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+2008</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><br /><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centre-left" class="mw-redirect" title="Centre-left">Centre-left</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Zionist_Union" title="Zionist Union">Zionist Union</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Seats in <a href="/wiki/Knesset" title="Knesset">Knesset</a></th><td style="line-height:1.3em;">
+<div style="width: 100px;"><span class="nowrap">1 / 120</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #BDD158; width: 0.8%; height: 100%;"></div></div></div></td></tr><tr><th scope="row" style="line-height:1.3em;">Most MKs</th><td style="line-height:1.3em;">
+<span class="nowrap">1 (2015)</span></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Election symbol</th></tr><tr style="font-size: 150%"><td colspan="2" style="text-align:center;line-height:1.3em;">
+ה</td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #BDD158;"><ul><li><a href="/wiki/Politics_of_Israel" title="Politics of Israel">Politics of Israel</a></li><li><a href="/wiki/List_of_political_parties_in_Israel" title="List of political parties in Israel">Political parties</a></li><li><a href="/wiki/Elections_in_Israel" title="Elections in Israel">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Movement</b> (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span class="script-hebrew" style="font-size: 115%; font-family: &#39;Ezra SIL&#39;, &#39;Ezra SIL SR&#39;, &#39;Keter Aram Tsova&#39;, &#39;Taamey Ashkenaz&#39;, &#39;Taamey David CLM&#39;, &#39;Taamey Frank CLM&#39;, &#39;Frank Ruehl CLM&#39;, &#39;Keter YG&#39;, &#39;Shofar&#39;, &#39;David CLM&#39;, &#39;Hadasim CLM&#39;, &#39;Simple CLM&#39;, &#39;Nachlieli&#39;, &#39;SBL BibLit&#39;, &#39;SBL Hebrew&#39;, Cardo, Alef, &#39;Noto Serif Hebrew&#39;, &#39;Noto Sans Hebrew&#39;, &#39;David Libre&#39;, David, &#39;Times New Roman&#39;, Gisha, Arial, FreeSerif, FreeSans;" dir="rtl">הַתְּנוּעָה הַיְרוּקָה</span>&#x202c;, <i>HaTnuʿa HaYeruqa</i>) is a <a href="/wiki/Social_movement" title="Social movement">social</a>-<a href="/wiki/Environmental_movement" title="Environmental movement">environmental</a> movement and <a href="/wiki/List_of_political_parties_in_Israel" title="List of political parties in Israel">political party</a> in <a href="/wiki/Israel" title="Israel">Israel</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-greener_8-0" class="reference"><a href="#cite_note-greener-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Movement_(Israel)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Movement was established in the summer 2008 by green activists and led by Eran Ben-Yemini and <a href="/wiki/Alon_Tal" title="Alon Tal">Alon Tal</a>.<sup id="cite_ref-greener_8-1" class="reference"><a href="#cite_note-greener-8">&#91;8&#93;</a></sup> It formed as a political party and ran a joint list with <a href="/wiki/Meimad" title="Meimad">Meimad</a>, a dovish religious party, for the <a href="/wiki/Israeli_legislative_election,_2009" title="Israeli legislative election, 2009">2009 elections</a> after Meimad had ended its alliance with the <a href="/wiki/Israeli_Labor_Party" title="Israeli Labor Party">Labor Party</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Meimad leader <a href="/wiki/Michael_Melchior" title="Michael Melchior">Michael Melchior</a> headed its list and Ben-Yemini and Tal in second and third place; former <a href="/wiki/Shinui" title="Shinui">Shinui</a> MK <a href="/wiki/Meli_Polishook-Bloch" title="Meli Polishook-Bloch">Meli Polishook-Bloch</a> was also on its list in eleventh place.<sup id="cite_ref-K_10-0" class="reference"><a href="#cite_note-K-10">&#91;10&#93;</a></sup> In addition to the environment, the electoral slate's platform addressed issues of education, social democracy, religious pluralism, and co-existence.<sup id="cite_ref-greener_8-2" class="reference"><a href="#cite_note-greener-8">&#91;8&#93;</a></sup> The campaign downplayed religious issues and emphasized environmental questions.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The alliance failed to win any seats in the Knesset after failing to pass the <a href="/wiki/Election_threshold" title="Election threshold">election threshold</a>, receiving the largest number of votes of any party not to do so.
+</p><p>It contested the <a href="/wiki/Israeli_legislative_election,_2013" title="Israeli legislative election, 2013">2013 elections</a> in an alliance with <a href="/wiki/Tzipi_Livni" title="Tzipi Livni">Tzipi Livni</a>'s party, <a href="/wiki/Hatnuah" title="Hatnuah">Hatnuah</a> or 'The Movement'. Party leader <a href="/wiki/Alon_Tal" title="Alon Tal">Alon Tal</a> was given the 13th spot on the party list. However, Hatnuah only won 6 mandates. Following the election, there was a new leadership elected, with <a href="/wiki/Yael_Cohen_Paran" title="Yael Cohen Paran">Yael Cohen Paran</a> replacing Tal as co-chair. 
+</p><p>It ran in the <a href="/wiki/Israeli_legislative_election,_2015" title="Israeli legislative election, 2015">2015 elections</a> on a joint <a href="/wiki/Zionist_Union" title="Zionist Union">Zionist Union</a> list with <a href="/wiki/Hatnuah" title="Hatnuah">Hatnuah</a> and the <a href="/wiki/Israeli_Labor_Party" title="Israeli Labor Party">Israeli Labor Party</a>. <a href="/wiki/Tzipi_Livni" title="Tzipi Livni">Tzipi Livni</a> chose Green Movement co-chair <a href="/wiki/Yael_Cohen_Paran" title="Yael Cohen Paran">Yael Cohen Paran</a> for the 25th spot (reserved for Hatnuah members) on the list.<sup id="cite_ref-jpost_12-0" class="reference"><a href="#cite_note-jpost-12">&#91;12&#93;</a></sup> Paran missed out on election but got in following the resignation of another list member in November 2015.
+</p><p>Within the Knesset, the Movement’s main focus is on toxic pollution in Haifa Bay and the affects on nearby neighbourhoods. Another focus is on air pollution. Paran is heading a parliamentary inquiry on renewable energy, pioneered a study on Israel becoming carbon free, and is introducing legislation to require solar systems in high-rise buildings.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Movement_(Israel)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Zafrir Rinat (May 19, 2008). <a rel="nofollow" class="external text" href="http://www.haaretz.com/life/arts-leisure/weapons-can-t-be-green-1.246123">"Weapons can't be green"</a>. <i>Haaretz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2015</span>. <q>Green party representatives from 88 countries, including three from Israel, gathered this month in Sao Paulo, Brazil, for the Second Global Greens Congress.... Hadas Shachnai of the Green Party, who represented Israel along with Mosi Raz of Meretz and environmental activist <i>Eran Binyamini</i>.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Haaretz&amp;rft.atitle=Weapons+can%27t+be+green&amp;rft.date=2008-05-19&amp;rft.au=Zafrir+Rinat&amp;rft_id=http%3A%2F%2Fwww.haaretz.com%2Flife%2Farts-leisure%2Fweapons-can-t-be-green-1.246123&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Zafrir Rinat (2 December 2012). <a rel="nofollow" class="external text" href="http://www.haaretz.com/news/national/israel-s-green-party-primary-descends-into-farce-as-rivals-see-red.premium-1.481790">"Israel's Green party primary descends into farce as rivals see red"</a>. <i>Haaretz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2015</span>. <q>The Green Movement has sought to represent a deep commitment to clean politics, direct democracy and social justice. It had created a precedent by electing two cochairs, a man and a woman, as is the practice in the German Green Party.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Haaretz&amp;rft.atitle=Israel%27s+Green+party+primary+descends+into+farce+as+rivals+see+red&amp;rft.date=2012-12-02&amp;rft.au=Zafrir+Rinat&amp;rft_id=http%3A%2F%2Fwww.haaretz.com%2Fnews%2Fnational%2Fisrael-s-green-party-primary-descends-into-farce-as-rivals-see-red.premium-1.481790&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Alon_Tal" title="Alon Tal">Alon Tal</a> (2002). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=lP_Adcv7w48C&amp;pg=PA16#v=onepage&amp;q&amp;f=false"><i>Pollution in a Promised Land: An Environmental History of Israel</i></a>. University of California Press. pp.&#160;16–17. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780520936492" title="Special:BookSources/9780520936492">9780520936492</a>. <q>One must also be familiar with the many efforts and organizations that sought to make the Zionist pursuit a more gentle one for the land, resources, and creatures of Israel.... If the ingenuity, determination, and emotional power of the Zionist dream is at the heart of Israeli environmental problems, it is also true that a newly modernized, environmentally sensitive Zionism has the power to solve them. The Zionist view of the natural world and how it was manifested in pre-State Israel, therefore, offers a natural starting point to begin Israel's environmental history.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pollution+in+a+Promised+Land%3A+An+Environmental+History+of+Israel&amp;rft.pages=16-17&amp;rft.pub=University+of+California+Press&amp;rft.date=2002&amp;rft.isbn=9780520936492&amp;rft.au=Alon+Tal&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DlP_Adcv7w48C%26pg%3DPA16%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Alon_Tal" title="Alon Tal">Alon Tal</a> (2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=LRT7AAAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><i>All the Trees of the Forest: Israel's Woodlands from the Bible to the Present</i></a>. Yale University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780300189506" title="Special:BookSources/9780300189506">9780300189506</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=All+the+Trees+of+the+Forest%3A+Israel%27s+Woodlands+from+the+Bible+to+the+Present&amp;rft.pub=Yale+University+Press&amp;rft.date=2013&amp;rft.isbn=9780300189506&amp;rft.au=Alon+Tal&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DLRT7AAAAQBAJ%26printsec%3Dfrontcover%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Ehud Zion Waldoks (January 20, 2009). <a rel="nofollow" class="external text" href="http://www.jpost.com/Israel/Green-Movement-Meimad-to-stress-environmental-issues-in-elections">"Green Movement-Meimad to stress environmental issues in elections"</a>. <i>The Jerusalem Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Jerusalem+Post&amp;rft.atitle=Green+Movement-Meimad+to+stress+environmental+issues+in+elections&amp;rft.date=2009-01-20&amp;rft.au=Ehud+Zion+Waldoks&amp;rft_id=http%3A%2F%2Fwww.jpost.com%2FIsrael%2FGreen-Movement-Meimad-to-stress-environmental-issues-in-elections&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Tal Alon (24 December 2012). <a rel="nofollow" class="external text" href="http://blogs.timesofisrael.com/four-steps-for-rescuing-judaism-and-justice-in-israel/">"Four steps for rescuing Judaism and justice in Israel"</a>. The Times of Israel<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Four+steps+for+rescuing+Judaism+and+justice+in+Israel&amp;rft.date=2012-12-24&amp;rft.au=Tal+Alon&amp;rft_id=http%3A%2F%2Fblogs.timesofisrael.com%2Ffour-steps-for-rescuing-judaism-and-justice-in-israel%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Tom Lansford. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=FDVzAwAAQBAJ&amp;pg=PA702&amp;dq#v=onepage&amp;q&amp;f=false"><i>Political Handbook of the World 2014</i></a>. CQ Press. p.&#160;702. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781483333274" title="Special:BookSources/9781483333274">9781483333274</a>. <q><i>Meimad</i> contested the 2009 poll in alliance with the new Green Movement, a social-environmental party recently established under the leadership of Eran BEN-YAMINI and Al TAL.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Political+Handbook+of+the+World+2014&amp;rft.pages=702&amp;rft.pub=CQ+Press&amp;rft.isbn=9781483333274&amp;rft.au=Tom+Lansford&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFDVzAwAAQBAJ%26pg%3DPA702%26dq%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-greener-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-greener_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-greener_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-greener_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://greenerisrael.wordpress.com/our-vision/">"Vision for Israel"</a>. An Unofficial Blog of the Israel Green Movement<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vision+for+Israel&amp;rft.pub=An+Unofficial+Blog+of+the+Israel+Green+Movement&amp;rft_id=https%3A%2F%2Fgreenerisrael.wordpress.com%2Four-vision%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Waldoks, Ehud Zion (2008-12-18). <a rel="nofollow" class="external text" href="http://www.jpost.com/Israel/Green-Movement-Meimad-run-together">"Green Movement, Meimad run together"</a>. <i><a href="/wiki/The_Jerusalem_Post" title="The Jerusalem Post">The Jerusalem Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Jerusalem+Post&amp;rft.atitle=Green+Movement%2C+Meimad+run+together&amp;rft.date=2008-12-18&amp;rft.aulast=Waldoks&amp;rft.aufirst=Ehud+Zion&amp;rft_id=http%3A%2F%2Fwww.jpost.com%2FIsrael%2FGreen-Movement-Meimad-run-together&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-K-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-K_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.knesset.gov.il/elections18/heb/list/list.aspx?ListId=83">"התנועה הירוקה מימד בראשות הרב מלכיאור וערן בן ימיני"</a> &#91;The Green Movement Meimad headed by Rabbi Michael Melchior and Eren Ben Yemini&#93; (in Hebrew). Knesset<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D7%94%D7%AA%D7%A0%D7%95%D7%A2%D7%94+%D7%94%D7%99%D7%A8%D7%95%D7%A7%D7%94+%D7%9E%D7%99%D7%9E%D7%93+%D7%91%D7%A8%D7%90%D7%A9%D7%95%D7%AA+%D7%94%D7%A8%D7%91+%D7%9E%D7%9C%D7%9B%D7%99%D7%90%D7%95%D7%A8+%D7%95%D7%A2%D7%A8%D7%9F+%D7%91%D7%9F+%D7%99%D7%9E%D7%99%D7%A0%D7%99&amp;rft.pub=Knesset&amp;rft_id=http%3A%2F%2Fwww.knesset.gov.il%2Felections18%2Fheb%2Flist%2Flist.aspx%3FListId%3D83&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kalman Neuman (17 December 2008). <a rel="nofollow" class="external text" href="http://en.idi.org.il/media/1430041/ByThePeople_NEUMAN.pdf">"New Politics, No Politics, and Antipolitics: The Dilemma of the Religious Right in Israel"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Israel_Democracy_Institute" title="Israel Democracy Institute">Israel Democracy Institute</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=New+Politics%2C+No+Politics%2C+and+Antipolitics%3A+The+Dilemma+of+the+Religious+Right+in+Israel&amp;rft.date=2008-12-17&amp;rft.au=Kalman+Neuman&amp;rft_id=http%3A%2F%2Fen.idi.org.il%2Fmedia%2F1430041%2FByThePeople_NEUMAN.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> Presented at the workshop Anti-Politics: Citizens, Politics and the Political Profession, Jerusalem, 17–19 December 2008.</span>
+</li>
+<li id="cite_note-jpost-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-jpost_12-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Sharon Udasin (2015-01-25). <a rel="nofollow" class="external text" href="http://www.jpost.com/Israel-Elections/Environmentalist-Yael-Cohen-Paran-chosen-for-24th-spot-on-Labor-Hatnua-list-388901">"Environmentalist Yael Cohen Paran chosen for 24th spot on Labor-Hatnua list"</a>. <i>The Jerusalem Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Jerusalem+Post&amp;rft.atitle=Environmentalist+Yael+Cohen+Paran+chosen+for+24th+spot+on+Labor-Hatnua+list&amp;rft.date=2015-01-25&amp;rft.au=Sharon+Udasin&amp;rft_id=http%3A%2F%2Fwww.jpost.com%2FIsrael-Elections%2FEnvironmentalist-Yael-Cohen-Paran-chosen-for-24th-spot-on-Labor-Hatnua-list-388901&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Movement+%28Israel%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Israel&amp;#124;link=Israel_Parliamentary_groups_in_Israel" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="4"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Israeli_political_parties" title="Template:Israeli political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Israeli_political_parties" title="Template talk:Israeli political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Israeli_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Israel&amp;#124;link=Israel_Parliamentary_groups_in_Israel" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> <a href="/wiki/List_of_political_parties_in_Israel" title="List of political parties in Israel">Parliamentary groups in Israel</a></div></th></tr><tr><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 2px 0px 0px"><div><a href="/wiki/Emblem_of_Israel" title="Emblem of Israel"><img alt="Emblem of Israel alternative blue-gold.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Emblem_of_Israel_alternative_blue-gold.svg/40px-Emblem_of_Israel_alternative_blue-gold.svg.png" width="40" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Emblem_of_Israel_alternative_blue-gold.svg/60px-Emblem_of_Israel_alternative_blue-gold.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Emblem_of_Israel_alternative_blue-gold.svg/80px-Emblem_of_Israel_alternative_blue-gold.svg.png 2x" data-file-width="401" data-file-height="496" /></a></div></td><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Likud" title="Likud">Likud</a></li>
+<li><a href="/wiki/Zionist_Union" title="Zionist Union">Zionist Union</a>
+<ul><li><a href="/wiki/Israeli_Labor_Party" title="Israeli Labor Party">Labor Party</a></li>
+<li><a href="/wiki/Hatnuah" title="Hatnuah">Hatnuah</a></li>
+<li><a class="mw-selflink selflink">Green Movement</a></li></ul></li>
+<li><a href="/wiki/Joint_List" title="Joint List">Joint List</a>
+<ul><li><a href="/wiki/Hadash" title="Hadash">Hadash</a></li>
+<li><a href="/wiki/United_Arab_List" title="United Arab List">United Arab List</a></li>
+<li><a href="/wiki/Balad_(political_party)" title="Balad (political party)">Balad</a></li>
+<li><a href="/wiki/Maki_(political_party)" title="Maki (political party)">Maki</a></li>
+<li><a href="/wiki/Ta%27al" title="Ta&#39;al">Ta'al</a></li></ul></li>
+<li><a href="/wiki/Yesh_Atid" title="Yesh Atid">Yesh Atid</a></li>
+<li><a href="/wiki/Kulanu" title="Kulanu">Kulanu</a></li>
+<li><a href="/wiki/The_Jewish_Home" title="The Jewish Home">The Jewish Home</a> (<a href="/wiki/Tkuma_(political_party)" title="Tkuma (political party)">Tkuma</a>)</li>
+<li><a href="/wiki/Shas" title="Shas">Shas</a></li>
+<li><a href="/wiki/Yisrael_Beiteinu" title="Yisrael Beiteinu">Yisrael Beiteinu</a></li>
+<li><a href="/wiki/United_Torah_Judaism" title="United Torah Judaism">United Torah Judaism</a>
+<ul><li><a href="/wiki/Agudat_Yisrael" title="Agudat Yisrael">Agudat Yisrael</a></li>
+<li><a href="/wiki/Degel_HaTorah" title="Degel HaTorah">Degel HaTorah</a></li></ul></li>
+<li><a href="/wiki/Meretz" title="Meretz">Meretz</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Coat_of_arms_of_Israel" title="Coat of arms of Israel"><img alt="Emblem of Israel.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Israel.svg/40px-Emblem_of_Israel.svg.png" width="40" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Israel.svg/60px-Emblem_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Israel.svg/80px-Emblem_of_Israel.svg.png 2x" data-file-width="858" data-file-height="1061" /></a></div></td></tr><tr><td class="navbox-abovebelow" colspan="4"><div>
+<ul><li><a href="/wiki/List_of_political_parties_in_Israel" title="List of political parties in Israel">List of political parties in Israel</a></li>
+<li><a href="/wiki/Politics_of_Israel" title="Politics of Israel">Politics of Israel</a></li>
+<li><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></li></ul>
+</div></td></tr></tbody></table></div> 
+<div role="navigation" class="navbox" aria-labelledby="Green_parties_by_country" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_parties" title="Template:Green parties"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_parties" title="Template talk:Green parties"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_parties&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_parties_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_party" title="Green party">Green parties</a> by country</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/w/index.php?title=Ecology_and_Liberty_Party&amp;action=edit&amp;redlink=1" class="new" title="Ecology and Liberty Party (page does not exist)">Algeria</a></i></li>
+<li><a href="/w/index.php?title=Partido_Nacional_Ecol%C3%B3gico_de_Angola&amp;action=edit&amp;redlink=1" class="new" title="Partido Nacional Ecológico de Angola (page does not exist)">Angola</a></li>
+<li><a href="/wiki/The_Greens_(Benin)" title="The Greens (Benin)">Benin</a></li>
+<li>Burkina Faso
+<ul><li><a href="/wiki/Ecologist_Party_for_the_Development_of_Burkina" title="Ecologist Party for the Development of Burkina">Ecologist Party</a></li>
+<li><a href="/wiki/Greens_of_Burkina" title="Greens of Burkina">Greens of Burkina</a></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Burkina" title="Rally of the Ecologists of Burkina">Rally of the Ecologists</a></li></ul></li>
+<li><a href="/w/index.php?title=Burundi_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Burundi Green Movement (page does not exist)">Burundi</a></li>
+<li><a href="/w/index.php?title=Mouvement_des_Verts_de_Centrafique&amp;action=edit&amp;redlink=1" class="new" title="Mouvement des Verts de Centrafique (page does not exist)">Central African Republic</a></li>
+<li><a href="/w/index.php?title=Union_des_Ecologistes_Tchadiens_-_LES_VERTS&amp;action=edit&amp;redlink=1" class="new" title="Union des Ecologistes Tchadiens - LES VERTS (page does not exist)">Chad</a></li>
+<li><a href="/w/index.php?title=Defense_de_l%27Environment_Camerounais&amp;action=edit&amp;redlink=1" class="new" title="Defense de l&#39;Environment Camerounais (page does not exist)">Cameroon</a></li>
+<li><a href="/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens" title="Rally of Congolese Ecologists – The Greens">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Egyptian_Green_Party" title="Egyptian Green Party">Egypt</a></li>
+<li><a href="/w/index.php?title=Gabon_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Gabon Green Party (page does not exist)">Gabon</a></li>
+<li><a href="/w/index.php?title=Ghana_Green_Movement&amp;action=edit&amp;redlink=1" class="new" title="Ghana Green Movement (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Parti_des_Ecologistes_Guineens&amp;action=edit&amp;redlink=1" class="new" title="Parti des Ecologistes Guineens (page does not exist)">Guinea</a></li>
+<li><i><a href="/w/index.php?title=Liga_Guineense_de_Protec%C3%A7ao_Ecologica&amp;action=edit&amp;redlink=1" class="new" title="Liga Guineense de Protecçao Ecologica (page does not exist)">Guinea-Bissau</a></i></li>
+<li><a href="/w/index.php?title=Parti_pour_la_Protection_de_l%27Environnement&amp;action=edit&amp;redlink=1" class="new" title="Parti pour la Protection de l&#39;Environnement (page does not exist)">Ivory Coast</a></li>
+<li><a href="/wiki/Mazingira_Green_Party_of_Kenya" title="Mazingira Green Party of Kenya">Kenya</a></li>
+<li><a href="/w/index.php?title=Parti_Vert_Hasin%27l_Madagasikara&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Hasin&#39;l Madagasikara (page does not exist)">Madagascar</a></li>
+<li><a href="/wiki/Ecologist_Party_of_Mali" title="Ecologist Party of Mali">Mali</a></li>
+<li><a href="/wiki/Les_Verts_Fraternels" title="Les Verts Fraternels">Mauritius</a></li>
+<li>Morocco
+<ul><li><a href="/w/index.php?title=The_Greens_(Morocco)&amp;action=edit&amp;redlink=1" class="new" title="The Greens (Morocco) (page does not exist)">The Greens</a></li>
+<li><i><a href="/wiki/Izigzawen" title="Izigzawen">Izigzawen</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Party_of_Mozambique" title="Greens Party of Mozambique">Mozambique</a></li>
+<li><a href="/w/index.php?title=Rassemblement_pour_un_Sahel_Vert&amp;action=edit&amp;redlink=1" class="new" title="Rassemblement pour un Sahel Vert (page does not exist)">Niger</a></li>
+<li><a href="/w/index.php?title=Green_Party_of_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Green Party of Nigeria (page does not exist)">Nigeria</a></li>
+<li><i><a href="/wiki/Democratic_Green_Party_of_Rwanda" title="Democratic Green Party of Rwanda">Rwanda</a></i></li>
+<li><a href="/wiki/Rally_of_the_Ecologists_of_Senegal" title="Rally of the Ecologists of Senegal">Senegal</a></li>
+<li><a href="/w/index.php?title=Sierra_Leone_Green_Party&amp;action=edit&amp;redlink=1" class="new" title="Sierra Leone Green Party (page does not exist)">Sierra Leone</a></li>
+<li>Somalia
+<ul><li><i><a href="/wiki/Somalia_Green_Party" title="Somalia Green Party">Green Party</a></i></li>
+<li><a href="/w/index.php?title=Democratic_Green_Party_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Democratic Green Party of Somalia (page does not exist)">Democratic Green Party</a></li></ul></li>
+<li>South Africa
+<ul><li><a href="/w/index.php?title=South_African_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="South African Green Alliance (page does not exist)">Green Alliance</a></li>
+<li><i><a href="/wiki/Green_Party_of_South_Africa" title="Green Party of South Africa">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=Afrique_Togo_Ecologie&amp;action=edit&amp;redlink=1" class="new" title="Afrique Togo Ecologie (page does not exist)">Togo</a></li>
+<li><a href="/wiki/Green_Tunisia_Party" title="Green Tunisia Party">Tunisia</a></li>
+<li>Uganda
+<ul><li><a href="/w/index.php?title=Ecological_Party_of_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Ecological Party of Uganda (page does not exist)">Ecological Party</a></li>
+<li><i><a href="/wiki/Uganda_Green_Party" title="Uganda Green Party">Green Party</a></i></li></ul></li>
+<li><a href="/w/index.php?title=National_Revolution_Green_Party_Zambia&amp;action=edit&amp;redlink=1" class="new" title="National Revolution Green Party Zambia (page does not exist)">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Americas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Initiative" title="Green Initiative">Argentina</a></li>
+<li><i><a href="/wiki/Belize_Green_Independent_Party" title="Belize Green Independent Party">Belize</a></i></li>
+<li><a href="/wiki/Green_Party_of_Bolivia" title="Green Party of Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Green_Party_(Brazil)" title="Green Party (Brazil)">Brazil</a></li>
+<li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Canada</a></li>
+<li><a href="/wiki/Green_Ecologist_Party_(Chile)" title="Green Ecologist Party (Chile)">Chile</a></li>
+<li><a href="/wiki/Green_Alliance_(Colombia)" title="Green Alliance (Colombia)">Colombia</a></li>
+<li><i><a href="/wiki/Cartago_Green_Party" title="Cartago Green Party">Costa Rica</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Democratic_Unity" class="mw-redirect" title="Green Party of Democratic Unity">Dominican Republic</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_Los_Verdes_de_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Partido Los Verdes de Guatemala (page does not exist)">Guatemala</a></i></li>
+<li><i><a href="/w/index.php?title=Les_Verts_de_Guyane&amp;action=edit&amp;redlink=1" class="new" title="Les Verts de Guyane (page does not exist)">French Guyana</a></i></li>
+<li><i><a href="/w/index.php?title=Parti_Vert_Ha%C3%AFtien&amp;action=edit&amp;redlink=1" class="new" title="Parti Vert Haïtien (page does not exist)">Haiti</a></i></li>
+<li><a href="/wiki/Ecologist_Green_Party_of_Mexico" title="Ecologist Green Party of Mexico">Mexico</a></li>
+<li><i><a href="/wiki/Ecologist_Green_Party_of_Nicaragua" title="Ecologist Green Party of Nicaragua">Nicaragua</a></i></li>
+<li><a href="/wiki/Green_Alternative_Ecologist_Party_of_Peru" title="Green Alternative Ecologist Party of Peru">Peru</a></li>
+<li><i><a href="/wiki/Puerto_Ricans_for_Puerto_Rico_Party" title="Puerto Ricans for Puerto Rico Party">Puerto Rico</a></i></li>
+<li><i><a href="/wiki/Saint_Vincent_and_the_Grenadines_Green_Party" title="Saint Vincent and the Grenadines Green Party">Saint Vincent and the Grenadines</a></i></li>
+<li><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">United States</a></li>
+<li>Uruguay
+<ul><li><i><a href="/wiki/Partido_Verde_Eto-Ecologista" title="Partido Verde Eto-Ecologista">Green</a></i></li>
+<li><i><a href="/w/index.php?title=Partido_del_Sol_(Uruguay)&amp;action=edit&amp;redlink=1" class="new" title="Partido del Sol (Uruguay) (page does not exist)">Sol</a></i></li>
+<li><i><a href="/wiki/Partido_Ecologista_Radical_Intransigente" title="Partido Ecologista Radical Intransigente">PERI</a></i></li></ul></li>
+<li><a href="/wiki/Ecological_Movement_of_Venezuela" title="Ecological Movement of Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia-Pacific</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Australia
+<ul><li><a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a></li>
+<li><i><a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">Nuclear Disarmament</a> (defunct)</i></li>
+<li><i><a href="/wiki/United_Tasmania_Group" title="United Tasmania Group">United Tasmania Group</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Fiji" title="Green Party of Fiji">Fiji</a></i></li>
+<li><i><a href="/w/index.php?title=Heiura_Les_Verts_Polynesiens&amp;action=edit&amp;redlink=1" class="new" title="Heiura Les Verts Polynesiens (page does not exist)">French Polynesia</a></i></li>
+<li><a href="/w/index.php?title=Green_Party_Hong_Kong&amp;action=edit&amp;redlink=1" class="new" title="Green Party Hong Kong (page does not exist)">Hong Kong</a></li>
+<li><a href="/w/index.php?title=Uttarakhand_Parivartan_Party&amp;action=edit&amp;redlink=1" class="new" title="Uttarakhand Parivartan Party (page does not exist)">India</a></li>
+<li><i><a href="/wiki/Green_Party_of_Iran" title="Green Party of Iran">Iran</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Iraq" title="Green Party of Iraq">Iraq</a></i></li>
+<li>Israel
+<ul><li><i><a class="mw-selflink selflink">The Green Movement</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Israel)" title="The Greens (Israel)">The Greens</a></i></li>
+<li><i><a href="/wiki/Meretz" title="Meretz">Meretz</a></i></li></ul></li>
+<li><a href="/wiki/Greens_Japan" title="Greens Japan">Japan</a></li>
+<li><i>Kurdistan</i></li>
+<li><i><a href="/wiki/Green_Party_of_Lebanon" title="Green Party of Lebanon">Lebanon</a></i></li>
+<li><i><a href="/wiki/Green_Party_of_Malaysia" title="Green Party of Malaysia">Malaysia</a></i></li>
+<li>Mongolia
+<ul><li><a href="/wiki/Civil_Will%E2%80%93Green_Party" title="Civil Will–Green Party">Civil Will–Green</a></li>
+<li><a href="/wiki/Mongolian_Green_Party" title="Mongolian Green Party">Green Party</a></li></ul></li>
+<li>Nepal
+<ul><li><i><a href="/wiki/Hariyali_Nepal_Party" title="Hariyali Nepal Party">Hariyali</a></i></li>
+<li><a href="/w/index.php?title=Green_Civil_Society&amp;action=edit&amp;redlink=1" class="new" title="Green Civil Society (page does not exist)">Green Civil Society</a></li></ul></li>
+<li><i><a href="/w/index.php?title=The_Pacific_Greens&amp;action=edit&amp;redlink=1" class="new" title="The Pacific Greens (page does not exist)">New Caledonia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Aotearoa_New_Zealand" title="Green Party of Aotearoa New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Green_Party_of_Pakistan" title="Green Party of Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Papua_New_Guinea_Greens" title="Papua New Guinea Greens">Papua New Guinea</a></li>
+<li><a href="/w/index.php?title=Green_politics_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Green politics in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Green_Party_Korea" title="Green Party Korea">South Korea</a></li>
+<li><i><a href="/w/index.php?title=Sri_Lanka_Green_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Sri Lanka Green Alliance (page does not exist)">Sri Lanka</a></i></li>
+<li><a href="/wiki/Green_Party_Taiwan" title="Green Party Taiwan">Taiwan</a></li>
+<li><i><a href="/wiki/Ecological_Movement_of_Uzbekistan" title="Ecological Movement of Uzbekistan">Uzbekistan</a></i></li>
+<li><i><a href="/wiki/Green_Confederation" title="Green Confederation">Vanuatu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%"><a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">Europe</a><br />
+<div class="hlist">
+<ul><li>(<i><a href="/wiki/European_Green_Party" title="European Green Party">EGP</a></i></li>
+<li><i><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">FYEG</a></i>)</li></ul>
+</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Albania" title="Green Party of Albania">Albania</a></li>
+<li><a href="/wiki/Greens_of_Andorra" title="Greens of Andorra">Andorra</a></li>
+<li><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative">Austria</a></li>
+<li><i><a href="/wiki/Belarusian_Green_Party" title="Belarusian Green Party">Belarus</a></i></li>
+<li>Belgium
+<ul><li><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Flanders and Brussels</a></li>
+<li><a href="/wiki/Ecolo" title="Ecolo">Wallonia and Brussels</a></li></ul></li>
+<li><i><a href="/wiki/Greens_of_Bosnia_and_Herzegovina" title="Greens of Bosnia and Herzegovina">Bosnia and Herzegovina</a></i></li>
+<li>Bulgaria
+<ul><li><i><a href="/wiki/Green_Party_of_Bulgaria" title="Green Party of Bulgaria">Green Party</a></i></li>
+<li><a href="/wiki/The_Greens_(Bulgaria)" title="The Greens (Bulgaria)">The Greens</a></li></ul></li>
+<li><i><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Croatia</a></i></li>
+<li><a href="/wiki/Movement_of_Ecologists_-_Citizens%27_Cooperation" class="mw-redirect" title="Movement of Ecologists - Citizens&#39; Cooperation">Cyprus</a></li>
+<li>Czech Republic
+<ul><li><i><a href="/wiki/Green_Party_(Czech_Republic)" title="Green Party (Czech Republic)">Green Party</a></i></li>
+<li><i><a href="/wiki/Liberal-Environmental_Party" title="Liberal-Environmental Party">Liberal-Environmental Party</a></i></li></ul></li>
+<li>Denmark
+<ul><li><a href="/wiki/The_Alternative_(Denmark)" title="The Alternative (Denmark)">The Alternative</a></li>
+<li><i><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></i></li>
+<li><i><a href="/wiki/The_Greens_(Denmark)" title="The Greens (Denmark)">The Greens</a></i></li></ul></li>
+<li><a href="/wiki/Estonian_Greens" title="Estonian Greens">Estonia</a></li>
+<li><a href="/wiki/Green_League" title="Green League">Finland</a></li>
+<li>France
+<ul><li><i><a href="/wiki/Citizenship,_Action,_Participation_for_the_21st_Century" class="mw-redirect" title="Citizenship, Action, Participation for the 21st Century">CAP21</a></i></li>
+<li><i><a href="/wiki/G%C3%A9n%C3%A9ration_%C3%89cologie" class="mw-redirect" title="Génération Écologie">Génération Écologie</a></i></li>
+<li><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></li>
+<li><i><a href="/wiki/Mouvement_Ecologiste_Ind%C3%A9pendant" class="mw-redirect" title="Mouvement Ecologiste Indépendant">Mouvement Ecologiste Indépendant</a></i></li>
+<li><a href="/wiki/Ecologist_Party" title="Ecologist Party">Ecologist Party</a></li></ul></li>
+<li><a href="/wiki/Green_Party_of_Georgia" title="Green Party of Georgia">Georgia</a></li>
+<li>Germany
+<ul><li><a href="/wiki/Alliance_90/The_Greens" title="Alliance 90/The Greens">Alliance 90/The Greens</a></li>
+<li><i><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></i></li></ul></li>
+<li>Greece
+<ul><li><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></li>
+<li><a href="/wiki/Greens_(Greece)" title="Greens (Greece)">Greens</a></li></ul></li>
+<li>Hungary
+<ul><li><i><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></i></li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></li></ul></li>
+<li><a href="/wiki/Left-Green_Movement" title="Left-Green Movement">Iceland</a></li>
+<li><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Ireland</a></li>
+<li>Italy
+<ul><li><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></li>
+<li><i><a href="/wiki/Green_Italy" title="Green Italy">Green Italy</a></i></li></ul></li>
+<li><i><a href="/wiki/Green_Party_of_Kosovo" title="Green Party of Kosovo">Kosovo</a></i></li>
+<li><a href="/wiki/Latvian_Green_Party" title="Latvian Green Party">Latvia</a></li>
+<li><i><a href="/wiki/Free_List_(Liechtenstein)" title="Free List (Liechtenstein)">Liechtenstein</a></i></li>
+<li>Lithuania
+<ul><li><i><a href="/wiki/Lithuanian_Green_Party" title="Lithuanian Green Party">Green Party</a></i></li>
+<li><i><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></i></li></ul></li>
+<li><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">Luxembourg</a></li>
+<li><i><a href="/wiki/Democratic_Renewal_of_Macedonia" title="Democratic Renewal of Macedonia">Macedonia</a></i></li>
+<li><a href="/wiki/Democratic_Alternative_(Malta)" title="Democratic Alternative (Malta)">Malta</a></li>
+<li><a href="/wiki/Ecologist_Green_Party_(Moldova)" title="Ecologist Green Party (Moldova)">Moldova</a></li>
+<li><i><a href="/wiki/Greens_of_Montenegro" title="Greens of Montenegro">Montenegro</a></i></li>
+<li>Netherlands
+<ul><li><a href="/wiki/GroenLinks" title="GroenLinks">GroenLinks</a></li>
+<li><a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Norway</a></li>
+<li><a href="/wiki/The_Greens_(Poland)" title="The Greens (Poland)">Poland</a></li>
+<li>Portugal
+<ul><li><i><a href="/wiki/Earth_Party" title="Earth Party">Earth Party</a></i></li>
+<li><a href="/wiki/Ecologist_Party_%22The_Greens%22" title="Ecologist Party &quot;The Greens&quot;">The Greens</a></li>
+<li><i><a href="/wiki/LIVRE" title="LIVRE">LIVRE</a></i></li></ul></li>
+<li>Romania
+<ul><li><i><a href="/wiki/Ecologist_Party_of_Romania" title="Ecologist Party of Romania">Ecologist Party</a></i></li>
+<li><a href="/wiki/Green_Party_(Romania)" title="Green Party (Romania)">Green Party</a></li></ul></li>
+<li>Russia
+<ul><li><a href="/wiki/Civil_United_Green_Alternative" title="Civil United Green Alternative">Civil United Green Alternative</a></li>
+<li><i><a href="/wiki/Russian_Ecological_Party_%22The_Greens%22" title="Russian Ecological Party &quot;The Greens&quot;">Ecological Party "The Greens"</a></i></li>
+<li><i><a href="/wiki/Union_of_Greens_of_Russia" title="Union of Greens of Russia">Union of Greens</a></i></li>
+<li><i><a href="/wiki/Alliance_of_Greens_and_Social_Democrats" class="mw-redirect" title="Alliance of Greens and Social Democrats">Alliance of Greens and Social Democrats</a></i></li></ul></li>
+<li>Serbia
+<ul><li><i><a href="/wiki/Green_Party_(Serbia)" title="Green Party (Serbia)">Green Party</a></i></li>
+<li><i><a href="/wiki/Greens_of_Serbia" title="Greens of Serbia">Greens of Serbia</a></i></li></ul></li>
+<li><a href="/wiki/Green_Party_(Slovakia)" title="Green Party (Slovakia)">Slovakia</a></li>
+<li>Slovenia
+<ul><li><i><a href="/wiki/Greens_of_Slovenia" class="mw-redirect" title="Greens of Slovenia">Greens</a></i></li>
+<li><a href="/wiki/Youth_Party_%E2%80%93_European_Greens" title="Youth Party – European Greens">Youth Party</a></li></ul></li>
+<li>Spain
+<ul><li><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Catalonia Greens</a></li>
+<li><i><a href="/wiki/Confederation_of_the_Greens" title="Confederation of the Greens">Confederation of the Greens</a></i></li>
+<li><a href="/wiki/Equo" title="Equo">Equo</a></li></ul></li>
+<li><a href="/wiki/Green_Party_(Sweden)" title="Green Party (Sweden)">Sweden</a></li>
+<li><a href="/wiki/Green_Party_of_Switzerland" title="Green Party of Switzerland">Switzerland</a></li>
+<li><i><a href="/wiki/Green_Left_Party" title="Green Left Party">Turkey</a></i></li>
+<li><a href="/wiki/Party_of_Greens_of_Ukraine" title="Party of Greens of Ukraine">Ukraine</a></li>
+<li>United Kingdom
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">England and Wales</a> <i>(<a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales</a>)</i></li>
+<li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scotland</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:lightgreen;"><div><i>Italic</i> links indicate non-members or observers of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a>.</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Human_impact_on_the_environment" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Human_impact_on_the_environment" title="Template:Human impact on the environment"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Human_impact_on_the_environment" title="Template talk:Human impact on the environment"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Human_impact_on_the_environment&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Human_impact_on_the_environment" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Environmental_issue" title="Environmental issue">Environmental issues</a>
+<ul><li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">List of issues</a></li></ul></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Impact assessment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Planetary_boundaries.svg" class="image" title="Planetary boundaries"><img alt="Planetary boundaries" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/140px-Planetary_boundaries.svg.png" width="140" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/210px-Planetary_boundaries.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/280px-Planetary_boundaries.svg.png 2x" data-file-width="1417" data-file-height="1163" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Causes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">Agriculture</a>
+<ul><li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_meat_production" title="Environmental impact of meat production">meat production</a></li>
+<li><a href="/wiki/Environmental_impact_of_cocoa_production" class="mw-redirect" title="Environmental impact of cocoa production">cocoa production</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">palm oil</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">Energy industry</a>
+<ul><li><a href="/wiki/Indirect_land_use_change_impacts_of_biofuels" title="Indirect land use change impacts of biofuels">biofuels</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_coal_industry" title="Environmental impact of the coal industry">coal</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_nuclear_power" title="Environmental impact of nuclear power">nuclear power</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">oil shale</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">petroleum</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_wind_power" title="Environmental impact of wind power">wind power</a></li></ul></li>
+<li><a href="/wiki/Genetic_pollution" title="Genetic pollution">Genetic pollution</a></li>
+<li><a href="/wiki/Industrialization" class="mw-redirect" title="Industrialization">Industrialization</a></li>
+<li><a href="/wiki/Land_use#Environment" title="Land use">Land use</a></li>
+<li><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a>
+<ul><li><a href="/wiki/Environmental_impact_of_cleaning_agents" title="Environmental impact of cleaning agents">cleaning agents</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">concrete</a></li>
+<li><a href="/wiki/Environmental_impact_of_plastics" class="mw-redirect" title="Environmental impact of plastics">plastics</a></li>
+<li><a href="/wiki/Environmental_impact_of_nanotechnology" class="mw-redirect" title="Environmental impact of nanotechnology">nanotechnology</a></li>
+<li><a href="/wiki/Environmental_impact_of_paint" title="Environmental impact of paint">paint</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_pesticides" title="Environmental impact of pesticides">pesticides</a></li>
+<li><a href="/wiki/Environmental_impact_of_pharmaceuticals_and_personal_care_products" title="Environmental impact of pharmaceuticals and personal care products">pharmaceuticals and personal care</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">Mining</a></li>
+<li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li>
+<li><a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></li>
+<li><a href="/wiki/Overgrazing" title="Overgrazing">Overgrazing</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Particulates" title="Particulates">Particulates</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">Reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_tourism" class="mw-redirect" title="Environmental impact of tourism">Tourism</a></li>
+<li><a href="/wiki/Environmental_impact_of_transport" title="Environmental impact of transport">Transport</a>
+<ul><li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">aviation</a></li>
+<li><a href="/wiki/Environmental_impact_of_roads" class="mw-redirect" title="Environmental impact of roads">roads</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">shipping</a></li></ul></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul><li><a href="/wiki/Urban_sprawl" title="Urban sprawl">urban sprawl</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">war</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Effects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodiversity_threats" class="mw-redirect" title="Biodiversity threats">Biodiversity threats</a>
+<ul><li><a href="/wiki/Biodiversity_loss" title="Biodiversity loss">Biodiversity loss</a></li></ul></li>
+<li><a href="/wiki/Climate_change" title="Climate change">Climate change</a>
+<ul><li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li></ul></li>
+<li><a href="/wiki/Environmental_issues_with_coral_reefs" title="Environmental issues with coral reefs">Coral reefs</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Defaunation" title="Defaunation">Defaunation</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Erosion" title="Erosion">Erosion</a></li>
+<li><a href="/wiki/Environmental_degradation" title="Environmental degradation">Environmental degradation</a></li>
+<li><a href="/wiki/Freshwater_cycle" class="mw-redirect" title="Freshwater cycle">Freshwater cycle</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_impact_on_the_nitrogen_cycle" title="Human impact on the nitrogen cycle">Nitrogen cycle</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_surface_effects_on_climate" title="Land surface effects on climate">Land surface effects on climate</a></li>
+<li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Phosphorus_cycle#Human_influences" title="Phosphorus cycle">Phosphorus cycle</a></li>
+<li><a href="/wiki/Ocean_acidification#Possible_impacts" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Resource depletion</a></li>
+<li><a href="/wiki/Water_degradation" class="mw-redirect" title="Water degradation">Water degradation</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mitigation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">Ecological engineering</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_mitigation" title="Environmental mitigation">Environmental mitigation</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Mitigation_banking" title="Mitigation banking">Mitigation banking</a></li>
+<li><a href="/wiki/Organic_farming" title="Organic farming">Organic farming</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a>
+<ul><li><a href="/wiki/Urban_reforestation" title="Urban reforestation">urban</a></li></ul></li>
+<li><a href="/wiki/Restoration_ecology" title="Restoration ecology">Restoration ecology</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable consumption</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimization</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li>&#160;<img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Environmental_impact" class="extiw" title="commons:Category:Environmental impact">Commons</a></b></li>
+<li>&#160;<img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Environmental_impact_by_source" title="Category:Environmental impact by source">Category</a></li>
+<li><a href="/wiki/Category:Environmental_impact_by_country" title="Category:Environmental impact by country">by country</a></li>
+<li><a href="/wiki/Category:Environmental_impact_assessment" title="Category:Environmental impact assessment">assessment</a></li>
+<li><a href="/wiki/Category:Environmental_mitigation" title="Category:Environmental mitigation">mitigation</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2188
+Cached time: 20180930233650
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.360 seconds
+Real time usage: 0.451 seconds
+Preprocessor visited node count: 1874/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93005/2097152 bytes
+Template argument size: 1626/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 33840/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.143/10.000 seconds
+Lua memory usage: 4.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  329.944      1 -total
+ 39.97%  131.872      1 Template:Reflist
+ 32.12%  105.966      1 Template:Infobox_political_party
+ 25.12%   82.873      6 Template:Cite_news
+ 23.86%   78.720      1 Template:Infobox
+  8.87%   29.255      3 Template:Navbox
+  8.61%   28.410      1 Template:Distinguish
+  6.88%   22.714      1 Template:Lang-he-n
+  5.43%   17.930      1 Template:Category_handler
+  4.42%   14.594      1 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20521352-0!canonical and timestamp 20180930233650 and revision id 839284968
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Movement_(Israel)&amp;oldid=839284968">https://en.wikipedia.org/w/index.php?title=Green_Movement_(Israel)&amp;oldid=839284968</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_political_parties_in_Israel" title="Category:Green political parties in Israel">Green political parties in Israel</a></li><li><a href="/wiki/Category:Political_parties_established_in_2008" title="Category:Political parties established in 2008">Political parties established in 2008</a></li><li><a href="/wiki/Category:2008_establishments_in_Israel" title="Category:2008 establishments in Israel">2008 establishments in Israel</a></li><li><a href="/wiki/Category:Political_parties_in_Israel" title="Category:Political parties in Israel">Political parties in Israel</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Hebrew-language_sources_(he)" title="Category:CS1 Hebrew-language sources (he)">CS1 Hebrew-language sources (he)</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Movement+%28Israel%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Movement+%28Israel%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Movement_(Israel)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Movement_(Israel)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Movement_(Israel)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Movement_(Israel)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Movement_(Israel)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Movement_(Israel)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Movement_(Israel)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Movement_(Israel)&amp;oldid=839284968" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Movement_(Israel)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2035027" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Movement_%28Israel%29&amp;id=839284968" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Movement+%28Israel%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Movement+%28Israel%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Movement_(Israel)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Green_Movement_(Israel)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D9%83%D8%A9_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1_(%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84)" title="الحركة الخضراء (إسرائيل) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Zelen%C3%A9_hnut%C3%AD_(Izrael)" title="Zelené hnutí (Izrael) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mouvement_vert_(Isra%C3%ABl)" title="Mouvement vert (Israël) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98_%EB%85%B9%EC%83%89_%EC%9A%B4%EB%8F%99" title="이스라엘 녹색 운동 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%94%D7%99%D7%A8%D7%95%D7%A7%D7%94" title="התנועה הירוקה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0-%D0%A2%D0%BD%D1%83%D0%B0_%D1%85%D0%B0-%D0%B9%D0%B5%D1%80%D1%83%D0%BA%D0%B0" title="Ха-Тнуа ха-йерука – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/HaTnu%27a_HaYeruqa" title="HaTnu&#039;a HaYeruqa – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2035027#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 May 2018, at 13:10<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Movement_(Israel)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.451","ppvisitednodes":{"value":1874,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":93005,"limit":2097152},"templateargumentsize":{"value":1626,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33840,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  329.944      1 -total"," 39.97%  131.872      1 Template:Reflist"," 32.12%  105.966      1 Template:Infobox_political_party"," 25.12%   82.873      6 Template:Cite_news"," 23.86%   78.720      1 Template:Infobox","  8.87%   29.255      3 Template:Navbox","  8.61%   28.410      1 Template:Distinguish","  6.88%   22.714      1 Template:Lang-he-n","  5.43%   17.930      1 Template:Category_handler","  4.42%   14.594      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.143","limit":"10.000"},"limitreport-memusage":{"value":4824511,"limit":52428800}},"cachereport":{"origin":"mw2188","timestamp":"20180930233650","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw2254"});});</script>
+	</body>
+</html>

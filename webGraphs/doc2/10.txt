@@ -1,0 +1,305 @@
+https://en.wikipedia.org/wiki/European_Green_Belt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>European Green Belt - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"European_Green_Belt","wgTitle":"European Green Belt","wgCurRevisionId":860408124,"wgRevisionId":860408124,"wgArticleId":9536677,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2013","Articles needing additional references from December 2010","All articles needing additional references","European Union and the environment","Ecological connectivity","Conservation projects","Green Belts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"European_Green_Belt","wgRelevantArticleId":9536677,"wgRequestId":"W6@MbArAIEoAAJAgvBMAAABN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q734890","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/EuGB_solid_labels_web.png/1200px-EuGB_solid_labels_web.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/European_Green_Belt"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=European_Green_Belt&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=European_Green_Belt&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/European_Green_Belt"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-European_Green_Belt rootpage-European_Green_Belt skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">European Green Belt</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=European_Green_Belt&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(December 2010)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:EuGB_solid_labels_web.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/EuGB_solid_labels_web.png/220px-EuGB_solid_labels_web.png" width="220" height="263" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/EuGB_solid_labels_web.png/330px-EuGB_solid_labels_web.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/EuGB_solid_labels_web.png/440px-EuGB_solid_labels_web.png 2x" data-file-width="1500" data-file-height="1796" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:EuGB_solid_labels_web.png" class="internal" title="Enlarge"></a></div>Route of the European Green Belt</div></div></div>
+<p>The <b>European <a href="/wiki/Green_Belt" class="mw-redirect" title="Green Belt">Green Belt</a></b> initiative is a grassroots movement for nature conservation and sustainable development along the corridor of the former <a href="/wiki/Iron_Curtain" title="Iron Curtain">Iron Curtain</a>. The term refers to both an environmental initiative as well as the area it concerns. The initiative is carried out under the patronage of the <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a> and <a href="/wiki/Mikhail_Gorbachev" title="Mikhail Gorbachev">Mikhail Gorbachev</a>. It is the aim of the initiative to create the backbone of an <a href="/wiki/Ecological_network" title="Ecological network">ecological network</a> that runs from the <a href="/wiki/Barents_Sea" title="Barents Sea">Barents</a> to the <a href="/wiki/Black_Sea" title="Black Sea">Black</a> and <a href="/wiki/Adriatic_Sea" title="Adriatic Sea">Adriatic Seas</a>.
+</p><p>The European Green Belt as an area follows the route of the former Iron Curtain and connects <a href="/wiki/National_Park" class="mw-redirect" title="National Park">National Parks</a>, <a href="/wiki/Nature_park" title="Nature park">Nature Parks</a>, <a href="/wiki/Biosphere_Reserve" class="mw-redirect" title="Biosphere Reserve">Biosphere Reserves</a> and transboundary protected areas as well as non-protected valuable habitats along or across the (former) <a href="/wiki/Border" title="Border">borders</a>.<sup id="cite_ref-Riecken,_U._2007_1-0" class="reference"><a href="#cite_note-Riecken,_U._2007-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Route"><span class="tocnumber">2</span> <span class="toctext">Route</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Organisational_structure"><span class="tocnumber">4</span> <span class="toctext">Organisational structure</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Ecological_values"><span class="tocnumber">5</span> <span class="toctext">Ecological values</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Cultural_values"><span class="tocnumber">6</span> <span class="toctext">Cultural values</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1970, satellite pictures showed a dark green belt of old-growth forest on the Finnish-Russian border.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> In the early 1980s, biologists discovered that the inner German border zone between <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> in the west and <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a> in the east was a refuge for several rare bird species that had disappeared from the intensely used areas covering most of <a href="/wiki/Central_Europe" title="Central Europe">Central Europe</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The reasoning behind this observation was that negative <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">human impact on the environment</a> is smaller in such border zones which are commonly closed to public access and thus <a href="/wiki/Involuntary_park" title="Involuntary park">wildlife is minimally impacted by human activities</a>.
+</p><p>After the end of the <a href="/wiki/Cold_War" title="Cold War">Cold War</a> in the late 1980s, the <a href="/wiki/Border_barrier" title="Border barrier">strict border regimes</a> were abandoned and the border zones gradually opened, starting with the <a href="/wiki/German_reunification" title="German reunification">German reunification</a> in 1990 and continuing with the step-by-step integration of new member states into the <a href="/wiki/Schengen_Agreement" title="Schengen Agreement">Schengen Treaty</a> as part of the enlargement process of the <a href="/wiki/European_Union" title="European Union">European Union</a>. At the same time, large military facilities such as training grounds and military research establishments in or close to the border zones were closed down. For most cases, it was unclear whom the property of these lands belonged to and thus what the fate of the valuable landscapes would be. Against this background, the conservation initiative Green Belt formed to conserve the natural assets along the former Iron Curtain.
+</p>
+<h2><span class="mw-headline" id="Route">Route</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=2" title="Edit section: Route">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The route of the Green Belt follows the course of the borders which during the second half of the 20th century divided the <a href="/wiki/Eastern_Bloc" title="Eastern Bloc">eastern European communist countries</a> and the western capitalist countries. It is divided into three regional sections:
+</p>
+<ul><li>Fennoscandian Green Belt: <a href="/wiki/Norway" title="Norway">Norway</a>, <a href="/wiki/Finland" title="Finland">Finland</a>, <a href="/wiki/Russia" title="Russia">Russia</a>, <a href="/wiki/Estonia" title="Estonia">Estonia</a>, <a href="/wiki/Latvia" title="Latvia">Latvia</a> and <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>.</li>
+<li>Central European Green Belt: <a href="/wiki/Poland" title="Poland">Poland</a>, <a href="/wiki/Germany" title="Germany">Germany</a> (the <a href="/wiki/Inner_German_border" title="Inner German border">inner German border</a>), <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>, <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>, <a href="/wiki/Austria" title="Austria">Austria</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>, <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>, <a href="/wiki/Croatia" title="Croatia">Croatia</a> and <a href="/wiki/Italy" title="Italy">Italy</a></li>
+<li>Balkan (or South Eastern European) Green Belt: <a href="/wiki/Serbia" title="Serbia">Serbia</a>, <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>, <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>, <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, <a href="/wiki/Republic_of_Macedonia" title="Republic of Macedonia">Republic of Macedonia</a>, <a href="/wiki/Albania" title="Albania">Albania</a>, <a href="/wiki/Greece" title="Greece">Greece</a> and <a href="/wiki/Turkey" title="Turkey">Turkey</a></li></ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The historical starting point of the initiative was the Green Belt Resolution of Hof (Germany) in December 1989,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> one month after the fall of the <a href="/wiki/Berlin_Wall" title="Berlin Wall">Berlin Wall</a>. This document formulated and signed by more than 300 environmentalists from the <a href="/wiki/German_Democratic_Republic" class="mw-redirect" title="German Democratic Republic">German Democratic Republic</a> and the <a href="/wiki/Federal_Republic_of_Germany" class="mw-redirect" title="Federal Republic of Germany">Federal Republic of Germany</a> initiated the first conservation projects targeting the inner German border. After several achievements, the idea was taken to the European level. After a first conference on the European Green Belt in 2003, it was decided to establish a working group with the World Conservation Union (IUCN) as overall coordinator for its implementation; IUCN together with the Ferto-Hanság National Park in Hungary organized the first meeting of the working group, which took place 9–12 September 2004.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> In the following, the working group together with stakeholders of the Green Belt elaborated a Programme of Work and proposed representatives in each country along the Green Belt to be officially appointed as National Green Belt Focal Points by the respective Ministry of Environment. A <a href="/wiki/Memorandum_of_Understanding" class="mw-redirect" title="Memorandum of Understanding">Memorandum of Understanding</a> to jointly protect the Green Belt in <a href="/wiki/Fennoscandia" title="Fennoscandia">Fennoscandia</a> was signed by the Environmental Ministers of <a href="/wiki/Russia" title="Russia">Russia</a>, <a href="/wiki/Finland" title="Finland">Finland</a> and <a href="/wiki/Norway" title="Norway">Norway</a> in 2010. In November 2010, the Binding Award for outstanding contributions to nature conservation was awarded to five individuals for their continuous engagement in protecting the Green Belt.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>For several years there have been considerations to nominate the European Green Belt as a <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="/wiki/World_Heritage_Site" class="mw-redirect" title="World Heritage Site">World Heritage Site</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Organisational_structure">Organisational structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=4" title="Edit section: Organisational structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The initiative’s network consists of official representatives for the three regions named above (Regional Coordinators) and for each country (National Focal Points) appointed during the first European Green Belt meeting in 2003:<sup id="cite_ref-Riecken,_U._2007_1-1" class="reference"><a href="#cite_note-Riecken,_U._2007-1">&#91;1&#93;</a></sup> 
+</p>
+<ul><li>Fennoscandian Green Belt: Association of Reserves and National Parks of Russian North-West/ Baltic Fund for Nature</li>
+<li>Central European Green Belt: <a href="/wiki/Bund_f%C3%BCr_Umwelt_und_Naturschutz_Deutschland" title="Bund für Umwelt und Naturschutz Deutschland">Bund Naturschutz Bayern</a>/ Friends of the Earth Germany</li>
+<li>Balkan or South Eastern European Green Belt: Euronatur</li></ul>
+<p>The implementation of the Green Belt vision in the regions is carried out by several hundred <a href="/wiki/Stakeholder_(corporate)" title="Stakeholder (corporate)">stakeholders</a> from nature conservation and sustainable development<sup id="cite_ref-Frobel,_K._2009_8-0" class="reference"><a href="#cite_note-Frobel,_K._2009-8">&#91;8&#93;</a></sup> who contribute either on a project or voluntary basis.
+</p>
+<h2><span class="mw-headline" id="Ecological_values">Ecological values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=5" title="Edit section: Ecological values">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Observations by biologists revealed that the military practice along the borderline led to wildlife conservation in numerous ways:<sup id="cite_ref-sky_9-0" class="reference"><a href="#cite_note-sky-9">&#91;9&#93;</a></sup>
+</p>
+<ul><li>A ban on pesticide spraying has preserved many rare insects.</li>
+<li>Keeping the vegetation cut so border guards can see across easily, stopped the area from becoming continuous forest and thus preserved wildlife that needs open land.</li>
+<li>One peculiar occurrence noticed was that in a forested part of this belt on the frontier between <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> and <a href="/wiki/Bohemia" title="Bohemia">Bohemia</a>, 18 years after the border barrier was removed, forest <a href="/wiki/Deer" title="Deer">deer</a> still refused to cross the frontier: compare <a href="https://en.wiktionary.org/wiki/heft#English" class="extiw" title="wiktionary:heft">hefting</a> of livestock.</li>
+<li>Old <a href="/wiki/Landmine" class="mw-redirect" title="Landmine">landmine</a> explosion craters have become wildlife ponds.</li>
+<li>In the Bulgaria/Greece section there are many <a href="/wiki/Eastern_imperial_eagle" title="Eastern imperial eagle">eastern imperial eagle</a> nests.</li>
+<li>Where the <a href="/wiki/River_Drava" class="mw-redirect" title="River Drava">River Drava</a> is the frontier between <a href="/wiki/Hungary" title="Hungary">Hungary</a> and <a href="/wiki/Croatia" title="Croatia">Croatia</a>: mutual mistrust prevented river development works, so the river and its banks are still natural, including the river creating sand cliffs where <a href="/wiki/Sand_martin" title="Sand martin">sand martins</a> nest. The Drava has cut off <a href="/wiki/Meander" title="Meander">meanders</a>, leaving many bits of each nation's territory on the wrong side of the river; these areas are not farmed and have become wildlife areas.</li>
+<li>Along the coast of the <a href="/wiki/Mecklenburg" title="Mecklenburg">Mecklenburg</a> area, restricted access to the coast, to stop people from crossing over by boat or swimming, helped to preserve coastal wildlife.</li></ul>
+<h2><span class="mw-headline" id="Cultural_values">Cultural values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=6" title="Edit section: Cultural values">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has been proposed to develop not only the natural but also the cultural heritage of the <a href="/wiki/Soviet_period" class="mw-redirect" title="Soviet period">Soviet period</a>: following the idea to link the numerous historical initiatives, installations, projects and relics in the Green Belt with the natural heritage,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> in order to turn the European Green Belt into living historical <a href="/wiki/Monument" title="Monument">monument</a> of the <a href="/wiki/Cold_War" title="Cold War">Cold War</a> during the 20th century.<sup id="cite_ref-Frobel,_K._2009_8-1" class="reference"><a href="#cite_note-Frobel,_K._2009-8">&#91;8&#93;</a></sup> In the context of the European Green Belt, cultural heritage has been assessed and/ or developed in several places already: 
+</p>
+<ul><li>On mount <a href="/wiki/Brocken" title="Brocken">Brocken</a>, Germany, the former border patrol path has been turned into a hiking route called “Harz border path”<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li>In the Slovenian Nature Park Goricko, border stones with information plates have been set up which inform visitors, about the history of the Iron Curtain and the natural values in place due to this history</li>
+<li>Military heritage along the Latvian Green Belt has been assessed and compiled in a data base and map for visitors, including almost 100 stories of contemporary witnesses<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/German_Green_Belt" title="German Green Belt">German Green Belt</a></li>
+<li><a href="/wiki/Iron_Curtain_Trail" class="mw-redirect" title="Iron Curtain Trail">Iron Curtain Trail</a>, a project to complete a long-distance cycling route in the EGB corridor.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Riecken,_U._2007-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Riecken,_U._2007_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Riecken,_U._2007_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Riecken, U., K. Ullrich, A. Lang (2007): A vision for the Green Belt in Europe, in: Terry, A., K. Ullrich and U. Riecken (Eds.): The Green Belt of Europe. From Vision to Reality, IUCN, Gland, Switzerland and Cambridge, UK, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/2-8317-0945-8" title="Special:BookSources/2-8317-0945-8">2-8317-0945-8</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Haapala, H., Riitta, H., Keinonen, E., Lindholm, T. and Telkänranta, H. 2003. Finnish-Russian nature conservation cooperation. Finnish Ministry of the Environment and Finnish Environment Institute</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Beck,P.and Frobel,K.1981.Letzter Zufluchtsort:Der “Todesstreifen”? in: Vogelschutz: Magazin für Arten- und Biotopschutz (2):24 (English: Last refuge: Border strip?).</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Riecken, U. &amp; Ullrich, K. (2010): Implementation of the Green Belt – from paper to practice. 20 years of experience in Germany, in: Gulbinskas, S., Gasiūnaitė, Z., Blažauskas, N. and Sterr, H. (Eds.): 2nd Baltic Green Belt Forum - Towards sustainable development of the Baltic Sea coast, 304 pp., Klaipėda University Publishing, 2010</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Vogtmann (2007): Preface, in: Terry, A., K. Ullrich and U. Riecken (Eds.): The Green Belt of Europe. From Vision to Reality, IUCN, Gland, Switzerland and Cambridge, UK, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/2-8317-0945-8" title="Special:BookSources/2-8317-0945-8">2-8317-0945-8</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Press release "Binding Award: under the sign of the Green Belt Europe", Euronatur, 20 Nov. 2010 <a rel="nofollow" class="external autonumber" href="http://www.euronatur.org/Press-Releases.412+M5496a3ac8ab.0.html?&amp;cHash=d9014dcef16c8cf313103de33ebb645f">[1]</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Gaudry, K.H., Diehl, K., Oelke, M., Finke, G. and Konold, W. (2014): Feasibility Study World Heritage Green Belt - Final Report <a rel="nofollow" class="external autonumber" href="https://www.researchgate.net/publication/281742169_Feasibility_Study_World_Heritage_Green_Belt">[2]</a></span>
+</li>
+<li id="cite_note-Frobel,_K._2009-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Frobel,_K._2009_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Frobel,_K._2009_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Frobel, K. (2009): The Green Belt – lifeline in no man’s land, in: Wrbka et al. (Eds.): The European Green Belt. Borders.Wilderness.Future., Publisher Bibliothek der Provinz, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-85474-209-8" title="Special:BookSources/978-3-85474-209-8">978-3-85474-209-8</a></span>
+</li>
+<li id="cite_note-sky-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-sky_9-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110716090356/http://tv.sky.com/natural-world-iron-curtain-ribbon-of-life">"Natural World: Iron Curtain, Ribbon of Life"</a>. Sky TV. 6 March 2009. Archived from <a rel="nofollow" class="external text" href="http://tv.sky.com/natural-world-iron-curtain-ribbon-of-life">the original</a> on 16 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Natural+World%3A+Iron+Curtain%2C+Ribbon+of+Life&amp;rft.date=2009-03-06&amp;rft_id=http%3A%2F%2Ftv.sky.com%2Fnatural-world-iron-curtain-ribbon-of-life&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEuropean+Green+Belt" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><br />
+<cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/programmes/b00j1bzp">"Natural World Iron Curtain, Ribbon of Life"</a>. BBC. 10 Mar 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Natural+World+Iron+Curtain%2C+Ribbon+of+Life&amp;rft.date=2009-03-10&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fprogrammes%2Fb00j1bzp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEuropean+Green+Belt" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Jeschke, H.-P. (2009): The Green Belt as a natural and cultural heritage, in: Wrbka et al. (Eds.): The European Green Belt. Borders.Wilderness.Future., Publisher Bibliothek der Provinz, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-85474-209-8" title="Special:BookSources/978-3-85474-209-8">978-3-85474-209-8</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.erlebnisgruenesband.de/en/erlebnis-gruenes-band/geschichte/harz.html">Website of project Experience Green Belt</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.celotajs.lv/cont/wrth/military_en.html">Data base of military heritage in Latvia</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.europeangreenbelt.org/">European Green Belt</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nhpfund.org/nominations/fennoscandia.html">Green Belt of Fennoscandia</a> at <a rel="nofollow" class="external text" href="http://www.nhpfund.org/">Natural Heritage Protection Fund</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.greenbelteurope.eu/">Central European Green Belt</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.balticgreenbelt.uni-kiel.de">Baltic Green Belt project</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bund.net/themen_und_projekte/gruenes_band/gruenes_band_europa/publikationen">Green Belt @ Bund Naturschutz Bayern</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fh-erfurt.de/fhe/en/transport-and-spatial-planning-institute/metaprojektliste/2006/greenbelt/">Sensitive Transport Development along the Central European Green Belt</a></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2186
+Cached time: 20180929143004
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 1419/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12257/2097152 bytes
+Template argument size: 1913/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10815/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 2.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  202.729      1 -total
+ 60.33%  122.310      1 Template:Reflist
+ 28.64%   58.062      2 Template:Cite_news
+ 20.34%   41.244      4 Template:ISBN
+ 17.56%   35.601      1 Template:Refimprove
+ 17.04%   34.537      1 Template:Use_dmy_dates
+ 15.27%   30.966      1 Template:Ambox
+  8.35%   16.930      4 Template:Catalog_lookup_link
+  8.23%   16.680      1 Template:DMCA
+  6.32%   12.803      1 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9536677-0!canonical and timestamp 20180929143004 and revision id 860408124
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=European_Green_Belt&amp;oldid=860408124">https://en.wikipedia.org/w/index.php?title=European_Green_Belt&amp;oldid=860408124</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:European_Union_and_the_environment" title="Category:European Union and the environment">European Union and the environment</a></li><li><a href="/wiki/Category:Ecological_connectivity" title="Category:Ecological connectivity">Ecological connectivity</a></li><li><a href="/wiki/Category:Conservation_projects" title="Category:Conservation projects">Conservation projects</a></li><li><a href="/wiki/Category:Green_Belts" title="Category:Green Belts">Green Belts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2013" title="Category:Use dmy dates from March 2013">Use dmy dates from March 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2010" title="Category:Articles needing additional references from December 2010">Articles needing additional references from December 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=European+Green+Belt" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=European+Green+Belt" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/European_Green_Belt" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:European_Green_Belt" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/European_Green_Belt">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=European_Green_Belt&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=European_Green_Belt&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/European_Green_Belt" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/European_Green_Belt" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=European_Green_Belt&amp;oldid=860408124" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=European_Green_Belt&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q734890" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=European_Green_Belt&amp;id=860408124" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=European+Green+Belt">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=European+Green+Belt&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=European_Green_Belt&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:European_Green_Belt" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gr%C3%BCnes_Band_Europa" title="Grünes Band Europa – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ceinture_verte_europ%C3%A9enne" title="Ceinture verte européenne – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Eur%C3%B3pai_Z%C3%B6ld_%C3%96v" title="Európai Zöld Öv – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cintur%C3%A3o_Verde_Europeu" title="Cinturão Verde Europeu – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B" title="Зелёный пояс Европы – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81_%D0%84%D0%B2%D1%80%D0%BE%D0%BF%D0%B8" title="Зелений пояс Європи – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q734890#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 13:44<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=European_Green_Belt&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.258","ppvisitednodes":{"value":1419,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12257,"limit":2097152},"templateargumentsize":{"value":1913,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10815,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  202.729      1 -total"," 60.33%  122.310      1 Template:Reflist"," 28.64%   58.062      2 Template:Cite_news"," 20.34%   41.244      4 Template:ISBN"," 17.56%   35.601      1 Template:Refimprove"," 17.04%   34.537      1 Template:Use_dmy_dates"," 15.27%   30.966      1 Template:Ambox","  8.35%   16.930      4 Template:Catalog_lookup_link","  8.23%   16.680      1 Template:DMCA","  6.32%   12.803      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":2404280,"limit":52428800}},"cachereport":{"origin":"mw2186","timestamp":"20180929143004","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":371,"wgHostname":"mw2186"});});</script>
+	</body>
+</html>

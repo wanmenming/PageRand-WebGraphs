@@ -1,0 +1,581 @@
+https://en.wikipedia.org/wiki/Green_Left_(UK)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Left (UK) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Left_(UK)","wgTitle":"Green Left (UK)","wgCurRevisionId":851635329,"wgRevisionId":851635329,"wgArticleId":5883018,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2012","Anti-capitalist organizations","Ecosocialist parties","History of the Green Party of England and Wales","Political party factions in the United Kingdom","2006 establishments in the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Left_(UK)","wgRelevantArticleId":5883018,"wgRequestId":"W6@EYQrAADcAAGEvqNkAAAAF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q16841000","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg/1200px-Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Left_(UK)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Left_(UK)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Left_(UK)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Left_(UK)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Left_UK rootpage-Green_Left_UK skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Left (UK)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg/220px-Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg/330px-Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg/440px-Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bronwen_Maher_with_Joseph_Healy_and_Romayne_Phoenix.jpg" class="internal" title="Enlarge"></a></div>Joseph Healy (centre) and Romayne Phoenix (left) at a Green Left fringe meeting with <a href="/wiki/Bronwen_Maher" title="Bronwen Maher">Bronwen Maher</a>, a former member of the <a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Green Party of Ireland</a></div></div></div>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Socialism" title="Category:Socialism">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding-bottom:0;background:#B60000;font-size:200%;font-weight:normal;color:white;overflow: hidden;"><a href="/wiki/Socialism" title="Socialism"><span style="background-color: #B60000; color:white;">Socialism</span></a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/Red_flag_(politics)" title="Red flag (politics)"><img alt="Red flag waving.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Red_flag_waving.svg/100px-Red_flag_waving.svg.png" width="100" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Red_flag_waving.svg/150px-Red_flag_waving.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Red_flag_waving.svg/200px-Red_flag_waving.svg.png 2x" data-file-width="249" data-file-height="268" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;">Development</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><a href="/wiki/History_of_socialism" title="History of socialism">History of socialism</a></li>
+<li><a href="/wiki/Socialist_calculation_debate" title="Socialist calculation debate">Socialist calculation debate</a></li>
+<li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist economics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;">Ideas</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><a href="/wiki/Calculation_in_kind" title="Calculation in kind">Calculation in kind</a></li>
+<li><a href="/wiki/Collective_ownership" title="Collective ownership">Collective ownership</a></li>
+<li><a href="/wiki/Cooperative" title="Cooperative">Cooperative</a></li>
+<li><a href="/wiki/Common_ownership" title="Common ownership">Common ownership</a></li>
+<li><a href="/wiki/Commune_(model_of_government)" title="Commune (model of government)">Commune (model of government)</a></li>
+<li><a href="/wiki/Economic_democracy" title="Economic democracy">Economic democracy</a></li>
+<li><a href="/wiki/Economic_planning" title="Economic planning">Economic planning</a></li>
+<li><a href="/wiki/Equal_opportunity" title="Equal opportunity">Equal opportunity</a></li>
+<li><a href="/wiki/Free_association_(communism_and_anarchism)" class="mw-redirect" title="Free association (communism and anarchism)">Free association</a></li>
+<li><a href="/wiki/Industrial_democracy" title="Industrial democracy">Industrial democracy</a></li>
+<li><a href="/wiki/Input%E2%80%93output_model" title="Input–output model">Input–output model</a></li>
+<li><a href="/wiki/Internationalism_(politics)" title="Internationalism (politics)">Internationalism</a></li>
+<li><a href="/wiki/Labor-time_calculation" title="Labor-time calculation">Labor-time calculation</a></li>
+<li><a href="/wiki/Labour_voucher" title="Labour voucher">Labour voucher</a></li>
+<li><a href="/wiki/Material_balance_planning" title="Material balance planning">Material balance planning</a></li>
+<li><a href="/wiki/Peer%E2%80%91to%E2%80%91peer_economics" class="mw-redirect" title="Peer‑to‑peer economics">Peer‑to‑peer economics</a></li>
+<li><a href="/wiki/Sharing_economy" title="Sharing economy">Sharing economy</a></li>
+<li><a href="/wiki/Production_for_use" title="Production for use">Production for use</a></li>
+<li><a href="/wiki/Social_dividend" title="Social dividend">Social dividend</a></li>
+<li><a href="/wiki/Social_ownership" title="Social ownership">Social ownership</a></li>
+<li><a href="/wiki/Socialism_in_one_country" class="mw-redirect" title="Socialism in one country">Socialism in one country</a></li>
+<li><a href="/wiki/Socialist_mode_of_production" title="Socialist mode of production">Socialist mode of production</a></li>
+<li><a href="/wiki/State_ownership" title="State ownership">State ownership</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.15em;"><a href="/wiki/To_each_according_to_his_contribution" title="To each according to his contribution">To each according<br />to his contribution</a>/<a href="/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs" title="From each according to his ability, to each according to his needs">needs</a></div></li>
+<li><a href="/wiki/Workplace_democracy" title="Workplace democracy">Workplace democracy</a></li>
+<li><a href="/wiki/Workers%27_self-management" title="Workers&#39; self-management">Workers' self-management</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;">Models</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em;"><b><a href="/wiki/Decentralized_planning_(economics)" title="Decentralized planning (economics)">Decentralized planning</a></b><br /><a href="/wiki/Participatory_economics" title="Participatory economics">Participatory economics</a></div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em;"><b><a href="/wiki/Market_socialism" title="Market socialism">Market socialism</a></b> <div class="hlist hlist-separated"><ul><li><a href="/wiki/Lange_model" title="Lange model">Lange model</a></li><li><a href="/wiki/Mutualism_(economic_theory)" title="Mutualism (economic theory)">Mutualism</a></li></ul></div></div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em;"><b><a href="/wiki/Planned_economy" title="Planned economy">Planned economy</a></b><br /><div class="hlist hlist-separated"><ul><li><a href="/wiki/Soviet-type_economic_planning" title="Soviet-type economic planning">Soviet-type</a></li><li><a href="/wiki/OGAS" title="OGAS">OGAS</a></li></ul></div> <a href="/wiki/Project_Cybersyn" title="Project Cybersyn">Project Cybersyn</a></div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em;"><b><a href="/wiki/Socialist_market_economy" title="Socialist market economy">Socialist market economy</a></b><br /><a href="/wiki/Socialist-oriented_market_economy" title="Socialist-oriented market economy">Socialist-oriented market</a></div></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;"><a href="/wiki/Types_of_socialism" title="Types of socialism">Variants</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"><div class="hlist">
+<ul><li><a href="/wiki/Socialism_of_the_21st_century" title="Socialism of the 21st century">21st-century</a></li>
+<li><a href="/wiki/African_socialism" title="African socialism">African</a></li>
+<li><a href="/wiki/Arab_socialism" title="Arab socialism">Arab</a></li>
+<li><a href="/wiki/Agrarian_socialism" title="Agrarian socialism">Agrarian</a></li>
+<li><a href="/wiki/Social_anarchism" title="Social anarchism">Anarchist</a></li>
+<li><a href="/wiki/Authoritarian_socialism" title="Authoritarian socialism">Authoritarian</a></li>
+<li><a href="/wiki/Blanquism" title="Blanquism">Blanquism</a></li>
+<li><a href="/wiki/Communism" title="Communism">Communism</a></li>
+<li><a href="/wiki/Paternalistic_conservatism" title="Paternalistic conservatism">Conservative</a></li>
+<li><a href="/wiki/Democratic_socialism" title="Democratic socialism">Democratic</a></li>
+<li><a href="/wiki/Ethical_socialism" title="Ethical socialism">Ethical</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Ecological</a></li>
+<li><a href="/wiki/Socialist_feminism" title="Socialist feminism">Feminist</a></li>
+<li><a href="/wiki/Gandhian_socialism" title="Gandhian socialism">Gandhian</a></li>
+<li><a href="/wiki/Guild_socialism" title="Guild socialism">Guild</a></li>
+<li><a href="/wiki/Liberal_socialism" title="Liberal socialism">Liberal</a></li>
+<li><a href="/wiki/Libertarian_socialism" title="Libertarian socialism">Libertarian</a></li>
+<li><a href="/wiki/Market_socialism" title="Market socialism">Market</a></li>
+<li><a href="/wiki/Marhaenism" title="Marhaenism">Marhaenism</a></li>
+<li><a href="/wiki/Marxism" title="Marxism">Marxism</a></li>
+<li><a href="/wiki/Municipal_socialism" title="Municipal socialism">Municipal</a></li>
+<li><a href="/wiki/Owenism" title="Owenism">Owenism</a></li>
+<li><a href="/wiki/Reformism" title="Reformism">Reformism</a></li>
+<li><a href="/wiki/Religious_socialism" title="Religious socialism">Religious</a></li>
+<li><a href="/wiki/Revolutionary_socialism" title="Revolutionary socialism">Revolutionary</a></li>
+<li><a href="/wiki/Ricardian_socialism" title="Ricardian socialism">Ricardian</a></li>
+<li><a href="/wiki/Scientific_socialism" title="Scientific socialism">Scientific</a></li>
+<li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li>
+<li><a href="/wiki/Left-wing_nationalism" title="Left-wing nationalism">Socialist nationalism</a></li>
+<li><a href="/wiki/State_socialism" title="State socialism">State</a></li>
+<li><a href="/wiki/Syndicalism" title="Syndicalism">Syndicalism</a></li>
+<li><a href="/wiki/Technocracy" title="Technocracy">Technocracy</a></li>
+<li><a href="/wiki/Third_World_Socialism" title="Third World Socialism">Third World</a></li>
+<li><a href="/wiki/Utopian_socialism" title="Utopian socialism">Utopian</a></li>
+<li><a href="/wiki/Labor_Zionism" title="Labor Zionism">Zionist</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;">History by country</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"><div class="hlist">
+<ul><li><a href="/wiki/Socialism_in_Australia" title="Socialism in Australia">Australia</a></li>
+<li><a href="/wiki/Socialism_in_Bangladesh" class="mw-redirect" title="Socialism in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/History_of_the_socialist_movement_in_Brazil" title="History of the socialist movement in Brazil">Brazil</a></li>
+<li><a href="/wiki/History_of_the_socialist_movement_in_Canada" class="mw-redirect" title="History of the socialist movement in Canada">Canada</a></li>
+<li><a href="/wiki/Ideology_of_the_Communist_Party_of_China" title="Ideology of the Communist Party of China">China</a></li>
+<li><a href="/wiki/Socialism_in_Estonia" title="Socialism in Estonia">Estonia</a></li>
+<li><a href="/wiki/Socialism_in_France" class="mw-redirect" title="Socialism in France">France</a></li>
+<li><a href="/wiki/Socialism_in_Hong_Kong" title="Socialism in Hong Kong">Hong Kong</a></li>
+<li><a href="/wiki/Socialism_in_India" title="Socialism in India">India</a></li>
+<li><a href="/wiki/Socialism_in_Iran" title="Socialism in Iran">Iran</a></li>
+<li><a href="/wiki/Socialism_in_the_Netherlands" title="Socialism in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Socialism_in_New_Zealand" title="Socialism in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Socialism_in_Pakistan" title="Socialism in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Socialism_in_South_Korea" class="mw-redirect" title="Socialism in South Korea">South Korea</a></li>
+<li><a href="/wiki/Socialism_in_Tunisia" title="Socialism in Tunisia">Tunisia</a></li>
+<li><a href="/wiki/History_of_the_socialist_movement_in_the_United_Kingdom" title="History of the socialist movement in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/History_of_the_socialist_movement_in_the_United_States" title="History of the socialist movement in the United States">United States</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;">People</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"><div class="hlist">
+<ul><li><a href="/wiki/Thomas_More" title="Thomas More">Thomas More</a></li>
+<li><a href="/wiki/Henri_de_Saint-Simon" title="Henri de Saint-Simon">Henri de Saint-Simon</a></li>
+<li><a href="/wiki/Fran%C3%A7ois-No%C3%ABl_Babeuf" title="François-Noël Babeuf">François-Noël Babeuf</a></li>
+<li><a href="/wiki/Charles_Hall_(economist)" title="Charles Hall (economist)">Charles Hall</a></li>
+<li><a href="/wiki/Robert_Owen" title="Robert Owen">Robert Owen</a></li>
+<li><a href="/wiki/Charles_Fourier" title="Charles Fourier">Charles Fourier</a></li>
+<li><a href="/wiki/William_Thompson_(philosopher)" title="William Thompson (philosopher)">William Thompson</a></li>
+<li><a href="/wiki/Thomas_Hodgskin" title="Thomas Hodgskin">Thomas Hodgskin</a></li>
+<li><a href="/wiki/%C3%89tienne_Cabet" title="Étienne Cabet">Étienne Cabet</a></li>
+<li><a href="/wiki/Pierre-Joseph_Proudhon" title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a></li>
+<li><a href="/wiki/Louis_Blanc" title="Louis Blanc">Louis Blanc</a></li>
+<li><a href="/wiki/Mikhail_Bakunin" title="Mikhail Bakunin">Mikhail Bakunin</a></li>
+<li><a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a></li>
+<li><a href="/wiki/Friedrich_Engels" title="Friedrich Engels">Friedrich Engels</a></li>
+<li><a href="/wiki/Ferdinand_Lassalle" title="Ferdinand Lassalle">Ferdinand Lassalle</a></li>
+<li><a href="/wiki/William_Morris" title="William Morris">William Morris</a></li>
+<li><a href="/wiki/Mary_Harris_Jones" title="Mary Harris Jones">Mary Harris Jones</a></li>
+<li><a href="/wiki/Peter_Kropotkin" title="Peter Kropotkin">Peter Kropotkin</a></li>
+<li><a href="/wiki/Eduard_Bernstein" title="Eduard Bernstein">Eduard Bernstein</a></li>
+<li><a href="/wiki/Errico_Malatesta" title="Errico Malatesta">Errico Malatesta</a></li>
+<li><a href="/wiki/Fred_M._Taylor" title="Fred M. Taylor">Fred M. Taylor</a></li>
+<li><a href="/wiki/Georgi_Plekhanov" title="Georgi Plekhanov">Georgi Plekhanov</a></li>
+<li><a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a></li>
+<li><a href="/wiki/Enrico_Barone" title="Enrico Barone">Enrico Barone</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois" title="W. E. B. Du Bois">W. E. B. Du Bois</a></li>
+<li><a href="/wiki/Emma_Goldman" title="Emma Goldman">Emma Goldman</a></li>
+<li><a href="/wiki/Rosa_Luxemburg" title="Rosa Luxemburg">Rosa Luxemburg</a></li>
+<li><a href="/wiki/L%C3%A9on_Blum" title="Léon Blum">Léon Blum</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Antonie_Pannekoek" title="Antonie Pannekoek">Antonie Pannekoek</a></li>
+<li><a href="/wiki/Luis_Emilio_Recabarren" title="Luis Emilio Recabarren">Luis Emilio Recabarren</a></li>
+<li><a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a></li>
+<li><a href="/wiki/Leon_Trotsky" title="Leon Trotsky">Leon Trotsky</a></li>
+<li><a href="/wiki/Helen_Keller" title="Helen Keller">Helen Keller</a></li>
+<li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></li>
+<li><a href="/wiki/Karl_Polanyi" title="Karl Polanyi">Karl Polanyi</a></li>
+<li><a href="/wiki/Nestor_Makhno" title="Nestor Makhno">Nestor Makhno</a></li>
+<li><a href="/wiki/G._D._H._Cole" title="G. D. H. Cole">G. D. H. Cole</a></li>
+<li><a href="/wiki/Imre_Nagy" title="Imre Nagy">Imre Nagy</a></li>
+<li><a href="/wiki/Einar_Gerhardsen" title="Einar Gerhardsen">Einar Gerhardsen</a></li>
+<li><a href="/wiki/George_Orwell" title="George Orwell">George Orwell</a></li>
+<li><a href="/wiki/Tommy_Douglas" title="Tommy Douglas">Tommy Douglas</a></li>
+<li><a href="/wiki/L%C3%A9opold_S%C3%A9dar_Senghor" title="Léopold Sédar Senghor">Léopold Sédar Senghor</a></li>
+<li><a href="/wiki/Tage_Erlander" title="Tage Erlander">Tage Erlander</a></li>
+<li><a href="/wiki/Salvador_Allende" title="Salvador Allende">Salvador Allende</a></li>
+<li><a href="/wiki/Bruno_Kreisky" title="Bruno Kreisky">Bruno Kreisky</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Mitterrand" title="François Mitterrand">François Mitterrand</a></li>
+<li><a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a></li>
+<li><a href="/wiki/Nelson_Mandela" title="Nelson Mandela">Nelson Mandela</a></li>
+<li><a href="/wiki/Murray_Bookchin" title="Murray Bookchin">Murray Bookchin</a></li>
+<li><a href="/wiki/Alexander_Dub%C4%8Dek" title="Alexander Dubček">Alexander Dubček</a></li>
+<li><a href="/wiki/Howard_Zinn" title="Howard Zinn">Howard Zinn</a></li>
+<li><a href="/wiki/E._P._Thompson" title="E. P. Thompson">E. P. Thompson</a></li>
+<li><a href="/wiki/Michael_Manley" title="Michael Manley">Michael Manley</a></li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a></li>
+<li><a href="/wiki/Martin_Luther_King_Jr." title="Martin Luther King Jr.">Martin Luther King Jr.</a></li>
+<li><a href="/wiki/Mikhail_Gorbachev" title="Mikhail Gorbachev">Mikhail Gorbachev</a></li>
+<li><a href="/wiki/Jack_Layton" title="Jack Layton">Jack Layton</a></li>
+<li><a href="/wiki/Bernie_Sanders" title="Bernie Sanders">Bernie Sanders</a></li>
+<li><a href="/wiki/Tariq_Ali" title="Tariq Ali">Tariq Ali</a></li>
+<li><a href="/wiki/Abdullah_%C3%96calan" title="Abdullah Öcalan">Abdullah Öcalan</a></li>
+<li><a href="/wiki/Slavoj_%C5%BDi%C5%BEek" title="Slavoj Žižek">Slavoj Žižek</a></li>
+<li><a href="/wiki/Jeremy_Corbyn" title="Jeremy Corbyn">Jeremy Corbyn</a></li>
+<li><a href="/wiki/Cornel_West" title="Cornel West">Cornel West</a></li>
+<li><a href="/wiki/Hugo_Ch%C3%A1vez" title="Hugo Chávez">Hugo Chávez</a></li>
+<li><a href="/wiki/Chris_Hedges" title="Chris Hedges">Chris Hedges</a></li>
+<li><a href="/wiki/Yanis_Varoufakis" title="Yanis Varoufakis">Yanis Varoufakis</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;">Organizations</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.1em;"><a href="/wiki/International_Workingmen%27s_Association" title="International Workingmen&#39;s Association">First International<br /><span style="font-size:90%;">(International Workingmen's Association)</span></a></div></li>
+<li><a href="/wiki/Second_International" title="Second International">Second International</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.1em;"><a href="/wiki/Communist_International" title="Communist International">Third International<br /><span style="font-size:90%;">(Comintern)</span></a></div></li>
+<li><a href="/wiki/Fourth_International" title="Fourth International">Fourth International</a></li>
+<li><a href="/wiki/Fifth_International" title="Fifth International">Fifth International</a></li>
+<li><a href="/wiki/Labour_and_Socialist_International" title="Labour and Socialist International">Labour and Socialist International</a></li>
+<li><a href="/wiki/Socialist_International" title="Socialist International">Socialist International</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/World_Federation_of_Democratic_Youth" title="World Federation of Democratic Youth">World Federation of<br />Democratic Youth</a></div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/International_Union_of_Socialist_Youth" title="International Union of Socialist Youth">International Union of<br />Socialist Youth</a></div></li>
+<li><a href="/wiki/World_Socialist_Movement" title="World Socialist Movement">World Socialist Movement</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/International_Committee_of_the_Fourth_International" title="International Committee of the Fourth International">International Committee<br />of the Fourth International</a></div></li>
+<li><a href="/wiki/Progressive_Alliance" title="Progressive Alliance">Progressive Alliance</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;padding-bottom:0;text-align:center;">Related topics</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"><div class="hlist">
+<ul><li><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li>
+<li><a href="/wiki/Communist_society" title="Communist society">Communist society</a></li>
+<li><a href="/wiki/Criticism_of_capitalism" title="Criticism of capitalism">Criticism of capitalism</a></li>
+<li><a href="/wiki/Economic_system" title="Economic system">Economic system</a></li>
+<li><a href="/wiki/French_Left" title="French Left">French Left</a></li>
+<li><a href="/wiki/List_of_socialist_economists" title="List of socialist economists">List of socialist economists</a></li>
+<li><a href="/wiki/Nanosocialism" title="Nanosocialism">Nanosocialism</a></li>
+<li><a href="/wiki/Progressivism" title="Progressivism">Progressivism</a></li>
+<li><a href="/wiki/Right-wing_socialism" class="mw-redirect" title="Right-wing socialism">Right-wing socialism</a></li>
+<li><a href="/wiki/Socialism_and_LGBT_rights" title="Socialism and LGBT rights">Socialism and LGBT rights</a></li>
+<li><a href="/wiki/Socialist_bloc" class="mw-redirect" title="Socialist bloc">Socialist bloc</a></li>
+<li><a href="/wiki/Socialist_Party" title="Socialist Party">Socialist Party</a></li>
+<li><a href="/wiki/Socialist_state" title="Socialist state">Socialist state</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;font-weight:normal;">
+<ul><li><b><a href="/wiki/Portal:Socialism" title="Portal:Socialism">Socialism portal</a></b></li>
+<li><a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Economics portal</a></li>
+<li><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Socialism_sidebar" title="Template:Socialism sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Socialism_sidebar" title="Template talk:Socialism sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Socialism_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Left</b> is an <a href="/wiki/Anti-capitalist" class="mw-redirect" title="Anti-capitalist">anti-capitalist</a> and <a href="/wiki/Eco-socialist" class="mw-redirect" title="Eco-socialist">eco-socialist</a> grouping within the <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a>. It seeks to constitute a network for "socialists and other radicals" in the Green Party, as well as "act[ing] as an outreach body that will communicate the party's radical policies to other socialists and anti-capitalists outside the party." It includes some prominent members of the Green Party of England and Wales, and held its first meeting on 4 June 2006.<sup id="cite_ref-GLSite_1-0" class="reference"><a href="#cite_note-GLSite-1">&#91;1&#93;</a></sup> Green Left members were early supporters of an "ecosocialist international", such as the Ecosocialist International Network (EIN).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Formation"><span class="tocnumber">1</span> <span class="toctext">Formation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Aims_and_Beliefs"><span class="tocnumber">2</span> <span class="toctext">Aims and Beliefs</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#The_Headcorn_Declaration"><span class="tocnumber">3</span> <span class="toctext">The Headcorn Declaration</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Formation">Formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=edit&amp;section=1" title="Edit section: Formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Green Left was launched on 4 June 2006 by members of the Green Party of England and Wales. Those who supported the group included various members of the Green Party of England and Wales Executive, including Richard Mallender (Chair), Peter Cranie (elections co-ordinator)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2012)">citation needed</span></a></i>&#93;</sup> and <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a> (at that time one of the two <a href="/wiki/Principal_speaker" class="mw-redirect" title="Principal speaker">principal speakers</a>, and campaigns coordinator), as well as Penny Kemp (former party chair), Joseph Healy (Secretary, London Green Party), <a href="/wiki/Derek_Wall" title="Derek Wall">Derek Wall</a> (writer, and at that time the other principal speaker) and <a href="/wiki/Peter_Tatchell" title="Peter Tatchell">Peter Tatchell</a> (human rights activist). Cllr Sarah Farrow and Cllr Matt Sellwood were elected as the co-conveners of the new group.<sup id="cite_ref-GLSite_1-1" class="reference"><a href="#cite_note-GLSite-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Aims_and_Beliefs">Aims and Beliefs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=edit&amp;section=2" title="Edit section: Aims and Beliefs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Green Left formulated its beliefs, agreed on at the meeting, in the <a href="/wiki/Headcorn" title="Headcorn">Headcorn</a> Declaration (<a href="#The_Headcorn_Declaration">below</a>), which stated that Green Left hopes "to raise Green Party politics to meet the demands of its radical policies". The statement criticised the "<a href="/wiki/New_Labour" title="New Labour">New Labour</a> government's abandonment of the policies of the left" and claimed  "that the Green Party's progressive agenda makes it the natural home for the <a href="/wiki/Left-wing_politics" title="Left-wing politics">left</a>".<sup id="cite_ref-GLSite_1-2" class="reference"><a href="#cite_note-GLSite-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="The_Headcorn_Declaration">The Headcorn Declaration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=edit&amp;section=3" title="Edit section: The Headcorn Declaration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In June 2006, 36 members of the Green Party agreed to the core beliefs and policies of the Headcorn declaration which became a launch statement of the Green left. The launch statement included the following points:<sup id="cite_ref-GLSite_1-3" class="reference"><a href="#cite_note-GLSite-1">&#91;1&#93;</a></sup>
+</p>
+<ul><li>Green Left is <a href="/wiki/Criticism_of_capitalism" title="Criticism of capitalism">critical of capitalism</a>, and sees capitalism as incompatible with ideals like <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>, <a href="/wiki/Peace" title="Peace">peace</a> and <a href="/wiki/Social_justice" title="Social justice">social justice</a>. As such it places itself in the tradition of <a href="/wiki/William_Morris" title="William Morris">William Morris</a>, the British ecosocialist who operated within the <a href="/wiki/Marxist" class="mw-redirect" title="Marxist">Marxist</a> <a href="/wiki/Social_Democratic_Federation" title="Social Democratic Federation">Social Democratic Federation</a> and <a href="/wiki/Socialist_League_(UK,_1885)" title="Socialist League (UK, 1885)">Socialist League</a>.</li>
+<li>It seeks to unite all <a href="/wiki/Socialist" class="mw-redirect" title="Socialist">socialists</a>, <a href="/wiki/Anti-capitalist" class="mw-redirect" title="Anti-capitalist">anti-capitalists</a> and <a href="/wiki/Political_radicalism" title="Political radicalism">radicals</a>, in and outside of the Green Party.</li>
+<li>It welcomes and wishes to continue the <a href="/wiki/Grassroots_democracy" title="Grassroots democracy">grassroots democracy</a> within the Green Party of England and Wales, which should remain a "bottom-up" organisation.</li>
+<li>Green Left wants to apply the slogan <i><a href="/wiki/Think_global,_act_local" class="mw-redirect" title="Think global, act local">think global, act local</a></i> to its own party, by increasing international contacts, while also seeking to create local coalitions, made up of various groups such as <a href="/wiki/Trade_unions" class="mw-redirect" title="Trade unions">trade unions</a>, <a href="/wiki/Faith-based_communities" class="mw-redirect" title="Faith-based communities">faith-based communities</a> and other <a href="/wiki/Minority_group" title="Minority group">minority groups</a>.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Alliance_for_Green_Socialism" title="Alliance for Green Socialism">Alliance for Green Socialism</a></li>
+<li><a href="/wiki/British_Left" title="British Left">British Left</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/List_of_political_parties_in_the_United_Kingdom_opposed_to_austerity" class="mw-redirect" title="List of political parties in the United Kingdom opposed to austerity">List of political parties in the United Kingdom opposed to austerity</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-GLSite-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-GLSite_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GLSite_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GLSite_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GLSite_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thegreenleft.co.uk/history.html">"Launch Statement of Green Left"</a>. <i>Green Left</i>. 4 June 2006. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150519182648/http://www.thegreenleft.co.uk/history.html">Archived</a> from the original on 19 May 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Launch+Statement+of+Green+Left&amp;rft.pub=%27%27Green+Left%27%27&amp;rft.date=2006-06-04&amp;rft_id=http%3A%2F%2Fwww.thegreenleft.co.uk%2Fhistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Left+%28UK%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Kovel, Joel; Löwy, Michael (September 2001). <a rel="nofollow" class="external text" href="http://www.thegreenleft.co.uk/the-first-ecosocialist-manifesto.html">"The First Ecosocialist Manifesto"</a>. Paris<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+First+Ecosocialist+Manifesto&amp;rft.place=Paris&amp;rft.date=2001-09&amp;rft.aulast=Kovel&amp;rft.aufirst=Joel&amp;rft.au=L%C3%B6wy%2C+Michael&amp;rft_id=http%3A%2F%2Fwww.thegreenleft.co.uk%2Fthe-first-ecosocialist-manifesto.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Left+%28UK%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.thegreenleft.co.uk/">Homepage for <i>Green Left</i></a></span></span>
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_England_and_Wales" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPEW" title="Template:GPEW"><abbr title="View this template" style="background: #6AB023; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPEW" title="Template talk:GPEW"><abbr title="Discuss this template" style="background: #6AB023; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPEW&amp;action=edit"><abbr title="Edit this template" style="background: #6AB023; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_England_and_Wales" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales"><span style="color:white">Green Party of England and Wales</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white;"><div id="Leadership" style="font-size:114%;margin:0 4em"><a href="/wiki/Leader_of_the_Green_Party_of_England_and_Wales" title="Leader of the Green Party of England and Wales"><span style="color:white">Leadership</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Leader</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> (2008–12)</li>
+<li><a href="/wiki/Natalie_Bennett" title="Natalie Bennett">Natalie Bennett</a> (2012–16)</li>
+<li><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> / <a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> (2016–18)</li>
+<li><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> / <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a> (since 2018)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Deputy Leader</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adrian_Ramsay" title="Adrian Ramsay">Adrian Ramsay</a> (2008–12)</li>
+<li><a href="/wiki/Will_Duckworth" title="Will Duckworth">Will Duckworth</a> (2012–14)</li>
+<li><a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a> / <a href="/wiki/Shahrar_Ali" title="Shahrar Ali">Shahrar Ali</a> (2014–16)</li>
+<li><a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a> (since 2016)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2008" title="Green Party of England and Wales leadership election, 2008">2008</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2010" title="Green Party of England and Wales leadership election, 2010">2010</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2012" title="Green Party of England and Wales leadership election, 2012">2012</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2014" title="Green Party of England and Wales leadership election, 2014">2014</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2016" title="Green Party of England and Wales leadership election, 2016">2016</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2018" title="Green Party of England and Wales leadership election, 2018">2018</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Principal_Speaker" class="mw-redirect" title="Principal Speaker"><span style="color:white">Principal Speakers</span></a><br /><span style="font-size:85%;">(abolished in 2008)</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">1991–92</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sara_Parkin" title="Sara Parkin">Sara Parkin</a></li>
+<li>Jim Berreen</li>
+<li><a href="/wiki/Andrew_Simms" title="Andrew Simms">Andrew Simms</a></li>
+<li><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a></li>
+<li>David Spaven</li>
+<li><a href="/wiki/Derek_Wall" title="Derek Wall">Derek Wall</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">1992–2008</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Female</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a> (1992–93)</span></li>
+<li><span class="nowrap"><a href="/wiki/Jan_Clark" title="Jan Clark">Jan Clark</a> (1993–95)</span></li>
+<li><span class="nowrap"><a href="/wiki/Peg_Alexander" title="Peg Alexander">Peg Alexander</a> (1995–97)</span></li>
+<li><span class="nowrap"><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a> (1998–99)</span></li>
+<li><span class="nowrap"><a href="/wiki/Margaret_Wright_(British_politician)" title="Margaret Wright (British politician)">Margaret Wright</a> (1999–2003)</span></li>
+<li><span class="nowrap"><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> (2003–06)</span></li>
+<li><span class="nowrap"><a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a> (2006–07)</span></li>
+<li><span class="nowrap"><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> (2007–08)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Male</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Richard_Lawson_(Green_politician)" title="Richard Lawson (Green politician)">Richard Lawson</a> (Feb–Sep 1992)</span></li>
+<li><span class="nowrap"><a href="/wiki/Mallen_Baker" title="Mallen Baker">Mallen Baker</a> (1992–93)</span></li>
+<li><span class="nowrap"><a href="/w/index.php?title=John_Cornford_(Green_politician)&amp;action=edit&amp;redlink=1" class="new" title="John Cornford (Green politician) (page does not exist)">John Cornford</a> (1993–94)</span></li>
+<li><span class="nowrap"><a href="/wiki/David_Taylor_(Green_politician)" title="David Taylor (Green politician)">David Taylor</a> (1994–97)</span></li>
+<li><span class="nowrap"><a href="/wiki/Mike_Woodin" title="Mike Woodin">Mike Woodin</a> (1997–2001)</span></li>
+<li><span class="nowrap"><a href="/wiki/Darren_Johnson" title="Darren Johnson">Darren Johnson</a> (2001–03)</span></li>
+<li><span class="nowrap"><a href="/wiki/Mike_Woodin" title="Mike Woodin">Mike Woodin</a> (2003–04)</span></li>
+<li><span class="nowrap"><a href="/wiki/Keith_Taylor_(British_politician)" title="Keith Taylor (British politician)">Keith Taylor</a> (2004–06)</span></li>
+<li><span class="nowrap"><a href="/wiki/Derek_Wall" title="Derek Wall">Derek Wall</a> (2006–08)</span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white;"><div id="Political_representation" style="font-size:114%;margin:0 4em">Political representation</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="British_Parliament" scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom"><span style="color:white">British Parliament</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/House_of_Commons_of_the_United_Kingdom" title="House of Commons of the United Kingdom"><span style="color:white">House of Commons</span></a> <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament"><span style="color:white">(MPs)</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/House_of_Lords" title="House of Lords"><span style="color:white">House of Lords</span></a> <a href="/wiki/Members_of_the_House_of_Lords" title="Members of the House of Lords"><span style="color:white">(Peers)</span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jenny_Jones,_Baroness_Jones_of_Moulsecoomb" title="Jenny Jones, Baroness Jones of Moulsecoomb">Jenny Jones</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/European_Parliament" title="European Parliament"><span style="color:white">European Parliament</span></a> <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament"><span style="color:white">(MEPs)</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a></li>
+<li><a href="/wiki/Molly_Scott_Cato" title="Molly Scott Cato">Molly Scott Cato</a></li>
+<li><a href="/wiki/Keith_Taylor_(British_politician)" title="Keith Taylor (British politician)">Keith Taylor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Devolution_in_the_United_Kingdom" title="Devolution in the United Kingdom"><span style="color:white">Devolved chambers</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/London_Assembly" title="London Assembly"><span style="color:white">London Assembly</span></a> <span style="color:white">(AMs)</span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a></li>
+<li><a href="/wiki/Caroline_Russell" title="Caroline Russell">Caroline Russell</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white;"><div id="Organisation" style="font-size:114%;margin:0 4em">Organisation</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">History</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_England_and_Wales" title="History of the Green Party of England and Wales">History</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_election_results" title="Green Party of England and Wales election results">Election results</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Predecessor parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PEOPLE_Party" title="PEOPLE Party">PEOPLE Party</a> (1973–75)</li>
+<li><a href="/wiki/Ecology_Party" title="Ecology Party">Ecology Party</a> (1975–85)</li>
+<li><a href="/wiki/Green_Party_(UK)" title="Green Party (UK)">Green Party of Great Britain</a> (1985–90)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Sister parties</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Green Party in Northern Ireland</a> (now part of the Irish <a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Green Party</a>)</li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scottish Green Party</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Movements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_2000" title="Green 2000">Green 2000</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Green_Party_of_England_and_Wales#Organisation" title="Green Party of England and Wales"><span style="color:white">Organisation</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales#Executive" title="Green Party of England and Wales">Executive</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales#Regional_Council" title="Green Party of England and Wales">Regional Council</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales#Conferences" title="Green Party of England and Wales">Conferences</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales#Constitution" title="Green Party of England and Wales">Constitution</a></li>
+<li><a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales Green Party</a></li>
+<li><a href="/wiki/Young_Greens_of_England_and_Wales" title="Young Greens of England and Wales">Young Greens</a></li>
+<li><a class="mw-selflink selflink">Green Left</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Green_Party_of_England_and_Wales#Policy" title="Green Party of England and Wales"><span style="color:white">Party platform</span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Policies_for_a_Sustainable_Society" class="mw-redirect" title="Policies for a Sustainable Society">Policies for a Sustainable Society</a></i></li>
+<li><i><a href="/wiki/Real_progress" title="Real progress">Real progress</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">International affiliations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Greens%E2%80%93European_Free_Alliance" title="Greens–European Free Alliance">Greens–European Free Alliance</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #6AB023; color: white"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Green_Party_of_England_and_Wales" title="Category:Green Party of England and Wales"><span style="color:white">Category</span></a></b></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2230
+Cached time: 20180929135546
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.328 seconds
+Real time usage: 0.424 seconds
+Preprocessor visited node count: 1790/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 182023/2097152 bytes
+Template argument size: 22838/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5990/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 3.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  295.820      1 -total
+ 22.74%   67.256      1 Template:GPEW
+ 22.10%   65.379      1 Template:Reflist
+ 21.29%   62.974      1 Template:Navbox_with_collapsible_groups
+ 20.04%   59.286      2 Template:Sidebar_with_collapsible_lists
+ 19.56%   57.864      2 Template:Cite_web
+ 14.42%   42.652      8 Template:Navbox
+ 13.74%   40.639      1 Template:Citation_needed
+ 12.24%   36.200      1 Template:Fix
+ 12.03%   35.600      1 Template:Official_website
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5883018-0!canonical and timestamp 20180929135545 and revision id 851635329
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Left_(UK)&amp;oldid=851635329">https://en.wikipedia.org/w/index.php?title=Green_Left_(UK)&amp;oldid=851635329</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anti-capitalist_organizations" title="Category:Anti-capitalist organizations">Anti-capitalist organizations</a></li><li><a href="/wiki/Category:Ecosocialist_parties" title="Category:Ecosocialist parties">Ecosocialist parties</a></li><li><a href="/wiki/Category:History_of_the_Green_Party_of_England_and_Wales" title="Category:History of the Green Party of England and Wales">History of the Green Party of England and Wales</a></li><li><a href="/wiki/Category:Political_party_factions_in_the_United_Kingdom" title="Category:Political party factions in the United Kingdom">Political party factions in the United Kingdom</a></li><li><a href="/wiki/Category:2006_establishments_in_the_United_Kingdom" title="Category:2006 establishments in the United Kingdom">2006 establishments in the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2012" title="Category:Articles with unsourced statements from June 2012">Articles with unsourced statements from June 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Left+%28UK%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Left+%28UK%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Left_(UK)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Left_(UK)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Left_(UK)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Left_(UK)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Left_(UK)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Left_(UK)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Left_(UK)&amp;oldid=851635329" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Left_(UK)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16841000" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Left_%28UK%29&amp;id=851635329" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Left+%28UK%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Left+%28UK%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Left_(UK)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16841000#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 July 2018, at 16:17<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Left_(UK)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.424","ppvisitednodes":{"value":1790,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":182023,"limit":2097152},"templateargumentsize":{"value":22838,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5990,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  295.820      1 -total"," 22.74%   67.256      1 Template:GPEW"," 22.10%   65.379      1 Template:Reflist"," 21.29%   62.974      1 Template:Navbox_with_collapsible_groups"," 20.04%   59.286      2 Template:Sidebar_with_collapsible_lists"," 19.56%   57.864      2 Template:Cite_web"," 14.42%   42.652      8 Template:Navbox"," 13.74%   40.639      1 Template:Citation_needed"," 12.24%   36.200      1 Template:Fix"," 12.03%   35.600      1 Template:Official_website"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":3754268,"limit":52428800}},"cachereport":{"origin":"mw2230","timestamp":"20180929135546","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":513,"wgHostname":"mw2230"});});</script>
+	</body>
+</html>

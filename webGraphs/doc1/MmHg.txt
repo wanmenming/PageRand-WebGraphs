@@ -1,0 +1,382 @@
+https://en.wikipedia.org/wiki/MmHg
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Millimeter of mercury - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Millimeter_of_mercury","wgTitle":"Millimeter of mercury","wgCurRevisionId":856321887,"wgRevisionId":856321887,"wgArticleId":1294851,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Units of pressure","Mercury (element)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Millimeter_of_mercury","wgRelevantArticleId":1294851,"wgRequestId":"W8OhpQpAICsAAGY7U5gAAADU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"MmHg","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Millimeter_of_mercury","wgWikibaseItemId":"Q6859652","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Millimeter_of_mercury"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Millimeter_of_mercury"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Millimeter_of_mercury rootpage-Millimeter_of_mercury skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Millimeter of mercury</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=MmHg&amp;redirect=no" class="mw-redirect" title="MmHg">MmHg</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>A <b>millimetre of mercury</b> is a <a href="/wiki/Pressure_measurement#Liquid_column_(manometer)" title="Pressure measurement">manometric unit</a> of <a href="/wiki/Pressure" title="Pressure">pressure</a>, formerly defined as the extra pressure generated by a column of <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a> one <a href="/wiki/Millimetre" title="Millimetre">millimetre</a> high and now defined as precisely <span class="nowrap"><span style="display:none" class="sortkey">7002133322387415000♠</span>133.322<span style="margin-left:.25em;">387</span><span style="margin-left:.25em;">415</span></span> <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascals</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> It is denoted by the symbol <b>mmHg</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> or <b>mm Hg</b>.<sup id="cite_ref-AMA_MOS_3-0" class="reference"><a href="#cite_note-AMA_MOS-3">&#91;3&#93;</a></sup>
+</p><p>Although not an <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> unit, the millimetre of mercury is still routinely used in medicine, meteorology, aviation, and many other scientific fields.
+</p><p>One millimetre of mercury is approximately 1 <a href="/wiki/Torr" title="Torr">Torr</a>, which is 1/760 of standard <a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">atmospheric pressure</a> (<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="nowrap"><span style="display:none" class="sortkey">7005101325000000000♠</span>101<span style="margin-left:.25em;">325</span></span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">760</span></span> = <span class="nowrap"><span style="display:none" class="sortkey">7002133322368421053♠</span>133.322<span style="margin-left:.25em;">368</span><span style="margin-left:.25em;">421</span><span style="margin-left:.25em;">053</span></span> pascals). The two units are not exactly equal; however, the <a href="/wiki/Relative_difference" class="mw-redirect" title="Relative difference">relative difference</a> (less than <span style="white-space:nowrap">0.000<span style="margin-left:0.25em">015%</span></span>) is negligible for most practical uses.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_definition"><span class="tocnumber">1</span> <span class="toctext">History and definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Relation_to_the_torr"><span class="tocnumber">2</span> <span class="toctext">Relation to the torr</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Use_in_medicine_and_physiology"><span class="tocnumber">3</span> <span class="toctext">Use in medicine and physiology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History_and_definition">History and definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit&amp;section=1" title="Edit section: History and definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Pressure_head" title="Pressure head">pressure head</a></div>
+<p>Mercury manometers were the first accurate pressure gauges; they are less used today due to <a href="/wiki/Mercury_poisoning" title="Mercury poisoning">mercury's toxicity</a>, the mercury column's sensitivity to temperature and local gravity, and the greater convenience of other instrumentation.  They displayed the pressure difference between two fluids as a vertical difference between the mercury levels in two connected reservoirs. 
+</p><p>An actual mercury column reading may be converted to more fundamental units of pressure by multiplying the difference in height between two mercury levels by the density of mercury and the local gravitational acceleration. Because the density of mercury depends on temperature and <a href="/wiki/Gravity_of_Earth" title="Gravity of Earth">surface gravity</a>, both of which vary with local conditions, specific standard values for these two parameters were adopted. This resulted in defining a "millimetre of mercury" as the pressure exerted at the base of a column of mercury 1 millimetre high with a precise density of 13595.1 kg/m<sup>3</sup> when the acceleration due to gravity is exactly 9.80665&#160;m/s<sup>2</sup>.
+</p><p>The density 13595.1&#160;kg/m<sup>3</sup> chosen for this definition is the approximate density of mercury at 0&#160;°C (32&#160;°F), and 9.80665&#160;m/s<sup>2</sup> is <a href="/wiki/Standard_gravity" title="Standard gravity">standard gravity</a>. The use of an actual column of mercury to measure pressure normally requires correction for the density of mercury at the actual temperature and the sometimes marked variation of gravity with location, and may be further corrected to take account of the density of the measured air, water or other fluid.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Relation_to_the_torr">Relation to the torr</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit&amp;section=2" title="Edit section: Relation to the torr">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The precision of modern transducers is often insufficient to show the difference between the torr and the millimetre of mercury. The torr is about one part in seven million or <span style="white-space:nowrap">0.000<span style="margin-left:0.25em">015%</span></span> less.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Use_in_medicine_and_physiology">Use in medicine and physiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit&amp;section=3" title="Edit section: Use in medicine and physiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In medicine, pressure is still generally measured in millimetres of mercury. These measurements are in general given relative to the current atmospheric pressure: for example, a blood pressure of 120&#160;mmHg, when the current atmospheric pressure is 760&#160;mmHg, means 880&#160;mmHg relative to perfect vacuum.
+</p><p>Routine pressure measurements in medicine include:
+</p>
+<ul><li><a href="/wiki/Blood_pressure" title="Blood pressure">Blood pressure</a>, measured with a <a href="/wiki/Sphygmomanometer" title="Sphygmomanometer">sphygmomanometer</a></li>
+<li>Intraocular pressure, with a <a href="/wiki/Tonometer" class="mw-redirect" title="Tonometer">tonometer</a></li>
+<li><a href="/wiki/Cerebrospinal_fluid" title="Cerebrospinal fluid">Cerebrospinal fluid</a> pressure</li>
+<li><a href="/wiki/Intracranial_pressure" title="Intracranial pressure">Intracranial pressure</a></li>
+<li>Intramuscular pressure (<a href="/wiki/Compartment_syndrome" title="Compartment syndrome">compartment syndrome</a>)</li>
+<li><a href="/wiki/Central_venous_pressure" title="Central venous pressure">Central venous pressure</a></li>
+<li><a href="/wiki/Pulmonary_artery_catheter" title="Pulmonary artery catheter">Pulmonary artery catheterization</a></li>
+<li><a href="/wiki/Mechanical_ventilation" title="Mechanical ventilation">Mechanical ventilation</a></li></ul>
+<p>In physiology <a href="/wiki/Manometric" class="mw-redirect" title="Manometric">manometric</a> units are used to measure <a href="/wiki/Starling_equation" title="Starling equation">Starling forces</a>.
+</p>
+<table class="wikitable">
+<caption>Pressure units
+</caption>
+<tbody><tr>
+<th rowspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Pressure_Units" title="Template:Pressure Units"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pressure_Units" title="Template talk:Pressure Units"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pressure_Units&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div>
+</th>
+<th><a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pascal</a>
+</th>
+<th><a href="/wiki/Bar_(unit)" title="Bar (unit)">Bar</a>
+</th>
+<th><a href="/wiki/Technical_atmosphere" title="Technical atmosphere">Technical atmosphere</a>
+</th>
+<th><a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">Standard atmosphere</a>
+</th>
+<th><a href="/wiki/Torr" title="Torr">Torr</a>
+</th>
+<th><a href="/wiki/Pounds_per_square_inch" title="Pounds per square inch">Pounds per square inch</a>
+</th></tr>
+<tr>
+<th>(Pa)
+</th>
+<th>(bar)
+</th>
+<th>(at)
+</th>
+<th>(atm)
+</th>
+<th>(Torr)
+</th>
+<th>(lbf/in<sup>2</sup>)
+</th></tr>
+<tr style="text-align:center;">
+<th>1&#160;Pa
+</th>
+<td>≡ 1 <a href="/wiki/Newton_(unit)" title="Newton (unit)">N</a>/m<sup>2</sup>
+</td>
+<td>10<sup>−5</sup>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">6995101970000000000♠</span>1.0197<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">6994986919999999999♠</span>9.8692<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">6997750060000000000♠</span>7.5006<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−3</sup></span>
+</td>
+<td>0.000 145 037 737 730
+</td></tr>
+<tr style="text-align:center;">
+<th>1&#160;bar
+</th>
+<td>10<sup>5</sup>
+</td>
+<td>≡ 100 <a href="/wiki/Kilopascal" class="mw-redirect" title="Kilopascal">kPa</a>
+<p>≡ 10<sup>6</sup>&#160;<a href="/wiki/Dyne" title="Dyne">dyn</a>/cm<sup>2</sup>
+</p>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">7000101970000000000♠</span>1.0197</span>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">6999986920000000000♠</span>0.986<span style="margin-left:.25em;">92</span></span>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">7002750060000000000♠</span>750.06</span>
+</td>
+<td>14.503 773 773 022
+</td></tr>
+<tr style="text-align:center;">
+<th>1&#160;at
+</th>
+<td><span class="nowrap"><span style="display:none" class="sortkey">7004980665000000000♠</span>98<span style="margin-left:.25em;">066</span>.5</span>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">6999980665000000000♠</span>0.980<span style="margin-left:.25em;">665</span></span>
+</td>
+<td>≡ 1 <a href="/wiki/Kilogram-force" title="Kilogram-force">kgf</a>/cm<sup>2</sup>
+</td>
+<td>0.967 841 105 354 1
+</td>
+<td>735.559 240 1
+</td>
+<td>14.223 343 307 120 3
+</td></tr>
+<tr style="text-align:center;">
+<th>1&#160;atm
+</th>
+<td><span class="nowrap"><span style="display:none" class="sortkey">7005101325000000000♠</span>101<span style="margin-left:.25em;">325</span></span>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">7000101325000000000♠</span>1.013<span style="margin-left:.25em;">25</span></span>
+</td>
+<td><span class="nowrap"><span style="display:none" class="sortkey">7000103319999999999♠</span>1.0332</span>
+</td>
+<td>1
+</td>
+<td>760
+</td>
+<td>14.695 948 775 514 2
+</td></tr>
+<tr style="text-align:center;">
+<th>1&#160;Torr
+</th>
+<td>133.322 368 421
+</td>
+<td>0.001 333 224
+</td>
+<td>0.001 359 51
+</td>
+<td>1/760 ≈ 0.001 315 789
+</td>
+<td>1 Torr
+<p>≈ 1&#160;<a class="mw-selflink selflink">mmHg</a>
+</p>
+</td>
+<td>0.019 336 775
+</td></tr>
+<tr style="text-align:center;">
+<th>1&#160;lbf/in<sup>2</sup>
+</th>
+<td>6894.757 293 168
+</td>
+<td>0.068 947 573
+</td>
+<td>0.070 306 958
+</td>
+<td>0.068 045 964
+</td>
+<td>51.714 932 572
+</td>
+<td>≡ 1 <a href="/wiki/Pound-force" class="mw-redirect" title="Pound-force">lbf</a> /in<sup>2</sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Inch_of_mercury" title="Inch of mercury">Inch of mercury</a></li>
+<li><a href="/wiki/Inch_of_water" title="Inch of water">Inch of water</a></li>
+<li><a href="/wiki/Pound_per_square_inch" class="mw-redirect" title="Pound per square inch">Pound per square inch</a></li>
+<li><a href="/wiki/Bar_(unit)" title="Bar (unit)">Bar (unit)</a></li>
+<li><a href="/wiki/Torr" title="Torr">Torr</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>BS 350: Part 1: 1974 – Conversion factors and tables</i>. <a href="/wiki/British_Standards_Institution" class="mw-redirect" title="British Standards Institution">British Standards Institution</a>. 1974. p.&#160;49.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=BS+350%3A+Part+1%3A+1974+%E2%80%93+Conversion+factors+and+tables&amp;rft.pages=49&amp;rft.pub=British+Standards+Institution&amp;rft.date=1974&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMillimeter+of+mercury" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFInternational_Bureau_of_Weights_and_Measures2006" class="citation"><a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">International Bureau of Weights and Measures</a> (2006), <a rel="nofollow" class="external text" href="http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf"><i>The International System of Units (SI)</i></a> <span class="cs1-format">(PDF)</span> (8th ed.), p.&#160;127, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/92-822-2213-6" title="Special:BookSources/92-822-2213-6">92-822-2213-6</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170814094625/http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf">archived</a> <span class="cs1-format">(PDF)</span> from the original on 2017-08-14</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+International+System+of+Units+%28SI%29&amp;rft.pages=127&amp;rft.edition=8th&amp;rft.date=2006&amp;rft.isbn=92-822-2213-6&amp;rft.au=International+Bureau+of+Weights+and+Measures&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Futils%2Fcommon%2Fpdf%2Fsi_brochure_8_en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMillimeter+of+mercury" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-AMA_MOS-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMA_MOS_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amamanualofstyle.com/">"AMA Manual of Style Online"</a>. <a href="/wiki/American_Medical_Association" title="American Medical Association">American Medical Association</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-02-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AMA+Manual+of+Style+Online&amp;rft.pub=American+Medical+Association&amp;rft_id=http%3A%2F%2Fwww.amamanualofstyle.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMillimeter+of+mercury" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Kaye, G.W.C.; Laby, T.H. (1986). <i>Tables of Physical and Chemical Constants</i> (XV ed.). Longman. pp.&#160;22–23. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0582463548" title="Special:BookSources/0582463548">0582463548</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tables+of+Physical+and+Chemical+Constants&amp;rft.pages=22-23&amp;rft.edition=XV&amp;rft.pub=Longman&amp;rft.date=1986&amp;rft.isbn=0582463548&amp;rft.aulast=Kaye&amp;rft.aufirst=G.W.C.&amp;rft.au=Laby%2C+T.H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMillimeter+of+mercury" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.npl.co.uk/reference/faqs/pressure-units">"Pressure Units"</a>. National Physical Laboratory (NPL)<span class="reference-accessdate">. Retrieved <span class="nowrap">25 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pressure+Units&amp;rft.pub=National+Physical+Laboratory+%28NPL%29&amp;rft_id=http%3A%2F%2Fwww.npl.co.uk%2Freference%2Ffaqs%2Fpressure-units&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMillimeter+of+mercury" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20181010172511
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.227 seconds
+Preprocessor visited node count: 534/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19675/2097152 bytes
+Template argument size: 240/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12725/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  193.631      1 -total
+ 50.82%   98.402      1 Template:Reflist
+ 32.32%   62.574      2 Template:Cite_book
+ 30.01%   58.105     14 Template:Val
+ 11.74%   22.735      1 Template:Pressure_Units
+  6.42%   12.433      1 Template:See
+  5.66%   10.964      1 Template:SIbrochure8th
+  5.20%   10.062      2 Template:Cite_web
+  4.69%    9.075      1 Template:Citation
+  3.24%    6.267      1 Template:Sfrac
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1294851-0!canonical and timestamp 20181010172510 and revision id 856321887
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Millimeter_of_mercury&amp;oldid=856321887">https://en.wikipedia.org/w/index.php?title=Millimeter_of_mercury&amp;oldid=856321887</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Units_of_pressure" title="Category:Units of pressure">Units of pressure</a></li><li><a href="/wiki/Category:Mercury_(element)" title="Category:Mercury (element)">Mercury (element)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Millimeter+of+mercury" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Millimeter+of+mercury" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Millimeter_of_mercury" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Millimeter_of_mercury" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Millimeter_of_mercury">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Millimeter_of_mercury" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Millimeter_of_mercury" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Millimeter_of_mercury&amp;oldid=856321887" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Millimeter_of_mercury&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6859652" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Millimeter_of_mercury&amp;id=856321887" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Millimeter+of+mercury">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Millimeter+of+mercury&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Millimeter_of_mercury&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D9%84%D9%8A%D9%85%D8%AA%D8%B1_%D8%B2%D8%A6%D8%A8%D9%82%D9%8A" title="ميليمتر زئبقي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D1%96%D0%BB%D1%96%D0%BC%D1%8D%D1%82%D0%B0%D1%80_%D1%80%D1%82%D1%83%D1%82%D0%BD%D0%B0%D0%B3%D0%B0_%D1%81%D0%BB%D1%83%D0%BF%D0%B0" title="Мілімэтар ртутнага слупа – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B8%D0%BC%D0%B5%D1%82%D1%8A%D1%80_%D0%B6%D0%B8%D0%B2%D0%B0%D1%87%D0%B5%D0%BD_%D1%81%D1%82%D1%8A%D0%BB%D0%B1" title="Милиметър живачен стълб – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/MmHg" title="MmHg – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Millimeter_Quecksilbers%C3%A4ule" title="Millimeter Quecksilbersäule – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Mil%C3%ADmetro_de_mercurio" title="Milímetro de mercurio – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%85%D8%AA%D8%B1_%D8%AC%DB%8C%D9%88%D9%87" title="میلی‌متر جیوه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Millim%C3%A8tre_de_mercure" title="Millimètre de mercure – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Mil%C3%ADmetro_de_mercurio" title="Milímetro de mercurio – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%88%98%EC%9D%80%EC%A3%BC_%EB%B0%80%EB%A6%AC%EB%AF%B8%ED%84%B0" title="수은주 밀리미터 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8F%D5%B8%D6%80" title="Տոր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Milimetar_%C5%BEivina_stupca" title="Milimetar živina stupca – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Dz%C4%ABvsudraba_staba_milimetrs" title="Dzīvsudraba staba milimetrs – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B8%D0%BC%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%B6%D0%B8%D0%B2%D0%B8%D0%BD%D0%B8%D0%BE%D1%82_%D1%81%D1%82%D0%BE%D0%BB%D0%B1" title="Милиметар на живиниот столб – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/MmHg" title="MmHg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%8A%80%E6%9F%B1%E3%83%9F%E3%83%AA%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB" title="水銀柱ミリメートル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Millimeter_kvikks%C3%B8lv" title="Millimeter kvikksølv – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/MmHg" title="MmHg – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Mil%C3%ADmetro_de_merc%C3%BArio" title="Milímetro de mercúrio – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BC%D0%B5%D1%82%D1%80_%D1%80%D1%82%D1%83%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D0%B0" title="Миллиметр ртутного столба – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Milimeter_%C5%BEivega_srebra" title="Milimeter živega srebra – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/MmHg" title="MmHg – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/MmHg" title="MmHg – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Elohopeamillimetri" title="Elohopeamillimetri – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/MmHg" title="MmHg – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%AD%E0%B8%97" title="มิลลิเมตรปรอท – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/MmHg" title="MmHg – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BB%D1%96%D0%BC%D0%B5%D1%82%D1%80_%D1%80%D1%82%D1%83%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%82%D0%BE%D0%B2%D0%BF%D0%B0" title="Міліметр ртутного стовпа – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%AF%AB%E7%B1%B3%E6%B1%9E%E6%9F%B1" title="毫米汞柱 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%AF%AB%E7%B1%B3%E6%B1%9E%E6%9F%B1" title="毫米汞柱 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6859652#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 August 2018, at 11:52<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Millimeter_of_mercury&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.227","ppvisitednodes":{"value":534,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19675,"limit":2097152},"templateargumentsize":{"value":240,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12725,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  193.631      1 -total"," 50.82%   98.402      1 Template:Reflist"," 32.32%   62.574      2 Template:Cite_book"," 30.01%   58.105     14 Template:Val"," 11.74%   22.735      1 Template:Pressure_Units","  6.42%   12.433      1 Template:See","  5.66%   10.964      1 Template:SIbrochure8th","  5.20%   10.062      2 Template:Cite_web","  4.69%    9.075      1 Template:Citation","  3.24%    6.267      1 Template:Sfrac"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":4845466,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20181010172511","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1322"});});</script>
+	</body>
+</html>
+

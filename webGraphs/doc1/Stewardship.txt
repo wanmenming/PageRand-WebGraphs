@@ -1,0 +1,523 @@
+https://en.wikipedia.org/wiki/Stewardship
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Stewardship - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stewardship","wgTitle":"Stewardship","wgCurRevisionId":859866234,"wgRevisionId":859866234,"wgArticleId":241324,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from March 2018","Resources","Natural resource management","Applied ethics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stewardship","wgRelevantArticleId":241324,"wgRequestId":"W8HY7wpAAEQAAAzDTR4AAABW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1543547","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stewardship"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stewardship&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stewardship&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stewardship"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Stewardship rootpage-Stewardship skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Stewardship</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Stewardship</b> is an <a href="/wiki/Ethic" class="mw-redirect" title="Ethic">ethic</a> that embodies the responsible planning and management of <a href="/wiki/Resources" class="mw-redirect" title="Resources">resources</a>. The concepts of stewardship can be applied to the environment and nature,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> economics,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> health,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> property,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> information,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> theology,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> etc.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_of_the_term"><span class="tocnumber">1</span> <span class="toctext">History of the term</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Notable_organisations"><span class="tocnumber">2</span> <span class="toctext">Notable organisations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History_of_the_term">History of the term</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewardship&amp;action=edit&amp;section=1" title="Edit section: History of the term">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stewardship was originally made up of the tasks of a domestic <a href="/wiki/Steward_(office)" title="Steward (office)">steward</a>, from <a href="https://en.wiktionary.org/wiki/stig#Old_English" class="extiw" title="wikt:stig">stiġ</a> (<i>house</i>, <i>hall</i>) and <a href="https://en.wiktionary.org/wiki/weard#Old_English" class="extiw" title="wikt:weard">weard</a>, (<i>ward</i>, <i>guard</i>, <i>guardian</i>, <i>keeper</i>).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Stewardship in the beginning referred to the household servant’s duties for bringing food and drink to the castle’s dining hall. Stewardship responsibilities were eventually expanded to include everything the domestic, service and management needs of the entire household.  
+</p><p>Commercial stewardship tends to the domestic and service requirements of passengers on ships, trains, airplanes or guests in restaurants.  This concept of stewardship continues to be referenced within these specific categories.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>Stewardship is now generally recognized as the acceptance or assignment of responsibility to shepherd and safeguard the valuables of others.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Notable_organisations">Notable organisations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewardship&amp;action=edit&amp;section=2" title="Edit section: Notable organisations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Forest_Stewardship_Council" title="Forest Stewardship Council">Forest Stewardship Council</a>, since 1993</li>
+<li><a href="/wiki/Marine_Stewardship_Council" title="Marine Stewardship Council">Marine Stewardship Council</a>, since 1996</li>
+<li><a href="/wiki/Aquaculture_Stewardship_Council" title="Aquaculture Stewardship Council">Aquaculture Stewardship Council</a>, since 2010</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewardship&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Antimicrobial_stewardship" title="Antimicrobial stewardship">Antimicrobial stewardship</a></li>
+<li><a href="/wiki/Data_steward" title="Data steward">Data steward</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Environmental_stewardship" title="Environmental stewardship">Environmental stewardship</a></li>
+<li><a href="/wiki/Stockpile_stewardship" title="Stockpile stewardship">Nuclear stockpile stewardship</a></li>
+<li><a href="/wiki/Product_stewardship" title="Product stewardship">Product stewardship</a></li>
+<li><a href="/wiki/Safer_Detergents_Stewardship_Initiative" title="Safer Detergents Stewardship Initiative">Safer Detergents Stewardship Initiative</a></li>
+<li><a href="/wiki/Stewardship_(theology)" title="Stewardship (theology)">Stewardship (theology)</a></li>
+<li><a href="/wiki/Stewardship_theory" title="Stewardship theory">Stewardship theory</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewardship&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Chapin, F. Stuart III, Gary P. Kofinas, and Carl Folke (eds). 2009. <i>Principles of Ecosystem Stewardship: Resilience-Based Natural Resource Management in a Changing World</i>. Springer. <style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0387730325" title="Special:BookSources/978-0387730325">978-0387730325</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Hendee, John C. and Chad P. Dawson. 2002. <i>Wilderness Management: Stewardship and Protection of Resources and Values (3rd Edition)</i>. Fulcrum Publishing. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1555918552" title="Special:BookSources/978-1555918552">978-1555918552</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Peter Block, Peter. 2013. <i>Stewardship: Choosing Service Over Self-Interest (2nd Edition)</i>. Berrett-Koehler Publishers. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1609948221" title="Special:BookSources/978-1609948221">978-1609948221</a>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Curtis, Gregory. 2012. <i>The Stewardship of Wealth, + Website: Successful Private Wealth Management for Investors and Their Advisors</i>. Wiley. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1118321867" title="Special:BookSources/978-1118321867">978-1118321867</a>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Robinson, Joe Sam, M. Sami Walid, Aaron C. M. Barth (Editors). 2012. <i>Toward Healthcare Resource Stewardship: Health Care Issues, Costs, and Access</i>. Nova Science. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1621001829" title="Special:BookSources/978-1621001829">978-1621001829</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Meidenger, Errol E. 1998. Laws and Institutions in Cross-Boundary Stewardship. pp. 87-110 In: Knight, Richard L., and Peter Landres (Editors). <i>Stewardship Across Boundaries</i>. Island Press. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1559635158" title="Special:BookSources/978-1559635158">978-1559635158</a>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">National Academy of Sciences Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age. 2009. <i>Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age</i>. National Academies Press. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780309147828" title="Special:BookSources/9780309147828">9780309147828</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Van Dyke, Fred. 2008. <i>Conservation Biology: Foundations, Concepts, Applications (2nd Edition)</i>. Springer. pp 39-48. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1402068904" title="Special:BookSources/978-1402068904">978-1402068904</a>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://education.yahoo.com/reference/dictionary/entry/steward">American Heritage Dictionary</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140927174257/https://education.yahoo.com/reference/dictionary/entry/steward">Archived</a> 2014-09-27 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://oxforddictionaries.com/definition/steward">"steward - Definition of steward in English by Oxford Dictionaries"</a>. <i>Oxford Dictionaries - English</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+Dictionaries+-+English&amp;rft.atitle=steward+-+Definition+of+steward+in+English+by+Oxford+Dictionaries&amp;rft_id=http%3A%2F%2Foxforddictionaries.com%2Fdefinition%2Fsteward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStewardship" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<p>12. ^ Annalisa Casino. 2014. <i>Stewardship. Politiche e pratiche per una gestione etica delle risorse.</i>Aracne Editrice. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-88-548-6915-8" title="Special:BookSources/978-88-548-6915-8">978-88-548-6915-8</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewardship&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/stewardship" class="extiw" title="wiktionary:stewardship">stewardship</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://oceanservice.noaa.gov/education/planet-stewards//link_1">NOAA Planet Stewards Educational Project</a></li></ul>
+<p>The NOAA Planet Stewards Education Project (PSEP) is an example of an environmental stewardship program in the United States to advance scientific literacy especially in areas that conserve, restore, and protect human communities and natural resources in the areas of climate, ocean, and atmosphere. It includes professional teachers of students of all ages and abilities, and informal educators who work with the public in nature and science centers, aquaria, and zoos. The project began in 2008 as the NOAA Climate Stewards Project. Its name was changed to NOAA Planet Stewards Educational Project in 2016. <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;1&#93;</a></sup> 
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Ethics" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ethics" title="Template:Ethics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ethics" title="Template talk:Ethics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ethics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ethics" style="font-size:114%;margin:0 4em"><a href="/wiki/Ethics" title="Ethics">Ethics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theories</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Casuistry" title="Casuistry">Casuistry</a></li>
+<li><a href="/wiki/Consequentialism" title="Consequentialism">Consequentialism</a></li>
+<li><a href="/wiki/Deontological_ethics" title="Deontological ethics">Deontology</a>
+<ul><li><a href="/wiki/Kantian_ethics" title="Kantian ethics">Kantian ethics</a></li></ul></li>
+<li><a href="/wiki/Ethics_of_care" title="Ethics of care">Ethics of care</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialist ethics</a></li>
+<li><a href="/wiki/Meta-ethics" title="Meta-ethics">Meta-ethics</a></li>
+<li><a href="/wiki/Moral_particularism" title="Moral particularism">Particularism</a></li>
+<li><a href="/wiki/Pragmatic_ethics" title="Pragmatic ethics">Pragmatic ethics</a></li>
+<li><a href="/wiki/Role_ethics" title="Role ethics">Role ethics</a></li>
+<li><a href="/wiki/Virtue_ethics" title="Virtue ethics">Virtue ethics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomy" title="Autonomy">Autonomy</a></li>
+<li><a href="/wiki/Axiology" title="Axiology">Axiology</a></li>
+<li><a href="/wiki/Belief" title="Belief">Belief</a></li>
+<li><a href="/wiki/Conscience" title="Conscience">Conscience</a></li>
+<li><a href="/wiki/Consent" title="Consent">Consent</a></li>
+<li><a href="/wiki/Egalitarianism" title="Egalitarianism">Equality</a></li>
+<li><a href="/wiki/Ethics_of_care" title="Ethics of care">Care</a></li>
+<li><a href="/wiki/Free_will" title="Free will">Free will</a></li>
+<li><a href="/wiki/Good_and_evil" title="Good and evil">Good and evil</a></li>
+<li><a href="/wiki/Happiness" title="Happiness">Happiness</a></li>
+<li><a href="/wiki/Ideal_(ethics)" title="Ideal (ethics)">Ideal</a></li>
+<li><a href="/wiki/Immorality" title="Immorality">Immorality</a></li>
+<li><a href="/wiki/Justice" title="Justice">Justice</a></li>
+<li><a href="/wiki/Morality" title="Morality">Morality</a></li>
+<li><a href="/wiki/Norm_(philosophy)" title="Norm (philosophy)">Norm</a></li>
+<li><a href="/wiki/Political_freedom" title="Political freedom">Freedom</a></li>
+<li><a href="/wiki/Principle" title="Principle">Principles</a></li>
+<li><a href="/wiki/Suffering" title="Suffering">Suffering or Pain</a></li>
+<li><a class="mw-selflink selflink">Stewardship</a></li>
+<li><a href="/wiki/Sympathy" title="Sympathy">Sympathy</a></li>
+<li><a href="/wiki/Trust_(emotion)" title="Trust (emotion)">Trust</a></li>
+<li><a href="/wiki/Value_(ethics)" title="Value (ethics)">Value</a></li>
+<li><a href="/wiki/Virtue" title="Virtue">Virtue</a></li>
+<li><a href="/wiki/World_view" title="World view">World view</a></li>
+<li><a href="/wiki/Wrongdoing" title="Wrongdoing">Wrong</a></li>
+<li><b><a href="/wiki/Index_of_ethics_articles" title="Index of ethics articles">full index...</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Philosophers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Laozi" title="Laozi">Laozi</a></li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Diogenes" title="Diogenes">Diogenes</a></li>
+<li><a href="/wiki/Valluvar" class="mw-redirect" title="Valluvar">Valluvar</a></li>
+<li><a href="/wiki/Cicero" title="Cicero">Cicero</a></li>
+<li><a href="/wiki/Confucius" title="Confucius">Confucius</a></li>
+<li><a href="/wiki/Augustine_of_Hippo" title="Augustine of Hippo">Augustine of Hippo</a></li>
+<li><a href="/wiki/Mencius" title="Mencius">Mencius</a></li>
+<li><a href="/wiki/Mozi" title="Mozi">Mozi</a></li>
+<li><a href="/wiki/Xun_Kuang" title="Xun Kuang">Xunzi</a></li>
+<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg W. F. Hegel</a></li>
+<li><a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Arthur Schopenhauer</a></li>
+<li><a href="/wiki/Jeremy_Bentham" title="Jeremy Bentham">Jeremy Bentham</a></li>
+<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a></li>
+<li><a href="/wiki/S%C3%B8ren_Kierkegaard" title="Søren Kierkegaard">Søren Kierkegaard</a></li>
+<li><a href="/wiki/Henry_Sidgwick" title="Henry Sidgwick">Henry Sidgwick</a></li>
+<li><a href="/wiki/Friedrich_Nietzsche" title="Friedrich Nietzsche">Friedrich Nietzsche</a></li>
+<li><a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a></li>
+<li><a href="/wiki/Karl_Barth" title="Karl Barth">Karl Barth</a></li>
+<li><a href="/wiki/Paul_Tillich" title="Paul Tillich">Paul Tillich</a></li>
+<li><a href="/wiki/Dietrich_Bonhoeffer" title="Dietrich Bonhoeffer">Dietrich Bonhoeffer</a></li>
+<li><a href="/wiki/Philippa_Foot" title="Philippa Foot">Philippa Foot</a></li>
+<li><a href="/wiki/John_Rawls" title="John Rawls">John Rawls</a></li>
+<li><a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a></li>
+<li><a href="/wiki/Bernard_Williams" title="Bernard Williams">Bernard Williams</a></li>
+<li><a href="/wiki/J._L._Mackie" title="J. L. Mackie">J. L. Mackie</a></li>
+<li><a href="/wiki/G._E._M._Anscombe" title="G. E. M. Anscombe">G. E. M. Anscombe</a></li>
+<li><a href="/wiki/William_Frankena" title="William Frankena">William Frankena</a></li>
+<li><a href="/wiki/Alasdair_MacIntyre" title="Alasdair MacIntyre">Alasdair MacIntyre</a></li>
+<li><a href="/wiki/R._M._Hare" title="R. M. Hare">R. M. Hare</a></li>
+<li><a href="/wiki/Peter_Singer" title="Peter Singer">Peter Singer</a></li>
+<li><a href="/wiki/Derek_Parfit" title="Derek Parfit">Derek Parfit</a></li>
+<li><a href="/wiki/Thomas_Nagel" title="Thomas Nagel">Thomas Nagel</a></li>
+<li><a href="/wiki/Robert_Merrihew_Adams" title="Robert Merrihew Adams">Robert Merrihew Adams</a></li>
+<li><a href="/wiki/Charles_Taylor_(philosopher)" title="Charles Taylor (philosopher)">Charles Taylor</a></li>
+<li><a href="/wiki/Joxe_Azurmendi" title="Joxe Azurmendi">Joxe Azurmendi</a></li>
+<li><a href="/wiki/Christine_Korsgaard" title="Christine Korsgaard">Christine Korsgaard</a></li>
+<li><a href="/wiki/Martha_Nussbaum" title="Martha Nussbaum">Martha Nussbaum</a></li>
+<li><b><a href="/wiki/List_of_ethicists" title="List of ethicists">more...</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Applied_ethics" title="Applied ethics">Applied ethics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bioethics" title="Bioethics">Bioethics</a></li>
+<li><a href="/wiki/Business_ethics" title="Business ethics">Business ethics</a></li>
+<li><a href="/wiki/Discourse_ethics" title="Discourse ethics">Discourse ethics</a></li>
+<li><a href="/wiki/Engineering_ethics" title="Engineering ethics">Engineering ethics</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Legal_ethics" title="Legal ethics">Legal ethics</a></li>
+<li><a href="/wiki/Media_ethics" title="Media ethics">Media ethics</a></li>
+<li><a href="/wiki/Medical_ethics" title="Medical ethics">Medical ethics</a></li>
+<li><a href="/wiki/Nursing_ethics" title="Nursing ethics">Nursing ethics</a></li>
+<li><a href="/wiki/Professional_ethics" title="Professional ethics">Professional ethics</a></li>
+<li><a href="/wiki/Sexual_ethics" title="Sexual ethics">Sexual ethics</a></li>
+<li><a href="/wiki/Ethics_of_eating_meat" title="Ethics of eating meat">Ethics of eating meat</a></li>
+<li><a href="/wiki/Ethics_of_technology" title="Ethics of technology">Ethics of technology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_ethics" title="Christian ethics">Christian ethics</a></li>
+<li><a href="/wiki/Descriptive_ethics" title="Descriptive ethics">Descriptive ethics</a></li>
+<li><a href="/wiki/Ethics_in_religion" title="Ethics in religion">Ethics in religion</a></li>
+<li><a href="/wiki/Evolutionary_ethics" title="Evolutionary ethics">Evolutionary ethics</a></li>
+<li><a href="/wiki/Feminist_ethics" title="Feminist ethics">Feminist ethics</a></li>
+<li><a href="/wiki/History_of_ethics" title="History of ethics">History of ethics</a></li>
+<li><a href="/wiki/Ideology" title="Ideology">Ideology</a></li>
+<li><a href="/wiki/Islamic_ethics" title="Islamic ethics">Islamic ethics</a></li>
+<li><a href="/wiki/Jewish_ethics" title="Jewish ethics">Jewish ethics</a></li>
+<li><a href="/wiki/Normative_ethics" title="Normative ethics">Normative ethics</a></li>
+<li><a href="/wiki/Philosophy_of_law" title="Philosophy of law">Philosophy of law</a></li>
+<li><a href="/wiki/Political_philosophy" title="Political philosophy">Political philosophy</a></li>
+<li><a href="/wiki/Population_ethics" title="Population ethics">Population ethics</a></li>
+<li><a href="/wiki/Social_philosophy" title="Social philosophy">Social philosophy</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Ethics" title="Portal:Ethics">Portal</a></li>
+<li><a href="/wiki/Category:Ethics" title="Category:Ethics">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Sustainability" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a class="mw-selflink selflink">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a href="/wiki/Over-consumption" class="mw-redirect" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a href="/wiki/Human_population_control" class="mw-redirect" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Water_crisis" class="mw-redirect" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a href="/wiki/Sustainable_market" class="mw-redirect" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Conscience_and_law.jpg" class="image"><img alt="Conscience and law.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Conscience_and_law.jpg/24px-Conscience_and_law.jpg" width="24" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Conscience_and_law.jpg/36px-Conscience_and_law.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Conscience_and_law.jpg/48px-Conscience_and_law.jpg 2x" data-file-width="739" data-file-height="556" /></a></span><a href="/wiki/Portal:Ethics" title="Portal:Ethics">Ethics portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" width="24" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li></ul></div><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.noaa.gov/news/noaa-climate-stewards-is-now-noaa-planet-stewards">"NOAA Climate Stewards is now NOAA Planet Stewards - National Oceanic and Atmospheric Administration"</a>. <i>www.noaa.gov</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.noaa.gov&amp;rft.atitle=NOAA+Climate+Stewards+is+now+NOAA+Planet+Stewards+-+National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.noaa.gov%2Fnews%2Fnoaa-climate-stewards-is-now-noaa-planet-stewards&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStewardship" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20181013111835
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.387 seconds
+Preprocessor visited node count: 2349/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60034/2097152 bytes
+Template argument size: 3085/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23172/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.100/10.000 seconds
+Lua memory usage: 2.93 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.994      1 -total
+ 49.73%  155.154      1 Template:Reflist
+ 31.69%   98.861      9 Template:ISBN
+ 22.64%   70.624      2 Template:Cn
+ 17.17%   53.581      2 Template:Fix
+ 16.70%   52.094      9 Template:Catalog_lookup_link
+ 12.82%   40.002      2 Template:Cite_web
+ 10.39%   32.413      4 Template:Category_handler
+  5.95%   18.575      2 Template:Navbox
+  5.70%   17.775      2 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:241324-0!canonical and timestamp 20181013111834 and revision id 859866234
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stewardship&amp;oldid=859866234">https://en.wikipedia.org/w/index.php?title=Stewardship&amp;oldid=859866234</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Resources" title="Category:Resources">Resources</a></li><li><a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">Natural resource management</a></li><li><a href="/wiki/Category:Applied_ethics" title="Category:Applied ethics">Applied ethics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2018" title="Category:Articles with unsourced statements from March 2018">Articles with unsourced statements from March 2018</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stewardship" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stewardship" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Stewardship" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Stewardship" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Stewardship">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Stewardship&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stewardship&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stewardship" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stewardship" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stewardship&amp;oldid=859866234" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stewardship&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1543547" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stewardship&amp;id=859866234" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stewardship">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stewardship&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stewardship&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Rentamt" title="Rentamt – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rentamt" title="Rentamt – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Mayordom%C3%ADa" title="Mayordomía – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rentmeester_(beroep)" title="Rentmeester (beroep) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1543547#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 September 2018, at 20:23<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stewardship&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.387","ppvisitednodes":{"value":2349,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60034,"limit":2097152},"templateargumentsize":{"value":3085,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23172,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  311.994      1 -total"," 49.73%  155.154      1 Template:Reflist"," 31.69%   98.861      9 Template:ISBN"," 22.64%   70.624      2 Template:Cn"," 17.17%   53.581      2 Template:Fix"," 16.70%   52.094      9 Template:Catalog_lookup_link"," 12.82%   40.002      2 Template:Cite_web"," 10.39%   32.413      4 Template:Category_handler","  5.95%   18.575      2 Template:Navbox","  5.70%   17.775      2 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"10.000"},"limitreport-memusage":{"value":3070823,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20181013111835","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>
+

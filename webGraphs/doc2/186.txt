@@ -1,0 +1,357 @@
+https://en.wikipedia.org/wiki/Association_of_State_Green_Parties
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Association of State Green Parties - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Association_of_State_Green_Parties","wgTitle":"Association of State Green Parties","wgCurRevisionId":853141754,"wgRevisionId":853141754,"wgArticleId":71644,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from October 2016","All articles needing additional references","1996 establishments in the United States","Green Party of the United States","Green politics","Political organizations in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Association_of_State_Green_Parties","wgRelevantArticleId":71644,"wgRequestId":"W6@DsgrAADsAAFNz4xkAAABT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17513454","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Association_of_State_Green_Parties"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Association_of_State_Green_Parties"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Association_of_State_Green_Parties rootpage-Association_of_State_Green_Parties skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Association of State Green Parties</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(October 2016)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The <b>Association of State Green Parties</b> was an organization of state Green Parties in the United States between 1996 and 2001.  In 2001, it evolved into the <a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">Green Party of the United States</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Founding"><span class="tocnumber">1</span> <span class="toctext">Founding</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#ASGP_and_the_Greens/Green_Party_USA"><span class="tocnumber">2</span> <span class="toctext">ASGP and the Greens/Green Party USA</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Boston_Proposal"><span class="tocnumber">3</span> <span class="toctext">Boston Proposal</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#ASGP_and_Nader_2000_presidential_campaign"><span class="tocnumber">4</span> <span class="toctext">ASGP and Nader 2000 presidential campaign</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#International"><span class="tocnumber">5</span> <span class="toctext">International</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Founding">Founding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit&amp;section=1" title="Edit section: Founding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the aftermath of the first Green presidential campaign in 1996, 62 Greens from 30 states gathered over the weekend of November 16–17, 1996 to <a rel="nofollow" class="external text" href="http://www.gp.org/1996-founding-meeting">found</a> the Association of State Green Parties (ASGP). The meeting was held at the historic <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131202221831/http://www.pinkpillbox.com/glenora.htm">Glen-Ora Farm</a> in Middleburg, Virginia where <a href="/wiki/Jack_Kennedy" class="mw-redirect" title="Jack Kennedy">Jack Kennedy</a> had his weekend retreat in his administration's early days (rented to the president by the mother of ASGP meeting host and Nader supporter <a href="/w/index.php?title=Elaine_Broadhead&amp;action=edit&amp;redlink=1" class="new" title="Elaine Broadhead (page does not exist)">Elaine Broadhead</a>.)
+</p><p>Green Parties from 13 states were the founding members,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and approved an initial set of bylaws that set out the ASGP's purpose: (1) Assist in the development of State Green Parties and (2) Create a legally structured national Green Party.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The founding meeting also established a national newsletter Green Pages, which carries forward today as the newspaper of the GPUS. The founding editor was <a href="/wiki/Mike_Feinstein" title="Mike Feinstein">Mike Feinstein</a>.
+</p><p>Subsequent ASGP meetings occurred in <a rel="nofollow" class="external text" href="http://www.gp.org/1997-association-of-state-green-parties-spring-meeting">Portland</a>, OR (April 5–6, 1997), <a rel="nofollow" class="external text" href="http://www.gp.org/1997-association-of-state-green-parties">Topsham</a>, ME (October 3–5, 1997),<a rel="nofollow" class="external text" href="http://www.gp.org/1998-association-of-state-green-parties">Santa Fe</a>, NM (April 24–26, 1998), <a rel="nofollow" class="external text" href="http://www.gp.org/1999-association-of-state-green-parties">Moodus</a>, CT (June 5–6, 1999) and Hiawassee, GA (December 8–10, 2000). <a href="/wiki/Ralph_Nader" title="Ralph Nader">Ralph Nader</a> appeared in Moodus to talk about running for president the next year.
+</p><p>The concept of the ASGP came out of the 1991 national Greens Gathering in Elkins, West Virginia, where a committee was tasked with examining what an eventual Green Party might look it.  The committee produced a report with contributions from six authors, among them <a href="/w/index.php?title=Greg_Gerritt&amp;action=edit&amp;redlink=1" class="new" title="Greg Gerritt (page does not exist)">Greg Gerritt</a> from Maine. Gerritt's suggestion was for the creation of an Association of State Green Parties based on sovereign state parties, essentially as he argued, how all parties end up structured in the US.  The reaction within the GPUSA was, according to Gerritt, to throw him out of the GPUSA. But that did not kill the concept. Instead it was shared by those involved in the establishment of the <a href="/w/index.php?title=Green_Politics_Network&amp;action=edit&amp;redlink=1" class="new" title="Green Politics Network (page does not exist)">Green Politics Network</a> in 1992, and what was founded in 1996 in Middleburg very closely reflected the proposal Gerritt originally submitted.
+</p>
+<h2><span id="ASGP_and_the_Greens.2FGreen_Party_USA"></span><span class="mw-headline" id="ASGP_and_the_Greens/Green_Party_USA">ASGP and the Greens/Green Party USA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit&amp;section=2" title="Edit section: ASGP and the Greens/Green Party USA">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ASGP was predominantly focused on establishing state Green Parties and running and electing Greens for public office, even while its member state parties and the individual Greens involved remained involved in issue activism. From 1997 to 1999, as more state Green Parties continued to form, a highly competitive environment between the ASGP and the <a href="/wiki/Greens/Green_Party_USA" title="Greens/Green Party USA">Greens/Green Party USA</a> (G/GPUSA) began to develop in terms of who would affiliate with which organization, and ultimately who would become the definitive national Green Party. To some extent this divide reflected philosophical differences within U.S. Greens that went back to the late 1980s and early 1990s, around how a Green political party should be organized - based upon state parties, or upon dues-paying local Green groups.
+</p><p>In December 1999, Santa Monica, CA Green City Councilmember <a href="/wiki/Mike_Feinstein" title="Mike Feinstein">Mike Feinstein</a> and New York Green <a href="/wiki/Howie_Hawkins" title="Howie Hawkins">Howie Hawkins</a> met in New Platz, New York during the state meeting of the Green Party of New York State and crafted the '<b>Plan for a Single National Green Party</b>, which was more generally known as the Feinstein/Hawkins Proposal, meant to create a single national Green Party from among the ASGP and GPUSA by Earth Day, April 2000. The proposal found quick support within the ASGP, but not within the Greens/GPUSA in time for Earth Day.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Boston_Proposal">Boston Proposal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit&amp;section=3" title="Edit section: Boston Proposal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Instead it would be in October 2000 that the Feinstein/Hawkins proposal was revisited, negotiated further and renamed the 'Boston Proposal' or 'Boston Agreement' (so named because it was negotiated in <a href="/wiki/Boston" title="Boston">Boston</a> on October 1–2 in the days before the first 2000 presidential debate).<sup id="cite_ref-greens1_4-0" class="reference"><a href="#cite_note-greens1-4">&#91;4&#93;</a></sup>
+</p><p>The negotiators for the Association of State Green Parties were <a href="/w/index.php?title=Tony_Affigne&amp;action=edit&amp;redlink=1" class="new" title="Tony Affigne (page does not exist)">Tony Affigne</a>, <a href="/wiki/David_Cobb" title="David Cobb">David Cobb</a>, <a href="/w/index.php?title=Robert_Franklin_(activist)&amp;action=edit&amp;redlink=1" class="new" title="Robert Franklin (activist) (page does not exist)">Robert Franklin</a>, <a href="/w/index.php?title=Greg_Gerritt&amp;action=edit&amp;redlink=1" class="new" title="Greg Gerritt (page does not exist)">Greg Gerritt</a>, <a href="/w/index.php?title=Anne_Goeke&amp;action=edit&amp;redlink=1" class="new" title="Anne Goeke (page does not exist)">Anne Goeke</a>, <a href="/w/index.php?title=Stephen_Herrick&amp;action=edit&amp;redlink=1" class="new" title="Stephen Herrick (page does not exist)">Stephen Herrick</a>, and <a href="/w/index.php?title=Tom_Sevigny&amp;action=edit&amp;redlink=1" class="new" title="Tom Sevigny (page does not exist)">Tom Sevigny</a>; and for the Greens/Green Party USA: <a href="/w/index.php?title=Starlene_Rankin&amp;action=edit&amp;redlink=1" class="new" title="Starlene Rankin (page does not exist)">Starlene Rankin</a>, <a href="/wiki/John_Stith" title="John Stith">John Stith</a>, <a href="/w/index.php?title=Jeff_Sutter&amp;action=edit&amp;redlink=1" class="new" title="Jeff Sutter (page does not exist)">Jeff Sutter</a>,  <a href="/w/index.php?title=Steve_Welzer&amp;action=edit&amp;redlink=1" class="new" title="Steve Welzer (page does not exist)">Steve Welzer</a>, <a href="/wiki/Rich_Whitney" title="Rich Whitney">Rich Whitney</a>, and <a href="/wiki/Julia_Willebrand" title="Julia Willebrand">Julia Willebrand</a>.
+</p><p>The Boston Proposal was approved was by the ASGP at its December 2000 meeting in Hiawasee, GA, but did not pass at the July 2001 G/GPUSA Congress in Carbondale, CO. This caused a schism in G/GPUSA membership from which it never recovered. The next week on July 29 in Santa Barbara, CA the ASGP voted to become the <a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">Green Party of the United States</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> held a press conference in Santa Monica on July 30 to announce it,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and was subsequently recognized as having National Committee status<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> by the Federal Election Commission.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Text of the Boston Proposal:<sup id="cite_ref-greens1_4-1" class="reference"><a href="#cite_note-greens1-4">&#91;4&#93;</a></sup> JOINT PROPOSAL OF NEGOTIATING COMMITTEES OF THE ASSOCIATION OF STATE GREEN PARTIES and THE GREENS/GREEN PARTY USA
+</p><p>The Negotiating Committees of the Association of State Green Parties and the Greens/Green Party USA, meeting on October 1–2, 2000, have agreed unanimously to recommend to their respective organizations the following proposal for the creation of a new national Green Party, to be called "Green Party of the United States," and a National Committee of the Green Party, which will apply to the Federal Election Commission for official recognition as a national political party.
+</p><p><b>1.</b> The Greens/Green Party USA may continue as an independent organization but will cease functioning as a political party and will adopt a new name that will omit the word, "party." It will relinquish the domain name, "www.greenparty.org" to the new party.
+</p><p><b>2.</b> The Green Party shall leave the question of state dues entirely to the state parties and shall neither encourage state parties to collect dues nor discourage state parties from collecting dues.
+</p><p><b>3.</b> The new Green Party shall have a paid "sustaining members" category of membership and shall encourage members of all state parties to become sustaining members of the national organization.
+</p><p><b>4.</b> State parties in the new Green Party shall have written democratic by-laws and at least one convention a year (whether it be a general membership assembly or a delegate assembly elected by locals and members-at-large).
+</p><p><b>5.</b> State Green Parties shall make a good faith effort, where reasonable, to have delegates to the National Committee elected by clusters of local groups. The basis of representation to the National Committee shall be one person, one vote, and in the United States, Congressional Districts are a reasonable approximation of equal population areas. Local groups within a Congressional District or Districts shall come together for the purpose of electing delegates. (Statement of intent: The exact number of delegates and the size of the areas to be used for selecting these delegates is currently under study and will be determined by the ASGP.)
+</p><p><b>6.</b> Representation to the National Committee shall be based on the principle of one delegate per specified number of Congressional Districts, provided that there is a requisite level of Green Party activity, electoral and/or non-electoral, being conducted in those Congressional Districts.
+</p><p><b>7.</b> The Accreditation Criteria of the Green Party National Committee shall include the following in addition to the criteria currently used by the ASGP:
+<b>a.</b> Evidence of commitment to, and good faith efforts to achieve, gender balance in party leadership and representation.
+<b>b.</b> Evidence of good faith efforts to empower individuals and groups from oppressed communities, through, for example, leadership responsibilities, identity caucuses and alliances with community-based organizations, and endorsements of issues and policies.
+</p><p><b>8.</b> The Green Party National Committee shall reserve seats for representatives of nationally organized caucuses for traditionally disempowered groups, provided that each caucus shall demonstrate a total membership of at least 100 people, from at least 15 member states, use democratic procedures and choose to send representatives to the National Committee.
+</p><p><b>9.</b> The G/GPUSA Negotiating Committee recommends to the affiliates of G/GPUSA that a mail referendum of the Green Congress be initiated. The referendum shall ask the Congress to authorize the G/GPUSA National Committee to certify whether the ASGP, at its December 2000 meeting, amends its bylaws to reflect the terms of this joint proposal. The mail referendum will also authorize the G/GPUSA National Committee to (a) adopt a new name that will omit the word "party"; (b) relinquish the domain name "www.greenparty.org" to the new party; and (c) support the request of the ASGP for an advisory opinion on the national committee status of the new party, provided that it does in fact certify that the ASGP has amended its bylaws in accordance with this proposal.
+</p>
+<h2><span class="mw-headline" id="ASGP_and_Nader_2000_presidential_campaign">ASGP and Nader 2000 presidential campaign</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit&amp;section=4" title="Edit section: ASGP and Nader 2000 presidential campaign">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In September 1998, the New Mexico Green Party proposed that an ASGP Presidential Exploratory Committee be established for the 2000 elections. The ASGP Coordinating Committee passed the proposal on October 30, and on December 20 the ASGP Steering Committee appointed a seven-person committee, chaired by then Texas Green <a href="/wiki/David_Cobb" title="David Cobb">David Cobb</a>. On February 22, 1999 the Committee sent a letter and questionnaire to prospective presidential and vice presidential candidates, asking if they were interested in running on the Green Party ticket in 2000 and if so, how would they envision conducting the campaign: <a href="/wiki/Wendell_Berry" title="Wendell Berry">Wendell Berry</a>, <a href="/wiki/Jerry_Brown" title="Jerry Brown">Jerry Brown</a>, <a href="/wiki/Lester_Brown" class="mw-redirect" title="Lester Brown">Lester Brown</a>, <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a>, <a href="/wiki/Ronald_Daniels_(politician)" title="Ronald Daniels (politician)">Ron Daniels</a>, <a href="/wiki/Ron_Dellums" title="Ron Dellums">Ron Dellums</a>, <a href="/wiki/Lani_Guinier" title="Lani Guinier">Lani Guinier</a>,  <a href="/wiki/Dan_Hamburg" class="mw-redirect" title="Dan Hamburg">Dan Hamburg</a>, <a href="/wiki/Woody_Harrelson" title="Woody Harrelson">Woody Harrelson</a>, <a href="/wiki/Paul_Hawken" title="Paul Hawken">Paul Hawken</a>, <a href="/wiki/Jim_Hightower" title="Jim Hightower">Jim Hightower</a>, <a href="/wiki/Molly_Ivins" title="Molly Ivins">Molly Ivins</a>, <a href="/wiki/Winona_LaDuke" title="Winona LaDuke">Winona LaDuke</a>,  <a href="/wiki/Bill_McKibben" title="Bill McKibben">Bill McKibben</a>, <a href="/wiki/Cynthia_McKinney" title="Cynthia McKinney">Cynthia McKinney</a>, <a href="/wiki/Toni_Morrison" title="Toni Morrison">Toni Morrison</a>, <a href="/wiki/Ralph_Nader" title="Ralph Nader">Ralph Nader</a>, <a href="/wiki/Ron_Ouellette" title="Ron Ouellette">Ron Ouellette</a> (requested the questionnaire), <a href="/w/index.php?title=John_Robbins_(politician)&amp;action=edit&amp;redlink=1" class="new" title="John Robbins (politician) (page does not exist)">John Robbins</a> and <a href="/w/index.php?title=Jan_Schlichtmann&amp;action=edit&amp;redlink=1" class="new" title="Jan Schlichtmann (page does not exist)">Jan Schlichtmann</a>. On May 10 the committee also sent the letter and questionnaire to: <a href="/wiki/Harry_Belafonte" title="Harry Belafonte">Harry Belafonte</a>, <a href="/wiki/Julian_Bond" title="Julian Bond">Julian Bond</a>, <a href="/wiki/Joycelyn_Elders" title="Joycelyn Elders">Joycelyn Elders</a>, <a href="/wiki/Kurt_Schmoke" title="Kurt Schmoke">Kurt Schmoke</a>, <a href="/wiki/Studs_Terkel" title="Studs Terkel">Studs Terkel</a>, <a href="/wiki/Myrlie_Evers-Williams" title="Myrlie Evers-Williams">Myrlie Evers-Williams</a> and Gen. <a href="/wiki/George_Lee_Butler" title="George Lee Butler">George Lee Butler</a>.
+</p><p>Brown, McKibben, Chomsky, Guinier, Hawken, Miller wrote back declining, but all graciously thanking the ASGP for its outreach, and offering sympathetic statements of support for the Green Party project.
+</p><p>Nader also replied: "If I seek the nomination - a decision that will not be made until next year- and receive that designation, I will pursue a dedicated and thorough campaign that meets the Federal Election Commission requirements. Such an active campaign will have the objective of strengthening our nation’s democracy by strengthening the Green Party movement at the local, state and national levels; by emphasizing the problems of, and remedies for, the excessive concentration of corporate power and wealth in our country, by highlighting the important tools of democracy needed for the American people as voters/citizens, workers, consumers, taxpayers, and small savers/investors. If there are Greens who support my seeking the nomination, I encourage them to expand the number of volunteers and increase the time spent working to build the Green Party this year in order to advance the Party’s “Key Values” and to increase the likelihood of ballot access in all fifty states."
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ralphnaderspeech.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ralphnaderspeech.jpg/220px-Ralphnaderspeech.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ralphnaderspeech.jpg/330px-Ralphnaderspeech.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ralphnaderspeech.jpg/440px-Ralphnaderspeech.jpg 2x" data-file-width="2531" data-file-height="1682" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ralphnaderspeech.jpg" class="internal" title="Enlarge"></a></div>Ralph Nader, 1996 and 2000 nominee</div></div></div><p> At it June 23–25 convention in Denver,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  the ASGP nominated <a href="/wiki/Ralph_Nader" title="Ralph Nader">Ralph Nader</a> and <a href="/wiki/Winona_LaDuke" title="Winona LaDuke">Winona LaDuke</a> for president and vice-president. The pair appeared on 44 state ballots and received 2,883,105 votes, or 2.7 percent of all votes cast.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Nader's strong showing in several states solidified the changes in the Green Party, transforming it from an "anti-party party" to an organization primarily dedicated to electoral campaigns. In particular, that was the widespread understanding of thousands of recruits to the party, as it went through an unprecedented rate of growth.
+</p><h2><span class="mw-headline" id="International">International</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit&amp;section=5" title="Edit section: International">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In April 2001, the ASGP was represented at the founding congress of the <a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a> by <a href="/wiki/Mike_Feinstein" title="Mike Feinstein">Mike Feinstein</a>, <a href="/w/index.php?title=Annie_Goeke&amp;action=edit&amp;redlink=1" class="new" title="Annie Goeke (page does not exist)">Annie Goeke</a> and <a href="/wiki/John_Rensenbrink" title="John Rensenbrink">John Rensenbrink</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The ASGP was also a founding member party of the <a href="/w/index.php?title=Federac%C3%ADon_de_Partidos_Verdes_de_las_Americas&amp;action=edit&amp;redlink=1" class="new" title="Federacíon de Partidos Verdes de las Americas (page does not exist)">Federacíon de Partidos Verdes de las Americas</a> in 1998.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">John Rensenbrink. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061015061938/http://www.mainegreens.org/directaction/voices/jrensen/middle.htm">"Maine Greens - John Rensenbrink - Report on the ASGP Middleburg Meeting 1996"</a>. Web.archive.org. Archived from <a rel="nofollow" class="external text" href="http://www.mainegreens.org/directaction/voices/jrensen/middle.htm">the original</a> on October 15, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Maine+Greens+-+John+Rensenbrink+-+Report+on+the+ASGP+Middleburg+Meeting+1996&amp;rft.pub=Web.archive.org&amp;rft.au=John+Rensenbrink&amp;rft_id=http%3A%2F%2Fwww.mainegreens.org%2Fdirectaction%2Fvoices%2Fjrensen%2Fmiddle.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssociation+of+State+Green+Parties" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.gp.org/greenpages/content/volume1/issue1/article6.php">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140528010051/http://www.gp.org/greenpages/content/volume1/issue1/article6.php">Archived</a> May 28, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://greenparty.org/gatheringminutes.php">"The Greens/Green Party USA"</a>. Greenparty.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Greens%2FGreen+Party+USA&amp;rft.pub=Greenparty.org&amp;rft_id=http%3A%2F%2Fgreenparty.org%2Fgatheringminutes.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssociation+of+State+Green+Parties" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-greens1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-greens1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-greens1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greens.org/~jsutter/boston.html">"Boston ASGP-G/GPUSA joint proposal, 2 Oct 2000"</a>. Greens.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Boston+ASGP-G%2FGPUSA+joint+proposal%2C+2+Oct+2000&amp;rft.pub=Greens.org&amp;rft_id=http%3A%2F%2Fwww.greens.org%2F~jsutter%2Fboston.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssociation+of+State+Green+Parties" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.gp.org/press/pr_07_30_01.html">[2]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20030424033902/http://www.gp.org/press/pr_07_30_01.html">Archived</a> April 24, 2003, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=hMGZa8QFvkk">"Green Party of the United States - founding press conference"</a>. YouTube. 2007-01-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+of+the+United+States+-+founding+press+conference&amp;rft.pub=YouTube&amp;rft.date=2007-01-06&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhMGZa8QFvkk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssociation+of+State+Green+Parties" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.gp.org/fec-recognition">[3]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140609142829/http://www.gp.org/fec-recognition">Archived</a> June 9, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.gp.org/press/pr_11_08_01.html">[4]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20030605042149/http://www.gp.org/press/pr_11_08_01.html">Archived</a> June 5, 2003, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.gp.org/2000-convention">[5]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140822231419/http://www.gp.org/2000-convention">Archived</a> August 22, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://uselectionatlas.org/RESULTS/national.php?year=2000&amp;off=0&amp;elect=0&amp;f=0">"2000 Presidential General Election Results"</a>. Atlas of US Presidential Elections<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2000+Presidential+General+Election+Results&amp;rft.pub=Atlas+of+US+Presidential+Elections&amp;rft_id=http%3A%2F%2Fuselectionatlas.org%2FRESULTS%2Fnational.php%3Fyear%3D2000%26off%3D0%26elect%3D0%26f%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssociation+of+State+Green+Parties" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.commondreams.org/news2001/0413-03.htm">[6]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081011093504/http://www.commondreams.org/news2001/0413-03.htm">Archived</a> October 11, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_the_United_States" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#00A95C; color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_Party_of_the_United_States" title="Template:Green Party of the United States"><abbr title="View this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_Party_of_the_United_States" title="Template talk:Green Party of the United States"><abbr title="Discuss this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_Party_of_the_United_States&amp;action=edit"><abbr title="Edit this template" style="background:#00A95C; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States"><span style="color:white">Green Party of the United States</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_United_States_Green_Party_presidential_tickets" title="List of United States Green Party presidential tickets"><span style="color:white">Presidential tickets</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ralph_Nader_presidential_campaign,_1996" title="Ralph Nader presidential campaign, 1996"> 1996</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/Ralph_Nader_presidential_campaign,_2000" title="Ralph Nader presidential campaign, 2000"> 2000</a>: <a href="/wiki/Ralph_Nader" title="Ralph Nader">Nader</a>/<a href="/wiki/Winona_LaDuke" title="Winona LaDuke">LaDuke</a></li>
+<li><a href="/wiki/David_Cobb_presidential_campaign,_2004" title="David Cobb presidential campaign, 2004"> 2004</a>: <a href="/wiki/David_Cobb" title="David Cobb">Cobb</a>/<a href="/wiki/Pat_LaMarche" title="Pat LaMarche">LaMarche</a></li>
+<li><a href="/wiki/Cynthia_McKinney_presidential_campaign,_2008" title="Cynthia McKinney presidential campaign, 2008"> 2008</a>: <a href="/wiki/Cynthia_McKinney" title="Cynthia McKinney">McKinney</a>/<a href="/wiki/Rosa_Clemente" title="Rosa Clemente">Clemente</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2012" title="Jill Stein presidential campaign, 2012"> 2012</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Cheri_Honkala" title="Cheri Honkala">Honkala</a></li>
+<li><a href="/wiki/Jill_Stein_presidential_campaign,_2016" title="Jill Stein presidential campaign, 2016"> 2016</a>: <a href="/wiki/Jill_Stein" title="Jill Stein">Stein</a>/<a href="/wiki/Ajamu_Baraka" title="Ajamu Baraka">Baraka</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Presidential primaries</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_presidential_primaries,_2008" title="Green Party presidential primaries, 2008">2008</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2012" title="Green Party presidential primaries, 2012">2012</a></li>
+<li><a href="/wiki/Green_Party_presidential_primaries,_2016" title="Green Party presidential primaries, 2016">2016</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/Green_National_Convention" title="Green National Convention"><span style="color:white">Conventions</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Green_National_Convention" title="2000 Green National Convention">2000 (Denver)</a></li>
+<li><a href="/wiki/2004_Green_National_Convention" title="2004 Green National Convention">2004 (Milwaukee)</a></li>
+<li><a href="/wiki/2008_Green_National_Convention" title="2008 Green National Convention">2008 (Chicago)</a></li>
+<li><a href="/wiki/2012_Green_National_Convention" title="2012 Green National Convention">2012 (Baltimore)</a></li>
+<li><a href="/wiki/2016_Green_National_Convention" title="2016 Green National Convention">2016 (Houston)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%"><a href="/wiki/List_of_state_Green_Parties_in_the_United_States" title="List of state Green Parties in the United States"><span style="color:white">Parties by state<br />and <i>territory</i></span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alabama_Green_Party" class="mw-redirect" title="Alabama Green Party">Alabama</a></li>
+<li><a href="/wiki/Green_Party_of_Alaska" title="Green Party of Alaska">Alaska</a></li>
+<li><a href="/wiki/Arizona_Green_Party" title="Arizona Green Party">Arizona</a></li>
+<li><a href="/wiki/Green_Party_of_Arkansas" title="Green Party of Arkansas">Arkansas</a></li>
+<li><a href="/wiki/Green_Party_of_California" title="Green Party of California">California</a></li>
+<li><a href="/wiki/Green_Party_of_Colorado" title="Green Party of Colorado">Colorado</a></li>
+<li><a href="/wiki/Connecticut_Green_Party" title="Connecticut Green Party">Connecticut</a></li>
+<li><a href="/wiki/Green_Party_of_Delaware" title="Green Party of Delaware">Delaware</a></li>
+<li><i><a href="/wiki/D.C._Statehood_Green_Party" title="D.C. Statehood Green Party">District of Columbia</a></i></li>
+<li><a href="/wiki/Green_Party_of_Florida" title="Green Party of Florida">Florida</a></li>
+<li><a href="/wiki/Georgia_Green_Party" class="mw-redirect" title="Georgia Green Party">Georgia</a></li>
+<li><a href="/wiki/Green_Party_of_Hawaii" title="Green Party of Hawaii">Hawaii</a></li>
+<li><a href="/wiki/Idaho_Green_Party" title="Idaho Green Party">Idaho</a></li>
+<li><a href="/wiki/Illinois_Green_Party" title="Illinois Green Party">Illinois</a></li>
+<li><a href="/wiki/Indiana_Green_Party" class="mw-redirect" title="Indiana Green Party">Indiana</a></li>
+<li><a href="/wiki/Iowa_Green_Party" title="Iowa Green Party">Iowa</a></li>
+<li><a href="/wiki/Kansas_Green_Party" title="Kansas Green Party">Kansas</a></li>
+<li><a href="/wiki/Kentucky_Green_Party" title="Kentucky Green Party">Kentucky</a></li>
+<li><a href="/wiki/Green_Party_of_Louisiana" title="Green Party of Louisiana">Louisiana</a></li>
+<li><a href="/wiki/Maine_Green_Independent_Party" title="Maine Green Independent Party">Maine</a></li>
+<li><a href="/wiki/Maryland_Green_Party" title="Maryland Green Party">Maryland</a></li>
+<li><a href="/wiki/Green-Rainbow_Party" title="Green-Rainbow Party">Massachusetts</a></li>
+<li><a href="/wiki/Green_Party_of_Michigan" title="Green Party of Michigan">Michigan</a></li>
+<li><a href="/wiki/Green_Party_of_Minnesota" title="Green Party of Minnesota">Minnesota</a></li>
+<li><a href="/wiki/Green_Party_of_Mississippi" title="Green Party of Mississippi">Mississippi</a></li>
+<li><a href="/wiki/Green_Party_of_Missouri" class="mw-redirect" title="Green Party of Missouri">Missouri</a></li>
+<li><a href="/wiki/Montana_Green_Party" class="mw-redirect" title="Montana Green Party">Montana</a></li>
+<li><a href="/wiki/Nebraska_Green_Party" title="Nebraska Green Party">Nebraska</a></li>
+<li><a href="/wiki/Green_Party_of_Nevada" class="mw-redirect" title="Green Party of Nevada">Nevada</a></li>
+<li><a href="/wiki/Green_Party_of_New_Hampshire" class="mw-redirect" title="Green Party of New Hampshire">New Hampshire</a></li>
+<li><a href="/wiki/Green_Party_of_New_Jersey" title="Green Party of New Jersey">New Jersey</a></li>
+<li><a href="/wiki/Green_Party_of_New_Mexico" title="Green Party of New Mexico">New Mexico</a></li>
+<li><a href="/wiki/Green_Party_of_New_York" title="Green Party of New York">New York</a></li>
+<li><a href="/wiki/North_Carolina_Green_Party" title="North Carolina Green Party">North Carolina</a></li>
+<li><a href="/wiki/Green_Party_of_North_Dakota" class="mw-redirect" title="Green Party of North Dakota">North Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Ohio" title="Green Party of Ohio">Ohio</a></li>
+<li><a href="/wiki/Green_Party_of_Oklahoma" title="Green Party of Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/Pacific_Green_Party" title="Pacific Green Party">Oregon</a></li>
+<li><a href="/wiki/Green_Party_of_Pennsylvania" title="Green Party of Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/Green_Party_of_Rhode_Island" title="Green Party of Rhode Island">Rhode Island</a></li>
+<li><a href="/wiki/South_Carolina_Green_Party" title="South Carolina Green Party">South Carolina</a></li>
+<li><a href="/wiki/South_Dakota_Green_Party" class="mw-redirect" title="South Dakota Green Party">South Dakota</a></li>
+<li><a href="/wiki/Green_Party_of_Tennessee" title="Green Party of Tennessee">Tennessee</a></li>
+<li><a href="/wiki/Green_Party_of_Texas" title="Green Party of Texas">Texas</a></li>
+<li><a href="/wiki/Green_Party_of_Utah" class="mw-redirect" title="Green Party of Utah">Utah</a></li>
+<li><a href="/wiki/Vermont_Green_Party" title="Vermont Green Party">Vermont</a></li>
+<li><a href="/wiki/Green_Party_of_Virginia" title="Green Party of Virginia">Virginia</a></li>
+<li><a href="/wiki/Green_Party_of_Washington_State" title="Green Party of Washington State">Washington</a></li>
+<li><a href="/wiki/Mountain_Party" title="Mountain Party">West Virginia</a></li>
+<li><a href="/wiki/Wisconsin_Green_Party" title="Wisconsin Green Party">Wisconsin</a></li>
+<li><a href="/wiki/Green_Party_of_Wyoming" class="mw-redirect" title="Green Party of Wyoming">Wyoming</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Green Parties of the Americas</a></li>
+<li><a href="/wiki/Green_National_Committee" title="Green National Committee">Green National Committee</a></li>
+<li><a href="/wiki/Green_Senatorial_Campaign_Committee" title="Green Senatorial Campaign Committee">Green Senatorial Campaign Committee</a></li>
+<li><a href="/wiki/Greens/Green_Party_USA" title="Greens/Green Party USA">Greens/Green Party USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">History</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Association of State Green Parties</a></li>
+<li><a href="/wiki/History_of_the_Green_Party_of_the_United_States" title="History of the Green Party of the United States">Overview</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#00A95C; color:white;;width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States" title="List of Green politicians who have held office in the United States">Office-holding politicians</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2233
+Cached time: 20180929135250
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.208 seconds
+Real time usage: 0.262 seconds
+Preprocessor visited node count: 588/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36027/2097152 bytes
+Template argument size: 119/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16187/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.097/10.000 seconds
+Lua memory usage: 2.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  200.626      1 -total
+ 37.32%   74.868      5 Template:Cite_web
+ 30.02%   60.219      1 Template:Refimprove
+ 18.69%   37.496      1 Template:Ambox
+ 12.00%   24.073      1 Template:Green_Party_of_the_United_States
+ 10.38%   20.824      1 Template:Navbox
+  8.90%   17.853      6 Template:Webarchive
+  3.86%    7.750      1 Template:Green_Party_(United_States)/meta/color
+  2.59%    5.195      1 Template:United_States_political_party_color
+  1.00%    2.003      4 Template:White
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:71644-0!canonical and timestamp 20180929135250 and revision id 853141754
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Association_of_State_Green_Parties&amp;oldid=853141754">https://en.wikipedia.org/w/index.php?title=Association_of_State_Green_Parties&amp;oldid=853141754</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1996_establishments_in_the_United_States" title="Category:1996 establishments in the United States">1996 establishments in the United States</a></li><li><a href="/wiki/Category:Green_Party_of_the_United_States" title="Category:Green Party of the United States">Green Party of the United States</a></li><li><a href="/wiki/Category:Green_politics" title="Category:Green politics">Green politics</a></li><li><a href="/wiki/Category:Political_organizations_in_the_United_States" title="Category:Political organizations in the United States">Political organizations in the United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2016" title="Category:Articles needing additional references from October 2016">Articles needing additional references from October 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Association+of+State+Green+Parties" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Association+of+State+Green+Parties" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Association_of_State_Green_Parties" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Association_of_State_Green_Parties" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Association_of_State_Green_Parties">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Association_of_State_Green_Parties" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Association_of_State_Green_Parties" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;oldid=853141754" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17513454" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Association_of_State_Green_Parties&amp;id=853141754" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Association+of+State+Green+Parties">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Association+of+State+Green+Parties&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Association_of_State_Green_Parties&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17513454#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 August 2018, at 18:07<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Association_of_State_Green_Parties&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.262","ppvisitednodes":{"value":588,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36027,"limit":2097152},"templateargumentsize":{"value":119,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16187,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  200.626      1 -total"," 37.32%   74.868      5 Template:Cite_web"," 30.02%   60.219      1 Template:Refimprove"," 18.69%   37.496      1 Template:Ambox"," 12.00%   24.073      1 Template:Green_Party_of_the_United_States"," 10.38%   20.824      1 Template:Navbox","  8.90%   17.853      6 Template:Webarchive","  3.86%    7.750      1 Template:Green_Party_(United_States)/meta/color","  2.59%    5.195      1 Template:United_States_political_party_color","  1.00%    2.003      4 Template:White"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":2938900,"limit":52428800}},"cachereport":{"origin":"mw2233","timestamp":"20180929135250","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":394,"wgHostname":"mw2233"});});</script>
+	</body>
+</html>

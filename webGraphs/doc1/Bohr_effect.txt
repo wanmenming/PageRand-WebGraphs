@@ -1,0 +1,821 @@
+https://en.wikipedia.org/wiki/Bohr_effect
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bohr effect - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bohr_effect","wgTitle":"Bohr effect","wgCurRevisionId":862708364,"wgRevisionId":862708364,"wgArticleId":618291,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Russian-language sources (ru)","Respiratory physiology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bohr_effect","wgRelevantArticleId":618291,"wgRequestId":"W8LZBgpAICAAALqTAR0AAAAD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q890877","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/71/Christian_Bohr_u016a.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bohr_effect"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bohr_effect&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bohr_effect&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bohr_effect"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bohr_effect rootpage-Bohr_effect skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Bohr effect</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with the <a href="/wiki/Bohr_equation" title="Bohr equation">Bohr equation</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Christian_Bohr_u016a.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Christian_Bohr_u016a.jpg/220px-Christian_Bohr_u016a.jpg" width="220" height="284" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Christian_Bohr_u016a.jpg/330px-Christian_Bohr_u016a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Christian_Bohr_u016a.jpg/440px-Christian_Bohr_u016a.jpg 2x" data-file-width="1057" data-file-height="1363" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Christian_Bohr_u016a.jpg" class="internal" title="Enlarge"></a></div>Christian Bohr, who was credited with the discovery of the effect in 1904.</div></div></div>
+<p>The <b>Bohr effect</b> is a physiological phenomenon first described in 1904 by the Danish physiologist <a href="/wiki/Christian_Bohr" title="Christian Bohr">Christian Bohr</a>: <a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a>'s oxygen binding affinity (see <a href="/wiki/Oxygen%E2%80%93haemoglobin_dissociation_curve" class="mw-redirect" title="Oxygen–haemoglobin dissociation curve">oxygen–haemoglobin dissociation curve</a>) is inversely related both to acidity and to the concentration of carbon dioxide.<sup id="cite_ref-:2_1-0" class="reference"><a href="#cite_note-:2-1">&#91;1&#93;</a></sup> That is, the Bohr effect refers to the shift in the oxygen dissociation curve caused by changes in the concentration of carbon dioxide or the pH of the environment. Since carbon dioxide reacts with water to form <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a>, an increase in CO<sub>2</sub> results in a decrease in blood <a href="/wiki/PH" title="PH">pH</a>,<sup id="cite_ref-Voet_2-0" class="reference"><a href="#cite_note-Voet-2">&#91;2&#93;</a></sup> resulting in hemoglobin proteins releasing their load of oxygen. Conversely, a decrease in carbon dioxide provokes an increase in pH, which results in hemoglobin picking up more oxygen.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Experimental_discovery"><span class="tocnumber">1</span> <span class="toctext">Experimental discovery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Controversy"><span class="tocnumber">1.1</span> <span class="toctext">Controversy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Physiological_role"><span class="tocnumber">2</span> <span class="toctext">Physiological role</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Relationship_with_body_size"><span class="tocnumber">2.1</span> <span class="toctext">Relationship with body size</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Mechanism"><span class="tocnumber">3</span> <span class="toctext">Mechanism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Allosteric_interactions"><span class="tocnumber">3.1</span> <span class="toctext">Allosteric interactions</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#T-state_stabilization"><span class="tocnumber">3.2</span> <span class="toctext">T-state stabilization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Special_cases"><span class="tocnumber">4</span> <span class="toctext">Special cases</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Marine_mammals"><span class="tocnumber">4.1</span> <span class="toctext">Marine mammals</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Carbon_monoxide"><span class="tocnumber">4.2</span> <span class="toctext">Carbon monoxide</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Experimental_discovery">Experimental discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=1" title="Edit section: Experimental discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:293px;"><a href="/wiki/File:Bohr_effect.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bohr_effect.png/291px-Bohr_effect.png" width="291" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bohr_effect.png/437px-Bohr_effect.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bohr_effect.png/582px-Bohr_effect.png 2x" data-file-width="1398" data-file-height="1005" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bohr_effect.png" class="internal" title="Enlarge"></a></div>The original dissociation curves from Bohr's experiments, showing a decrease in oxygen affinity as the partial pressure of carbon dioxide increases. The curves were obtained using whole dog blood, with the exception of the dashed curve, for which horse blood was used.</div></div></div><p>In the early 1900s, Christian Bohr was a professor at the <a href="/wiki/University_of_Copenhagen" title="University of Copenhagen">University of Copenhagen</a> in Denmark, already well known for his work in the field of respiratory physiology.<sup id="cite_ref-:5_3-0" class="reference"><a href="#cite_note-:5-3">&#91;3&#93;</a></sup> He had spent the last two decades studying the solubility of oxygen, carbon dioxide, and other gases in various liquids,<sup id="cite_ref-:3_4-0" class="reference"><a href="#cite_note-:3-4">&#91;4&#93;</a></sup> and had conducted extensive research on haemoglobin and its affinity for oxygen.<sup id="cite_ref-:5_3-1" class="reference"><a href="#cite_note-:5-3">&#91;3&#93;</a></sup> In 1903, he began working closely with <a href="/wiki/Karl_Albert_Hasselbalch" title="Karl Albert Hasselbalch">Karl Hasselbalch</a> and <a href="/wiki/August_Krogh" title="August Krogh">August Krogh</a>, two of his associates at the university, in an attempt to experimentally replicate the work of <a href="/wiki/Gustav_von_H%C3%BCfner" title="Gustav von Hüfner">Gustav von Hüfner</a>, using whole blood instead of haemoglobin solution.<sup id="cite_ref-:2_1-1" class="reference"><a href="#cite_note-:2-1">&#91;1&#93;</a></sup> Hüfner had suggested that the oxygen-haemoglobin binding curve was <a href="/wiki/Hyperbolic_function" title="Hyperbolic function">hyperbolic</a> in shape,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> but after extensive experimentation, the Copenhagen group determined that the curve was in fact <a href="/wiki/Sigmoid_function" title="Sigmoid function">sigmoidal</a>. Furthermore, in the process of plotting out numerous dissociation curves, it soon became apparent that high partial pressures of carbon dioxide caused the curves to shift to the right.<sup id="cite_ref-:3_4-1" class="reference"><a href="#cite_note-:3-4">&#91;4&#93;</a></sup> Further experimentation while varying the CO<sub>2</sub> concentration quickly provided conclusive evidence, confirming the existence of what would soon become known as the Bohr effect.<sup id="cite_ref-:2_1-2" class="reference"><a href="#cite_note-:2-1">&#91;1&#93;</a></sup>
+</p><h3><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=2" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There is some more debate over whether Bohr was actually the first to discover the relationship between CO<sub>2</sub> and oxygen affinity, or whether the Russian physiologist Bronislav Verigo beat him to it, allegedly discovering the effect in 1898, six years before Bohr.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> While this has never been proven, Verigo did in fact publish a paper on the haemoglobin-CO<sub>2</sub> relationship in 1892.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> His proposed model was flawed, and Bohr harshly criticized it in his own publications.<sup id="cite_ref-:2_1-3" class="reference"><a href="#cite_note-:2-1">&#91;1&#93;</a></sup>
+</p><p>Another challenge to Bohr's discovery comes from within his lab. Though Bohr was quick to take full credit, his associate Krogh, who invented the apparatus used to measure gas concentrations in the experiments,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> maintained throughout his life that he himself had actually been the first to demonstrate the effect. Though there is some evidence to support this, retroactively changing the name of a well-known phenomenon would be extremely impractical, so it remains known as the Bohr effect.<sup id="cite_ref-:3_4-2" class="reference"><a href="#cite_note-:3-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physiological_role">Physiological role</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=3" title="Edit section: Physiological role">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Bohr effect increases the efficiency of oxygen transportation through the blood. After hemoglobin binds to oxygen in the lungs due to the high oxygen concentrations, the Bohr effect facilitates its release in the tissues, particularly those tissues in most need of oxygen. When a tissue's metabolic rate increases, so does its carbon dioxide waste production. When released into the bloodstream, carbon dioxide forms <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> and protons through the following reaction:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\ce {CO2 + H2O &lt;=&gt; H2CO3 &lt;=&gt; H+ + HCO3^-}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msubsup>
+            <mtext>CO</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mo>+</mo>
+          <msubsup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mtext>O</mtext>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="0" depth="0">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo stretchy="false">&#x21BD;<!-- ↽ --></mo>
+                    </mrow>
+                    <mspace width="negativethinmathspace" />
+                    <mspace width="negativethinmathspace" />
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2212;<!-- − --></mo>
+                    </mrow>
+                  </mpadded>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2212;<!-- − --></mo>
+                    </mrow>
+                    <mspace width="negativethinmathspace" />
+                    <mspace width="negativethinmathspace" />
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo stretchy="false">&#x21C0;<!-- ⇀ --></mo>
+                    </mrow>
+                  </mrow>
+                </mstyle>
+              </mrow>
+            </mover>
+          </mrow>
+          <msubsup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <msubsup>
+            <mtext>CO</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>3</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="0" depth="0">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo stretchy="false">&#x21BD;<!-- ↽ --></mo>
+                    </mrow>
+                    <mspace width="negativethinmathspace" />
+                    <mspace width="negativethinmathspace" />
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2212;<!-- − --></mo>
+                    </mrow>
+                  </mpadded>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2212;<!-- − --></mo>
+                    </mrow>
+                    <mspace width="negativethinmathspace" />
+                    <mspace width="negativethinmathspace" />
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo stretchy="false">&#x21C0;<!-- ⇀ --></mo>
+                    </mrow>
+                  </mrow>
+                </mstyle>
+              </mrow>
+            </mover>
+          </mrow>
+          <msup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>+</mo>
+            </mrow>
+          </msup>
+          <mo>+</mo>
+          <msubsup>
+            <mtext>HCO</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>3</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2212;<!-- − --></mo>
+            </mrow>
+          </msubsup>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {CO2 + H2O &lt;=&gt; H2CO3 &lt;=&gt; H+ + HCO3^-}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fac3f11a7441879a442049aadb9ea6e14fbce5cc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:41.455ex; height:3.343ex;" alt="{\displaystyle {\ce {CO2 + H2O &lt;=&gt; H2CO3 &lt;=&gt; H+ + HCO3^-}}}"/></span></dd></dl>
+<p>Although this reaction usually proceeds very slowly, the enzyme <a href="/wiki/Carbonic_anhydrase" title="Carbonic anhydrase">carbonic anhydrase</a> (which is present in <a href="/wiki/Red_blood_cells" class="mw-redirect" title="Red blood cells">red blood cells</a>) drastically speeds up the conversion to bicarbonate and protons.<sup id="cite_ref-Voet_2-1" class="reference"><a href="#cite_note-Voet-2">&#91;2&#93;</a></sup> This causes the pH of the blood to decrease, which promotes the dissociation of oxygen from haemoglobin, and allows the surrounding tissues to obtain enough oxygen to meet their demands. In areas where oxygen concentration is high, such as the lungs, binding of oxygen causes haemoglobin to release protons, which recombine with bicarbonate to eliminate carbon dioxide during <a href="/wiki/Exhalation" title="Exhalation">exhalation</a>. These opposing protonation and deprotonation reactions occur <a href="/wiki/Steady_state_(chemistry)" title="Steady state (chemistry)">at an equal rate</a>, resulting in little overall change in blood pH.
+</p><p>
+The Bohr effect enables the body to adapt to changing conditions and makes it possible to supply extra oxygen to tissues that need it the most. For example, when <a href="/wiki/Muscles" class="mw-redirect" title="Muscles">muscles</a> are undergoing strenuous activity, they require large amounts of oxygen to conduct <a href="/wiki/Cellular_respiration" title="Cellular respiration">cellular respiration</a>, which generates CO<sub>2</sub> (and therefore HCO<sub>3</sub><sup>−</sup> and H<sup>+</sup>) as byproducts. These waste products lower the pH of the blood, which increases oxygen delivery to the active muscles. Carbon dioxide is not the only molecule that can trigger the Bohr effect. If muscle cells aren't receiving enough oxygen for cellular respiration, they resort to <a href="/wiki/Lactic_acid_fermentation" title="Lactic acid fermentation">lactic acid fermentation</a>, which releases <a href="/wiki/Lactic_acid" title="Lactic acid">lactic acid</a> as a byproduct. This increases the acidity of the blood far more than CO<sub>2</sub> alone, which reflects the cells' even greater need for oxygen. In fact, under anaerobic conditions, muscles generate lactic acid so quickly that pH of the blood passing through the <a href="/wiki/Muscles" class="mw-redirect" title="Muscles">muscles</a> will drop to around 7.2, which causes haemoglobin to begin releasing roughly 10% more oxygen.<sup id="cite_ref-Voet_2-2" class="reference"><a href="#cite_note-Voet-2">&#91;2&#93;</a></sup></p><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bohr_Effect_Magnitude_vs_Body_Size.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bohr_Effect_Magnitude_vs_Body_Size.png/220px-Bohr_Effect_Magnitude_vs_Body_Size.png" width="220" height="277" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bohr_Effect_Magnitude_vs_Body_Size.png/330px-Bohr_Effect_Magnitude_vs_Body_Size.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bohr_Effect_Magnitude_vs_Body_Size.png/440px-Bohr_Effect_Magnitude_vs_Body_Size.png 2x" data-file-width="469" data-file-height="591" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bohr_Effect_Magnitude_vs_Body_Size.png" class="internal" title="Enlarge"></a></div>The magnitude of the Bohr effect is given by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="false" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mstyle displaystyle="false" scriptlevel="1">
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>log</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>50</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mstyle>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>pH</mtext>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3480ce9c174c15ca1f793d791b203ce9e374f694" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:8.527ex; height:4.676ex;" alt="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}"/></span>, which is the slope on this graph. A steeper slope means a stronger Bohr effect.</div></div></div>
+<h3><span class="mw-headline" id="Relationship_with_body_size">Relationship with body size</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=4" title="Edit section: Relationship with body size">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The magnitude of the Bohr effect is usually given by the formula <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="false" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mstyle displaystyle="false" scriptlevel="1">
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>log</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>50</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mstyle>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>pH</mtext>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3480ce9c174c15ca1f793d791b203ce9e374f694" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:8.527ex; height:4.676ex;" alt="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}"/></span>. Here, <a href="/wiki/P50_(pressure)" title="P50 (pressure)">P<sub>50</sub></a> refers to the partial pressure of oxygen when 50% of haemoglobin's binding sites are occupied. The formula is obtained by plotting the logarithm of this measurement on a graph at various pH levels, yielding a line with slope equal to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="false" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mstyle displaystyle="false" scriptlevel="1">
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>log</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>50</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mstyle>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>pH</mtext>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3480ce9c174c15ca1f793d791b203ce9e374f694" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:8.527ex; height:4.676ex;" alt="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}"/></span>. Bohr effect strength exhibits an inverse relationship with the size of an organism: the magnitude increases as size and weight decreases. For example, <a href="/wiki/Mouse" title="Mouse">mice</a> possess a very strong Bohr effect, with a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="false" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mstyle displaystyle="false" scriptlevel="1">
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>log</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>50</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mstyle>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>pH</mtext>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3480ce9c174c15ca1f793d791b203ce9e374f694" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:8.527ex; height:4.676ex;" alt="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}"/></span> value of 0.96, which requires relatively minor changes in H<sup>+</sup> or CO<sub>2</sub> concentrations, while <a href="/wiki/Elephant" title="Elephant">elephants</a> require much larger changes in concentration to achieve a much weaker effect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\textstyle \left({\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}=0.38\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="false" scriptlevel="0">
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mstyle displaystyle="false" scriptlevel="1">
+                  <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                  <mi>log</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <msub>
+                    <mi>P</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>50</mn>
+                    </mrow>
+                  </msub>
+                  <mo stretchy="false">)</mo>
+                </mstyle>
+                <mrow>
+                  <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>pH</mtext>
+                  </mrow>
+                </mrow>
+              </mfrac>
+            </mrow>
+            <mo>=</mo>
+            <mn>0.38</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\textstyle \left({\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}=0.38\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3739435a4b0416b89bc77d0569577665510a44cb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:18.535ex; height:4.843ex;" alt="{\textstyle \left({\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}=0.38\right)}"/></span>.<sup id="cite_ref-:1_9-0" class="reference"><a href="#cite_note-:1-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=5" title="Edit section: Mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Allosteric_interactions">Allosteric interactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=6" title="Edit section: Allosteric interactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:280px;"><a href="/wiki/File:Hemoglobin_t-r_state_ani.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hemoglobin_t-r_state_ani.gif/278px-Hemoglobin_t-r_state_ani.gif" width="278" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/b/ba/Hemoglobin_t-r_state_ani.gif 1.5x" data-file-width="400" data-file-height="301" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hemoglobin_t-r_state_ani.gif" class="internal" title="Enlarge"></a></div>Haemoglobin changes conformation from a high-affinity R state (oxygenated) to a low-affinity T state (deoxygenated) to improve oxygen uptake and delivery.</div></div></div><p>The Bohr effect hinges around allosteric interactions between the <a href="/wiki/Heme" title="Heme">hemes</a> of the haemoglobin <a href="/wiki/Tetrameric_protein" title="Tetrameric protein">tetramer</a>, a mechanism first proposed by Max Perutz in 1970.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Haemoglobin exists in two conformations: a high-affinity R state and a low-affinity T state. When oxygen concentration levels are high, as in the lungs, the R state is favored, enabling the maximum amount of oxygen to be bound to the hemes. In the capillaries, where oxygen concentration levels are lower, the T state is favored, in order to facilitate the delivery of oxygen to the tissues. The Bohr effect is dependent on this allostery, as increases in CO<sub>2</sub> and H<sup>+</sup> help stabilize the T state and ensure greater oxygen delivery to muscles during periods of elevated cellular respiration. This is evidenced by the fact that <a href="/wiki/Myoglobin" title="Myoglobin">myoglobin</a>, a <a href="/wiki/Monomer" title="Monomer">monomer</a> with no allostery, does not exhibit the Bohr effect.<sup id="cite_ref-Voet_2-3" class="reference"><a href="#cite_note-Voet-2">&#91;2&#93;</a></sup> Haemoglobin mutants with weaker allostery may exhibit a reduced Bohr effect. For example, in Hiroshima variant <a href="/wiki/Haemoglobinopathy" class="mw-redirect" title="Haemoglobinopathy">haemoglobinopathy</a>, allostery in haemoglobin is reduced, and the Bohr effect is diminished. As a result, during periods of exercise, the mutant haemoglobin has a higher affinity for oxygen and tissue may suffer minor <a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">oxygen starvation</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><h3><span class="mw-headline" id="T-state_stabilization">T-state stabilization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=7" title="Edit section: T-state stabilization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When hemoglobin is in its T state, the <a href="/wiki/N-terminal" class="mw-redirect" title="N-terminal">N-terminal</a> amino groups of the α-subunits and the <a href="/wiki/C-terminal" class="mw-redirect" title="C-terminal">C-terminal</a> <a href="/wiki/Histidine" title="Histidine">histidine</a> of the β-subunits are protonated, giving them a positive charge and allowing these residues to participate in <a href="/wiki/Ionic_bonding" title="Ionic bonding">ionic interactions</a> with carboxyl groups on nearby residues. These interactions help hold the haemoglobin in the T state. Decreases in pH (increases in acidity) stabilize this state even more, since a decrease in pH makes these residues even more likely to be protonated, strengthening the ionic interactions. In the R state, the ionic pairings are absent, meaning that the R state's stability increases when the pH increases, as these residues are less likely to stay deprotonated in a more basic environment. The Bohr effect works by simultaneously destabilizing the high-affinity R state and stabilizing the low-affinity T state, which leads to an overall decrease in oxygen affinity.<sup id="cite_ref-Voet_2-4" class="reference"><a href="#cite_note-Voet-2">&#91;2&#93;</a></sup> This can be visualized on an <a href="/wiki/Oxygen%E2%80%93hemoglobin_dissociation_curve" title="Oxygen–hemoglobin dissociation curve">oxygen-haemoglobin dissociation curve</a> by shifting the whole curve to the right.
+</p><p>Carbon dioxide can also react directly with the N-terminal amino groups to form <a href="/wiki/Carbamates" class="mw-redirect" title="Carbamates">carbamates</a>, according to the following reaction:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\ce {R-NH2 + CO2 &lt;=&gt; R-NH-COO^- + H+}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>R</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+          <msubsup>
+            <mtext>NH</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mo>+</mo>
+          <msubsup>
+            <mtext>CO</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mspace width="0pt" height="0pt" depth=".2em" />
+            </mrow>
+          </msubsup>
+          <mrow class="MJX-TeXAtom-REL">
+            <mover>
+              <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mpadded height="0" depth="0">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo stretchy="false">&#x21BD;<!-- ↽ --></mo>
+                    </mrow>
+                    <mspace width="negativethinmathspace" />
+                    <mspace width="negativethinmathspace" />
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2212;<!-- − --></mo>
+                    </mrow>
+                  </mpadded>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2212;<!-- − --></mo>
+                    </mrow>
+                    <mspace width="negativethinmathspace" />
+                    <mspace width="negativethinmathspace" />
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo stretchy="false">&#x21C0;<!-- ⇀ --></mo>
+                    </mrow>
+                  </mrow>
+                </mstyle>
+              </mrow>
+            </mover>
+          </mrow>
+          <mtext>R</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+          <mtext>NH</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+          <msup>
+            <mtext>COO</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2212;<!-- − --></mo>
+            </mrow>
+          </msup>
+          <mo>+</mo>
+          <msup>
+            <mtext>H</mtext>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>+</mo>
+            </mrow>
+          </msup>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\ce {R-NH2 + CO2 &lt;=&gt; R-NH-COO^- + H+}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26f7b0ba08f0fb253f29f743f01e8ffc87d6ee3c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:41.801ex; height:3.343ex;" alt="{\displaystyle {\ce {R-NH2 + CO2 &lt;=&gt; R-NH-COO^- + H+}}}"/></span></dd></dl>
+<p>CO<sub>2</sub> forms carbamates more frequently with the T state, which helps to stabilize this conformation. The process also creates protons, meaning that the formation of carbamates also contributes to the strengthening of ionic interactions, further stabilizing the T state.<sup id="cite_ref-Voet_2-5" class="reference"><a href="#cite_note-Voet-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Special_cases">Special cases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=8" title="Edit section: Special cases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Humpback_whale_noaa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Humpback_whale_noaa.jpg/220px-Humpback_whale_noaa.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Humpback_whale_noaa.jpg/330px-Humpback_whale_noaa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Humpback_whale_noaa.jpg/440px-Humpback_whale_noaa.jpg 2x" data-file-width="2160" data-file-height="1440" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Humpback_whale_noaa.jpg" class="internal" title="Enlarge"></a></div>Though they are one of the largest animals on the planet, humpback whales have a Bohr effect magnitude similar to that of a guinea pig.</div></div></div>
+<h3><span class="mw-headline" id="Marine_mammals">Marine mammals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=9" title="Edit section: Marine mammals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An exception to the otherwise well-supported link between animal body size and the sensitivity of its haemoglobin to changes in pH was discovered in 1961.<sup id="cite_ref-:0_12-0" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup> Based on their size and weight, many <a href="/wiki/Marine_mammal" title="Marine mammal">marine mammals</a> were hypothesized to have a very low, almost negligible Bohr effect.<sup id="cite_ref-:1_9-1" class="reference"><a href="#cite_note-:1-9">&#91;9&#93;</a></sup> However, when their blood was examined, this was not the case. <a href="/wiki/Humpback_whale" title="Humpback whale">Humpback whales</a> weighing 41,000 kilograms had an observed <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="false" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mstyle displaystyle="false" scriptlevel="1">
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>log</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>50</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mstyle>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>pH</mtext>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3480ce9c174c15ca1f793d791b203ce9e374f694" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:8.527ex; height:4.676ex;" alt="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}"/></span> value of 0.82, which is roughly equivalent to the Bohr effect magnitude in a 0.57&#160;kg <a href="/wiki/Guinea_pig" title="Guinea pig">guinea pig</a>.<sup id="cite_ref-:1_9-2" class="reference"><a href="#cite_note-:1-9">&#91;9&#93;</a></sup> This extremely strong Bohr effect is hypothesized to be one of marine mammals' many adaptations for deep, long dives, as it allows for virtually all of the bound oxygen on haemoglobin to dissociate and supply the whale's body while it is underwater.<sup id="cite_ref-:0_12-1" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup> Examination of other marine mammal species supports this. In <a href="/wiki/Pilot_whale" title="Pilot whale">pilot whales</a> and <a href="/wiki/Porpoise" title="Porpoise">porpoises</a>, which are primarily surface feeders and seldom dive for more than a few minutes, the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="false" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mstyle displaystyle="false" scriptlevel="1">
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>log</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>P</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>50</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mstyle>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>pH</mtext>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3480ce9c174c15ca1f793d791b203ce9e374f694" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.671ex; width:8.527ex; height:4.676ex;" alt="{\textstyle {\scriptstyle \Delta \log(P_{50}) \over \Delta {\text{pH}}}}"/></span>was 0.52, comparable to a <a href="/wiki/Cattle" title="Cattle">cow</a>,<sup id="cite_ref-:1_9-3" class="reference"><a href="#cite_note-:1-9">&#91;9&#93;</a></sup> which is much closer to the expected Bohr effect magnitude for animals of their size.<sup id="cite_ref-:0_12-2" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Carbon_monoxide">Carbon monoxide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=10" title="Edit section: Carbon monoxide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another special case of the Bohr effect occurs when <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> is present. This molecule serves as a <a href="/wiki/Competitive_inhibition" title="Competitive inhibition">competitive inhibitor</a> for oxygen, and binds to haemoglobin to form <a href="/wiki/Carboxyhemoglobin" title="Carboxyhemoglobin">carboxyhaemoglobin</a>.<sup id="cite_ref-:4_13-0" class="reference"><a href="#cite_note-:4-13">&#91;13&#93;</a></sup> haemoglobin's affinity for CO is about 250 times stronger than its affinity for O<sub>2</sub>,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> meaning that it is very unlikely to dissociate, and once bound, it blocks the binding of O<sub>2</sub> to that subunit. At the same time, CO is structurally similar enough to O<sub>2</sub> to cause carboxyhaemoglobin to favor the R state, raising the oxygen affinity of the remaining unoccupied subunits. This combination significantly reduces the delivery of oxygen to the tissues of the body, which is what makes carbon monoxide so <a href="/wiki/Carbon_monoxide_poisoning" title="Carbon monoxide poisoning">toxic</a>. This toxicity is reduced slightly by an increase in the strength of the Bohr effect in the presence of carboxyhaemoglobin. This increase is ultimately due to differences in interactions between heme groups in carboxyhaemoglobin relative to oxygenated haemoglobin. It is most pronounced when the oxygen concentration is extremely low, as a last-ditch effort when the need for oxygen delivery becomes critical. However, the physiological implications of this phenomenon remain unclear.<sup id="cite_ref-:4_13-1" class="reference"><a href="#cite_note-:4-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Allosteric_regulation" title="Allosteric regulation">Allosteric regulation</a></li>
+<li><a href="/wiki/Haldane_Effect" class="mw-redirect" title="Haldane Effect">Haldane Effect</a></li>
+<li><a href="/wiki/Root_effect" title="Root effect">Root effect</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:2-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:2_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Bohr; Hasselbalch, Krogh. <a rel="nofollow" class="external text" href="http://www.udel.edu/chem/white/C342/Bohr%281904%29.html">"Concerning a Biologically Important Relationship - The Influence of the Carbon Dioxide Content of Blood on its Oxygen Binding"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Concerning+a+Biologically+Important+Relationship+-+The+Influence+of+the+Carbon+Dioxide+Content+of+Blood+on+its+Oxygen+Binding&amp;rft.au=Bohr&amp;rft.au=Hasselbalch%2C+Krogh&amp;rft_id=http%3A%2F%2Fwww.udel.edu%2Fchem%2Fwhite%2FC342%2FBohr%25281904%2529.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Voet-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Voet_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Voet_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Voet_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Voet_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Voet_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Voet_2-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Voet, Donald; Judith G. Voet; Charlotte W. Pratt (2013). <i>Fundamentals of Biochemistry: Life at the Molecular Level</i> (4th ed.). John Wiley &amp; Sons, Inc. p.&#160;189.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Biochemistry%3A+Life+at+the+Molecular+Level&amp;rft.pages=189&amp;rft.edition=4th&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft.date=2013&amp;rft.aulast=Voet&amp;rft.aufirst=Donald&amp;rft.au=Judith+G.+Voet&amp;rft.au=Charlotte+W.+Pratt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:5-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Irzhak, L. I. (2005). <a rel="nofollow" class="external text" href="https://link.springer.com/article/10.1007/s10747-005-0060-x">"Christian Bohr (On the Occasion of the 150th Anniversary of His Birth)"</a>. <i>Human Physiology</i>. <b>31</b> (3): 366–368. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs10747-005-0060-x">10.1007/s10747-005-0060-x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-1197">0362-1197</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Human+Physiology&amp;rft.atitle=Christian+Bohr+%28On+the+Occasion+of+the+150th+Anniversary+of+His+Birth%29&amp;rft.volume=31&amp;rft.issue=3&amp;rft.pages=366-368&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1007%2Fs10747-005-0060-x&amp;rft.issn=0362-1197&amp;rft.aulast=Irzhak&amp;rft.aufirst=L.+I.&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10747-005-0060-x&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:3-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:3_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Edsall, J. T. (1972). "Blood and Hemoglobin: The Evolution of Knowledge of Functional Adaptation in a Biochemical System. Part I: The Adaptation of Chemical Structure to Function in Hemoglobin". <i>Journal of the History of Biology</i>. <b>5</b> (2): 205–257. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fbf00346659">10.1007/bf00346659</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/4330576">4330576</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+History+of+Biology&amp;rft.atitle=Blood+and+Hemoglobin%3A+The+Evolution+of+Knowledge+of+Functional+Adaptation+in+a+Biochemical+System.+Part+I%3A+The+Adaptation+of+Chemical+Structure+to+Function+in+Hemoglobin&amp;rft.volume=5&amp;rft.issue=2&amp;rft.pages=205-257&amp;rft.date=1972&amp;rft_id=info%3Adoi%2F10.1007%2Fbf00346659&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F4330576&amp;rft.aulast=Edsall&amp;rft.aufirst=J.+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">G. Hüfner, "Ueber das Gesetz der Dissociation des Oxyharmoglobins und iiber einige daran sich knupfenden wichtigen Fragen aus der Biologie," [On the Law of the Dissociation of Oxyharmoglobin, and on some important questions arising from biology]. Arch. Anat. Physiol. (in German) (Physiol. Abtheilung) (1890), 1-27.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://dic.academic.ru/dic.nsf/medic2/8579">"Вериго эффект - это... Что такое Вериго эффект?"</a> &#91;Verigo effect is... What is the Verigo effect?&#93;. <i>Словари и энциклопедии на Академике</i> (in Russian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8+%D0%B8+%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8+%D0%BD%D0%B0+%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA%D0%B5&amp;rft.atitle=%D0%92%D0%B5%D1%80%D0%B8%D0%B3%D0%BE+%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82+-+%D1%8D%D1%82%D0%BE...+%D0%A7%D1%82%D0%BE+%D1%82%D0%B0%D0%BA%D0%BE%D0%B5+%D0%92%D0%B5%D1%80%D0%B8%D0%B3%D0%BE+%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%3F&amp;rft_id=http%3A%2F%2Fdic.academic.ru%2Fdic.nsf%2Fmedic2%2F8579&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">B. Werigo, "Zur Frage uber die Wirkung des Sauerstoffs auf die
+
+Kohlensaureausscheidung in den Lungen," [The question about the effect of oxygen on the secretion of carbonic acid in the lungs]. Pflügers Arch. ges. Physiol. (in German), 51 (1892), 321-361.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">A. Krogh, "Apparat und Methoden zur Bestimmung der Aufnahme von Gasen im Blute bei verschiedenen Spannungen der Gase," [Apparatus and methods for the determination of the absorption of gases in the blood at different tensions of the gases]. Skand. Arch. Physiol. (in German), 16 (1904), 390-401.</span>
+</li>
+<li id="cite_note-:1-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:1_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Riggs, Austen (1960-03-01). <a rel="nofollow" class="external text" href="http://jgp.rupress.org/content/43/4/737">"The Nature and Significance of the Bohr Effect in Mammalian Hemoglobins"</a>. <i>The Journal of General Physiology</i>. <b>43</b> (4): 737–752. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1085%2Fjgp.43.4.737">10.1085/jgp.43.4.737</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0022-1295">0022-1295</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2195025">2195025</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19873527">19873527</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+General+Physiology&amp;rft.atitle=The+Nature+and+Significance+of+the+Bohr+Effect+in+Mammalian+Hemoglobins&amp;rft.volume=43&amp;rft.issue=4&amp;rft.pages=737-752&amp;rft.date=1960-03-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2195025&amp;rft.issn=0022-1295&amp;rft_id=info%3Apmid%2F19873527&amp;rft_id=info%3Adoi%2F10.1085%2Fjgp.43.4.737&amp;rft.aulast=Riggs&amp;rft.aufirst=Austen&amp;rft_id=http%3A%2F%2Fjgp.rupress.org%2Fcontent%2F43%2F4%2F737&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Perutz, Max. <i>Science is Not a Quiet Life</i>. World Scientific. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789814498517" title="Special:BookSources/9789814498517">9789814498517</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Science+is+Not+a+Quiet+Life&amp;rft.pub=World+Scientific&amp;rft.isbn=9789814498517&amp;rft.aulast=Perutz&amp;rft.aufirst=Max&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Olson, JS; Gibson QH; Nagel RL; Hamilton HB (December 1972). "The ligand-binding properties of hemoglobin Hiroshima ( 2 2 146asp )". <i>The Journal of Biological Chemistry</i>. <b>247</b> (23): 7485–93. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4636319">4636319</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Biological+Chemistry&amp;rft.atitle=The+ligand-binding+properties+of+hemoglobin+Hiroshima+%28+2+2+146asp+%29&amp;rft.volume=247&amp;rft.issue=23&amp;rft.pages=7485-93&amp;rft.date=1972-12&amp;rft_id=info%3Apmid%2F4636319&amp;rft.aulast=Olson&amp;rft.aufirst=JS&amp;rft.au=Gibson+QH&amp;rft.au=Nagel+RL&amp;rft.au=Hamilton+HB&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Riggs, Austen (1961-04-01). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v190/n4770/abs/190094a0.html">"Bohr Effect in the Hæmoglobins of Marine Mammals"</a>. <i>Nature</i>. <b>190</b> (4770): 94–95. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1961Natur.190...94R">1961Natur.190...94R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2F190094a0">10.1038/190094a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Bohr+Effect+in+the+H%C3%A6moglobins+of+Marine+Mammals&amp;rft.volume=190&amp;rft.issue=4770&amp;rft.pages=94-95&amp;rft.date=1961-04-01&amp;rft_id=info%3Adoi%2F10.1038%2F190094a0&amp;rft_id=info%3Abibcode%2F1961Natur.190...94R&amp;rft.aulast=Riggs&amp;rft.aufirst=Austen&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv190%2Fn4770%2Fabs%2F190094a0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Hlastala, M. P.; McKenna, H. P.; Franada, R. L.; Detter, J. C. (1976-12-01). "Influence of carbon monoxide on hemoglobin-oxygen binding". <i>Journal of Applied Physiology</i>. <b>41</b> (6): 893–899. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0021-8987">0021-8987</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12132">12132</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Applied+Physiology&amp;rft.atitle=Influence+of+carbon+monoxide+on+hemoglobin-oxygen+binding&amp;rft.volume=41&amp;rft.issue=6&amp;rft.pages=893-899&amp;rft.date=1976-12-01&amp;rft_id=info%3Apmid%2F12132&amp;rft.issn=0021-8987&amp;rft.aulast=Hlastala&amp;rft.aufirst=M.+P.&amp;rft.au=McKenna%2C+H.+P.&amp;rft.au=Franada%2C+R.+L.&amp;rft.au=Detter%2C+J.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Hall, John E. (2010). <i>Guyton and Hall Textbook of Medical Physiology (12th ed.)</i>. Philadelphia, Pa: Saunders/Elsevier. p.&#160;502. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1416045748" title="Special:BookSources/978-1416045748">978-1416045748</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Guyton+and+Hall+Textbook+of+Medical+Physiology+%2812th+ed.%29&amp;rft.place=Philadelphia%2C+Pa&amp;rft.pages=502&amp;rft.pub=Saunders%2FElsevier&amp;rft.date=2010&amp;rft.isbn=978-1416045748&amp;rft.aulast=Hall&amp;rft.aufirst=John+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABohr+effect" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bohr_effect&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://jap.physiology.org/cgi/content/abstract/52/6/1524">Impact of training</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Respiratory_physiology" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Respiratory_physiology" title="Template:Respiratory physiology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Respiratory_physiology" title="Template talk:Respiratory physiology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Respiratory_physiology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Respiratory_physiology" style="font-size:114%;margin:0 4em"><a href="/wiki/Respiratory_physiology" class="mw-redirect" title="Respiratory physiology">Respiratory physiology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Respiration</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Breath" class="mw-redirect" title="Breath">breath</a>
+<ul><li><a href="/wiki/Inhalation" title="Inhalation">inhalation</a></li>
+<li><a href="/wiki/Exhalation" title="Exhalation">exhalation</a></li></ul></li>
+<li><a href="/wiki/Respiratory_rate" title="Respiratory rate">respiratory rate</a></li>
+<li><a href="/wiki/Respirometer" title="Respirometer">respirometer</a></li>
+<li><a href="/wiki/Pulmonary_surfactant" title="Pulmonary surfactant">pulmonary surfactant</a></li>
+<li><a href="/wiki/Pulmonary_compliance" class="mw-redirect" title="Pulmonary compliance">compliance</a></li>
+<li><a href="/wiki/Elastic_recoil" title="Elastic recoil">elastic recoil</a></li>
+<li><a href="/wiki/Hysteresivity" title="Hysteresivity">hysteresivity</a></li>
+<li><a href="/wiki/Airway_resistance" title="Airway resistance">airway resistance</a></li>
+<li>bronchial
+<ul><li><a href="/wiki/Bronchial_hyperresponsiveness" title="Bronchial hyperresponsiveness">hyperresponsiveness</a></li>
+<li><a href="/wiki/Bronchoconstriction" title="Bronchoconstriction">constriction</a></li>
+<li><a href="/wiki/Bronchodilatation" title="Bronchodilatation">dilatation</a></li></ul></li>
+<li><a href="/wiki/Mechanical_ventilation" title="Mechanical ventilation">mechanical ventilation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Control_of_ventilation" title="Control of ventilation">Control</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Pons" title="Pons">pons</a></i>
+<ul><li><a href="/wiki/Pneumotaxic_center" class="mw-redirect" title="Pneumotaxic center">pneumotaxic center</a></li>
+<li><a href="/wiki/Apneustic_center" class="mw-redirect" title="Apneustic center">apneustic center</a></li></ul></li>
+<li><i><a href="/wiki/Medulla_oblongata" title="Medulla oblongata">medulla</a></i>
+<ul><li><a href="/wiki/Dorsal_respiratory_group" title="Dorsal respiratory group">dorsal respiratory group</a></li>
+<li><a href="/wiki/Ventral_respiratory_group" title="Ventral respiratory group">ventral respiratory group</a></li></ul></li>
+<li><i><a href="/wiki/Chemoreceptor" title="Chemoreceptor">chemoreceptors</a></i>
+<ul><li><a href="/wiki/Central_chemoreceptors" title="Central chemoreceptors">central</a></li>
+<li><a href="/wiki/Peripheral_chemoreceptors" title="Peripheral chemoreceptors">peripheral</a></li></ul></li>
+<li><a href="/wiki/Pulmonary_stretch_receptors" title="Pulmonary stretch receptors">pulmonary stretch receptors</a>
+<ul><li><a href="/wiki/Hering%E2%80%93Breuer_reflex" title="Hering–Breuer reflex">Hering–Breuer reflex</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lung_volumes" title="Lung volumes">Lung volumes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vital_capacity" title="Vital capacity">VC</a></li>
+<li><a href="/wiki/Functional_residual_capacity" title="Functional residual capacity">FRC</a></li>
+<li><a href="/wiki/Tidal_volume" title="Tidal volume">Vt</a></li>
+<li><a href="/wiki/Dead_space_(physiology)" title="Dead space (physiology)">dead space</a></li>
+<li><a href="/wiki/Closing_capacity" title="Closing capacity">CC</a></li>
+<li><a href="/wiki/Peak_expiratory_flow" title="Peak expiratory flow">PEF</a></li></ul>
+<dl><dt>calculations</dt>
+<dd></dd>
+<dd><a href="/wiki/Respiratory_minute_volume" title="Respiratory minute volume">respiratory minute volume</a></dd>
+<dd><a href="/wiki/FEV1/FVC_ratio" title="FEV1/FVC ratio">FEV1/FVC ratio</a></dd></dl>
+<dl><dt><a href="/wiki/Lung_function_test" class="mw-redirect" title="Lung function test">Lung function tests</a></dt>
+<dd></dd>
+<dd><a href="/wiki/Spirometry" title="Spirometry">spirometry</a></dd>
+<dd><a href="/wiki/Body_plethysmography" class="mw-redirect" title="Body plethysmography">body plethysmography</a></dd>
+<dd><a href="/wiki/Peak_flow_meter" class="mw-redirect" title="Peak flow meter">peak flow meter</a></dd>
+<dd><a href="/wiki/Nitrogen_washout" title="Nitrogen washout">nitrogen washout</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Circulation</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pulmonary_circulation" title="Pulmonary circulation">pulmonary circulation</a></li>
+<li><a href="/wiki/Hypoxic_pulmonary_vasoconstriction" title="Hypoxic pulmonary vasoconstriction">hypoxic pulmonary vasoconstriction</a></li>
+<li><a href="/wiki/Pulmonary_shunt" title="Pulmonary shunt">pulmonary shunt</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Interactions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ventilation_(physiology)" class="mw-redirect" title="Ventilation (physiology)">ventilation (V)</a></li>
+<li><a href="/wiki/Perfusion" title="Perfusion">Perfusion</a> (Q)
+<ul><li><a href="/wiki/Ventilation/perfusion_ratio" title="Ventilation/perfusion ratio">Ventilation/perfusion ratio</a></li>
+<li><a href="/wiki/Ventilation/perfusion_scan" title="Ventilation/perfusion scan">V/Q scan</a></li></ul></li>
+<li><a href="/wiki/Zones_of_the_lung" title="Zones of the lung">zones of the lung</a></li>
+<li><a href="/wiki/Gas_exchange" title="Gas exchange">gas exchange</a></li>
+<li><a href="/wiki/Pulmonary_gas_pressures" title="Pulmonary gas pressures">pulmonary gas pressures</a></li>
+<li><a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">alveolar gas equation</a></li>
+<li><a href="/wiki/Alveolar%E2%80%93arterial_gradient" title="Alveolar–arterial gradient">alveolar–arterial gradient</a></li>
+<li><a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a></li>
+<li><a href="/wiki/Oxygen%E2%80%93haemoglobin_dissociation_curve" class="mw-redirect" title="Oxygen–haemoglobin dissociation curve">oxygen–haemoglobin dissociation curve</a> (<a href="/wiki/Oxygen_saturation" title="Oxygen saturation">Oxygen saturation</a></li>
+<li><a href="/wiki/2,3-Bisphosphoglyceric_acid" title="2,3-Bisphosphoglyceric acid">2,3-BPG</a></li>
+<li><a class="mw-selflink selflink">Bohr effect</a></li>
+<li><a href="/wiki/Haldane_effect" title="Haldane effect">Haldane effect</a>)</li>
+<li><a href="/wiki/Carbonic_anhydrase" title="Carbonic anhydrase">carbonic anhydrase</a> (<a href="/wiki/Chloride_shift" title="Chloride shift">chloride shift</a>)</li>
+<li><a href="/wiki/Oxyhemoglobin" class="mw-redirect" title="Oxyhemoglobin">oxyhemoglobin</a></li>
+<li><a href="/wiki/Respiratory_quotient" title="Respiratory quotient">respiratory quotient</a></li>
+<li><a href="/wiki/Arterial_blood_gas" class="mw-redirect" title="Arterial blood gas">arterial blood gas</a></li>
+<li><a href="/wiki/Diffusion_capacity" class="mw-redirect" title="Diffusion capacity">diffusion capacity</a> (<a href="/wiki/DLCO" title="DLCO">DLCO</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Insufficiency</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_high_altitude_on_humans" title="Effects of high altitude on humans">high altitude</a></li>
+<li><a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">oxygen toxicity</a></li>
+<li><a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">hypoxia</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20181014053810
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.445 seconds
+Preprocessor visited node count: 884/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34552/2097152 bytes
+Template argument size: 75/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 35503/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  247.371      1 -total
+ 79.41%  196.449      1 Template:Reflist
+ 57.98%  143.418      7 Template:Cite_journal
+  7.12%   17.619      1 Template:Hatnote
+  6.37%   15.752      3 Template:Cite_book
+  5.21%   12.878      1 Template:Respiratory_physiology
+  4.24%   10.487      1 Template:Navbox
+  3.89%    9.620      1 Template:Cite_news
+  0.83%    2.051      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:618291-0!canonical!math=5 and timestamp 20181014053810 and revision id 862708364
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bohr_effect&amp;oldid=862708364">https://en.wikipedia.org/w/index.php?title=Bohr_effect&amp;oldid=862708364</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Respiratory_physiology" title="Category:Respiratory physiology">Respiratory physiology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Russian-language_sources_(ru)" title="Category:CS1 Russian-language sources (ru)">CS1 Russian-language sources (ru)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bohr+effect" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bohr+effect" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bohr_effect" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Bohr_effect" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bohr_effect">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bohr_effect&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bohr_effect&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bohr_effect" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bohr_effect" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bohr_effect&amp;oldid=862708364" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bohr_effect&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q890877" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bohr_effect&amp;id=862708364" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bohr+effect">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bohr+effect&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bohr_effect&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1_%D8%A8%D9%88%D8%B1" title="تأثير بور – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Efecte_Bohr" title="Efecte Bohr – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bohr-Effekt" title="Bohr-Effekt – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Bohri_efekt" title="Bohri efekt – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Efecto_Bohr" title="Efecto Bohr – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bohr_efektua" title="Bohr efektua – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Effet_Bohr" title="Effet Bohr – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%96%B4_%ED%9A%A8%EA%B3%BC" title="보어 효과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Bohrov_efekt" title="Bohrov efekt – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Efek_Bohr" title="Efek Bohr – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Effetto_Bohr" title="Effetto Bohr – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%A7%D7%98_%D7%91%D7%95%D7%94%D7%A8" title="אפקט בוהר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8B%E0%B5%BC_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%AD%E0%B4%BE%E0%B4%B5%E0%B4%82" title="ബോർ പ്രഭാവം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bohr-effect" title="Bohr-effect – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A2%E5%8A%B9%E6%9E%9C" title="ボーア効果 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Efekt_Bohra" title="Efekt Bohra – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Efeito_de_Bohr" title="Efeito de Bohr – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Efect_Bohr" title="Efect Bohr – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82_%D0%92%D0%B5%D1%80%D0%B8%D0%B3%D0%BE_%E2%80%94_%D0%91%D0%BE%D1%80%D0%B0" title="Эффект Вериго — Бора – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bohreffekten" title="Bohreffekten – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%B5%E0%AF%81" title="போர் விளைவு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%8E%BB%E5%B0%94%E6%95%88%E5%BA%94" title="玻尔效应 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q890877#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 October 2018, at 05:12<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bohr_effect&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.445","ppvisitednodes":{"value":884,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34552,"limit":2097152},"templateargumentsize":{"value":75,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35503,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  247.371      1 -total"," 79.41%  196.449      1 Template:Reflist"," 57.98%  143.418      7 Template:Cite_journal","  7.12%   17.619      1 Template:Hatnote","  6.37%   15.752      3 Template:Cite_book","  5.21%   12.878      1 Template:Respiratory_physiology","  4.24%   10.487      1 Template:Navbox","  3.89%    9.620      1 Template:Cite_news","  0.83%    2.051      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":4198331,"limit":52428800}},"cachereport":{"origin":"mw1251","timestamp":"20181014053810","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1330"});});</script>
+	</body>
+</html>
+

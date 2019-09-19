@@ -1,0 +1,1122 @@
+https://en.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_Canada
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of Green politicians who have held office in Canada - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Green_politicians_who_have_held_office_in_Canada","wgTitle":"List of Green politicians who have held office in Canada","wgCurRevisionId":861164340,"wgRevisionId":861164340,"wgArticleId":17928575,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete lists from August 2008","Dynamic lists","Green Party politicians in Canada","Lists of Canadian politicians","Green Party MPs, MPPs, and MLAs of Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Green_politicians_who_have_held_office_in_Canada","wgRelevantArticleId":17928575,"wgRequestId":"W6@KMgrAIEgAAFOssF8AAAAG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6572489","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_Canada"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_Canada"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_Green_politicians_who_have_held_office_in_Canada rootpage-List_of_Green_politicians_who_have_held_office_in_Canada skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">List of Green politicians who have held office in Canada</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This is a list of politicians who are <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a> members and have elected to office in <a href="/wiki/Canada" title="Canada">Canada</a>. With the exception of those who sit in the <a href="/wiki/Parliament_of_Canada" title="Parliament of Canada">Parliament of Canada</a>, <a href="/wiki/Legislative_Assembly_of_British_Columbia" title="Legislative Assembly of British Columbia">British Columbia Legislature</a>, <a href="/wiki/Legislative_Assembly_of_New_Brunswick" title="Legislative Assembly of New Brunswick">New Brunswick Legislature</a>, the <a href="/wiki/Legislative_Assembly_of_Ontario" title="Legislative Assembly of Ontario">Legislative Assembly of Ontario</a> and the <a href="/wiki/Legislative_Assembly_of_Prince_Edward_Island" title="Legislative Assembly of Prince Edward Island">Prince Edward Island Legislature</a> most of these politicians have held municipal office in cities where there are no political parties.  While these individuals are members of the Green Party in their personal life and may have been supported by Party members, they were not elected as Green party members.
+</p>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit">expanding it</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This is a <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">dynamic list</a> and may never be able to satisfy particular standards for completeness. You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit">expanding it</a> with <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliably sourced</a> entries.</div>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;"><span id="tocheading" style="font-weight:bold;">Contents</span></div>
+<div style="margin:auto;white-space:nowrap;">         
+<ul><li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a> </li></ul>
+<p class="mw-empty-elt">       
+</p>
+<ul><li><a href="#References">References</a></li></ul>
+</div></div>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Tom Adams
+</td>
+<td><a href="/wiki/Oakville,_Ontario" title="Oakville, Ontario">Oakville</a>
+</td>
+<td><a href="/wiki/Oakville_Town_Council" title="Oakville Town Council">Oakville Town Councillor</a>
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-TO1_1-0" class="reference"><a href="#cite_note-TO1-1">&#91;1&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Kevin_Arseneau" title="Kevin Arseneau">Kevin Arseneau</a>
+</td>
+<td><a href="/wiki/Kent_North_(electoral_district)" title="Kent North (electoral district)">Kent North</a>
+</td>
+<td>Member of the Legislative Assembly of New Brunswick
+</td>
+<td>MLA
+</td>
+<td>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Lisa Barrett
+</td>
+<td>Mayor Bowen Island Municipality - Regional Director GVRD/Metrovan Board 1999-2006
+</td>
+<td>Mayor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Lara Beckett
+</td>
+<td><a href="/wiki/Regional_District_of_Fraser_%E2%80%93_Fort_George" class="mw-redirect" title="Regional District of Fraser – Fort George">Regional District of Fraser – Fort George</a>
+</td>
+<td>Regional Director
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Bob Bell
+</td>
+<td><a href="/wiki/Guelph,_Ontario" class="mw-redirect" title="Guelph, Ontario">Guelph, Ontario</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-GM2_4-0" class="reference"><a href="#cite_note-GM2-4">&#91;4&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Hannah_Bell" title="Hannah Bell">Hannah Bell</a>
+</td>
+<td><a href="/wiki/Charlottetown-Parkdale" title="Charlottetown-Parkdale">Charlottetown-Parkdale</a>
+</td>
+<td><a href="/wiki/Legislative_Assembly_of_Prince_Edward_Island" title="Legislative Assembly of Prince Edward Island">Legislative Assembly of Prince Edward Island</a>
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-GuardPEI_5-0" class="reference"><a href="#cite_note-GuardPEI-5">&#91;5&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Peter Bevan-Baker</a>
+</td>
+<td><a href="/wiki/Kellys_Cross-Cumberland" title="Kellys Cross-Cumberland">Kellys Cross-Cumberland</a>
+</td>
+<td><a href="/wiki/Legislative_Assembly_of_Prince_Edward_Island" title="Legislative Assembly of Prince Edward Island">Legislative Assembly of Prince Edward Island</a>
+</td>
+<td>Leader of the <a href="/wiki/Green_Party_of_Prince_Edward_Island" title="Green Party of Prince Edward Island">Green Party of Prince Edward Island</a>
+</td>
+<td><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td><a href="/wiki/Adriane_Carr" title="Adriane Carr">Adriane Carr</a>
+</td>
+<td><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>
+</td>
+<td>City Councillor
+</td>
+<td>Former Deputy leader of the <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>
+</td>
+<td><sup id="cite_ref-VO1_7-0" class="reference"><a href="#cite_note-VO1-7">&#91;7&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Roslyn Cassells
+</td>
+<td><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>
+</td>
+<td>Park Board Commissioner
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-TGAM01_8-0" class="reference"><a href="#cite_note-TGAM01-8">&#91;8&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Sonya Chandler
+</td>
+<td><a href="/wiki/Victoria,_British_Columbia" title="Victoria, British Columbia">Victoria</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-Vic01_9-0" class="reference"><a href="#cite_note-Vic01-9">&#91;9&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/David_Chernushenko" title="David Chernushenko">David Chernushenko</a>
+</td>
+<td><a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>
+</td>
+<td><a href="/wiki/Ottawa_City_Council" title="Ottawa City Council">Ottawa City Councillor</a>
+</td>
+<td>Former Deputy Leader of the <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>
+</td>
+<td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/David_Coon" title="David Coon">David Coon</a>
+</td>
+<td><a href="/wiki/Fredericton_South_(electoral_district)" title="Fredericton South (electoral district)">Fredericton South</a>
+</td>
+<td><a href="/wiki/Legislative_Assembly_of_New_Brunswick" title="Legislative Assembly of New Brunswick">Legislative Assembly of New Brunswick</a>
+</td>
+<td>Leader of the <a href="/wiki/Green_Party_of_New_Brunswick" title="Green Party of New Brunswick">Green Party of New Brunswick</a>
+</td>
+<td><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Elio Di Iorio
+</td>
+<td><a href="/wiki/Richmond_Hill,_Ontario" title="Richmond Hill, Ontario">Richmond Hill</a>
+</td>
+<td><a href="/wiki/Richmond_Hill_Town_Council" title="Richmond Hill Town Council">Richmond Hill Town Council</a>
+</td>
+<td>Former International Secretary of the Green Party of Canada
+</td>
+<td><sup id="cite_ref-TStar02_13-0" class="reference"><a href="#cite_note-TStar02-13">&#91;13&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=5" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Janet Fraser
+</td>
+<td><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>
+</td>
+<td><a href="/wiki/Vancouver_School_Board#Trustees" title="Vancouver School Board">Vancouver School Board Trustee</a>
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-CBCVan01_14-0" class="reference"><a href="#cite_note-CBCVan01-14">&#91;14&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Sonia_Furstenau" title="Sonia Furstenau">Sonia Furstenau</a>
+</td>
+<td><a href="/wiki/Cowichan_Valley_(provincial_electoral_district)" title="Cowichan Valley (provincial electoral district)">Cowichan Valley</a>
+</td>
+<td><a href="/wiki/Legislative_Assembly_of_British_Columbia" title="Legislative Assembly of British Columbia">Legislative Assembly of British Columbia</a>
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-historic_15-0" class="reference"><a href="#cite_note-historic-15">&#91;15&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=6" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td><a href="/wiki/Rick_Goldring" title="Rick Goldring">Rick Goldring</a>
+</td>
+<td><a href="/wiki/Burlington,_Ontario" title="Burlington, Ontario">Burlington, Ontario</a>
+</td>
+<td>Mayor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Estrellita Gonzalez
+</td>
+<td><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>
+</td>
+<td><a href="/wiki/Vancouver_School_Board#Trustees" title="Vancouver School Board">Vancouver School Board Trustee</a>
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-CBCVan01_14-1" class="reference"><a href="#cite_note-CBCVan01-14">&#91;14&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=7" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Dick Hibma
+</td>
+<td><a href="/wiki/Owen_Sound" title="Owen Sound">Owen Sound</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Patty Higgins
+</td>
+<td><a href="/wiki/Saint_John,_New_Brunswick" title="Saint John, New Brunswick">Saint John, New Brunswick</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-N88_18-0" class="reference"><a href="#cite_note-N88-18">&#91;18&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Bruce_Hyer" title="Bruce Hyer">Bruce Hyer</a>
+</td>
+<td><a href="/wiki/Thunder_Bay%E2%80%94Superior_North" title="Thunder Bay—Superior North">Thunder Bay—Superior North</a>
+</td>
+<td>Member of Parliament
+</td>
+<td>Deputy Leader of the <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>
+</td>
+<td><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=8" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Maggie Laidlaw
+</td>
+<td><a href="/wiki/Guelph,_Ontario" class="mw-redirect" title="Guelph, Ontario">Guelph, Ontario</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-GM01_20-0" class="reference"><a href="#cite_note-GM01-20">&#91;20&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Philippe Lucas
+</td>
+<td><a href="/wiki/Victoria,_British_Columbia" title="Victoria, British Columbia">Victoria</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A.
+</td>
+<td><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=9" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Stuart Mackinnon
+</td>
+<td><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>
+</td>
+<td>Park Board Commissioner
+</td>
+<td>Served on the park board, was defeated, than elected to the board once more.
+</td>
+<td><sup id="cite_ref-Carr_22-0" class="reference"><a href="#cite_note-Carr-22">&#91;22&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Elizabeth_May" title="Elizabeth May">Elizabeth May</a>
+</td>
+<td><a href="/wiki/Saanich%E2%80%94Gulf_Islands" title="Saanich—Gulf Islands">Saanich—Gulf Islands</a>
+</td>
+<td>Member of Parliament
+</td>
+<td>Leader of the <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>
+</td>
+<td><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Megan_Mitton" title="Megan Mitton">Megan Mitton</a>
+</td>
+<td><a href="/wiki/Memramcook-Tantramar" title="Memramcook-Tantramar">Memramcook-Tantramar</a>
+</td>
+<td>Member of the Legislative Assembly of New Brunswick
+</td>
+<td>MLA
+</td>
+<td>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=10" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Josie Osborne
+</td>
+<td><a href="/wiki/Tofino" title="Tofino">Tofino</a>
+</td>
+<td>Mayor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-GPC09_24-0" class="reference"><a href="#cite_note-GPC09-24">&#91;24&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td><a href="/wiki/Adam_Olsen" title="Adam Olsen">Adam Olsen</a>
+</td>
+<td><a href="/wiki/Saanich_North_and_the_Islands" title="Saanich North and the Islands">Saanich North and the Islands</a>
+</td>
+<td><a href="/wiki/Legislative_Assembly_of_British_Columbia" title="Legislative Assembly of British Columbia">Legislative Assembly of British Columbia</a>
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-historic_15-1" class="reference"><a href="#cite_note-historic-15">&#91;15&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=11" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Angela Nagy (nee Reid)
+</td>
+<td><a href="/wiki/Kelowna,_British_Columbia" class="mw-redirect" title="Kelowna, British Columbia">Kelowna</a>
+</td>
+<td>City Councillor
+</td>
+<td>Former deputy leader of the <a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">Green Party of British Columbia</a>
+</td>
+<td><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Andrea_Reimer" title="Andrea Reimer">Andrea Reimer</a>
+</td>
+<td><a href="/wiki/Vancouver,_British_Columbia" class="mw-redirect" title="Vancouver, British Columbia">Vancouver</a>
+</td>
+<td>Vancouver School Board Trustee (2002-2005), City Councillor (2008–Present)
+</td>
+<td>Elected to Vancouver School Board with <a href="/wiki/Green_Party_of_Vancouver" title="Green Party of Vancouver">Green Party of Vancouver</a> in 2002; joined <a href="/wiki/Vision_Vancouver" title="Vision Vancouver">Vision Vancouver</a> in 2008
+</td>
+<td><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</td>
+<td>C
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=12" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Victoria Serda
+</td>
+<td><a href="/wiki/Saugeen_Shores,_Ontario" class="mw-redirect" title="Saugeen Shores, Ontario">Saugeen Shores</a>
+</td>
+<td>Councillor
+</td>
+<td>Former deputy leader of the <a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Green Party of Ontario</a>
+</td>
+<td><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Mike Schreiner</a>
+</td>
+<td><a href="/wiki/Guelph_(provincial_electoral_district)" title="Guelph (provincial electoral district)">Guelph</a>
+</td>
+<td>Member of Provincial Parliament
+</td>
+<td>Leader of the Green Party of Ontario
+</td>
+<td><sup id="cite_ref-TorStarSch01_29-0" class="reference"><a href="#cite_note-TorStarSch01-29">&#91;29&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Andy Shadrack
+</td>
+<td><a href="/wiki/Regional_District_of_Central_Kootenay" title="Regional District of Central Kootenay">Regional District of Central Kootenay</a>
+</td>
+<td>Electoral Area "D" Director
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-NStar01_30-0" class="reference"><a href="#cite_note-NStar01-30">&#91;30&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Erin Shapero
+</td>
+<td>Markham
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-MES01_31-0" class="reference"><a href="#cite_note-MES01-31">&#91;31&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Jane_Sterk" title="Jane Sterk">Jane Sterk</a>
+</td>
+<td><a href="/wiki/Esquimalt,_British_Columbia" class="mw-redirect" title="Esquimalt, British Columbia">Esquimalt</a>
+</td>
+<td>City Councillor
+</td>
+<td>Former BC Green Party leader
+</td>
+<td><sup id="cite_ref-Palmer_32-0" class="reference"><a href="#cite_note-Palmer-32">&#91;32&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Rob Strang
+</td>
+<td>Orangeville
+</td>
+<td>Town Councillor
+</td>
+<td>Former Deputy leader of the <a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Green Party of Ontario</a>
+</td>
+<td><sup id="cite_ref-CE_33-0" class="reference"><a href="#cite_note-CE-33">&#91;33&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/John_Streicker" title="John Streicker">John Streicker</a>
+</td>
+<td><a href="/wiki/Whitehorse,_Yukon" title="Whitehorse, Yukon">Whitehorse</a>, <a href="/wiki/Yukon" title="Yukon">Yukon</a>
+</td>
+<td><a href="/wiki/Whitehorse_City_Council" title="Whitehorse City Council">Whitehorse City Councillor</a>
+</td>
+<td>Former President of the <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>. Switched to <a href="/wiki/Yukon_Liberal_Party" title="Yukon Liberal Party">Yukon Liberal Party</a>.
+</td>
+<td><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=13" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Richard Thomas
+</td>
+<td><a href="/wiki/Armour,_Ontario" title="Armour, Ontario">Armour Township</a>
+</td>
+<td>Reeve
+</td>
+<td>Died while in office.
+</td>
+<td><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=14" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Art Vanden Berg
+</td>
+<td><a href="/wiki/Victoria,_British_Columbia" title="Victoria, British Columbia">Victoria</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=15" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td><a href="/wiki/Andrew_J._Weaver" class="mw-redirect" title="Andrew J. Weaver">Andrew Weaver</a>
+</td>
+<td><a href="/wiki/Oak_Bay-Gordon_Head" title="Oak Bay-Gordon Head">Oak Bay-Gordon Head</a>
+</td>
+<td><a href="/wiki/Legislative_Assembly_of_British_Columbia" title="Legislative Assembly of British Columbia">Legislative Assembly of British Columbia</a>
+</td>
+<td>Leader of the <a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">Green Party of British Columbia</a>
+</td>
+<td><sup id="cite_ref-AW1_37-0" class="reference"><a href="#cite_note-AW1-37">&#91;37&#93;</a></sup>
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Paddy Weston
+</td>
+<td><a href="/wiki/Kimberley,_British_Columbia" title="Kimberley, British Columbia">Kimberley</a>
+</td>
+<td>City Councillor
+</td>
+<td>N/A
+</td>
+<td><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Blair_Wilson" title="Blair Wilson">Blair Wilson</a>
+</td>
+<td><a href="/wiki/West_Vancouver%E2%80%94Sunshine_Coast%E2%80%94Sea_to_Sky_Country" title="West Vancouver—Sunshine Coast—Sea to Sky Country">West Vancouver—Sunshine Coast—Sea to Sky Country</a>
+</td>
+<td>Member of Parliament
+</td>
+<td>Joined the Green Party in 2008 as a sitting member of parliament.
+</td>
+<td><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</td>
+<td>F
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=16" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Area</th>
+<th>Office</th>
+<th>Other</th>
+<th>Citation</th>
+<th>Current/Former
+</th></tr>
+<tr>
+<td>Judy Zaichkowsky
+</td>
+<td><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>
+</td>
+<td><a href="/wiki/Vancouver_School_Board#Trustees" title="Vancouver School Board">Vancouver School Board Trustee</a>
+</td>
+<td>
+</td>
+<td><sup id="cite_ref-CBCVan01_14-2" class="reference"><a href="#cite_note-CBCVan01-14">&#91;14&#93;</a></sup>
+</td>
+<td>c
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-TO1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-TO1_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oakville.ca/townhall/ward-6-regional-town-councillor.html">"Ward 6 Regional &amp; Town Councillor Tom Adams"</a>. <a href="/wiki/Oakville,_Ontario" title="Oakville, Ontario">Oakville</a>: Town of Oakville. 2017. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120510134925/http://oakville.ca/townhall/ward-6-regional-town-councillor.html">Archived</a> from the original on 10 May 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ward+6+Regional+%26+Town+Councillor+Tom+Adams&amp;rft.place=Oakville&amp;rft.pub=Town+of+Oakville&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fwww.oakville.ca%2Ftownhall%2Fward-6-regional-town-councillor.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Hyslop, Katie (14 November 2014). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUrqirdd?url=https://thetyee.ca/News/2014/11/14/Lisa-Barrett-Platform/">"Lisa Barrett, Pitching Participatory Democracy - The Tyee"</a>. <i><a href="/wiki/The_Tyee" title="The Tyee">The Tyee</a></i>. Archived from <a rel="nofollow" class="external text" href="https://thetyee.ca/News/2014/11/14/Lisa-Barrett-Platform/">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Tyee&amp;rft.atitle=Lisa+Barrett%2C+Pitching+Participatory+Democracy+-+The+Tyee&amp;rft.date=2014-11-14&amp;rft.aulast=Hyslop&amp;rft.aufirst=Katie&amp;rft_id=https%3A%2F%2Fthetyee.ca%2FNews%2F2014%2F11%2F14%2FLisa-Barrett-Platform%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUrvq1Nq?url=http://www.civicinfo.bc.ca/ubcm/122.asp?personId%3D8053">"CivicInfo"</a>. <a href="/wiki/Victoria,_British_Columbia" title="Victoria, British Columbia">Victoria, British Columbia</a>: CivicInfo BC. Archived from <a rel="nofollow" class="external text" href="http://www.civicinfo.bc.ca/ubcm/122.asp?personId=8053">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CivicInfo&amp;rft.place=Victoria%2C+British+Columbia&amp;rft.pub=CivicInfo+BC&amp;rft_id=http%3A%2F%2Fwww.civicinfo.bc.ca%2Fubcm%2F122.asp%3FpersonId%3D8053&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GM2-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-GM2_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Shuttleworth, Joanne (17 August 2010). <a rel="nofollow" class="external text" href="https://www.webcitation.org/63LN5e4mD?url=http://www.guelphmercury.com/news/article/316628--bob-bell-stepping-down-as-guelphgreen-party-candidate">"Bob Bell stepping down as GuelphGreen party candidate"</a>. <a href="/wiki/Guelph_Mercury" title="Guelph Mercury">Guelph Mercury</a>. Archived from <a rel="nofollow" class="external text" href="http://www.guelphmercury.com/news/article/316628--bob-bell-stepping-down-as-guelphgreen-party-candidate">the original</a> on 20 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bob+Bell+stepping+down+as+GuelphGreen+party+candidate&amp;rft.pub=Guelph+Mercury&amp;rft.date=2010-08-17&amp;rft.aulast=Shuttleworth&amp;rft.aufirst=Joanne&amp;rft_id=http%3A%2F%2Fwww.guelphmercury.com%2Fnews%2Farticle%2F316628--bob-bell-stepping-down-as-guelphgreen-party-candidate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GuardPEI-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-GuardPEI_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Wright, Teresa (27 November 2017). <a rel="nofollow" class="external text" href="http://www.theguardian.pe.ca/news/local/pei-green-partys-hannah-bell-wins-district-11-byelection-doiron-concedes-165358/">"UPDATE: P.E.I. Green party's Hannah Bell wins byelection in Charlottetown-Parkdale"</a>. Charlottetown, PEI: The Guardian PEI<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UPDATE%3A+P.E.I.+Green+party%E2%80%99s+Hannah+Bell+wins+byelection+in+Charlottetown-Parkdale&amp;rft.place=Charlottetown%2C+PEI&amp;rft.pub=The+Guardian+PEI&amp;rft.date=2017-11-27&amp;rft.aulast=Wright&amp;rft.aufirst=Teresa&amp;rft_id=http%3A%2F%2Fwww.theguardian.pe.ca%2Fnews%2Flocal%2Fpei-green-partys-hannah-bell-wins-district-11-byelection-doiron-concedes-165358%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUrzi0mo?url=http://www.cbc.ca/news/elections/prince-edward-island-votes/green-party-leader-peter-bevan-baker-makes-p-e-i-political-history-1.3060491">"Green Party Leader Peter Bevan-Baker makes P.E.I. political history"</a>. Charlottetown: <a href="/wiki/Canadian_Broadcasting_Corporation" title="Canadian Broadcasting Corporation">CBC</a>. Archived from <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/elections/prince-edward-island-votes/green-party-leader-peter-bevan-baker-makes-p-e-i-political-history-1.3060491">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">6 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+Leader+Peter+Bevan-Baker+makes+P.E.I.+political+history&amp;rft.place=Charlottetown&amp;rft.pub=CBC&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Felections%2Fprince-edward-island-votes%2Fgreen-party-leader-peter-bevan-baker-makes-p-e-i-political-history-1.3060491&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-VO1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-VO1_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Montgomery, Christina (19 November 2011). <a rel="nofollow" class="external text" href="https://www.webcitation.org/63L8XEWyx?url=http://www.vancouverobserver.com/politics/2011/11/19/carr-takes-surprise-council-seat-final-poll-goes-green">"Carr takes surprise council seat as final poll goes Green"</a>. Vancouver, British Columbia: Vancouver Observer. Archived from <a rel="nofollow" class="external text" href="http://www.vancouverobserver.com/politics/2011/11/19/carr-takes-surprise-council-seat-final-poll-goes-green">the original</a> on 20 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carr+takes+surprise+council+seat+as+final+poll+goes+Green&amp;rft.place=Vancouver%2C+British+Columbia&amp;rft.pub=Vancouver+Observer&amp;rft.date=2011-11-19&amp;rft.aulast=Montgomery&amp;rft.aufirst=Christina&amp;rft_id=http%3A%2F%2Fwww.vancouverobserver.com%2Fpolitics%2F2011%2F11%2F19%2Fcarr-takes-surprise-council-seat-final-poll-goes-green&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TGAM01-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-TGAM01_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">MICKLEBURGH, ROD (June 26, 2000). <a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/news/national/chief-seeks-apology-for-attempt-to-stick-officer-with-doughnut/article1040765/">"Chief seeks apology for attempt to stick officer with doughnut"</a>. <a href="/wiki/The_Globe_and_Mail" title="The Globe and Mail">The Globe and Mail</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chief+seeks+apology+for+attempt+to+stick+officer+with+doughnut&amp;rft.pub=The+Globe+and+Mail&amp;rft.date=2000-06-26&amp;rft.aulast=MICKLEBURGH&amp;rft.aufirst=ROD&amp;rft_id=https%3A%2F%2Fwww.theglobeandmail.com%2Fnews%2Fnational%2Fchief-seeks-apology-for-attempt-to-stick-officer-with-doughnut%2Farticle1040765%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Vic01-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vic01_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Josephson, Katie (May 28, 2010). <a rel="nofollow" class="external text" href="http://www.victoria.ca/assets/City~Hall/Media~Releases/2010/100528_mr.pdf">"Councillor Sonya Chandler to Resign from City Council in September"</a> <span class="cs1-format">(PDF)</span>. Victoria, BC: City of Victoria<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Councillor+Sonya+Chandler+to+Resign+from+City+Council+in+September&amp;rft.place=Victoria%2C+BC&amp;rft.pub=City+of+Victoria&amp;rft.date=2010-05-28&amp;rft.aulast=Josephson&amp;rft.aufirst=Katie&amp;rft_id=http%3A%2F%2Fwww.victoria.ca%2Fassets%2FCity~Hall%2FMedia~Releases%2F2010%2F100528_mr.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/5u4gtv12v?url=http://www.ottawa.ca/city_hall/elections/images/ward17.pdf">"Statement of Votes Cast"</a> <span class="cs1-format">(PDF)</span>. Ottawa: City of <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>. 28 October 2010. Archived from <a rel="nofollow" class="external text" href="http://www.ottawa.ca/city_hall/elections/images/ward17.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 8 November 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statement+of+Votes+Cast&amp;rft.place=Ottawa&amp;rft.pub=City+of+Ottawa&amp;rft.date=2010-10-28&amp;rft_id=http%3A%2F%2Fwww.ottawa.ca%2Fcity_hall%2Felections%2Fimages%2Fward17.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Chernushenko, David. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUwAIfUQ?url=http://www.capitalward.ca/index.php/david">"About David"</a>. <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>: David Chernushenko — Capital Ward. Archived from <a rel="nofollow" class="external text" href="http://www.capitalward.ca/index.php/david">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+David&amp;rft.place=Ottawa%2C+Ontario&amp;rft.pub=David+Chernushenko+%E2%80%94+Capital+Ward&amp;rft.aulast=Chernushenko&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.capitalward.ca%2Findex.php%2Fdavid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Loney, Heather. <a rel="nofollow" class="external text" href="http://globalnews.ca/news/1576541/green-leader-david-coon-in-close-race-in-nbs-fredericton-south-riding/">"Green leader David Coon makes history in NB's Fredericton South riding"</a>. <i>Global News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Global+News&amp;rft.atitle=Green+leader+David+Coon+makes+history+in+NB%E2%80%99s+Fredericton+South+riding&amp;rft.aulast=Loney&amp;rft.aufirst=Heather&amp;rft_id=http%3A%2F%2Fglobalnews.ca%2Fnews%2F1576541%2Fgreen-leader-david-coon-in-close-race-in-nbs-fredericton-south-riding%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TStar02-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-TStar02_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">HASHAM, ALYSHAH (December 16, 2011). <a rel="nofollow" class="external text" href="https://www.thestar.com/news/gta/2011/12/16/a_new_way_to_pay_off_your_debt.html">"A new way to pay off your debt?"</a>. <a href="/wiki/Toronto_Star" title="Toronto Star">Toronto Star</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+new+way+to+pay+off+your+debt%3F&amp;rft.pub=Toronto+Star&amp;rft.date=2011-12-16&amp;rft.aulast=HASHAM&amp;rft.aufirst=ALYSHAH&amp;rft_id=https%3A%2F%2Fwww.thestar.com%2Fnews%2Fgta%2F2011%2F12%2F16%2Fa_new_way_to_pay_off_your_debt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CBCVan01-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-CBCVan01_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CBCVan01_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CBCVan01_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">McElroy, Justin (14 October 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171119021633/http://www.cbc.ca:80/news/canada/british-columbia/vancouver-school-board-byelection-results-2017-1.4355630">"Vision, Greens, NPA and OneCity all win seats in Vancouver School Board byelection"</a>. Vancouver, BC: CBC. Archived from <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/british-columbia/vancouver-school-board-byelection-results-2017-1.4355630">the original</a> on 19 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vision%2C+Greens%2C+NPA+and+OneCity+all+win+seats+in+Vancouver+School+Board+byelection&amp;rft.place=Vancouver%2C+BC&amp;rft.pub=CBC&amp;rft.date=2017-10-14&amp;rft.aulast=McElroy&amp;rft.aufirst=Justin&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fbritish-columbia%2Fvancouver-school-board-byelection-results-2017-1.4355630&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-historic-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-historic_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-historic_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Johnson, Lisa (10 May 2017). <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/british-columbia/bc-greens-historic-wins-1.4107747">"Greens celebrate 'historic' B.C. wins amid minority uncertainty"</a>. Victoria, BC: CBC<span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Greens+celebrate+%27historic%27+B.C.+wins+amid+minority+uncertainty&amp;rft.place=Victoria%2C+BC&amp;rft.pub=CBC&amp;rft.date=2017-05-10&amp;rft.aulast=Johnson&amp;rft.aufirst=Lisa&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fbritish-columbia%2Fbc-greens-historic-wins-1.4107747&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Goldring, Rick. <a rel="nofollow" class="external text" href="https://archive.fo/20170223184628/https://www.burlington.ca/en/your-city/mayor-rick-goldring.asp">"Mayor Rick Goldring"</a>. Burlingtom, ON: City of Burlington. Archived from <a rel="nofollow" class="external text" href="https://www.burlington.ca/en/your-city/mayor-rick-goldring.asp">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mayor+Rick+Goldring&amp;rft.place=Burlingtom%2C+ON&amp;rft.pub=City+of+Burlington&amp;rft.aulast=Goldring&amp;rft.aufirst=Rick&amp;rft_id=https%3A%2F%2Fwww.burlington.ca%2Fen%2Fyour-city%2Fmayor-rick-goldring.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.owensound.ca/sites/default/files//uploaded-site-files/2015-06-29%20-%20Council%20Meeting%20Highlights.pdf">"Council Meeting Highlights – June 29, 2015"</a> <span class="cs1-format">(PDF)</span>. Owen Sound, ON: City of Owen Sound. June 29, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Council+Meeting+Highlights+%E2%80%93+June+29%2C+2015&amp;rft.place=Owen+Sound%2C+ON&amp;rft.pub=City+of+Owen+Sound&amp;rft.date=2015-06-29&amp;rft_id=https%3A%2F%2Fwww.owensound.ca%2Fsites%2Fdefault%2Ffiles%2F%2Fuploaded-site-files%2F2015-06-29%2520-%2520Council%2520Meeting%2520Highlights.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-N88-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-N88_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hum, Nelson (26 August 2010). <a rel="nofollow" class="external text" href="https://www.webcitation.org/63LNfRLyG?url=http://www.news889.com/radio/news889/article/93848--killen-steps-down-from-council-duties-while-higgins-stays-during-provincial-election">"Killen steps down from council duties while Higgins stays during provincial election"</a>. News 88.9. Archived from <a rel="nofollow" class="external text" href="http://www.news889.com/radio/news889/article/93848--killen-steps-down-from-council-duties-while-higgins-stays-during-provincial-election">the original</a> on 20 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Killen+steps+down+from+council+duties+while+Higgins+stays+during+provincial+election&amp;rft.pub=News+88.9&amp;rft.date=2010-08-26&amp;rft.aulast=Hum&amp;rft.aufirst=Nelson&amp;rft_id=http%3A%2F%2Fwww.news889.com%2Fradio%2Fnews889%2Farticle%2F93848--killen-steps-down-from-council-duties-while-higgins-stays-during-provincial-election&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/politics/thunder-bay-mp-bruce-hyer-joins-green-party-doubles-caucus-1.2462983">"Thunder Bay MP Bruce Hyer joins Green Party, doubles caucus"</a>. <a href="/wiki/CBC_News" title="CBC News">CBC News</a>. 13 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">13 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thunder+Bay+MP+Bruce+Hyer+joins+Green+Party%2C+doubles+caucus&amp;rft.pub=CBC+News&amp;rft.date=2013-12-13&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fpolitics%2Fthunder-bay-mp-bruce-hyer-joins-green-party-doubles-caucus-1.2462983&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GM01-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-GM01_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUt7jCVZ?url=https://www.guelphmercury.com/news-story/3904192-coun-maggie-laidlaw-is-the-subject-of-guelph-integrity-commissioner-s-probe/">"Coun. Maggie Laidlaw is the subject of Guelph integrity commissioner's probe"</a>. Guelph, ON: <a href="/wiki/Guelph_Mercury" title="Guelph Mercury">Guelph Mercury</a>. 22 July 2013. Archived from <a rel="nofollow" class="external text" href="https://www.guelphmercury.com/news-story/3904192-coun-maggie-laidlaw-is-the-subject-of-guelph-integrity-commissioner-s-probe/">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Coun.+Maggie+Laidlaw+is+the+subject+of+Guelph+integrity+commissioner%E2%80%99s+probe&amp;rft.place=Guelph%2C+ON&amp;rft.pub=Guelph+Mercury&amp;rft.date=2013-07-22&amp;rft_id=https%3A%2F%2Fwww.guelphmercury.com%2Fnews-story%2F3904192-coun-maggie-laidlaw-is-the-subject-of-guelph-integrity-commissioner-s-probe%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Lucas, Phillippe. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6nLdRi74b?url=https://philippelucasvictoria.wordpress.com/">"Philippe Lucas"</a>. Philippe Lucas. Archived from <a rel="nofollow" class="external text" href="https://philippelucasvictoria.wordpress.com/">the original</a> on 7 January 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Philippe+Lucas&amp;rft.pub=Philippe+Lucas&amp;rft.aulast=Lucas&amp;rft.aufirst=Phillippe&amp;rft_id=https%3A%2F%2Fphilippelucasvictoria.wordpress.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Carr-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carr_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Thomas, Sandra (19 November 2011). <a rel="nofollow" class="external text" href="https://www.webcitation.org/63LM71WXU?url=http://www.vancourier.com/Adriane%2BCarr%2Bmakes%2BVancouver%2Bcity%2Bcouncil%2Bhistory/5739500/story.html">"Adriane Carr makes Vancouver city council history"</a>. Vancouver, British Columbia: <a href="/wiki/Vancouver_Courier" title="Vancouver Courier">Vancouver Courier</a>. Archived from <a rel="nofollow" class="external text" href="http://www.vancourier.com/Adriane+Carr+makes+Vancouver+city+council+history/5739500/story.html">the original</a> on 20 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Adriane+Carr+makes+Vancouver+city+council+history&amp;rft.place=Vancouver%2C+British+Columbia&amp;rft.pub=Vancouver+Courier&amp;rft.date=2011-11-19&amp;rft.aulast=Thomas&amp;rft.aufirst=Sandra&amp;rft_id=http%3A%2F%2Fwww.vancourier.com%2FAdriane%2BCarr%2Bmakes%2BVancouver%2Bcity%2Bcouncil%2Bhistory%2F5739500%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Harnett, Cindy (1 May 2011). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUtQNzvL?url=http://www.theprovince.com/news/decision-canada/elizabeth%2Bwins%2Bgreens%2Bfirst%2Bseat/4714067/story.html">"Elizabeth May wins Greens' first seat"</a>. The Province. Archived from <a rel="nofollow" class="external text" href="http://www.theprovince.com/news/decision-canada/elizabeth+wins+greens+first+seat/4714067/story.html">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Elizabeth+May+wins+Greens%27+first+seat&amp;rft.pub=The+Province&amp;rft.date=2011-05-01&amp;rft.aulast=Harnett&amp;rft.aufirst=Cindy&amp;rft_id=http%3A%2F%2Fwww.theprovince.com%2Fnews%2Fdecision-canada%2Felizabeth%2Bwins%2Bgreens%2Bfirst%2Bseat%2F4714067%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GPC09-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-GPC09_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Vigneault, Stéphane (15 January 2013). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6Dix4Sgcl?url=https://www.greenparty.ca/media-release/2013-01-15/tofino-has-new-green-mayor">"Tofino Has New, Green Mayor"</a>. <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>: <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>. Archived from <a rel="nofollow" class="external text" href="https://www.greenparty.ca/media-release/2013-01-15/tofino-has-new-green-mayor">the original</a> on 16 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tofino+Has+New%2C+Green+Mayor&amp;rft.place=Ottawa&amp;rft.pub=Green+Party+of+Canada&amp;rft.date=2013-01-15&amp;rft.aulast=Vigneault&amp;rft.aufirst=St%C3%A9phane&amp;rft_id=https%3A%2F%2Fwww.greenparty.ca%2Fmedia-release%2F2013-01-15%2Ftofino-has-new-green-mayor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://apps.kelowna.ca/CityPage/Docs/PDFs/%5CCouncil%5CMeetings%5CCouncil%20Meetings%202009%5C2009-02-16/Item%20(A.M.)%203.1%20-%20Council%20of%20Canadians,%20Kelowna%20Chapter%20-%20Request%20for%20Declaration%20of%20Support.pdf?t=020446428">"A communication for the attention of elected and public people in the Okanagan"</a> <span class="cs1-format">(PDF)</span>. Kelowna, BC: Kelowna Chapter Council of Canadians. 25 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+communication+for+the+attention+of+elected+and+public+people+in+the+Okanagan&amp;rft.place=Kelowna%2C+BC&amp;rft.pub=Kelowna+Chapter+Council+of+Canadians&amp;rft.date=2009-01-25&amp;rft_id=http%3A%2F%2Fapps.kelowna.ca%2FCityPage%2FDocs%2FPDFs%2F%255CCouncil%255CMeetings%255CCouncil%2520Meetings%25202009%255C2009-02-16%2FItem%2520%28A.M.%29%25203.1%2520-%2520Council%2520of%2520Canadians%2C%2520Kelowna%2520Chapter%2520-%2520Request%2520for%2520Declaration%2520of%2520Support.pdf%3Ft%3D020446428&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Proskiw, Adam (15 September 2016). <a rel="nofollow" class="external text" href="http://infotel.ca/newsitem/locals-lace-up-for-first-annual-charity-boxing-match-in-kelowna/it34642">"Locals lace up for first annual charity boxing match in Kelowna"</a>. InfoTel News Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Locals+lace+up+for+first+annual+charity+boxing+match+in+Kelowna&amp;rft.pub=InfoTel+News+Ltd&amp;rft.date=2016-09-15&amp;rft.aulast=Proskiw&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Finfotel.ca%2Fnewsitem%2Flocals-lace-up-for-first-annual-charity-boxing-match-in-kelowna%2Fit34642&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUu1fHRu?url=http://vancouver.ca/your-government/andrea-reimer.aspx">"City of Vancouver Biography - Andrea Reimer"</a>. City of Vancouver. Archived from <a rel="nofollow" class="external text" href="http://vancouver.ca/your-government/andrea-reimer.aspx">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=City+of+Vancouver+Biography+-+Andrea+Reimer&amp;rft.pub=City+of+Vancouver&amp;rft_id=http%3A%2F%2Fvancouver.ca%2Fyour-government%2Fandrea-reimer.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUuG8rHG?url=http://www.saugeentimes.com/Victoria%20Serda%20gets%20climate%20change%20assignment.htm">"Victoria Serda Gets Climate Change Assignment"</a>. Saugeen Times. Archived from <a rel="nofollow" class="external text" href="http://www.saugeentimes.com/Victoria%20Serda%20gets%20climate%20change%20assignment.htm">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Victoria+Serda+Gets+Climate+Change+Assignment&amp;rft.pub=Saugeen+Times&amp;rft_id=http%3A%2F%2Fwww.saugeentimes.com%2FVictoria%2520Serda%2520gets%2520climate%2520change%2520assignment.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TorStarSch01-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-TorStarSch01_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kalinowski, Tess (7 June 2018). <a rel="nofollow" class="external text" href="https://www.webcitation.org/700rwD2A6">"Green Party Leader Mike Schreiner makes history with victory in Guelph"</a>. Toronto, ON: <a href="/wiki/Toronto_Star" title="Toronto Star">Toronto Star</a>. Archived from <a rel="nofollow" class="external text" href="https://www.thestar.com/news/queenspark/2018/06/07/green-party-leader-mike-schreiner-makes-history-with-victory-in-guelph.html">the original</a> on 7 June 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+Leader+Mike+Schreiner+makes+history+with+victory+in+Guelph&amp;rft.place=Toronto%2C+ON&amp;rft.pub=Toronto+Star&amp;rft.date=2018-06-07&amp;rft.aulast=Kalinowski&amp;rft.aufirst=Tess&amp;rft_id=https%3A%2F%2Fwww.thestar.com%2Fnews%2Fqueenspark%2F2018%2F06%2F07%2Fgreen-party-leader-mike-schreiner-makes-history-with-victory-in-guelph.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NStar01-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-NStar01_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Metcalfe, Bill (5 October 2016). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUuVafKZ?url=http://www.nelsonstar.com/news/395855171.html">"BC Greens shun Shadrack"</a>. Nelson Star. Archived from <a rel="nofollow" class="external text" href="http://www.nelsonstar.com/news/395855171.html">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BC+Greens+shun+Shadrack&amp;rft.pub=Nelson+Star&amp;rft.date=2016-10-05&amp;rft.aulast=Metcalfe&amp;rft.aufirst=Bill&amp;rft_id=http%3A%2F%2Fwww.nelsonstar.com%2Fnews%2F395855171.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-MES01-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-MES01_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUrS3Ptk?url=http://www.yorkregion.com/news-story/1463572-shapero-retires-from-markham-politics/">"Shapero retires from Markham politics"</a>. Markham, ON: Markham Economist &amp; Sun. 2 September 2010. Archived from <a rel="nofollow" class="external text" href="http://www.yorkregion.com/news-story/1463572-shapero-retires-from-markham-politics/">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Shapero+retires+from+Markham+politics&amp;rft.place=Markham%2C+ON&amp;rft.pub=Markham+Economist+%26+Sun&amp;rft.date=2010-09-02&amp;rft_id=http%3A%2F%2Fwww.yorkregion.com%2Fnews-story%2F1463572-shapero-retires-from-markham-politics%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Palmer-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Palmer_32-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Palmer, Vaughn (23 October 2007). "B.C. Green party leader a practical, pragmatic, sure-footed politician". <i><a href="/wiki/The_Vancouver_Sun" class="mw-redirect" title="The Vancouver Sun">The Vancouver Sun</a></i>. p.&#160;A3.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Vancouver+Sun&amp;rft.atitle=B.C.+Green+party+leader+a+practical%2C+pragmatic%2C+sure-footed+politician&amp;rft.pages=A3&amp;rft.date=2007-10-23&amp;rft.aulast=Palmer&amp;rft.aufirst=Vaughn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CE-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-CE_33-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Strader, Matthew (29 September 2011). <a rel="nofollow" class="external text" href="https://www.webcitation.org/63LMMCKdO?url=http://www.caledonenterprise.com/news/former-orangeville-councillor-vies-for-provincial-seat/">"Former Orangeville councillor vies for provincial seat"</a>. Caledon Enterprise. Archived from <a rel="nofollow" class="external text" href="http://www.caledonenterprise.com/news/former-orangeville-councillor-vies-for-provincial-seat/">the original</a> on 20 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Former+Orangeville+councillor+vies+for+provincial+seat&amp;rft.pub=Caledon+Enterprise&amp;rft.date=2011-09-29&amp;rft.aulast=Strader&amp;rft.aufirst=Matthew&amp;rft_id=http%3A%2F%2Fwww.caledonenterprise.com%2Fnews%2Fformer-orangeville-councillor-vies-for-provincial-seat%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Vigneault, Stéphane (19 October 2012). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6BXOdGV9P?url=http://www.greenparty.ca/media-release/2012-10-19/green-party-past-president-and-arctic-scientist-wins-seat-whitehorse">"reen Party Past President and Arctic Scientist Wins Seat in Whitehorse"</a>. <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>: <a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a>. Archived from <a rel="nofollow" class="external text" href="https://greenparty.ca/media-release/2012-10-19/green-party-past-president-and-arctic-scientist-wins-seat-whitehorse">the original</a> on 19 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">19 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=reen+Party+Past+President+and+Arctic+Scientist+Wins+Seat+in+Whitehorse&amp;rft.place=Ottawa&amp;rft.pub=Green+Party+of+Canada&amp;rft.date=2012-10-19&amp;rft.aulast=Vigneault&amp;rft.aufirst=St%C3%A9phane&amp;rft_id=https%3A%2F%2Fgreenparty.ca%2Fmedia-release%2F2012-10-19%2Fgreen-party-past-president-and-arctic-scientist-wins-seat-whitehorse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web">Zanussi, Rebecca (5 November 2014). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUv68Ino?url=http://www.northbaynipissing.com/news-story/4961281-armour-councillor-ends-21-year-run/">"Armour councillor ends 21-year run"</a>. Almaguin News. Archived from <a rel="nofollow" class="external text" href="http://www.northbaynipissing.com/news-story/4961281-armour-councillor-ends-21-year-run/">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Armour+councillor+ends+21-year+run&amp;rft.pub=Almaguin+News&amp;rft.date=2014-11-05&amp;rft.aulast=Zanussi&amp;rft.aufirst=Rebecca&amp;rft_id=http%3A%2F%2Fwww.northbaynipissing.com%2Fnews-story%2F4961281-armour-councillor-ends-21-year-run%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web">Schmidt, Sarah (10 May 2001). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6oUvMozWc?url=https://nowtoronto.com/news/going-green/">"Going Green"</a>. Toronto, ON: Now Toronto. Archived from <a rel="nofollow" class="external text" href="https://nowtoronto.com/news/going-green/">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Going+Green&amp;rft.place=Toronto%2C+ON&amp;rft.pub=Now+Toronto&amp;rft.date=2001-05-10&amp;rft.aulast=Schmidt&amp;rft.aufirst=Sarah&amp;rft_id=https%3A%2F%2Fnowtoronto.com%2Fnews%2Fgoing-green%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-AW1-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-AW1_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6GdecLeHY?url=http://www.theprovince.com/news/Green%2BParty%2BAndrew%2BWeaver%2Bbecomes%2Bfirst%2BGreen%2Bafter/8378904/story.html">"Green Party: Andrew Weaver becomes first Green MLA after winning Oak Bay-Gordon Head"</a>. The Province. 15 May 2013. Archived from <a rel="nofollow" class="external text" href="http://www.theprovince.com/news/Green+Party+Andrew+Weaver+becomes+first+Green+after/8378904/story.html">the original</a> on 15 May 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party%3A+Andrew+Weaver+becomes+first+Green+MLA+after+winning+Oak+Bay-Gordon+Head&amp;rft.pub=The+Province&amp;rft.date=2013-05-15&amp;rft_id=http%3A%2F%2Fwww.theprovince.com%2Fnews%2FGreen%2BParty%2BAndrew%2BWeaver%2Bbecomes%2Bfirst%2BGreen%2Bafter%2F8378904%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://kimberley.civicweb.net/document/982">"MINUTES OF THE REGULAR MEETING OF COUNCIL HELD IN THE COUNCIL CHAMBER, CITY HALL, 340 SPOKANE STREET, ON MONDAY, DECEMBER 14, 2009 AT 7:00 P.M."</a> Kimberley, BC: City of Kimberley. 14 December 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MINUTES+OF+THE+REGULAR+MEETING+OF+COUNCIL+HELD+IN+THE+COUNCIL+CHAMBER%2C+CITY+HALL%2C+340+SPOKANE+STREET%2C+ON+MONDAY%2C+DECEMBER+14%2C+2009+AT+7%3A00+P.M.&amp;rft.place=Kimberley%2C+BC&amp;rft.pub=City+of+Kimberley&amp;rft.date=2009-12-14&amp;rft_id=https%3A%2F%2Fkimberley.civicweb.net%2Fdocument%2F982&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/servlet/story/RTGAM.20080830.wgreenparty30/BNStory/National/home">"Green Party to announce its first member of Parliament"</a>. <i><a href="/wiki/The_Globe_and_Mail" title="The Globe and Mail">The Globe and Mail</a></i>. 30 August 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Green+Party+to+announce+its+first+member+of+Parliament&amp;rft.date=2008-08-30&amp;rft_id=https%3A%2F%2Fwww.theglobeandmail.com%2Fservlet%2Fstory%2FRTGAM.20080830.wgreenparty30%2FBNStory%2FNational%2Fhome&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Green+politicians+who+have+held+office+in+Canada" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_Canada" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#289728;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPC" title="Template:GPC"><abbr title="View this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPC" title="Template talk:GPC"><abbr title="Discuss this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPC&amp;action=edit"><abbr title="Edit this template" style=";background-color:#289728;color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_Canada" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Party wings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada" title="Green Party of Canada">Green Party of Canada</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/Green_Party_of_Canada#Provincial_&amp;_territorial_parties" title="Green Party of Canada">Provincial &amp; territorial</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta" title="Green Party of Alberta">Alberta</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia" title="Green Party of British Columbia">British Columbia</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba" title="Green Party of Manitoba">Manitoba</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick" title="Green Party of New Brunswick">New Brunswick</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia" title="Green Party of Nova Scotia">Nova Scotia</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario" title="Green Party of Ontario">Ontario</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island" title="Green Party of Prince Edward Island">Prince Edward Island</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec" title="Green Party of Quebec">Quebec</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan" title="Green Party of Saskatchewan">Saskatchewan</a></li>
+<li><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Municipal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burnaby_Municipal_Green_Party" title="Burnaby Municipal Green Party">Burnaby</a></li>
+<li><a href="/wiki/Green_Party_of_Vancouver" title="Green Party of Vancouver">Vancouver</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Former parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alberta_Greens" title="Alberta Greens">Alberta</a></li>
+<li><a href="/wiki/Montr%C3%A9al_%C3%89cologique" title="Montréal Écologique">Montreal</a></li>
+<li><a href="/wiki/Winnipeg_Green_Party" title="Winnipeg Green Party">Winnipeg</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Green_Maple_Leaf.svg" class="image"><img alt="Green Maple Leaf.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/60px-Green_Maple_Leaf.svg.png" width="60" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/90px-Green_Maple_Leaf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Maple_Leaf.svg/120px-Green_Maple_Leaf.svg.png 2x" data-file-width="300" data-file-height="325" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Federal level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leaders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trevor_Hancock" title="Trevor Hancock">Hancock</a></li>
+<li><a href="/wiki/Seymour_Trieger" title="Seymour Trieger">Trieger</a></li>
+<li><a href="/wiki/Kathryn_Cholette" title="Kathryn Cholette">Cholette</a></li>
+<li><a href="/wiki/Chris_Lea" title="Chris Lea">Lea</a></li>
+<li><a href="/wiki/Wendy_Priesnitz" title="Wendy Priesnitz">Priesnitz</a></li>
+<li>Garfinkle (<i>interim</i>)</li>
+<li><a href="/wiki/Joan_Russow" title="Joan Russow">Russow</a></li>
+<li><a href="/wiki/Chris_Bradshaw" title="Chris Bradshaw">Bradshaw</a> (<i>interim</i>)</li>
+<li><a href="/wiki/Jim_Harris_(politician)" title="Jim Harris (politician)">Harris</a></li>
+<li><a href="/wiki/Elizabeth_May" title="Elizabeth May">May</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Leadership elections</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_leadership_election,_2006" title="Green Party of Canada leadership election, 2006">2006</a></li>
+<li><i><a href="/wiki/Green_Party_of_Canada_leadership_elections" title="Green Party of Canada leadership elections">list</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Parliamentary election<br />candidates</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Canada_candidates,_1984_Canadian_federal_election" title="Green Party of Canada candidates, 1984 Canadian federal election">1984</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1988_Canadian_federal_election" title="Green Party of Canada candidates, 1988 Canadian federal election">1988</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1993_Canadian_federal_election" title="Green Party of Canada candidates, 1993 Canadian federal election">1993</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_1997_Canadian_federal_election" title="Green Party of Canada candidates, 1997 Canadian federal election">1997</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2000_Canadian_federal_election" title="Green Party of Canada candidates, 2000 Canadian federal election">2000</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2004_Canadian_federal_election" title="Green Party of Canada candidates, 2004 Canadian federal election">2004</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2006_Canadian_federal_election" title="Green Party of Canada candidates, 2006 Canadian federal election">2006</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2008_Canadian_federal_election" title="Green Party of Canada candidates, 2008 Canadian federal election">2008</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2011_Canadian_federal_election" title="Green Party of Canada candidates, 2011 Canadian federal election">2011</a></li>
+<li><a href="/wiki/Green_Party_of_Canada_candidates,_2015_Canadian_federal_election" title="Green Party of Canada candidates, 2015 Canadian federal election">2015</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">Provincial level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%"><a href="/wiki/List_of_Green_party_leaders_in_Canada" title="List of Green party leaders in Canada">Current leaders</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cheryle_Chagnon-Greyeyes" title="Cheryle Chagnon-Greyeyes">Chagnon-Greyeyes – AB</a></li>
+<li><a href="/wiki/Andrew_Weaver" title="Andrew Weaver">Weaver – BC</a></li>
+<li><a href="/wiki/James_Beddome" title="James Beddome">Beddome – MB</a></li>
+<li><a href="/wiki/David_Coon" title="David Coon">Coon – NB</a></li>
+<li><a href="/wiki/Thomas_Trappenberg" title="Thomas Trappenberg">Trappenberg – NS</a></li>
+<li><a href="/wiki/Mike_Schreiner" title="Mike Schreiner">Schreiner – ON</a></li>
+<li><a href="/wiki/Peter_Bevan-Baker" title="Peter Bevan-Baker">Bevan-Baker – PE</a></li>
+<li><a href="/wiki/Alex_Tyrrell" title="Alex Tyrrell">Tyrrell – QC</a></li>
+<li><a href="/wiki/Shawn_Setyo" title="Shawn Setyo">Setyo – SK</a></li>
+<li><a href="/wiki/Frank_de_Jong" title="Frank de Jong">de Jong – YT</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#289728;color:white;;width:1%">Upcoming or most recent<br />leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_Alberta_leadership_election,_2018" title="Green Party of Alberta leadership election, 2018">Alberta 2018</a></li>
+<li><a href="/wiki/Green_Party_of_British_Columbia#Sterk_and_Weaver_(2007-present)" title="Green Party of British Columbia">British Columbia 2015</a></li>
+<li><a href="/wiki/Green_Party_of_Manitoba#Leaders" title="Green Party of Manitoba">Manitoba 2014</a></li>
+<li><a href="/wiki/Green_Party_of_New_Brunswick#2012_leadership_election" title="Green Party of New Brunswick">New Brunswick 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Nova_Scotia#Leadership" title="Green Party of Nova Scotia">Nova Scotia 2016</a></li>
+<li><a href="/wiki/Green_Party_of_Ontario_leadership_election,_2009" title="Green Party of Ontario leadership election, 2009">Ontario 2009</a></li>
+<li><a href="/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012" title="Green Party of Prince Edward Island leadership election, 2012">Prince Edward Island 2012</a></li>
+<li><a href="/wiki/Green_Party_of_Quebec#Current_Green_Party_of_Quebec_(2001–present)" title="Green Party of Quebec">Quebec 2013</a></li>
+<li><a href="/wiki/Green_Party_of_Saskatchewan#Party_leaders" title="Green Party of Saskatchewan">Saskatchewan 2016</a></li>
+<li><i><a href="/wiki/Yukon_Green_Party" title="Yukon Green Party">Yukon 2017</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:white; -moz-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; -webkit-box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728; box-shadow: inset 2px 2px 0 #289728, inset -2px -2px 0 #289728;">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_Canada" title="History of the Green Party of Canada">History</a></li>
+<li><a class="mw-selflink selflink">List of Green politicians who have held office in Canada</a></li>
+<li><a href="/wiki/Young_Greens_of_Canada" title="Young Greens of Canada">Young Greens of Canada</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Elected_Green_politicians" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightgreen;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_poli" title="Template:Green poli"><abbr title="View this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_poli" title="Template talk:Green poli"><abbr title="Discuss this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_poli&amp;action=edit"><abbr title="Edit this template" style="background:lightgreen;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Elected_Green_politicians" style="font-size:114%;margin:0 4em">Elected Green politicians</div></th></tr><tr><th scope="row" class="navbox-group" style="background:lightgreen;;width:1%">Countries</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Australian_Greens_parliamentarians" title="List of Australian Greens parliamentarians">Australia</a></li>
+<li><a class="mw-selflink selflink">Canada</a></li>
+<li><a href="/wiki/List_of_German_Green_Party_politicians" title="List of German Green Party politicians">Germany</a></li>
+<li>Netherlands
+<ul><li><a href="/wiki/Members_of_the_House_of_Representatives_of_the_Netherlands_for_GreenLeft,_1989%E2%80%93present" title="Members of the House of Representatives of the Netherlands for GreenLeft, 1989–present">House of Representatives</a></li>
+<li><a href="/wiki/List_of_members_of_the_Senate_of_the_Netherlands_for_GreenLeft_(1989%E2%80%93present)" title="List of members of the Senate of the Netherlands for GreenLeft (1989–present)">Senate</a></li></ul></li>
+<li><a href="/wiki/List_of_Green_Party_of_Aotearoa_New_Zealand_MPs" title="List of Green Party of Aotearoa New Zealand MPs">New Zealand</a></li>
+<li><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States" title="List of Green politicians who have held office in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2184
+Cached time: 20180929142034
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.480 seconds
+Real time usage: 0.539 seconds
+Preprocessor visited node count: 2392/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 129182/2097152 bytes
+Template argument size: 466/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 112477/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.253/10.000 seconds
+Lua memory usage: 3.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  418.879      1 -total
+ 76.65%  321.064      1 Template:Reflist
+ 61.76%  258.687     37 Template:Cite_web
+  8.07%   33.784      1 Template:Expand_list
+  6.96%   29.166      5 Template:Navbox
+  5.59%   23.407      1 Template:GPC
+  4.94%   20.705      2 Template:Hatnote
+  3.26%   13.666      1 Template:TDMCA
+  2.88%   12.066      1 Template:DMCA
+  2.38%    9.970      1 Template:Compact_ToC
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17928575-0!canonical and timestamp 20180929142034 and revision id 861164340
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;oldid=861164340">https://en.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;oldid=861164340</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_Party_politicians_in_Canada" title="Category:Green Party politicians in Canada">Green Party politicians in Canada</a></li><li><a href="/wiki/Category:Lists_of_Canadian_politicians" title="Category:Lists of Canadian politicians">Lists of Canadian politicians</a></li><li><a href="/wiki/Category:Green_Party_MPs,_MPPs,_and_MLAs_of_Canada" title="Category:Green Party MPs, MPPs, and MLAs of Canada">Green Party MPs, MPPs, and MLAs of Canada</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Incomplete_lists_from_August_2008" title="Category:Incomplete lists from August 2008">Incomplete lists from August 2008</a></li><li><a href="/wiki/Category:Dynamic_lists" title="Category:Dynamic lists">Dynamic lists</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Green+politicians+who+have+held+office+in+Canada" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Green+politicians+who+have+held+office+in+Canada" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_of_Green_politicians_who_have_held_office_in_Canada" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_Green_politicians_who_have_held_office_in_Canada">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_Green_politicians_who_have_held_office_in_Canada" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_Green_politicians_who_have_held_office_in_Canada" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;oldid=861164340" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6572489" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Green_politicians_who_have_held_office_in_Canada&amp;id=861164340" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+Green+politicians+who+have+held+office+in+Canada">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+Green+politicians+who+have+held+office+in+Canada&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6572489#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 15:14<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_Green_politicians_who_have_held_office_in_Canada&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.480","walltime":"0.539","ppvisitednodes":{"value":2392,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":129182,"limit":2097152},"templateargumentsize":{"value":466,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":112477,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  418.879      1 -total"," 76.65%  321.064      1 Template:Reflist"," 61.76%  258.687     37 Template:Cite_web","  8.07%   33.784      1 Template:Expand_list","  6.96%   29.166      5 Template:Navbox","  5.59%   23.407      1 Template:GPC","  4.94%   20.705      2 Template:Hatnote","  3.26%   13.666      1 Template:TDMCA","  2.88%   12.066      1 Template:DMCA","  2.38%    9.970      1 Template:Compact_ToC"]},"scribunto":{"limitreport-timeusage":{"value":"0.253","limit":"10.000"},"limitreport-memusage":{"value":3764455,"limit":52428800}},"cachereport":{"origin":"mw2184","timestamp":"20180929142034","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":639,"wgHostname":"mw2184"});});</script>
+	</body>
+</html>

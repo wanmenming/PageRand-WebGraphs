@@ -1,0 +1,696 @@
+https://en.wikipedia.org/wiki/European_Federation_of_Green_Parties/European_Free_Alliance
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Greens–European Free Alliance - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Greens–European_Free_Alliance","wgTitle":"Greens–European Free Alliance","wgCurRevisionId":860983955,"wgRevisionId":860983955,"wgArticleId":357420,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles with GND identifiers","Political parties established in 1999","European Parliament party groups","The Greens–European Free Alliance","1999 establishments in the European Union"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Greens–European_Free_Alliance","wgRelevantArticleId":357420,"wgRequestId":"W7IMlArAIDQAAIhRnf8AAACY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"European_Federation_of_Green_Parties/European_Free_Alliance","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Greens%E2%80%93European_Free_Alliance","wgWikibaseItemId":"Q751935","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/4/4c/Logo_greens-efa.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Greens%E2%80%93European_Free_Alliance"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Greens%E2%80%93European_Free_Alliance"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Greens–European_Free_Alliance rootpage-Greens–European_Free_Alliance skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Greens–European Free Alliance</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=European_Federation_of_Green_Parties/European_Free_Alliance&amp;redirect=no" class="mw-redirect" title="European Federation of Green Parties/European Free Alliance">European Federation of Green Parties/European Free Alliance</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background:#efefef">The Greens/European<br />Free Alliance</th></tr><tr><td colspan="2" style="text-align:center;background:#efefef">
+<b><a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">European parliamentary group</a></b></td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Logo_greens-efa.png" class="image"><img alt="Logo greens-efa.png" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Logo_greens-efa.png/190px-Logo_greens-efa.png" width="190" height="152" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Logo_greens-efa.png/285px-Logo_greens-efa.png 1.5x, //upload.wikimedia.org/wikipedia/en/4/4c/Logo_greens-efa.png 2x" data-file-width="300" data-file-height="240" /></a></td></tr><tr><th scope="row">Name</th><td class="fn org">
+The Greens/European Free Alliance</td></tr><tr><th scope="row">English abbr.</th><td class="nickname">
+Greens/EFA<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">French abbr.</th><td class="nickname">
+Verts/ALE<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Formal name</th><td class="nickname">
+Parliamentary Group of The Greens/European Free Alliance in the European Parliament</td></tr><tr><th scope="row">Ideology</th><td class="category">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><sup id="cite_ref-Nordsieck_3-0" class="reference"><a href="#cite_note-Nordsieck-3">&#91;3&#93;</a></sup><br /><a href="/wiki/Minority_politics" class="mw-redirect" title="Minority politics">Minority politics</a><sup id="cite_ref-Nordsieck_3-1" class="reference"><a href="#cite_note-Nordsieck-3">&#91;3&#93;</a></sup><br /><a href="/wiki/Regionalism_(politics)" title="Regionalism (politics)">Regionalism</a><sup id="cite_ref-Nordsieck_3-2" class="reference"><a href="#cite_note-Nordsieck-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/European_political_party" title="European political party">European parties</a></th><td>
+<a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a><br /><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a><br /><a href="/wiki/European_Pirate_Party" title="European Pirate Party">European Pirate Party</a></td></tr><tr><th scope="row">From</th><td>
+1999</td></tr><tr><th scope="row">Preceded by</th><td>
+<a href="/wiki/The_Green_Group_in_the_European_Parliament" title="The Green Group in the European Parliament">The Green Group</a><br /><a href="/wiki/European_Radical_Alliance" title="European Radical Alliance">European Radical Alliance</a></td></tr><tr><th scope="row">Chaired by</th><td>
+<a href="/wiki/Philippe_Lamberts" title="Philippe Lamberts">Philippe Lamberts</a> MEP &amp; <a href="/wiki/Ska_Keller" title="Ska Keller">Ska Keller</a> MEP</td></tr><tr><th scope="row"><a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">MEP(s)</a></th><td>
+<div style="width: 100px;"><span class="nowrap">51 / 751</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 7%; height: 100%;"></div></div></div></td></tr><tr><th scope="row">Website</th><td>
+<a rel="nofollow" class="external free" href="http://www.greens-efa.eu/">http://www.greens-efa.eu/</a></td></tr></tbody></table>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Greens-European Free Alliance</b> (<b>Greens-EFA</b>) is the <a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">political group</a> in the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> containing <a href="/wiki/Green_politics" title="Green politics">green</a>, <a href="/wiki/Regionalism_(politics)" title="Regionalism (politics)">regionalist</a> and <a href="/wiki/Left-wing_nationalist" class="mw-redirect" title="Left-wing nationalist">left-wing nationalist</a> political parties.<sup id="cite_ref-PetersonShackleton2012_4-0" class="reference"><a href="#cite_note-PetersonShackleton2012-4">&#91;4&#93;</a></sup><sup id="cite_ref-Staab2011_5-0" class="reference"><a href="#cite_note-Staab2011-5">&#91;5&#93;</a></sup><sup id="cite_ref-Trechsel2013_6-0" class="reference"><a href="#cite_note-Trechsel2013-6">&#91;6&#93;</a></sup> The group was formed following the  <a href="/wiki/European_Parliament_election,_1999" title="European Parliament election, 1999">1999 European elections</a> for the <a href="/wiki/Fifth_European_Parliament" title="Fifth European Parliament">5th European Parliament</a>.
+</p><p>The Greens/EFA group consists of three distinct <a href="/wiki/European_political_party" title="European political party">European political parties</a> – the larger <a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a> (EGP) and the <a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a> (EFA),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> and the smaller <a href="/wiki/European_Pirate_Party" title="European Pirate Party">European Pirate Party</a>. The EFA consists of parties representing <a href="/wiki/Stateless_nations" class="mw-redirect" title="Stateless nations">stateless nations</a>, <a href="/wiki/Regionalism_(politics)" title="Regionalism (politics)">regionalist</a> and <a href="/wiki/Political_parties_of_minorities" title="Political parties of minorities">minority political</a> interests. The Alliance has generally limited its membership to <a href="/wiki/Progressivism" title="Progressivism">progressive</a> parties.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> These European parties are joined by MEPs from non-aligned national parties, which have included the Dutch <a href="/wiki/Europe_Transparent" title="Europe Transparent">Europe Transparent</a> (2004–2009) and the Swedish <a href="/wiki/Pirate_Party_(Sweden)" title="Pirate Party (Sweden)">Pirate Party</a> (2009–2014).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Group_members">Group members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=edit&amp;section=1" title="Edit section: Group members">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>State</th>
+<th>National party</th>
+<th>European party
+</th>
+<th><a href="/wiki/List_of_members_of_the_European_Parliament,_2004%E2%80%9309" title="List of members of the European Parliament, 2004–09">MEPs 2004-2009</a>
+</th>
+<th><a href="/wiki/List_of_members_of_the_European_Parliament,_2009%E2%80%9314" title="List of members of the European Parliament, 2009–14">MEPs 2009-2014</a>
+</th>
+<th><a href="/wiki/List_of_members_of_the_European_Parliament,_2014%E2%80%9319" title="List of members of the European Parliament, 2014–19">MEPs 2014-2019</a>
+</th></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Austria" title="Austria">Austria</a></td>
+<td><a href="/wiki/The_Greens_%E2%80%93_The_Green_Alternative" title="The Greens – The Green Alternative">The Greens – The Green Alternative</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 19</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 11%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 19</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 11%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">3 / 18</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 17%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+<td><a href="/wiki/Ecolo" title="Ecolo">Ecolo</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 24</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 4%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 22</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 9%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 5%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Groen_(political_party)" title="Groen (political party)">Green</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 24</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 4%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 22</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 5%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 5%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/New_Flemish_Alliance" title="New Flemish Alliance">New Flemish Alliance</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td>in <a href="/wiki/European_People%27s_Party_(European_Parliament_group)" class="mw-redirect" title="European People&#39;s Party (European Parliament group)">EPP-ED</a> group</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 22</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 5%; height: 100%;"></div></div></div></td>
+<td>in <a href="/wiki/European_Conservatives_and_Reformists" title="European Conservatives and Reformists">ECR</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Croatia" title="Croatia"><img alt="Croatia" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Croatia" title="Croatia">Croatia</a></td>
+<td><a href="/wiki/Davor_%C5%A0krlec" title="Davor Škrlec">Davor Škrlec</a> <small>(<a href="/wiki/Independent_(politician)" class="mw-redirect" title="Independent (politician)">Independent</a>)</small> <br /><small>Elected on list and formerly member of <a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">ORaH</a></small></td>
+<td><a href="/wiki/Independent_(politician)" class="mw-redirect" title="Independent (politician)">Independent</a></td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 11</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 9%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="740" data-file-height="560" /></a></span> <a href="/wiki/Denmark" title="Denmark">Denmark</a></td>
+<td><a href="/wiki/Socialist_People%27s_Party_(Denmark)" title="Socialist People&#39;s Party (Denmark)">Socialist People's Party</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a>, <a href="/wiki/Nordic_Green_Left_Alliance" title="Nordic Green Left Alliance">NGLA</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 14</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 7%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 13</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 8%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 13</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 8%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Estonia" title="Estonia"><img alt="Estonia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630" /></a></span> <a href="/wiki/Estonia" title="Estonia">Estonia</a></td>
+<td><a href="/wiki/Indrek_Tarand" title="Indrek Tarand">Indrek Tarand</a> <small>(<a href="/wiki/Independent_(politician)" class="mw-redirect" title="Independent (politician)">Independent</a>)</small></td>
+<td><a href="/wiki/Independent_(politician)" class="mw-redirect" title="Independent (politician)">Independent</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 6</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #DDDDDD; width: 17%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 6</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #DDDDDD; width: 17%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Finland" title="Finland">Finland</a></td>
+<td><a href="/wiki/Green_League" title="Green League">Green League</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 14</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 7%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 13</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 15%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 13</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 8%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/France" title="France">France</a></td>
+<td><a href="/wiki/Europe_Ecology_%E2%80%93_The_Greens" title="Europe Ecology – The Greens">Europe Ecology – The Greens</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">6 / 78</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 8%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">15 / 74</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 20%; height: 100%;"></div></div></div><sup id="cite_ref-LisbonMEP_11-0" class="reference"><a href="#cite_note-LisbonMEP-11">&#91;B 1&#93;</a></sup></td>
+<td><div style="width: 100px;"><span class="nowrap">6 / 74</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 8%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Party_of_the_Corsican_Nation" title="Party of the Corsican Nation">Party of the Corsican Nation</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 78</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 1%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 72</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 1%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 0%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Germany" title="Germany">Germany</a></td>
+<td><a href="/wiki/Alliance_%2790/The_Greens" class="mw-redirect" title="Alliance &#39;90/The Greens">Alliance '90/The Greens</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">13 / 99</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 13%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">14 / 99</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 14%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">11 / 96</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 11%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pirate_Party_Germany" title="Pirate Party Germany">Pirate Party</a></td>
+<td><a href="/wiki/European_Pirate_Party" title="European Pirate Party">European Pirate Party</a></td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 96</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #000000; width: 1%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">Ecological Democratic Party</a></td>
+<td>non-aligned</td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 96</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #DDDDDD; width: 1%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Greece" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td><a href="/wiki/Ecologist_Greens" title="Ecologist Greens">Ecologist Greens</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 24</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 22</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 5%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Hungary" title="Hungary">Hungary</a></td>
+<td><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 5%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a></td>
+<td>non-aligned</td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #DDDDDD; width: 5%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland"><img alt="Republic of Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ireland" title="Ireland">Ireland</a></td>
+<td><a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Green Party (Ireland)</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td>-</td>
+<td>-</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 11</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td><a href="/wiki/Federation_of_the_Greens" title="Federation of the Greens">Federation of the Greens</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 78</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 3%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 72</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Marco_Affronte" title="Marco Affronte">Marco Affronte</a> <small>(<a href="/wiki/Independent_politician" title="Independent politician">Independent</a>)</small><br /><small>Elected on list and formerly member of <a href="/wiki/Five_Star_Movement" title="Five Star Movement">Five Star Movement</a></small></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td>-</td>
+<td>-</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 1%; height: 100%;"></div></div></div><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;B 2&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Latvia" title="Latvia"><img alt="Latvia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/35px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/46px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Latvia" title="Latvia">Latvia</a></td>
+<td><a href="/wiki/Latvian_Russian_Union" title="Latvian Russian Union">Latvian Russian Union</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 9</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 11%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 9</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 11%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 8</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 13%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Lithuania" title="Lithuania"><img alt="Lithuania" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="500" data-file-height="300" /></a></span> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a></td>
+<td><a href="/wiki/Lithuanian_Farmers_and_Greens_Union" title="Lithuanian Farmers and Greens Union">Lithuanian Farmers and Greens Union</a></td>
+<td>non-aligned</td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 11</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #DDDDDD; width: 9%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Luxembourg" title="Luxembourg"><img alt="Luxembourg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a></td>
+<td><a href="/wiki/The_Greens_(Luxembourg)" title="The Greens (Luxembourg)">The Greens</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 6</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 17%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 6</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 17%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 6</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 17%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+<td><a href="/wiki/GreenLeft" class="mw-redirect" title="GreenLeft">GreenLeft</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 23</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 9%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">3 / 26</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 12%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 26</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 8%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Europe_Transparent" title="Europe Transparent">Europe Transparent</a></td>
+<td>non-aligned</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 23</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 9%; height: 100%;"></div></div></div></td>
+<td>–</td>
+<td>–
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td><a href="/wiki/LIVRE_(political_party)" class="mw-redirect" title="LIVRE (political party)">LIVRE</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;B 3&#93;</a></sup></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td>–</td>
+<td>–
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Romania" title="Romania"><img alt="Romania" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td><a href="/wiki/Independent_(politician)" class="mw-redirect" title="Independent (politician)">Independent</a> (<a href="/wiki/L%C3%A1szl%C3%B3_T%C5%91k%C3%A9s" title="László Tőkés">László Tőkés</a>)</td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 35</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 3%; height: 100%;"></div></div></div></td>
+<td>–<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;B 4&#93;</a></sup></td>
+<td>–
+</td></tr>
+<tr>
+<td rowspan="6"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Spain" title="Spain">Spain</a>
+</td>
+<td><a href="/wiki/EQUO" class="mw-redirect" title="EQUO">EQUO</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 0%; height: 100%;"></div></div></div><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;B 5&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Republican_Left_of_Catalonia" title="Republican Left of Catalonia">Republican Left of Catalonia</a> / <a href="/wiki/L%27Esquerra_pel_Dret_a_Decidir" class="mw-redirect" title="L&#39;Esquerra pel Dret a Decidir">Left for the Right to Decide</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 0%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 2%; height: 100%;"></div></div></div><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;B 6&#93;</a></sup></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 4%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Initiative_for_Catalonia_Greens" title="Initiative for Catalonia Greens">Initiative for Catalonia Greens</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 2%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 2%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 2%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Valencian_Nationalist_Bloc" title="Valencian Nationalist Bloc">Valencian Nationalist Bloc</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 2%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eusko_Alkartasuna" title="Eusko Alkartasuna">Basque Solidarity</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 2%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 0%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 0%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Galician_Nationalist_Bloc" title="Galician Nationalist Bloc">Galician Nationalist Bloc</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 0%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 2%; height: 100%;"></div></div></div><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;B 7&#93;</a></sup></td>
+<td><div style="width: 100px;"><span class="nowrap">0.5 / 54</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 0.9%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Slovenia" title="Slovenia"><img alt="Slovenia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a></td>
+<td><a href="/wiki/Verjamem" title="Verjamem">Verjamem</a></td>
+<td>Non-affiliated</td>
+<td>–</td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 8</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #DDDDDD; width: 13%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+</td>
+<td><a href="/wiki/Green_Party_(Sweden)" title="Green Party (Sweden)">Green Party</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 19</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 5%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 20</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 10%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">4 / 20</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 20%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pirate_Party_(Sweden)" title="Pirate Party (Sweden)">Pirate Party</a></td>
+<td><a href="/wiki/European_Pirate_Party" title="European Pirate Party">European Pirate Party</a></td>
+<td>–</td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 20</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #000000; width: 10%; height: 100%;"></div></div></div><sup id="cite_ref-LisbonMEP_11-1" class="reference"><a href="#cite_note-LisbonMEP-11">&#91;B 1&#93;</a></sup></td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 20</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #000000; width: 0%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td>
+<td><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a></td>
+<td><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 78</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 3%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 3%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">3 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 4%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Scottish_National_Party" title="Scottish National Party">Scottish National Party</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 78</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 3%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 3%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">2 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 3%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Plaid_Cymru" title="Plaid Cymru">Plaid Cymru – Party of Wales</a></td>
+<td><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 78</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 1%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 1%; height: 100%;"></div></div></div></td>
+<td><div style="width: 100px;"><span class="nowrap">1 / 73</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #671B88; width: 1%; height: 100%;"></div></div></div>
+</td></tr>
+<tr>
+<td colspan="4">Sources</td>
+<td><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;11&#93;</a></sup></td>
+<td><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;12&#93;</a></sup>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-LisbonMEP-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-LisbonMEP_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LisbonMEP_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">including one <a href="/wiki/European_Parliament_election,_2009#Observer_MEPs" title="European Parliament election, 2009">Lisbon MEP</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">From 11/01/2017</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Independent candidate <a href="/wiki/Rui_Tavares" title="Rui Tavares">Rui Tavares</a> until formation of LIVRE in 2014.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Realigned with <a href="/wiki/European_People%27s_Party_(European_Parliament_group)" class="mw-redirect" title="European People&#39;s Party (European Parliament group)">EPP</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Is shared with Bloc Nacionalista Vaencià</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">until 31/12/2011</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">from 01/01/2012</span>
+</li>
+</ol></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg/300px-The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg.png" width="300" height="321" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg/450px-The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg/600px-The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg.png 2x" data-file-width="645" data-file-height="690" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:The_Greens%E2%80%93European_Free_Alliance_MEPs_map.svg" class="internal" title="Enlarge"></a></div>The Greens/EFA has MEPs from 18 states, 9 with multiple MEPs (in dark green) and 9 with one MEP each (light green).</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greens-efa.eu/about-us/48-who-we-are.html">Who we are - The Greens | European Free Alliance</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120118235647/http://www.greens-efa.eu/about-us/48-who-we-are.html">Archived</a> 2012-01-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Greens-efa.eu. Retrieved on 2013-09-28.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greens-efa.eu/fr/notre-groupe/48-qui-sommes-nous.html">Qui sommes-nous&#160;? - The Greens | European Free Alliance</a>. Greens-efa.eu. Retrieved on 2013-09-28.</span>
+</li>
+<li id="cite_note-Nordsieck-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nordsieck_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nordsieck_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Nordsieck_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Nordsieck, Wolfram (2015). <a rel="nofollow" class="external text" href="http://www.parties-and-elections.eu/eu.html">"European Union"</a>. <i>Parties and Elections in Europe</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170608032858/http://www.parties-and-elections.eu/eu.html">Archived</a> from the original on 2017-06-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Parties+and+Elections+in+Europe&amp;rft.atitle=European+Union&amp;rft.date=2015&amp;rft.aulast=Nordsieck&amp;rft.aufirst=Wolfram&amp;rft_id=http%3A%2F%2Fwww.parties-and-elections.eu%2Feu.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreens%E2%80%93European+Free+Alliance" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-PetersonShackleton2012-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-PetersonShackleton2012_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">John Peterson; Michael Shackleton (22 March 2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=oaD01PaTFE0C&amp;pg=PA341"><i>The Institutions of the European Union</i></a>. Oxford University Press. pp.&#160;341–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-957498-8" title="Special:BookSources/978-0-19-957498-8">978-0-19-957498-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Institutions+of+the+European+Union&amp;rft.pages=341-&amp;rft.pub=Oxford+University+Press&amp;rft.date=2012-03-22&amp;rft.isbn=978-0-19-957498-8&amp;rft.au=John+Peterson&amp;rft.au=Michael+Shackleton&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoaD01PaTFE0C%26pg%3DPA341&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreens%E2%80%93European+Free+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Staab2011-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Staab2011_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Andreas Staab (24 June 2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=gePMlsVzZI0C&amp;pg=PA67"><i>The European Union Explained, Second Edition: Institutions, Actors, Global Impact</i></a>. Indiana University Press. pp.&#160;67–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-253-00164-1" title="Special:BookSources/978-0-253-00164-1">978-0-253-00164-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+European+Union+Explained%2C+Second+Edition%3A+Institutions%2C+Actors%2C+Global+Impact&amp;rft.pages=67-&amp;rft.pub=Indiana+University+Press&amp;rft.date=2011-06-24&amp;rft.isbn=978-0-253-00164-1&amp;rft.au=Andreas+Staab&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DgePMlsVzZI0C%26pg%3DPA67&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreens%E2%80%93European+Free+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Trechsel2013-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Trechsel2013_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Alexander H. Trechsel (13 September 2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=mTndAAAAQBAJ&amp;pg=PT72"><i>Towards a Federal Europe</i></a>. Taylor &amp; Francis. pp.&#160;72–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-317-99818-1" title="Special:BookSources/978-1-317-99818-1">978-1-317-99818-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Towards+a+Federal+Europe&amp;rft.pages=72-&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=2013-09-13&amp;rft.isbn=978-1-317-99818-1&amp;rft.au=Alexander+H.+Trechsel&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DmTndAAAAQBAJ%26pg%3DPT72&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreens%E2%80%93European+Free+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greens-efa.eu/about-us/48-who-we-are.html">Who we are</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120118235647/http://www.greens-efa.eu/about-us/48-who-we-are.html">Archived</a> 2012-01-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. on greens-efa.eu</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFGupta2008" class="citation journal">Gupta, Devashree (April 2008). <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1057/palgrave.cep.6110127">"Nationalism across borders: transnational nationalist advocacy in the European Union"</a>. <i><a href="/wiki/Comparative_European_Politics" title="Comparative European Politics">Comparative European Politics</a></i>. <a href="/wiki/Palgrave_Macmillan" title="Palgrave Macmillan">Palgrave Macmillan</a>. <b>6</b> (1): 61–80. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1057%2Fpalgrave.cep.6110127">10.1057/palgrave.cep.6110127</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Comparative+European+Politics&amp;rft.atitle=Nationalism+across+borders%3A+transnational+nationalist+advocacy+in+the+European+Union&amp;rft.volume=6&amp;rft.issue=1&amp;rft.pages=61-80&amp;rft.date=2008-04&amp;rft_id=info%3Adoi%2F10.1057%2Fpalgrave.cep.6110127&amp;rft.aulast=Gupta&amp;rft.aufirst=Devashree&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1057%2Fpalgrave.cep.6110127&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreens%E2%80%93European+Free+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.votewatch.eu/en/piratpartiet.html">VoteWatch Europe: European Parliament, Council of the EU</a>. Votewatch.eu. Retrieved on 2013-09-28.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.europarl.europa.eu/meps/en/97136/Indrek_TARAND.html">Indrek Tarand</a> on europarl.europa.eu</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greens-efa.eu/members/42-all-members.html">List of elected MEPs</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110609092123/http://www.greens-efa.eu/members/42-all-members.html">Archived</a> 2011-06-09 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. on greens-efa.eu</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="/wiki/European_Parliament_election,_2014" title="European Parliament election, 2014">European Parliament Election Results, 2014</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:The_Greens_%E2%80%93_European_Free_Alliance" class="extiw" title="commons:Category:The Greens – European Free Alliance">The Greens – European Free Alliance</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.greens-efa.eu">Official website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Political_groups_of_the_European_Parliament" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:European_Parliament_groups" title="Template:European Parliament groups"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:European_Parliament_groups" title="Template talk:European Parliament groups"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:European_Parliament_groups&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Political_groups_of_the_European_Parliament" style="font-size:114%;margin:0 4em"><a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">Political groups of the European Parliament</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_People%27s_Party_group" title="European People&#39;s Party group">European People's Party</a> (219)</li>
+<li><a href="/wiki/Progressive_Alliance_of_Socialists_and_Democrats" title="Progressive Alliance of Socialists and Democrats">Progressive Alliance of Socialists and Democrats</a> (189)</li>
+<li><a href="/wiki/European_Conservatives_and_Reformists" title="European Conservatives and Reformists">European Conservatives and Reformists</a> (71)</li>
+<li><a href="/wiki/Alliance_of_Liberals_and_Democrats_for_Europe_group" title="Alliance of Liberals and Democrats for Europe group">Alliance of Liberals and Democrats for Europe</a> (68)</li>
+<li><a href="/wiki/European_United_Left%E2%80%93Nordic_Green_Left" title="European United Left–Nordic Green Left">European United Left–Nordic Green Left</a> (52)</li>
+<li><a class="mw-selflink selflink">Greens–European Free Alliance</a> (51)</li>
+<li><a href="/wiki/Europe_of_Freedom_and_Direct_Democracy" title="Europe of Freedom and Direct Democracy">Europe of Freedom and Direct Democracy</a> (44)</li>
+<li><a href="/wiki/Europe_of_Nations_and_Freedom" title="Europe of Nations and Freedom">Europe of Nations and Freedom</a> (37)</li>
+<li><a href="/wiki/Non-Inscrits" title="Non-Inscrits">Non-Inscrits</a> (19)</li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Previous_groups" style="font-size:114%;margin:0 4em">Previous groups</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Nationalists / Far-Right</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Right_(1984%E2%80%9389)" title="European Right (1984–89)">European Right (1984–89)</a></li>
+<li><a href="/wiki/European_Right_(1989%E2%80%9394)" title="European Right (1989–94)">European Right (1989–94)</a></li>
+<li><a href="/wiki/Identity,_Tradition,_Sovereignty" title="Identity, Tradition, Sovereignty">Identity, Tradition, Sovereignty (2007)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Conservatives</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Democratic_Union" title="European Democratic Union">European Democratic Union (1965–1973)</a></li>
+<li><a href="/wiki/European_Progressive_Democrats" title="European Progressive Democrats">European Progressive Democrats (1973–1984)</a></li>
+<li><a href="/wiki/European_Democratic_Alliance" title="European Democratic Alliance">European Democratic Alliance (1984–1995)</a></li>
+<li><a href="/wiki/Union_for_Europe" title="Union for Europe">Union for Europe (1995–1999)</a></li>
+<li><a href="/wiki/Union_for_Europe_of_the_Nations" title="Union for Europe of the Nations">Union for Europe of the Nations (1999–2009)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Christian Democrats / Conservatives</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_People%27s_Party_Group#History" class="mw-redirect" title="European People&#39;s Party Group">Christian Democrats (1953–1979)</a></li>
+<li><a href="/wiki/European_People%27s_Party_Group#History" class="mw-redirect" title="European People&#39;s Party Group">European People's Party (1979–1999)</a></li>
+<li><a href="/wiki/European_Conservatives" title="European Conservatives">European Conservatives (1973–1979)</a></li>
+<li><a href="/wiki/European_Democrats" title="European Democrats">European Democrats (1979–1992)</a></li>
+<li><a href="/wiki/Forza_Europa" title="Forza Europa">Forza Europa (1994–1995)</a></li>
+<li><a href="/wiki/European_People%27s_Party_Group#History" class="mw-redirect" title="European People&#39;s Party Group">European People's Party–European Democrats (1999–2009)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Liberals / Centrists</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Liberal_Democrat_and_Reform_Party_(European_Parliament_group)" class="mw-redirect" title="European Liberal Democrat and Reform Party (European Parliament group)">Liberals and Allies (1953–1976)</a></li>
+<li><a href="/wiki/European_Liberal_Democrat_and_Reform_Party_(European_Parliament_group)" class="mw-redirect" title="European Liberal Democrat and Reform Party (European Parliament group)">Liberals and Democrats (1976–1985)</a></li>
+<li><a href="/wiki/European_Liberal_Democrat_and_Reform_Party_(European_Parliament_group)" class="mw-redirect" title="European Liberal Democrat and Reform Party (European Parliament group)">Liberal and Democratic Reformist Group (1985–1994)</a></li>
+<li><a href="/wiki/European_Radical_Alliance" title="European Radical Alliance">European Radical Alliance (1994–1999)</a></li>
+<li><a href="/wiki/European_Liberal_Democrat_and_Reform_Party_(European_Parliament_group)" class="mw-redirect" title="European Liberal Democrat and Reform Party (European Parliament group)">European Liberal Democrat and Reform Party (1994–2004)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Social Democrats</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Progressive_Alliance_of_Socialists_and_Democrats#History" title="Progressive Alliance of Socialists and Democrats">Socialists (1953–1993)</a></li>
+<li><a href="/wiki/Progressive_Alliance_of_Socialists_and_Democrats#History" title="Progressive Alliance of Socialists and Democrats">Party of European Socialists (1993-2009)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Communists / Far-Left</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Communist_and_Allies_Group" title="Communist and Allies Group">Communists and Allies (1973–1989)</a></li>
+<li><a href="/wiki/European_United_Left_(1989%E2%80%9393)" title="European United Left (1989–93)">European United Left (1989–93)</a></li>
+<li><a href="/wiki/Left_Unity_(European_Parliament)" title="Left Unity (European Parliament)">Left Unity (1989–1994)</a></li>
+<li><a href="/wiki/European_United_Left_(1994%E2%80%9395)" title="European United Left (1994–95)">European United Left (1994–95)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Greens / Regionalists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rainbow_Group_(1984%E2%80%9389)" title="Rainbow Group (1984–89)">Rainbow Group (1984–89)</a></li>
+<li><a href="/wiki/Rainbow_Group_(1989%E2%80%9394)" title="Rainbow Group (1989–94)">Rainbow Group (1989–94)</a></li>
+<li><a href="/wiki/The_Green_Group_in_the_European_Parliament" title="The Green Group in the European Parliament">Greens (1989–1999)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Eurosceptics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Europe_of_Nations" title="Europe of Nations">Europe of Nations (1994–1996)</a></li>
+<li><a href="/wiki/Independents_for_a_Europe_of_Nations" title="Independents for a Europe of Nations">Independents for a Europe of Nations (1996–1999)</a></li>
+<li><a href="/wiki/Europe_of_Democracies_and_Diversities" title="Europe of Democracies and Diversities">Europe of Democracies and Diversities (1999–2004)</a></li>
+<li><a href="/wiki/Independence/Democracy" title="Independence/Democracy">Independence/Democracy (2004–2009)</a></li>
+<li><a href="/wiki/Europe_of_Freedom_and_Democracy" title="Europe of Freedom and Democracy">Europe of Freedom and Democracy (2009–2014)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Heterogeneous</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Technical_Group_of_Independents_(1979%E2%80%9384)" title="Technical Group of Independents (1979–84)">Technical Group of Independents (1979–84)</a></li>
+<li><a href="/wiki/Technical_Group_of_Independents_(1999%E2%80%932001)" title="Technical Group of Independents (1999–2001)">Technical Group of Independents (1999–2001)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q751935&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q751935&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q751935" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/10135530-0">10135530-0</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2191
+Cached time: 20180930235133
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.584 seconds
+Real time usage: 0.710 seconds
+Preprocessor visited node count: 8684/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 127378/2097152 bytes
+Template argument size: 16604/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20594/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.183/10.000 seconds
+Lua memory usage: 3.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  513.222      1 -total
+ 33.37%  171.240     85 Template:Composition_bar
+ 25.35%  130.094      1 Template:Reflist
+ 19.30%   99.073     85 Template:Min
+ 11.39%   58.456     22 Template:Flagicon
+ 10.82%   55.546      1 Template:Cite_web
+ 10.64%   54.617      1 Template:Infobox_European_Parliament_group
+ 10.17%   52.199      1 Template:Infobox
+  6.15%   31.575      1 Template:EuroparlGroup
+  5.70%   29.229      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:357420-0!canonical and timestamp 20180930235133 and revision id 860983955
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Greens–European_Free_Alliance&amp;oldid=860983955">https://en.wikipedia.org/w/index.php?title=Greens–European_Free_Alliance&amp;oldid=860983955</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Political_parties_established_in_1999" title="Category:Political parties established in 1999">Political parties established in 1999</a></li><li><a href="/wiki/Category:European_Parliament_party_groups" title="Category:European Parliament party groups">European Parliament party groups</a></li><li><a href="/wiki/Category:The_Greens%E2%80%93European_Free_Alliance" title="Category:The Greens–European Free Alliance">The Greens–European Free Alliance</a></li><li><a href="/wiki/Category:1999_establishments_in_the_European_Union" title="Category:1999 establishments in the European Union">1999 establishments in the European Union</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Greens%E2%80%93European+Free+Alliance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Greens%E2%80%93European+Free+Alliance" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Greens%E2%80%93European_Free_Alliance" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Greens%E2%80%93European_Free_Alliance" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Greens%E2%80%93European_Free_Alliance">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Greens%E2%80%93European_Free_Alliance" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Greens%E2%80%93European_Free_Alliance" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;oldid=860983955" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q751935" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Greens%E2%80%93European_Free_Alliance&amp;id=860983955" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Greens%E2%80%93European+Free+Alliance">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Greens%E2%80%93European+Free+Alliance&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:The_Greens_%E2%80%93_European_Free_Alliance" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%97%D1%8F%D0%BB%D1%91%D0%BD%D1%8B%D1%8F_%E2%80%94_%D0%95%D1%9E%D1%80%D0%B0%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D1%96_%D1%81%D0%B2%D0%B0%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B_%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81" title="Зялёныя — Еўрапейскі свабодны альянс – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Els_Verds/Alian%C3%A7a_Lliure_Europea" title="Els Verds/Aliança Lliure Europea – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Zelen%C3%AD_%E2%80%93_Evropsk%C3%A1_svobodn%C3%A1_aliance" title="Zelení – Evropská svobodná aliance – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Gruppen_af_De_Gr%C3%B8nne/Europ%C3%A6iske_Frie_Alliance" title="Gruppen af De Grønne/Europæiske Frie Alliance – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Die_Gr%C3%BCnen/Europ%C3%A4ische_Freie_Allianz" title="Die Grünen/Europäische Freie Allianz – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rohelised/Euroopa_Vabaliit" title="Rohelised/Euroopa Vabaliit – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9F%CE%B9_%CE%A0%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%BF%CE%B9-%CE%95%CF%85%CF%81%CF%89%CF%80%CE%B1%CF%8A%CE%BA%CE%AE_%CE%95%CE%BB%CE%B5%CF%8D%CE%B8%CE%B5%CF%81%CE%B7_%CE%A3%CF%85%CE%BC%CE%BC%CE%B1%CF%87%CE%AF%CE%B1" title="Οι Πράσινοι-Ευρωπαϊκή Ελεύθερη Συμμαχία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Grupo_de_Los_Verdes_/_Alianza_Libre_Europea" title="Grupo de Los Verdes / Alianza Libre Europea – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Frakcio_de_la_Verduloj_kaj_E%C5%ADropa_Libera_Alianco" title="Frakcio de la Verduloj kaj Eŭropa Libera Alianco – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Groupe_des_Verts/Alliance_libre_europ%C3%A9enne" title="Groupe des Verts/Alliance libre européenne – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%9F%BD_%EB%85%B9%EC%83%89%EB%8B%B9-%EC%9E%90%EC%9C%A0_%EB%8F%99%EB%A7%B9" title="유럽 녹색당-자유 동맹 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Verdi_Europei_-_Alleanza_Libera_Europea" title="Verdi Europei - Alleanza Libera Europea – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%91%D7%A8%D7%99%D7%AA_%D7%94%D7%97%D7%95%D7%A4%D7%A9%D7%99%D7%AA_%D7%A9%D7%9C_%D7%94%D7%99%D7%A8%D7%95%D7%A7%D7%99%D7%9D_%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A4%D7%90%D7%99%D7%9D" title="הברית החופשית של הירוקים האירופאים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Z%C3%B6ldek/Eur%C3%B3pai_Szabad_Sz%C3%B6vets%C3%A9g" title="Zöldek/Európai Szabad Szövetség – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/De_Groenen/Vrije_Europese_Alliantie" title="De Groenen/Vrije Europese Alliantie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E7%B7%91%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%BB%E6%AC%A7%E5%B7%9E%E8%87%AA%E7%94%B1%E9%80%A3%E7%9B%9F" title="欧州緑グループ・欧州自由連盟 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/De_europeiske_gr%C3%B8nne/Den_europeiske_frie_allianse" title="De europeiske grønne/Den europeiske frie allianse – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zieloni_%E2%80%93_Wolny_Sojusz_Europejski" title="Zieloni – Wolny Sojusz Europejski – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Grupo_dos_Verdes/Alian%C3%A7a_Livre_Europeia" title="Grupo dos Verdes/Aliança Livre Europeia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Grupul_Verzilor/Alian%C8%9Ba_Liber%C4%83_European%C4%83" title="Grupul Verzilor/Alianța Liberă Europeană – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5_%E2%80%94_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81" title="Зелёные — Европейский свободный альянс – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Grupi_T%C3%AB_Gjelbrit/Aleanca_e_lir%C3%AB_evropiane" title="Grupi Të Gjelbrit/Aleanca e lirë evropiane – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Vihre%C3%A4t_/_Euroopan_vapaa_allianssi_-ryhm%C3%A4" title="Vihreät / Euroopan vapaa allianssi -ryhmä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Gruppen_De_gr%C3%B6na/Europeiska_fria_alliansen" title="Gruppen De gröna/Europeiska fria alliansen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%96_%E2%80%94_%D0%84%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B2%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81" title="Зелені — Європейський вільний альянс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B6%A0%E9%BB%A8%EF%BC%8D%E6%AD%90%E6%B4%B2%E8%87%AA%E7%94%B1%E8%81%AF%E7%9B%9F" title="綠黨－歐洲自由聯盟 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q751935#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 September 2018, at 11:43<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Greens%E2%80%93European_Free_Alliance&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.710","ppvisitednodes":{"value":8684,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":127378,"limit":2097152},"templateargumentsize":{"value":16604,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20594,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  513.222      1 -total"," 33.37%  171.240     85 Template:Composition_bar"," 25.35%  130.094      1 Template:Reflist"," 19.30%   99.073     85 Template:Min"," 11.39%   58.456     22 Template:Flagicon"," 10.82%   55.546      1 Template:Cite_web"," 10.64%   54.617      1 Template:Infobox_European_Parliament_group"," 10.17%   52.199      1 Template:Infobox","  6.15%   31.575      1 Template:EuroparlGroup","  5.70%   29.229      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.183","limit":"10.000"},"limitreport-memusage":{"value":3518831,"limit":52428800}},"cachereport":{"origin":"mw2191","timestamp":"20180930235133","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":193,"wgHostname":"mw2164"});});</script>
+	</body>
+</html>

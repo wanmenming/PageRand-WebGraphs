@@ -1,0 +1,1029 @@
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2018
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Party of England and Wales leadership election, 2018 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Party_of_England_and_Wales_leadership_election,_2018","wgTitle":"Green Party of England and Wales leadership election, 2018","wgCurRevisionId":858368201,"wgRevisionId":858368201,"wgArticleId":57443998,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from August 2018","Use British English from August 2018","2018 elections in the United Kingdom","Green Party of England and Wales leadership elections"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Party_of_England_and_Wales_leadership_election,_2018","wgRelevantArticleId":57443998,"wgRequestId":"W6@jNArAIFEAAG4QP3AAAAAE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q55076690","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg/1200px-Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2018"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2018"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Party_of_England_and_Wales_leadership_election_2018 rootpage-Green_Party_of_England_and_Wales_leadership_election_2018 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Party of England and Wales leadership election, 2018</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em;line-height: 1.5em;"><caption class="summary" style="font-size: 125%;">Green Party of England and Wales leadership election, 2018</caption><tbody><tr><td colspan="2" style="text-align:center;line-height:130%;">
+<table style="width:100%; margin:1px;"><tbody><tr>
+<td style="text-align:left; vertical-align:middle; padding:0 0.5em 0 0;width:15%;" class="noprint">&#8592;&#160;<a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2016" title="Green Party of England and Wales leadership election, 2016">2016</a></td>
+<td style="text-align:center; vertical-align:middle; padding:0 1px;width:70%;" class=""><b>1 June&#160;– 31 August 2018</b></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 0.5em;width:15%;" class="noprint">2020&#160;&#8594;</td>
+</tr></tbody></table></td></tr><tr><th scope="row" style="width:5em;white-space:nowrap;">Turnout</th><td style="text-align:center;">
+24.0% (<img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" />5.8%)</td></tr><tr><td colspan="2" style="text-align:center;text-align:center;">
+<p class="mw-empty-elt">
+</p>
+<table style="background:transparent; width:100%;">
+
+
+
+
+
+
+<tbody><tr>
+<td>&#160;
+</td>
+<td style="text-align:center;border-bottom: 6px solid #6AB023"><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -72px; width: 271px"><div class="noresize"><a href="/wiki/File:Sian_Berry_and_Jonathan_Bartley,_2018.jpg" class="image"><img alt="Sian Berry and Jonathan Bartley" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg/271px-Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg" width="271" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg/407px-Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg/542px-Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg 2x" data-file-width="2185" data-file-height="1289" /></a></div></div>
+</div>
+</div>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #6AB023"><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -56px; width: 240px"><div class="noresize"><a href="/wiki/File:Shahrar_Ali_speaking_at_public_event.jpg" class="image"><img alt="Shahrai Ali" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shahrar_Ali_speaking_at_public_event.jpg/240px-Shahrar_Ali_speaking_at_public_event.jpg" width="240" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shahrar_Ali_speaking_at_public_event.jpg/360px-Shahrar_Ali_speaking_at_public_event.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shahrar_Ali_speaking_at_public_event.jpg/480px-Shahrar_Ali_speaking_at_public_event.jpg 2x" data-file-width="2048" data-file-height="1365" /></a></div></div>
+</div>
+</div>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #6AB023"><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -47px; width: 213px"><div class="noresize"><a href="/wiki/File:Leslie_Rowe_2018.jpg" class="image"><img alt="Leslie Rowe" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leslie_Rowe_2018.jpg/213px-Leslie_Rowe_2018.jpg" width="213" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leslie_Rowe_2018.jpg/320px-Leslie_Rowe_2018.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leslie_Rowe_2018.jpg/426px-Leslie_Rowe_2018.jpg 2x" data-file-width="1024" data-file-height="768" /></a></div></div>
+</div>
+</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th style="text-align:left">Candidate(s)
+</th>
+<td style="width:75px;text-align:center"><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> <br /> and  <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a> <br /> <span style="font-size:85%;"><i>(<a href="/wiki/Job_sharing" title="Job sharing">job share</a>)</i></span>
+</td>
+<td style="width:75px;text-align:center"><a href="/wiki/Shahrar_Ali" title="Shahrar Ali">Shahrar Ali</a>
+</td>
+<td style="width:75px;text-align:center">Leslie Rowe
+</td></tr>
+<tr>
+<th style="text-align:left">Votes
+</th>
+<td style="width:75px;text-align:center"><b>6,329</b>
+</td>
+<td style="width:75px;text-align:center">1,466
+</td>
+<td style="width:75px;text-align:center">495
+</td></tr>
+<tr>
+<th style="text-align:left">Percentage
+</th>
+<td style="width:75px;text-align:center"><b>75.5%</b>
+</td>
+<td style="width:75px;text-align:center">17.5%
+</td>
+<td style="width:75px;text-align:center">5.9%
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table></td></tr><tr><td colspan="2" style="text-align:center">
+<hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:50%; text-align:left;"><b>Leader(s) before election</b><br />
+<p><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> and <a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a><br /> <span style="font-size:85%;"><i>(<a href="/wiki/Job_sharing" title="Job sharing">job share</a>)</i></span><br />
+</p>
+</td>
+<td style="width:50%; text-align:right;"><b>Elected Leader(s)</b> <br />
+<p><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> and <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a><br /> <span style="font-size:85%;"><i>(<a href="/wiki/Job_sharing" title="Job sharing">job share</a>)</i></span><br />
+</p>
+</td></tr></tbody></table></td></tr></tbody></table>
+<p>The <b>leadership election</b> for the <b><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a></b>  is held routinely every two years. The 2018 election, which ran from 1 June to 31 August, was the sixth since the party <a href="/wiki/Principal_Speaker" class="mw-redirect" title="Principal Speaker">decided to have a leader</a> and a deputy leader (or two co-leaders). The result was declared on 4 September; <a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> and <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a> were elected as Co-Leaders and <a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a> was re-elected as Deputy Leader.<sup id="cite_ref-Walker_4.9.18_1-0" class="reference"><a href="#cite_note-Walker_4.9.18-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Timetable"><span class="tocnumber">2</span> <span class="toctext">Timetable</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Leadership_candidates"><span class="tocnumber">3</span> <span class="toctext">Leadership candidates</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Nominated"><span class="tocnumber">3.1</span> <span class="toctext">Nominated</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Rejected_application"><span class="tocnumber">3.2</span> <span class="toctext">Rejected application</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Leadership_campaign"><span class="tocnumber">4</span> <span class="toctext">Leadership campaign</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Deputy_leadership_candidates"><span class="tocnumber">5</span> <span class="toctext">Deputy leadership candidates</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Nominated_2"><span class="tocnumber">5.1</span> <span class="toctext">Nominated</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Results_summary"><span class="tocnumber">6</span> <span class="toctext">Results summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Leadership"><span class="tocnumber">6.1</span> <span class="toctext">Leadership</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Deputy_leadership"><span class="tocnumber">6.2</span> <span class="toctext">Deputy leadership</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Party elects its leader (or joint leaders), deputy leader (or two co-deputies) and seven other senior positions every two years.<sup id="cite_ref-guardiangreensanounce_2-0" class="reference"><a href="#cite_note-guardiangreensanounce-2">&#91;2&#93;</a></sup> The rules are that co-leaders will have one deputy, but if there is a single leader elected, they will have two deputies. The election process is also subject to balancing for gender.
+</p><p>Incumbent Co-Leader <a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> announced on 30 May 2018 that she would not seek nomination and was therefore standing down.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The other incumbent Co-Leader, <a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a>, announced on 1 June that he would run for re-election, in a <a href="/wiki/Job_sharing" title="Job sharing">job share</a> with former Principal Speaker and current <a href="/wiki/London_Assembly" title="London Assembly">London Assembly</a> group leader <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Incumbent Deputy Leader <a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a> announced on 7 June that she would also run for re-election.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Other candidates contested each of the elections.
+</p>
+<h2><span class="mw-headline" id="Timetable">Timetable</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=2" title="Edit section: Timetable">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nominations opened on 1 June and closed on 29 June. Voting was from 30 June to 31 August.<sup id="cite_ref-Elections_6-0" class="reference"><a href="#cite_note-Elections-6">&#91;6&#93;</a></sup> <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Seven hustings were arranged for leadership and deputy leadership candidates<sup id="cite_ref-Elections_6-1" class="reference"><a href="#cite_note-Elections-6">&#91;6&#93;</a></sup>&#160;– on 14 July in <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>, on 21 July in <a href="/wiki/York" title="York">York</a><sup id="cite_ref-Willers_8-0" class="reference"><a href="#cite_note-Willers-8">&#91;8&#93;</a></sup> and <a href="/wiki/Manchester" title="Manchester">Manchester</a>, on 28 July in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/Cambridge" title="Cambridge">Cambridge</a> and <a href="/wiki/Bristol" title="Bristol">Bristol</a>, and on 4 August in <a href="/wiki/Chepstow" title="Chepstow">Chepstow</a>. The election result was declared on 4 September.<sup id="cite_ref-guardiangreensanounce_2-1" class="reference"><a href="#cite_note-guardiangreensanounce-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Leadership_candidates">Leadership candidates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=3" title="Edit section: Leadership candidates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Nominated">Nominated</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=4" title="Edit section: Nominated">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:left">
+
+<tbody><tr>
+<th colspan="3">Candidate(s)<sup id="cite_ref-guardiangreensanounce_2-2" class="reference"><a href="#cite_note-guardiangreensanounce-2">&#91;2&#93;</a></sup></th>
+<th>Most recent position(s)
+</th>
+<th>Endorsements
+</th></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td><a href="/wiki/Shahrar_Ali" title="Shahrar Ali">Shahrar Ali</a>
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -56px; width: 240px"><div class="noresize"><a href="/wiki/File:Shahrar_Ali_speaking_at_public_event.jpg" class="image"><img alt="Shahrai Ali" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shahrar_Ali_speaking_at_public_event.jpg/240px-Shahrar_Ali_speaking_at_public_event.jpg" width="240" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shahrar_Ali_speaking_at_public_event.jpg/360px-Shahrar_Ali_speaking_at_public_event.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Shahrar_Ali_speaking_at_public_event.jpg/480px-Shahrar_Ali_speaking_at_public_event.jpg 2x" data-file-width="2048" data-file-height="1365" /></a></div></div>
+</div>
+</div>
+</td>
+<td>Ali was Deputy Leader between 2014 and 2016.
+</td>
+<td><a href="/wiki/David_Malone_(independent_filmmaker)" title="David Malone (independent filmmaker)">David Malone</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td><br /> <b><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a><br />and<br /><a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a><br /><span style="font-size:85%;"><i>(<a href="/wiki/Job_sharing" title="Job sharing">job share</a>)</i></span></b><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -72px; width: 271px"><div class="noresize"><a href="/wiki/File:Sian_Berry_and_Jonathan_Bartley,_2018.jpg" class="image"><img alt="Sian Berry and Jonathan Bartley" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg/271px-Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg" width="271" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg/407px-Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg/542px-Sian_Berry_and_Jonathan_Bartley%2C_2018.jpg 2x" data-file-width="2185" data-file-height="1289" /></a></div></div>
+</div>
+</div>
+</td>
+<td>Bartley has been Green Party Co-Leader since <a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2016" title="Green Party of England and Wales leadership election, 2016">2016</a>, and Leader of the opposition on <a href="/wiki/Lambeth_London_Borough_Council" title="Lambeth London Borough Council">Lambeth council</a> since <a href="/wiki/Lambeth_London_Borough_Council_election,_2018" title="Lambeth London Borough Council election, 2018">May 2018</a>.
+<p>Berry was <a href="/wiki/Mayor_of_London" title="Mayor of London">London mayoral</a> candidate in <a href="/wiki/London_mayoral_election,_2008#Green_Party" title="London mayoral election, 2008">2008</a> and <a href="/wiki/London_mayoral_election,_2016" title="London mayoral election, 2016">2016</a>, a <a href="/wiki/London_Assembly" title="London Assembly">London Assembly</a> member and group leader since <a href="/wiki/London_Assembly_election,_2016" title="London Assembly election, 2016">2016</a>.  She has been a <a href="/wiki/London_Borough_of_Camden" title="London Borough of Camden">Camden</a> councillor (for <a href="/wiki/Highgate_(Camden_ward)" title="Highgate (Camden ward)">Highgate ward</a>) since <a href="/wiki/Camden_London_Borough_Council_election,_2014" title="Camden London Borough Council election, 2014">2014</a> and was Green Party <a href="/wiki/Principal_Speaker" class="mw-redirect" title="Principal Speaker">Principal Speaker</a> between 2006 and 2007.
+</p>
+</td>
+<td><a href="/wiki/Jonathon_Porritt" title="Jonathon Porritt">Jonathon Porritt</a>;<sup id="cite_ref-:0_11-0" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup> <a href="/wiki/Caroline_Russell" title="Caroline Russell">Caroline Russell</a>;<sup id="cite_ref-:0_11-1" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup> <a href="/wiki/Steven_Agnew" title="Steven Agnew">Steven Agnew</a>;<sup id="cite_ref-:0_11-2" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup> <a href="/wiki/Patrick_Harvie" title="Patrick Harvie">Patrick Harvie</a><sup id="cite_ref-:0_11-3" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td>Leslie Rowe
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -47px; width: 213px"><div class="noresize"><a href="/wiki/File:Leslie_Rowe_2018.jpg" class="image"><img alt="Leslie Rowe" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leslie_Rowe_2018.jpg/213px-Leslie_Rowe_2018.jpg" width="213" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leslie_Rowe_2018.jpg/320px-Leslie_Rowe_2018.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leslie_Rowe_2018.jpg/426px-Leslie_Rowe_2018.jpg 2x" data-file-width="1024" data-file-height="768" /></a></div></div>
+</div>
+</div>
+</td>
+<td>Rowe was parliamentary candidate for <a href="/wiki/Richmond_(Yorks)_(UK_Parliament_constituency)" title="Richmond (Yorks) (UK Parliament constituency)">Richmond (Yorks)</a> in <a href="/wiki/United_Kingdom_general_election,_2005" title="United Kingdom general election, 2005">2005</a>, <a href="/wiki/United_Kingdom_general_election,_2010" title="United Kingdom general election, 2010">2010</a> and <a href="/wiki/United_Kingdom_general_election,_2015" title="United Kingdom general election, 2015">2015</a>.
+</td>
+<td>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Rejected_application">Rejected application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=5" title="Edit section: Rejected application">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tim Young's application was rejected as he had insufficient nominations.<sup id="cite_ref-candidates_12-0" class="reference"><a href="#cite_note-candidates-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Leadership_campaign">Leadership campaign</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=6" title="Edit section: Leadership campaign">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Berry said that, if elected, she would continue as a councillor in Highgate and a <a href="/wiki/London_Assembly" title="London Assembly">London Assembly</a> member. Oliver Lewis, a <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour Party</a> councillor for the same ward as Berry, said, "She [Siân] must have known this was coming. They had a leadership website ready to go."<sup id="cite_ref-Olsey_13-0" class="reference"><a href="#cite_note-Olsey-13">&#91;13&#93;</a></sup> Bartley and Berry released a detailed plan for their leadership on their website, promising a renewed focus on <a href="/wiki/Non-violent_direct_action" class="mw-redirect" title="Non-violent direct action">non-violent direct action</a>, expanding election training to train the next generation of Green leaders, and to prepare the party for greater electoral success.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Berry said that she would not be interested in standing for Parliament, if elected Co-Leader, but would use her increased profile to compete again for the London mayoralty.<sup id="cite_ref-Morris_15-0" class="reference"><a href="#cite_note-Morris-15">&#91;15&#93;</a></sup>
+</p><p>On 11 August 2018, <i><a href="/wiki/The_Times" title="The Times">The Times</a></i> reported that on <a href="/wiki/Holocaust_Memorial_Day" class="mw-redirect" title="Holocaust Memorial Day">Holocaust Memorial Day</a>, in January 2009, Shahrar Ali had made a speech comparing Israel’s treatment of Palestinians to the <a href="/wiki/Holocaust" class="mw-redirect" title="Holocaust">Holocaust</a>.<sup id="cite_ref-Webber_16-0" class="reference"><a href="#cite_note-Webber-16">&#91;16&#93;</a></sup> In an article published on the <i><a href="/wiki/Left_Foot_Forward" title="Left Foot Forward">Left Foot Forward</a></i> blog, the <a href="/wiki/Campaign_Against_Antisemitism" title="Campaign Against Antisemitism">Campaign Against Antisemitism</a> described his speech as <a href="/wiki/Antisemitism" title="Antisemitism">anti-semitic</a> and an “offensive rant”.<sup id="cite_ref-anti_17-0" class="reference"><a href="#cite_note-anti-17">&#91;17&#93;</a></sup> Ali described the accusation as a "gross fabrication", telling the <i><a href="/wiki/Evening_Standard" class="mw-redirect" title="Evening Standard">Evening Standard</a></i> that it was "designed to stifle legitimate criticism of the Israeli government".<sup id="cite_ref-Londoner_18-0" class="reference"><a href="#cite_note-Londoner-18">&#91;18&#93;</a></sup> The Green Party said that its initial handling of reports about Ali's speech in 2009 were inadequate and that it is seeking to revise procedures.<sup id="cite_ref-Welch_19-0" class="reference"><a href="#cite_note-Welch-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Deputy_leadership_candidates">Deputy leadership candidates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=7" title="Edit section: Deputy leadership candidates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Nominated_2">Nominated</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=8" title="Edit section: Nominated">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:left">
+
+<tbody><tr>
+<th colspan="3">Candidate(s)<sup id="cite_ref-candidates_12-1" class="reference"><a href="#cite_note-candidates-12">&#91;12&#93;</a></sup></th>
+<th>Most recent position(s)</th>
+<th>Endorsements
+</th></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td><a href="/wiki/Aimee_Challenor" title="Aimee Challenor">Aimee Challenor</a><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-Walker_21-0" class="reference"><a href="#cite_note-Walker-21">&#91;21&#93;</a></sup>
+<p><i>(withdrew)</i><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;a&#93;</a></sup>
+</p>
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -55px; width: 240px"><div class="noresize"><a href="/wiki/File:Official_Green_Party_Portrait_of_Aimee_Challenor.jpg" class="image"><img alt="Official Green Party Portrait of Aimee Challenor.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Official_Green_Party_Portrait_of_Aimee_Challenor.jpg/240px-Official_Green_Party_Portrait_of_Aimee_Challenor.jpg" width="240" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Official_Green_Party_Portrait_of_Aimee_Challenor.jpg/360px-Official_Green_Party_Portrait_of_Aimee_Challenor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Official_Green_Party_Portrait_of_Aimee_Challenor.jpg/480px-Official_Green_Party_Portrait_of_Aimee_Challenor.jpg 2x" data-file-width="4018" data-file-height="2679" /></a></div></div>
+</div>
+</div>
+</td>
+<td><big>•</big> Equalities (<a href="/wiki/LGBT" title="LGBT">LGBTIQA+</a>) Spokesperson (2016 to 2018)<sup id="cite_ref-ac_22-2" class="reference"><a href="#cite_note-ac-22">&#91;22&#93;</a></sup><br /><big>•</big> Publications Co-ordinator, Green Party Executive (2017 to 2018)<sup id="cite_ref-ac_22-3" class="reference"><a href="#cite_note-ac-22">&#91;22&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td>Jonathan Chilvers<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;25&#93;</a></sup>
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -0px; width: 120px"><div class="noresize"><a href="/wiki/File:No_image_wide.svg" class="image"><img alt="No image wide.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/120px-No_image_wide.svg.png" width="120" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/180px-No_image_wide.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/240px-No_image_wide.svg.png 2x" data-file-width="8" data-file-height="1" /></a></div></div>
+</div>
+</div>
+</td>
+<td><big>•</big> Councillor on <a href="/wiki/Warwickshire_County_Council" title="Warwickshire County Council">Warwickshire County Council</a> (2013 to present)<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;26&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td>Andrew Cooper<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;27&#93;</a></sup>
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -0px; width: 120px"><div class="noresize"><a href="/wiki/File:No_image_wide.svg" class="image"><img alt="No image wide.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/120px-No_image_wide.svg.png" width="120" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/180px-No_image_wide.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/240px-No_image_wide.svg.png 2x" data-file-width="8" data-file-height="1" /></a></div></div>
+</div>
+</div>
+</td>
+<td><big>•</big> Councillor on <a href="/wiki/Kirklees_Council" title="Kirklees Council">Kirklees Council</a>  for <a href="/wiki/Newsome_(ward)" title="Newsome (ward)">Newsome</a> ward (1999 to present)<br /><big>•</big> Green Party Energy Spokesperson<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;28&#93;</a></sup>
+</td>
+<td><a href="/wiki/Rupert_Read" title="Rupert Read">Rupert Read</a>;<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;29&#93;</a></sup> <a href="/wiki/Caroline_Russell" title="Caroline Russell">Caroline Russell</a><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td>Rashid Nix<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;31&#93;</a></sup>
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -0px; width: 120px"><div class="noresize"><a href="/wiki/File:No_image_wide.svg" class="image"><img alt="No image wide.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/120px-No_image_wide.svg.png" width="120" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/180px-No_image_wide.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_wide.svg/240px-No_image_wide.svg.png 2x" data-file-width="8" data-file-height="1" /></a></div></div>
+</div>
+</div>
+</td>
+<td><big>•</big> Parliamentary candidate for <a href="/wiki/Dulwich_and_West_Norwood_(UK_Parliament_constituency)" title="Dulwich and West Norwood (UK Parliament constituency)">Dulwich and West Norwood</a> in <a href="/wiki/United_Kingdom_general_election,_2015" title="United Kingdom general election, 2015">2015</a> and <a href="/wiki/United_Kingdom_general_election,_2017" title="United Kingdom general election, 2017">2017</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td><b><a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a></b><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;32&#93;</a></sup>
+</td>
+<td><div class="center">
+<div style="width: 120px; height: 160px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -0px; width: 124px"><div class="noresize"><a href="/wiki/File:Amelia_womack.jpg" class="image"><img alt="Amelia womack.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amelia_womack.jpg/124px-Amelia_womack.jpg" width="124" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amelia_womack.jpg/186px-Amelia_womack.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amelia_womack.jpg/248px-Amelia_womack.jpg 2x" data-file-width="1298" data-file-height="1672" /></a></div></div>
+</div>
+</div>
+</td>
+<td><big>•</big> Deputy Leader (2014 to present)<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;33&#93;</a></sup><br /><big>•</big> Green Party Culture, Media, and Sport Spokesperson<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;34&#93;</a></sup>
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Results_summary">Results summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=9" title="Edit section: Results summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Leadership">Leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=10" title="Edit section: Leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;">
+
+<tbody><tr style="background:#e9e9e9;">
+<th colspan="5">Green Party of England and Wales <br /> Leadership election, 2018
+</th></tr>
+<tr style="background:#e9e9e9;">
+<th colspan="2" style="width: 190px">Candidate
+</th>
+<th colspan="2" style="width: 100px">Votes
+</th>
+<th style="width: 40px">%
+</th></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 230px"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span> <b><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> and  <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a></b>
+</td>
+<td style="text-align:right;"><b>  6,329  </b>
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 75px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;"><b>75.5%</b>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 210px"><a href="/wiki/Shahrar_Ali" title="Shahrar Ali">Shahrar Ali</a>
+</td>
+<td style="text-align:right;">1,466
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 17px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;">17.5%
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 210px">Leslie Rowe
+</td>
+<td style="text-align:right;">495
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 5px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;">5.9%
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 210px"><i><a href="/wiki/Re-open_Nominations" class="mw-redirect" title="Re-open Nominations">Re-open Nominations</a></i>
+</td>
+<td style="text-align:right;">89
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 1px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;">1.1%
+</td></tr>
+
+<tr style="background:#f6f6f6; text-align:right;">
+<td colspan="3"><b>Turnout</b>
+</td>
+<td><b>8,379</b>
+</td>
+<td><b>24.0%</b>
+</td></tr>
+<tr style="background:#f6f6f6;">
+<td colspan="5"><b>Bartley and Berry elected as Co-Leaders <img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></b>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Deputy_leadership">Deputy leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=11" title="Edit section: Deputy leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;">
+
+<tbody><tr style="background:#e9e9e9;">
+<th colspan="5">Green Party of England and Wales <br /> Deputy Leadership election, 2018
+</th></tr>
+<tr style="background:#e9e9e9;">
+<th colspan="2" style="width: 190px">Candidate
+</th>
+<th colspan="2" style="width: 100px">Votes
+</th>
+<th style="width: 40px">%
+</th></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 230px"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span> <b><a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a></b>
+</td>
+<td style="text-align:right;"><b>  3,981  </b>
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 54px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;"><b>54.3%</b>
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 210px">Andrew Cooper
+</td>
+<td style="text-align:right;">1,836
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 25px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;">25.0%
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 210px">Rashid Nix
+</td>
+<td style="text-align:right;">1,062
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 14px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;">14.5%
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 210px">Jonathan Chilvers
+</td>
+<td style="text-align:right;">438
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 5px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;">6.0%
+</td></tr>
+<tr>
+<th style="background-color: #6AB023">
+</th>
+<td style="width: 210px"><i><a href="/wiki/Re-open_Nominations" class="mw-redirect" title="Re-open Nominations">Re-open Nominations</a></i>
+</td>
+<td style="text-align:right;">18
+</td>
+<td align="center"><div style="border: 1px solid #000; background-color: #fff; width: 100px; height: 1.5em;"><div style="position: absolute; background-color:#6AB023; width: 0px; height: 1.5em;"></div><div style="position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 10; color: #000;"></div></div>
+</td>
+<td style="text-align:right;">0.3%
+</td></tr>
+
+<tr style="background:#f6f6f6; text-align:right;">
+<td colspan="3"><b>Turnout</b>
+</td>
+<td><b>7,335</b>
+</td>
+<td><b>21.0%</b>
+</td></tr>
+<tr style="background:#f6f6f6;">
+<td colspan="5"><b>Womack re-elected as Deputy Leader <img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span></b>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><b>Aimee Challenor withdrew</b> from the contest on 23 August 2018, after voting had started.<sup id="cite_ref-ac_22-0" class="reference"><a href="#cite_note-ac-22">&#91;22&#93;</a></sup>  She stood down in the deputy leadership campaign after her father and <a href="/wiki/Election_agent" title="Election agent">election agent</a>, David Challenor, was convicted of child abuse.<sup id="cite_ref-ac_22-1" class="reference"><a href="#cite_note-ac-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-Walker_31.8_24-0" class="reference"><a href="#cite_note-Walker_31.8-24">&#91;24&#93;</a></sup></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Walker_4.9.18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walker_4.9.18_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Walker, Peter (4 September 2018). <a rel="nofollow" class="external text" href="https://www.theguardian.com/politics/2018/sep/04/jonathan-bartley-sian-berry-win-green-party-leadership-race">"Jonathan Bartley and Siân Berry win Green party leadership race"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Jonathan+Bartley+and+Si%C3%A2n+Berry+win+Green+party+leadership+race&amp;rft.date=2018-09-04&amp;rft.aulast=Walker&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2018%2Fsep%2F04%2Fjonathan-bartley-sian-berry-win-green-party-leadership-race&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-guardiangreensanounce-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-guardiangreensanounce_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-guardiangreensanounce_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-guardiangreensanounce_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Walker, Peter (2 July 2018). <a rel="nofollow" class="external text" href="https://www.theguardian.com/politics/2018/jul/02/greens-announce-three-sets-of-contenders-for-uk-leadership-contest">"Greens announce candidates for leadership in England and Wales"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Greens+announce+candidates+for+leadership+in+England+and+Wales&amp;rft.date=2018-07-02&amp;rft.au=Walker%2C+Peter&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2018%2Fjul%2F02%2Fgreens-announce-three-sets-of-contenders-for-uk-leadership-contest&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Lucas, Caroline</a> (29 May 2018). <a rel="nofollow" class="external text" href="https://www.theguardian.com/commentisfree/2018/may/30/green-party-leader-politics-environment-caroline-lucas">"Why I'm not going to stand again to be Green party leader"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Why+I%E2%80%99m+not+going+to+stand+again+to+be+Green+party+leader&amp;rft.date=2018-05-29&amp;rft.au=Lucas%2C+Caroline&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2018%2Fmay%2F30%2Fgreen-party-leader-politics-environment-caroline-lucas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-politics-44329338">"Bartley and Berry run as Green co-leaders"</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i>. 1 June 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Bartley+and+Berry+run+as+Green+co-leaders&amp;rft.date=2018-06-01&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-politics-44329338&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Amelia_Womack" title="Amelia Womack">Womack, Amelia</a> (7 June 2018). <a rel="nofollow" class="external text" href="https://twitter.com/Amelia_Womack/status/1004783215033376768">"I am excited to officially announce that I will be rerunning as deputy leader in the upcoming @TheGreenParty elections"</a>. <a href="/wiki/Twitter" title="Twitter">Twitter</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=I+am+excited+to+officially+announce+that+I+will+be+rerunning+as+deputy+leader+in+the+upcoming+%40TheGreenParty+elections&amp;rft.pub=Twitter&amp;rft.date=2018-06-07&amp;rft.au=Womack%2C+Amelia&amp;rft_id=https%3A%2F%2Ftwitter.com%2FAmelia_Womack%2Fstatus%2F1004783215033376768&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Elections-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Elections_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Elections_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://campaigns.greenparty.org.uk/executive-elections-2018/">"Green Party Leadership &amp; Executive Elections 2018"</a>. <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+Leadership+%26+Executive+Elections+2018&amp;rft.pub=Green+Party+of+England+and+Wales&amp;rft_id=https%3A%2F%2Fcampaigns.greenparty.org.uk%2Fexecutive-elections-2018%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-politics-44293718">"Green Party prepares for leadership contest"</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i>. 29 May 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=Green+Party+prepares+for+leadership+contest&amp;rft.date=2018-05-29&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-politics-44293718&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Willers-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Willers_8-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Willers, Daniel (22 July 2018). <a rel="nofollow" class="external text" href="http://www.yorkpress.co.uk/news/16370086.green-party-leadership-hopefuls-take-part-in-hustings-event-in-york/">"Green Party leadership hopefuls take part in hustings event in York"</a>. <i><a href="/wiki/The_Press_(York)" title="The Press (York)">The Press (York)</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Press+%28York%29&amp;rft.atitle=Green+Party+leadership+hopefuls+take+part+in+hustings+event+in+York&amp;rft.date=2018-07-22&amp;rft.aulast=Willers&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fwww.yorkpress.co.uk%2Fnews%2F16370086.green-party-leadership-hopefuls-take-part-in-hustings-event-in-york%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/David_Malone_(independent_filmmaker)" title="David Malone (independent filmmaker)"> Malone, David</a> (30 June 2018). <a rel="nofollow" class="external text" href="http://davidmalonegreenpartycandidate.weebly.com/blog-for-comments-and-new-content/shahrar-ali-for-leader-of-the-green-party-of-england-and-wales-for-2018-2020">"David Malone Endorses. Shahrar Ali for Leader of the Green Party of England and Wales for 2018–2020"</a>. <i>Davidmalonegreenpartycandidate.weebly.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Davidmalonegreenpartycandidate.weebly.com&amp;rft.atitle=David+Malone+Endorses.+Shahrar+Ali+for+Leader+of+the+Green+Party+of+England+and+Wales+for+2018%E2%80%932020&amp;rft.date=2018-06-30&amp;rft.au=Malone%2C+David&amp;rft_id=http%3A%2F%2Fdavidmalonegreenpartycandidate.weebly.com%2Fblog-for-comments-and-new-content%2Fshahrar-ali-for-leader-of-the-green-party-of-england-and-wales-for-2018-2020&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Berry, Sian</a> (31 May 2018). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=f7D0I-73vKg&amp;t=0s">"Jonathan Bartley &amp; Sian Berry announce plans to stand as Green co-leaders"</a>. <a href="/wiki/YouTube" title="YouTube">YouTube</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jonathan+Bartley+%26+Sian+Berry+announce+plans+to+stand+as+Green+co-leaders&amp;rft.pub=YouTube&amp;rft.date=2018-05-31&amp;rft.au=Berry%2C+Sian&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df7D0I-73vKg%26t%3D0s&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bartleyberry.green/whos-backing-our-leadership/">"Who's backing our leadership?&#160;– Jonathan Bartley &amp; Sian Berry"</a>. <i>www.bartleyberry.green</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.bartleyberry.green&amp;rft.atitle=Who%27s+backing+our+leadership%3F+%E2%80%93+Jonathan+Bartley+%26+Sian+Berry&amp;rft_id=https%3A%2F%2Fwww.bartleyberry.green%2Fwhos-backing-our-leadership%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-candidates-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-candidates_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-candidates_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Allison-Walsh, John (2 July 2018). <a rel="nofollow" class="external text" href="https://www.greenparty.org.uk/assets/docs/internal-elections-2018/gpex-intending-candidates.pdf">"Green Party Internal election candiates <i>{sic}</i> 2018"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+Internal+election+candiates+%7Bsic%7D+2018&amp;rft.pub=Green+Party+of+England+and+Wales&amp;rft.date=2018-07-02&amp;rft.au=Allison-Walsh%2C+John&amp;rft_id=https%3A%2F%2Fwww.greenparty.org.uk%2Fassets%2Fdocs%2Finternal-elections-2018%2Fgpex-intending-candidates.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Olsey-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Olsey_13-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Olsey, Richard (1 June 2018). <a rel="nofollow" class="external text" href="http://camdennewjournal.com/article/labour-attack-sian-berry-over-green-party-leadership-bid">"Labour councillor attacks Sian Berry over Green Party leadership bid"</a>. <i><a href="/wiki/Camden_New_Journal" title="Camden New Journal">Camden New Journal</a></i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Camden+New+Journal&amp;rft.atitle=Labour+councillor+attacks+Sian+Berry+over+Green+Party+leadership+bid&amp;rft.date=2018-06-01&amp;rft.aulast=Olsey&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fcamdennewjournal.com%2Farticle%2Flabour-attack-sian-berry-over-green-party-leadership-bid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Bartley, Jonathan</a> (23 July 2018). <a rel="nofollow" class="external text" href="https://leftfootforward.org/2018/07/jonathan-bartley-why-im-prepared-to-put-my-body-on-the-line-for-green-principles/">"Why I'm prepared to put my body on the line for Green principles"</a>. <i><a href="/wiki/Left_Foot_Forward" title="Left Foot Forward">Left Foot Forward</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Left+Foot+Forward&amp;rft.atitle=Why+I%27m+prepared+to+put+my+body+on+the+line+for+Green+principles&amp;rft.date=2018-07-23&amp;rft.au=Bartley%2C+Jonathan&amp;rft_id=https%3A%2F%2Fleftfootforward.org%2F2018%2F07%2Fjonathan-bartley-why-im-prepared-to-put-my-body-on-the-line-for-green-principles%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Morris-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Morris_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Morris, James (26 August 2018). <a rel="nofollow" class="external text" href="https://www.standard.co.uk/news/politics/sian-berry-green-party-coleadership-can-help-me-beat-sadiq-khan-in-2020-mayoral-election-a3919021.html">"Sian Berry: 'Green Party co-leadership can help me beat Sadiq Khan in 2020 mayoral election<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/Evening_Standard" class="mw-redirect" title="Evening Standard">Evening Standard</a></i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Evening+Standard&amp;rft.atitle=Sian+Berry%3A+%27Green+Party+co-leadership+can+help+me+beat+Sadiq+Khan+in+2020+mayoral+election%27&amp;rft.date=2018-08-26&amp;rft.aulast=Morris&amp;rft.aufirst=James&amp;rft_id=https%3A%2F%2Fwww.standard.co.uk%2Fnews%2Fpolitics%2Fsian-berry-green-party-coleadership-can-help-me-beat-sadiq-khan-in-2020-mayoral-election-a3919021.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Webber-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Webber_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Webber, Esther (11 August 2018). <a rel="nofollow" class="external text" href="https://www.thetimes.co.uk/article/greens-drawn-into-antisemitism-row-over-comments-by-former-deputy-leader-shahrar-ali-3wnpcjc6x">"Greens drawn into antisemitism row"</a>. <i><a href="/wiki/The_Times" title="The Times">The Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.atitle=Greens+drawn+into+antisemitism+row&amp;rft.date=2018-08-11&amp;rft.aulast=Webber&amp;rft.aufirst=Esther&amp;rft_id=https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fgreens-drawn-into-antisemitism-row-over-comments-by-former-deputy-leader-shahrar-ali-3wnpcjc6x&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-anti-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-anti_17-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Mortimer, Josiah (3 August 2018). <a rel="nofollow" class="external text" href="https://leftfootforward.org/2018/08/exclusive-green-party-leadership-candidate-in-antisemitism-storm-over-gaza-video/">"Green Party leadership candidate in antisemitism storm over Gaza video"</a>. <i><a href="/wiki/Left_Foot_Forward" title="Left Foot Forward">Left Foot Forward</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Left+Foot+Forward&amp;rft.atitle=Green+Party+leadership+candidate+in+antisemitism+storm+over+Gaza+video&amp;rft.date=2018-08-03&amp;rft.au=Mortimer%2C+Josiah&amp;rft_id=https%3A%2F%2Fleftfootforward.org%2F2018%2F08%2Fexclusive-green-party-leadership-candidate-in-antisemitism-storm-over-gaza-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Londoner-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Londoner_18-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.standard.co.uk/news/londoners-diary/antisemitism-row-turns-greens-toxic-a3904651.html">"The Londoner: Anti-Semitism row turns Greens toxic"</a>. <i><a href="/wiki/Evening_Standard" class="mw-redirect" title="Evening Standard">Evening Standard</a></i>. London. 6 August 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Evening+Standard&amp;rft.atitle=The+Londoner%3A+Anti-Semitism+row+turns+Greens+toxic&amp;rft.date=2018-08-06&amp;rft_id=https%3A%2F%2Fwww.standard.co.uk%2Fnews%2Flondoners-diary%2Fantisemitism-row-turns-greens-toxic-a3904651.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Welch-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Welch_19-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Welch, Ben (6 August 2018). <a rel="nofollow" class="external text" href="https://www.thejc.com/news/uk-news/green-party-israel-shahrar-ali-campaign-against-antisemitism-1.468082">"Green Party admits 'inadequate' response to leadership candidate's anti-Israel speech"</a>. <i><a href="/wiki/The_Jewish_Chronicle" title="The Jewish Chronicle">The Jewish Chronicle</a></i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Jewish+Chronicle&amp;rft.atitle=Green+Party+admits+%27inadequate%27+response+to+leadership+candidate%27s+anti-Israel+speech&amp;rft.date=2018-08-06&amp;rft.aulast=Welch&amp;rft.aufirst=Ben&amp;rft_id=https%3A%2F%2Fwww.thejc.com%2Fnews%2Fuk-news%2Fgreen-party-israel-shahrar-ali-campaign-against-antisemitism-1.468082&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Packham, Alfie (6 June 2018). <a rel="nofollow" class="external text" href="https://www.theguardian.com/society/2018/jun/06/aimee-challenor-theresa-may-lgbt-inequality-transgender-green-party">"Aimee Challenor: Yes, I'm trans, but I'm a Green party politician and proud of it<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Aimee+Challenor%3A+Yes%2C+I%E2%80%99m+trans%2C+but+I%E2%80%99m+a+Green+party+politician+and+proud+of+it%E2%80%99&amp;rft.date=2018-06-06&amp;rft.aulast=Packham&amp;rft.aufirst=Alfie&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2018%2Fjun%2F06%2Faimee-challenor-theresa-may-lgbt-inequality-transgender-green-party&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Walker-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walker_21-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Walker, Peter (27 August 2018). <a rel="nofollow" class="external text" href="https://www.theguardian.com/politics/2018/aug/27/greens-rising-star-quits-deputy-leader-race-after-father-jailed-for">"Greens rising star quits deputy leader race after father jailed for rape"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Greens+rising+star+quits+deputy+leader+race+after+father+jailed+for+rape&amp;rft.date=2018-08-27&amp;rft.aulast=Walker&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2018%2Faug%2F27%2Fgreens-rising-star-quits-deputy-leader-race-after-father-jailed-for&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ac-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-ac_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ac_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ac_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ac_22-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.greenparty.org.uk/news/2018/08/26/green-party-statement-aimee-challenor-stands-down-in-green-party-deputy-leadership-race/">"Green Party statement: Aimee Challenor stands down in Green Party Deputy Leadership race"</a>. <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a>. 26 August 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+statement%3A+Aimee+Challenor+stands+down+in+Green+Party+Deputy+Leadership+race&amp;rft.pub=Green+Party+of+England+and+Wales&amp;rft.date=2018-08-26&amp;rft_id=https%3A%2F%2Fwww.greenparty.org.uk%2Fnews%2F2018%2F08%2F26%2Fgreen-party-statement-aimee-challenor-stands-down-in-green-party-deputy-leadership-race%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Smith, Adam (26 August 2018). <a rel="nofollow" class="external text" href="https://metro.co.uk/2018/08/26/green-politician-pulls-out-of-deputy-leadership-race-over-child-rapist-father-7884459/">"Green politician pulls out of deputy leadership race over child rapist father"</a>. <i><a href="/wiki/Metro_(British_newspaper)" title="Metro (British newspaper)">Metro</a></i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Metro&amp;rft.atitle=Green+politician+pulls+out+of+deputy+leadership+race+over+child+rapist+father&amp;rft.date=2018-08-26&amp;rft.au=Smith%2C+Adam&amp;rft_id=https%3A%2F%2Fmetro.co.uk%2F2018%2F08%2F26%2Fgreen-politician-pulls-out-of-deputy-leadership-race-over-child-rapist-father-7884459%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Walker_31.8-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walker_31.8_24-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Walker, Peter (31 August 2018). <a rel="nofollow" class="external text" href="https://www.theguardian.com/politics/2018/aug/31/green-party-launches-inquiry-as-it-suspends-aimee-challenor">"Green party launches inquiry as it suspends Aimee Challenor"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Green+party+launches+inquiry+as+it+suspends+Aimee+Challenor&amp;rft.date=2018-08-31&amp;rft.aulast=Walker&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2018%2Faug%2F31%2Fgreen-party-launches-inquiry-as-it-suspends-aimee-challenor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Chilvers, Jonathan (5 June 2018). <a rel="nofollow" class="external text" href="https://twitter.com/jonchilvers/status/1003978208356773890">"I'm standing for deputy leader of the Green @TheGreenParty"</a>. <a href="/wiki/Twitter" title="Twitter">Twitter</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=I%27m+standing+for+deputy+leader+of+the+Green+%40TheGreenParty&amp;rft.pub=Twitter&amp;rft.date=2018-06-05&amp;rft.au=Chilvers%2C+Jonathan&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fjonchilvers%2Fstatus%2F1003978208356773890&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://democratic.warwickshire.gov.uk/cmis5/Councillors/tabid/62/ctl/ViewCMIS_Person/mid/384/id/1072/ScreenMode/Party/Default.aspx">"Councillor Jonathan Chilvers"</a>. <a href="/wiki/Warwickshire_County_Council" title="Warwickshire County Council">Warwickshire County Council</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Councillor+Jonathan+Chilvers&amp;rft.pub=Warwickshire+County+Council&amp;rft_id=https%3A%2F%2Fdemocratic.warwickshire.gov.uk%2Fcmis5%2FCouncillors%2Ftabid%2F62%2Fctl%2FViewCMIS_Person%2Fmid%2F384%2Fid%2F1072%2FScreenMode%2FParty%2FDefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Cooper, Andrew (1 June 2018). <a rel="nofollow" class="external text" href="https://twitter.com/clrandrewcooper/status/1002411748450865153?s=09">"OK I'm standing for the Deputy Leadership of @TheGreenParty . I better start getting things moving"</a>. <a href="/wiki/Twitter" title="Twitter">Twitter</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OK+I%27m+standing+for+the+Deputy+Leadership+of+%40TheGreenParty+.+I+better+start+getting+things+moving.&amp;rft.pub=Twitter&amp;rft.date=2018-06-01&amp;rft.au=Cooper%2C+Andrew&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fclrandrewcooper%2Fstatus%2F1002411748450865153%3Fs%3D09&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://democracy.kirklees.gov.uk/mgUserInfo.aspx?UID=105">"Councillor Andrew Cooper"</a>. <a href="/wiki/Kirklees_Council" title="Kirklees Council">Kirklees Council</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Councillor+Andrew+Cooper&amp;rft.pub=Kirklees+Council&amp;rft_id=http%3A%2F%2Fdemocracy.kirklees.gov.uk%2FmgUserInfo.aspx%3FUID%3D105&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Rupert_Read" title="Rupert Read">Read, Rupert</a> (1 June 2018). <a rel="nofollow" class="external text" href="https://twitter.com/GreenRupertRead/status/1002519171119403008?s=19">"I'll support u, andy"</a>. <a href="/wiki/Twitter" title="Twitter">Twitter</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=I%27ll+support+u%2C+andy&amp;rft.pub=Twitter&amp;rft.date=2018-06-01&amp;rft.au=Read%2C+Rupert&amp;rft_id=https%3A%2F%2Ftwitter.com%2FGreenRupertRead%2Fstatus%2F1002519171119403008%3Fs%3D19&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=BPLNQH3aLtA">Andrew Cooper for Deputy Leader&#160;– Voting commences!</a>. <a href="/wiki/YouTube" title="YouTube">YouTube</a>. Published 29 July 2018. Retrieved 27 August 2018.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Nix, Rashid (11 June 2018). <a rel="nofollow" class="external text" href="https://twitter.com/RashidNix/status/1006105566614376448">"ANNOUNCEMENT: Rashid Nix standing 4 Green Party Deputy Leader"</a>. <a href="/wiki/Twitter" title="Twitter">Twitter</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ANNOUNCEMENT%3A+Rashid+Nix+standing+4+Green+Party+Deputy+Leader&amp;rft.pub=Twitter&amp;rft.date=2018-06-11&amp;rft.au=Nix%2C+Rashid&amp;rft_id=https%3A%2F%2Ftwitter.com%2FRashidNix%2Fstatus%2F1006105566614376448&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Amelia_Womack" title="Amelia Womack">Womack, Amelia</a> (7 June 2018). <a rel="nofollow" class="external text" href="https://twitter.com/Amelia_Womack/status/1004783215033376768">"I am excited to officially announce that I will be rerunning as deputy leader in the upcoming @TheGreenParty elections"</a>. <a href="/wiki/Twitter" title="Twitter">Twitter</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=I+am+excited+to+officially+announce+that+I+will+be+rerunning+as+deputy+leader+in+the+upcoming+%40TheGreenParty+elections.&amp;rft.pub=Twitter&amp;rft.date=2018-06-07&amp;rft.au=Womack%2C+Amelia&amp;rft_id=https%3A%2F%2Ftwitter.com%2FAmelia_Womack%2Fstatus%2F1004783215033376768&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.greenparty.org.uk/people/deputy-leader-amelia-womack.html">"Deputy Leader: Amelia Womack"</a>. <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Deputy+Leader%3A+Amelia+Womack&amp;rft.pub=Green+Party+of+England+and+Wales&amp;rft_id=https%3A%2F%2Fwww.greenparty.org.uk%2Fpeople%2Fdeputy-leader-amelia-womack.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.greenparty.org.uk/people/green-party-spokespeople/">"Green Party Spokespeople"</a>. <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party of England and Wales</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Party+Spokespeople&amp;rft.pub=Green+Party+of+England+and+Wales&amp;rft_id=https%3A%2F%2Fwww.greenparty.org.uk%2Fpeople%2Fgreen-party-spokespeople%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Party+of+England+and+Wales+leadership+election%2C+2018" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="United_Kingdom_party_leadership_elections,_2018" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:United_Kingdom_party_elections,_2018" title="Template:United Kingdom party elections, 2018"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:United_Kingdom_party_elections,_2018" title="Template talk:United Kingdom party elections, 2018"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:United_Kingdom_party_elections,_2018&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="United_Kingdom_party_leadership_elections,_2018" style="font-size:114%;margin:0 4em">United Kingdom party leadership elections, 2018</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Green</a></li>
+<li><a href="/wiki/Welsh_Conservatives_leadership_election,_2018" title="Welsh Conservatives leadership election, 2018">Welsh Conservatives</a></li>
+<li><a href="/wiki/Welsh_Labour_Party_leadership_election,_2018" title="Welsh Labour Party leadership election, 2018">Welsh Labour</a></li>
+<li><a href="/wiki/Plaid_Cymru_leadership_election,_2018" title="Plaid Cymru leadership election, 2018">Plaid Cymru</a></li>
+<li><a href="/wiki/UK_Independence_Party_leadership_election,_2018" title="UK Independence Party leadership election, 2018">UKIP</a></li>
+<li><a href="/wiki/UKIP_Wales_leadership_election,_2018" title="UKIP Wales leadership election, 2018">UKIP Wales</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Crowned_Portcullis.svg" class="image"><img alt="Crowned Portcullis.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/25px-Crowned_Portcullis.svg.png" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/38px-Crowned_Portcullis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/50px-Crowned_Portcullis.svg.png 2x" data-file-width="460" data-file-height="550" /></a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Green_Party_of_England_and_Wales" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GPEW" title="Template:GPEW"><abbr title="View this template" style="background: #6AB023; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GPEW" title="Template talk:GPEW"><abbr title="Discuss this template" style="background: #6AB023; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GPEW&amp;action=edit"><abbr title="Edit this template" style="background: #6AB023; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Green_Party_of_England_and_Wales" style="font-size:114%;margin:0 4em"><a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales"><span style="color:white">Green Party of England and Wales</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white;"><div id="Leadership" style="font-size:114%;margin:0 4em"><a href="/wiki/Leader_of_the_Green_Party_of_England_and_Wales" title="Leader of the Green Party of England and Wales"><span style="color:white">Leadership</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Leader</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> (2008–12)</li>
+<li><a href="/wiki/Natalie_Bennett" title="Natalie Bennett">Natalie Bennett</a> (2012–16)</li>
+<li><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> / <a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> (2016–18)</li>
+<li><a href="/wiki/Jonathan_Bartley" title="Jonathan Bartley">Jonathan Bartley</a> / <a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a> (since 2018)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Deputy Leader</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adrian_Ramsay" title="Adrian Ramsay">Adrian Ramsay</a> (2008–12)</li>
+<li><a href="/wiki/Will_Duckworth" title="Will Duckworth">Will Duckworth</a> (2012–14)</li>
+<li><a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a> / <a href="/wiki/Shahrar_Ali" title="Shahrar Ali">Shahrar Ali</a> (2014–16)</li>
+<li><a href="/wiki/Amelia_Womack" title="Amelia Womack">Amelia Womack</a> (since 2016)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Leadership elections</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2008" title="Green Party of England and Wales leadership election, 2008">2008</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2010" title="Green Party of England and Wales leadership election, 2010">2010</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2012" title="Green Party of England and Wales leadership election, 2012">2012</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2014" title="Green Party of England and Wales leadership election, 2014">2014</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2016" title="Green Party of England and Wales leadership election, 2016">2016</a></li>
+<li><a class="mw-selflink selflink">2018</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Principal_Speaker" class="mw-redirect" title="Principal Speaker"><span style="color:white">Principal Speakers</span></a><br /><span style="font-size:85%;">(abolished in 2008)</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">1991–92</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sara_Parkin" title="Sara Parkin">Sara Parkin</a></li>
+<li>Jim Berreen</li>
+<li><a href="/wiki/Andrew_Simms" title="Andrew Simms">Andrew Simms</a></li>
+<li><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a></li>
+<li>David Spaven</li>
+<li><a href="/wiki/Derek_Wall" title="Derek Wall">Derek Wall</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">1992–2008</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Female</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a> (1992–93)</span></li>
+<li><span class="nowrap"><a href="/wiki/Jan_Clark" title="Jan Clark">Jan Clark</a> (1993–95)</span></li>
+<li><span class="nowrap"><a href="/wiki/Peg_Alexander" title="Peg Alexander">Peg Alexander</a> (1995–97)</span></li>
+<li><span class="nowrap"><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a> (1998–99)</span></li>
+<li><span class="nowrap"><a href="/wiki/Margaret_Wright_(British_politician)" title="Margaret Wright (British politician)">Margaret Wright</a> (1999–2003)</span></li>
+<li><span class="nowrap"><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> (2003–06)</span></li>
+<li><span class="nowrap"><a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a> (2006–07)</span></li>
+<li><span class="nowrap"><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a> (2007–08)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Male</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Richard_Lawson_(Green_politician)" title="Richard Lawson (Green politician)">Richard Lawson</a> (Feb–Sep 1992)</span></li>
+<li><span class="nowrap"><a href="/wiki/Mallen_Baker" title="Mallen Baker">Mallen Baker</a> (1992–93)</span></li>
+<li><span class="nowrap"><a href="/w/index.php?title=John_Cornford_(Green_politician)&amp;action=edit&amp;redlink=1" class="new" title="John Cornford (Green politician) (page does not exist)">John Cornford</a> (1993–94)</span></li>
+<li><span class="nowrap"><a href="/wiki/David_Taylor_(Green_politician)" title="David Taylor (Green politician)">David Taylor</a> (1994–97)</span></li>
+<li><span class="nowrap"><a href="/wiki/Mike_Woodin" title="Mike Woodin">Mike Woodin</a> (1997–2001)</span></li>
+<li><span class="nowrap"><a href="/wiki/Darren_Johnson" title="Darren Johnson">Darren Johnson</a> (2001–03)</span></li>
+<li><span class="nowrap"><a href="/wiki/Mike_Woodin" title="Mike Woodin">Mike Woodin</a> (2003–04)</span></li>
+<li><span class="nowrap"><a href="/wiki/Keith_Taylor_(British_politician)" title="Keith Taylor (British politician)">Keith Taylor</a> (2004–06)</span></li>
+<li><span class="nowrap"><a href="/wiki/Derek_Wall" title="Derek Wall">Derek Wall</a> (2006–08)</span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white;"><div id="Political_representation" style="font-size:114%;margin:0 4em">Political representation</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="British_Parliament" scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom"><span style="color:white">British Parliament</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/House_of_Commons_of_the_United_Kingdom" title="House of Commons of the United Kingdom"><span style="color:white">House of Commons</span></a> <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament"><span style="color:white">(MPs)</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caroline_Lucas" title="Caroline Lucas">Caroline Lucas</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/House_of_Lords" title="House of Lords"><span style="color:white">House of Lords</span></a> <a href="/wiki/Members_of_the_House_of_Lords" title="Members of the House of Lords"><span style="color:white">(Peers)</span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jenny_Jones,_Baroness_Jones_of_Moulsecoomb" title="Jenny Jones, Baroness Jones of Moulsecoomb">Jenny Jones</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/European_Parliament" title="European Parliament"><span style="color:white">European Parliament</span></a> <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament"><span style="color:white">(MEPs)</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jean_Lambert" title="Jean Lambert">Jean Lambert</a></li>
+<li><a href="/wiki/Molly_Scott_Cato" title="Molly Scott Cato">Molly Scott Cato</a></li>
+<li><a href="/wiki/Keith_Taylor_(British_politician)" title="Keith Taylor (British politician)">Keith Taylor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Devolution_in_the_United_Kingdom" title="Devolution in the United Kingdom"><span style="color:white">Devolved chambers</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/London_Assembly" title="London Assembly"><span style="color:white">London Assembly</span></a> <span style="color:white">(AMs)</span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Si%C3%A2n_Berry" title="Siân Berry">Siân Berry</a></li>
+<li><a href="/wiki/Caroline_Russell" title="Caroline Russell">Caroline Russell</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #6AB023; color: white;"><div id="Organisation" style="font-size:114%;margin:0 4em">Organisation</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">History</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Green_Party_of_England_and_Wales" title="History of the Green Party of England and Wales">History</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales_election_results" title="Green Party of England and Wales election results">Election results</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Predecessor parties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PEOPLE_Party" title="PEOPLE Party">PEOPLE Party</a> (1973–75)</li>
+<li><a href="/wiki/Ecology_Party" title="Ecology Party">Ecology Party</a> (1975–85)</li>
+<li><a href="/wiki/Green_Party_(UK)" title="Green Party (UK)">Green Party of Great Britain</a> (1985–90)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Sister parties</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_in_Northern_Ireland" title="Green Party in Northern Ireland">Green Party in Northern Ireland</a> (now part of the Irish <a href="/wiki/Green_Party_(Ireland)" title="Green Party (Ireland)">Green Party</a>)</li>
+<li><a href="/wiki/Scottish_Green_Party" title="Scottish Green Party">Scottish Green Party</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">Movements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_2000" title="Green 2000">Green 2000</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Green_Party_of_England_and_Wales#Organisation" title="Green Party of England and Wales"><span style="color:white">Organisation</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_Party_of_England_and_Wales#Executive" title="Green Party of England and Wales">Executive</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales#Regional_Council" title="Green Party of England and Wales">Regional Council</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales#Conferences" title="Green Party of England and Wales">Conferences</a></li>
+<li><a href="/wiki/Green_Party_of_England_and_Wales#Constitution" title="Green Party of England and Wales">Constitution</a></li>
+<li><a href="/wiki/Wales_Green_Party" title="Wales Green Party">Wales Green Party</a></li>
+<li><a href="/wiki/Young_Greens_of_England_and_Wales" title="Young Greens of England and Wales">Young Greens</a></li>
+<li><a href="/wiki/Green_Left_(UK)" title="Green Left (UK)">Green Left</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%"><a href="/wiki/Green_Party_of_England_and_Wales#Policy" title="Green Party of England and Wales"><span style="color:white">Party platform</span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Policies_for_a_Sustainable_Society" class="mw-redirect" title="Policies for a Sustainable Society">Policies for a Sustainable Society</a></i></li>
+<li><i><a href="/wiki/Real_progress" title="Real progress">Real progress</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #6AB023; color: white;width:1%">International affiliations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Greens%E2%80%93European_Free_Alliance" title="Greens–European Free Alliance">Greens–European Free Alliance</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #6AB023; color: white"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Green_Party_of_England_and_Wales" title="Category:Green Party of England and Wales"><span style="color:white">Category</span></a></b></div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://campaigns.greenparty.org.uk/executive-elections-2018/">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.greenparty.org.uk/assets/docs/internal-elections-2018/gpex-intending-candidates.pdf">List of candidates</a></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2166
+Cached time: 20180929152309
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.660 seconds
+Real time usage: 0.769 seconds
+Preprocessor visited node count: 6249/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 210584/2097152 bytes
+Template argument size: 22115/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 93483/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 4.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  592.691      1 -total
+ 46.12%  273.323      2 Template:Reflist
+ 27.63%  163.780      1 Template:Infobox_Election
+ 21.77%  129.053      1 Template:Infobox
+ 21.66%  128.388     15 Template:Cite_news
+ 15.20%   90.112     18 Template:Cite_web
+ 12.08%   71.580      3 Template:Infobox_election/row
+ 10.05%   59.540      1 Template:GPEW
+  9.53%   56.454      1 Template:Navbox_with_collapsible_groups
+  6.09%   36.089      9 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:57443998-0!canonical and timestamp 20180929152308 and revision id 858368201
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;oldid=858368201">https://en.wikipedia.org/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;oldid=858368201</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2018_elections_in_the_United_Kingdom" title="Category:2018 elections in the United Kingdom">2018 elections in the United Kingdom</a></li><li><a href="/wiki/Category:Green_Party_of_England_and_Wales_leadership_elections" title="Category:Green Party of England and Wales leadership elections">Green Party of England and Wales leadership elections</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_August_2018" title="Category:Use dmy dates from August 2018">Use dmy dates from August 2018</a></li><li><a href="/wiki/Category:Use_British_English_from_August_2018" title="Category:Use British English from August 2018">Use British English from August 2018</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Party+of+England+and+Wales+leadership+election%2C+2018" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Party+of+England+and+Wales+leadership+election%2C+2018" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2018" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Party_of_England_and_Wales_leadership_election,_2018" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Party_of_England_and_Wales_leadership_election,_2018">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Party_of_England_and_Wales_leadership_election,_2018" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Party_of_England_and_Wales_leadership_election,_2018" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;oldid=858368201" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55076690" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Party_of_England_and_Wales_leadership_election%2C_2018&amp;id=858368201" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Party+of+England+and+Wales+leadership+election%2C+2018">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Party+of+England+and+Wales+leadership+election%2C+2018&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55076690#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 September 2018, at 17:33<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Party_of_England_and_Wales_leadership_election,_2018&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.660","walltime":"0.769","ppvisitednodes":{"value":6249,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":210584,"limit":2097152},"templateargumentsize":{"value":22115,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":93483,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  592.691      1 -total"," 46.12%  273.323      2 Template:Reflist"," 27.63%  163.780      1 Template:Infobox_Election"," 21.77%  129.053      1 Template:Infobox"," 21.66%  128.388     15 Template:Cite_news"," 15.20%   90.112     18 Template:Cite_web"," 12.08%   71.580      3 Template:Infobox_election/row"," 10.05%   59.540      1 Template:GPEW","  9.53%   56.454      1 Template:Navbox_with_collapsible_groups","  6.09%   36.089      9 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.258","limit":"10.000"},"limitreport-memusage":{"value":4565979,"limit":52428800}},"cachereport":{"origin":"mw2166","timestamp":"20180929152309","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw2193"});});</script>
+	</body>
+</html>

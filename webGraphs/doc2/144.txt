@@ -1,0 +1,1102 @@
+https://en.wikipedia.org/wiki/Political_Party_of_Radicals
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Political Party of Radicals - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Political_Party_of_Radicals","wgTitle":"Political Party of Radicals","wgCurRevisionId":854025244,"wgRevisionId":854025244,"wgArticleId":2227227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Articles containing Dutch-language text","Confessional parties in the Netherlands","Defunct Christian political parties","Defunct political parties in the Netherlands","Green political parties in the Netherlands","GroenLinks","Political parties established in 1968","Political parties disestablished in 1991","Political Party of Radicals","Radical parties"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Political_Party_of_Radicals","wgRelevantArticleId":2227227,"wgRequestId":"W7J7vwrAIDkAABB6@psAAAAU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q617261","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/5/58/PPR1.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Political_Party_of_Radicals"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Political_Party_of_Radicals"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Political_Party_of_Radicals rootpage-Political_Party_of_Radicals skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Political Party of Radicals</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid darkblue; border-bottom:2px solid darkblue; line-height: 1;"><span class="fn org">Political Party of Radicals</span><br /><span class="nickname" style="font-size: 0.8em;">Politieke Partij Radikalen</span></div></th></tr><tr><td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;">
+<a href="/wiki/File:PPR1.jpg" class="image"><img alt="PPR1.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/5/58/PPR1.jpg/150px-PPR1.jpg" width="150" height="106" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/58/PPR1.jpg/225px-PPR1.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/5/58/PPR1.jpg 2x" data-file-width="300" data-file-height="212" /></a></td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;">
+<a href="/w/index.php?title=Jacques_Aarden&amp;action=edit&amp;redlink=1" class="new" title="Jacques Aarden (page does not exist)">Jacques Aarden</a> (1968–1972) <br /> <a href="/wiki/Bas_de_Gaay_Fortman" title="Bas de Gaay Fortman">Bas de Gaay Fortman</a> (1972–1977) <br /> <a href="/wiki/Ria_Beckers" title="Ria Beckers">Ria Beckers</a> (1977–1989)</td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+27&#160;April&#160;1968<span style="display:none">&#160;(<span class="bday dtstart published updated">1968-04-27</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Dissolved</th><td style="line-height:1.3em;">
+16&#160;February&#160;1991<span style="display:none">&#160;(<span class="dtend">1991-02-16</span>)</span></td></tr><tr><th scope="row" style="line-height:1.3em;">Split&#160;from</th><td style="line-height:1.3em;">
+<span class="nowrap"><a href="/wiki/Catholic_People%27s_Party" title="Catholic People&#39;s Party">Catholic People's Party</a><sup id="cite_ref-State2008_1-0" class="reference"><a href="#cite_note-State2008-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="line-height:1.3em;">Merged&#160;into</th><td style="line-height:1.3em;">
+<a href="/wiki/GreenLeft" class="mw-redirect" title="GreenLeft">GreenLeft</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Christian_left" title="Christian left">Christian left</a><br /><a href="/wiki/Green_politics" title="Green politics">Green politics</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing</a><sup id="cite_ref-Kuitenbrouwer2013_2-0" class="reference"><a href="#cite_note-Kuitenbrouwer2013-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.3em;">National affiliation</th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Rainbow_(Netherlands)" title="Rainbow (Netherlands)">Rainbow</a> (1989)</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_groups_of_the_European_Parliament" title="Political groups of the European Parliament">European Parliament group</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Rainbow_Group_(1984%E2%80%9389)" title="Rainbow Group (1984–89)">Rainbow Group</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid darkblue;"><ul><li><a href="/wiki/Politics_of_Netherlands" class="mw-redirect" title="Politics of Netherlands">Politics of Netherlands</a></li><li><a href="/wiki/List_of_political_parties_in_Netherlands" class="mw-redirect" title="List of political parties in Netherlands">Political parties</a></li><li><a href="/wiki/Elections_in_Netherlands" class="mw-redirect" title="Elections in Netherlands">Elections</a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Political Party of Radicals</b> (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">Politieke Partij Radikalen</i>, PPR) was a <a href="/wiki/Christian_left" title="Christian left">progressive Christian</a><sup id="cite_ref-Voerman1995_3-0" class="reference"><a href="#cite_note-Voerman1995-3">&#91;3&#93;</a></sup> and <a href="/wiki/Green_politics" title="Green politics">green</a> <a href="/wiki/List_of_political_parties_in_the_Netherlands" title="List of political parties in the Netherlands">political party in the Netherlands</a>. The PPR played a relatively small role in Dutch politics and merged with other left-wing parties to form <a href="/wiki/GreenLeft" class="mw-redirect" title="GreenLeft">GreenLeft</a> (Dutch: GroenLinks) in 1991.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Party_History"><span class="tocnumber">1</span> <span class="toctext">Party History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Before_1968"><span class="tocnumber">1.1</span> <span class="toctext">Before 1968</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1968–77"><span class="tocnumber">1.2</span> <span class="toctext">1968–77</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1977–89"><span class="tocnumber">1.3</span> <span class="toctext">1977–89</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#After_1989"><span class="tocnumber">1.4</span> <span class="toctext">After 1989</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Name"><span class="tocnumber">2</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ideology_&amp;_issues"><span class="tocnumber">3</span> <span class="toctext">Ideology &amp; issues</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Representation"><span class="tocnumber">4</span> <span class="toctext">Representation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Municipal_and_Provincial_Government"><span class="tocnumber">4.1</span> <span class="toctext">Municipal and Provincial Government</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Electorate"><span class="tocnumber">5</span> <span class="toctext">Electorate</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Organisation"><span class="tocnumber">6</span> <span class="toctext">Organisation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Organisational_structure"><span class="tocnumber">6.1</span> <span class="toctext">Organisational structure</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Linked_organisations"><span class="tocnumber">6.2</span> <span class="toctext">Linked organisations</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#International_Cooperation"><span class="tocnumber">6.3</span> <span class="toctext">International Cooperation</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Relationships_to_other_parties"><span class="tocnumber">6.4</span> <span class="toctext">Relationships to other parties</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Party_History">Party History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=1" title="Edit section: Party History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Before_1968">Before 1968</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=2" title="Edit section: Before 1968">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The foundation of the PPR is linked to formation of the <a href="/wiki/De_Jong_cabinet" title="De Jong cabinet">De Jong cabinet</a> and the <a href="/wiki/Christian_Democratic_Appeal" title="Christian Democratic Appeal">Christian Democratic Appeal</a> (CDA).
+</p><p>After the <a href="/wiki/Dutch_general_election,_1967" title="Dutch general election, 1967">1967 general election</a> it became clear that a <a href="/wiki/Centre-right_politics" title="Centre-right politics">centre-right</a> cabinet would be formed by the <a href="/wiki/Anti-Revolutionary_Party" title="Anti-Revolutionary Party">Anti-Revolutionary Party</a> (ARP) and <a href="/wiki/Christian_Historical_Union" title="Christian Historical Union">Christian Historical Union</a> (CHU), the <a href="/wiki/Catholic_People%27s_Party" title="Catholic People&#39;s Party">Catholic People's Party</a> (KVP) and the <a href="/wiki/People%27s_Party_for_Freedom_and_Democracy" title="People&#39;s Party for Freedom and Democracy">People's Party for Freedom and Democracy</a> (VVD). <a href="/wiki/Progressivism" title="Progressivism">Progressive</a> forces within the KVP and ARP had hoped for the formation of a <a href="/wiki/Centre-left" class="mw-redirect" title="Centre-left">centre-left</a> cabinet with the <a href="/wiki/Labour_Party_(Netherlands)" title="Labour Party (Netherlands)">Labour Party</a> (PvdA) without the participation of the CHU and VVD.
+</p><p>In March 1967 a group of "regret voters" (ARP-members who regretted voting ARP) published an advertisement in the Protestant newspaper <a href="/wiki/Trouw" title="Trouw">Trouw</a>, aimed at the leadership of the ARP: they claimed that the left-wing, so called "evangelically radical", ideal of the ARP could not be realised in a cabinet with the VVD. In April this group began to meet regularly with dissidents from the KVP in the Hotel Americain, this gave the group the name "American Group". The group included <a href="/wiki/Wilhelm_de_Gaay_Fortman" class="mw-redirect" title="Wilhelm de Gaay Fortman">Wilhelm de Gaay Fortman</a>, prominent ARP politician, his son <a href="/wiki/Bas_de_Gaay_Fortman" title="Bas de Gaay Fortman">Bas de Gaay Fortman</a>, <a href="/wiki/Jo_Cals" title="Jo Cals">Jo Cals</a>, former KVP prime minister, and <a href="/wiki/Ruud_Lubbers" title="Ruud Lubbers">Ruud Lubbers</a>, member of the KVP and future <a href="/wiki/Prime_Minister_of_the_Netherlands" title="Prime Minister of the Netherlands">Prime Minister</a>. In May the group became a formal organisation, the Working Group Christian Radicals, which was oriented at making their mother parties more progressive. They had some success in the KVP, which was seeking new allies and a new image, after it had lost the <a href="/wiki/Dutch_general_election,_1967" title="Dutch general election, 1967">1967 general election</a>.
+</p>
+<table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><div class="adr" style="font-size:smaller"><span class="fn org country-name"><a href="/wiki/Kingdom_of_the_Netherlands" title="Kingdom of the Netherlands">Kingdom of the Netherlands</a></span>
+</div></th></tr><tr><th><a href="/wiki/File:State_coat_of_arms_of_the_Netherlands.svg" class="image" title="Azure, billetty Or a lion with a coronet Or armed and langued Gules holding in his dexter paw a sword Argent hilted Or and in the sinister paw seven arrows Argent pointed and bound together Or. [The seven arrows stand for the seven provinces of the Union of Utrecht.] The shield is crowned with the (Dutch) royal crown and supported by two lions Or armed and langued gules. They stand on a scroll Azure with the text (Or) &quot;Je Maintiendrai&quot; (French for &quot;I will maintain&quot;.)"><img alt="Azure, billetty Or a lion with a coronet Or armed and langued Gules holding in his dexter paw a sword Argent hilted Or and in the sinister paw seven arrows Argent pointed and bound together Or. [The seven arrows stand for the seven provinces of the Union of Utrecht.] The shield is crowned with the (Dutch) royal crown and supported by two lions Or armed and langued gules. They stand on a scroll Azure with the text (Or) &quot;Je Maintiendrai&quot; (French for &quot;I will maintain&quot;.)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/State_coat_of_arms_of_the_Netherlands.svg/150px-State_coat_of_arms_of_the_Netherlands.svg.png" width="150" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/State_coat_of_arms_of_the_Netherlands.svg/225px-State_coat_of_arms_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/State_coat_of_arms_of_the_Netherlands.svg/300px-State_coat_of_arms_of_the_Netherlands.svg.png 2x" data-file-width="756" data-file-height="595" /></a></th></tr><tr><th style="border-bottom: #aaa 1px solid"><span class="nowrap" style="font-weight:normal">This article is part of a series on the</span><br /><span style="font-weight:bold"><a href="/wiki/Politics_of_the_Netherlands" title="Politics of the Netherlands">politics and government of<br />the Netherlands</a></span></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Constitution_of_the_Netherlands" title="Constitution of the Netherlands">Constitution</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Charter_for_the_Kingdom_of_the_Netherlands" title="Charter for the Kingdom of the Netherlands">Charter</a></li>
+<li><i><a href="/wiki/Wet_Algemene_Bepalingen" title="Wet Algemene Bepalingen">Wet Algemene Bepalingen</a></i></li>
+<li><a href="/wiki/Human_rights_in_the_Netherlands" title="Human rights in the Netherlands">Human rights</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Monarchy_of_the_Netherlands" title="Monarchy of the Netherlands">Monarchy</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Monarchy_of_the_Netherlands" title="Monarchy of the Netherlands">King</a>
+<dl><dd><a href="/wiki/Willem-Alexander_of_the_Netherlands" title="Willem-Alexander of the Netherlands">Willem-Alexander</a></dd></dl></li>
+<li><a href="/wiki/Council_of_Ministers_of_the_Kingdom_of_the_Netherlands" title="Council of Ministers of the Kingdom of the Netherlands">Council of Ministers</a>
+<dl><dd><a href="/wiki/Minister_Plenipotentiary_(Netherlands)" title="Minister Plenipotentiary (Netherlands)">Ministers Plenipotentiary</a>
+<dl><dd><div class="hlist hlist-separated"><ul><li><a href="/wiki/Minister_Plenipotentiary_of_Aruba" title="Minister Plenipotentiary of Aruba">Aruba</a></li><li><a href="/wiki/Minister_Plenipotentiary_of_Cura%C3%A7ao" title="Minister Plenipotentiary of Curaçao">Curaçao</a></li><li><a href="/wiki/Minister_Plenipotentiary_of_Sint_Maarten" title="Minister Plenipotentiary of Sint Maarten">St. Maarten</a></li></ul></div></dd></dl></dd></dl></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Cabinet_of_the_Netherlands" title="Cabinet of the Netherlands">Cabinet</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Prime_Minister_of_the_Netherlands" title="Prime Minister of the Netherlands">Prime Minister</a> (<a href="/wiki/List_of_Prime_Ministers_of_the_Netherlands" title="List of Prime Ministers of the Netherlands">list</a>)
+<dl><dd><a href="/wiki/Mark_Rutte" title="Mark Rutte">Mark Rutte</a></dd></dl></li>
+<li><a href="/wiki/Deputy_Prime_Minister_of_the_Netherlands" title="Deputy Prime Minister of the Netherlands">Deputy Prime Ministers</a>
+<dl><dd><a href="/wiki/Hugo_de_Jonge" title="Hugo de Jonge">Hugo de Jonge</a></dd>
+<dd><a href="/wiki/Kajsa_Ollongren" title="Kajsa Ollongren">Kajsa Ollongren</a></dd>
+<dd><a href="/wiki/Carola_Schouten" title="Carola Schouten">Carola Schouten</a></dd></dl></li>
+<li><a href="/wiki/Ministries_of_the_Netherlands" title="Ministries of the Netherlands">Ministries</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/States_General_of_the_Netherlands" title="States General of the Netherlands">States General</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Senate_(Netherlands)" title="Senate (Netherlands)">Senate</a>
+<dl><dd><a href="/wiki/President_of_the_Senate_(Netherlands)" title="President of the Senate (Netherlands)">President</a>: <a href="/wiki/Ankie_Broekers-Knol" title="Ankie Broekers-Knol">Ankie Broekers-Knol</a></dd>
+<dd><img alt="Template" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png" title="Template" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/23px-Symbol_template_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/31px-Symbol_template_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Template:Members_of_the_Senate_of_the_Netherlands,_2015%E2%80%93present" title="Template:Members of the Senate of the Netherlands, 2015–present">Current membership</a></dd>
+<dd><a href="/wiki/Historic_composition_of_the_Senate_of_the_Netherlands" title="Historic composition of the Senate of the Netherlands">Historic composition</a></dd></dl></li>
+<li><a href="/wiki/House_of_Representatives_(Netherlands)" title="House of Representatives (Netherlands)">House of Representatives</a>
+<dl><dd><a href="/wiki/Speaker_of_the_House_of_Representatives_(Netherlands)" title="Speaker of the House of Representatives (Netherlands)">Speaker</a>: <a href="/wiki/Khadija_Arib" title="Khadija Arib">Khadija Arib</a></dd>
+<dd><img alt="Template" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png" title="Template" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/23px-Symbol_template_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/31px-Symbol_template_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/List_of_members_of_the_House_of_Representatives_of_the_Netherlands,_2017%E2%80%93present" title="List of members of the House of Representatives of the Netherlands, 2017–present">Current membership</a></dd>
+<dd><a href="/wiki/Historic_composition_of_the_House_of_Representatives_of_the_Netherlands" title="Historic composition of the House of Representatives of the Netherlands">Historic composition</a></dd></dl></li>
+<li><a href="/wiki/Parliamentary_committees_of_the_States_General_of_the_Netherlands" title="Parliamentary committees of the States General of the Netherlands">Parliamentary committees</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Judiciary_of_the_Netherlands" title="Judiciary of the Netherlands">Judiciary</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Supreme_Court_of_the_Netherlands" title="Supreme Court of the Netherlands">Supreme Court</a></li>
+<li><a href="/wiki/High_Council_of_State_(Netherlands)" title="High Council of State (Netherlands)">High Councils of State</a>
+<dl><dd><a href="/wiki/Dutch_Council_of_State" class="mw-redirect" title="Dutch Council of State">Council of State</a></dd>
+<dd><a href="/wiki/Netherlands_Court_of_Audit" class="mw-redirect" title="Netherlands Court of Audit">Court of Audit</a></dd>
+<dd><a href="/wiki/National_Ombudsman" title="National Ombudsman">National Ombudsman</a></dd></dl></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Elections_in_the_Netherlands" title="Elections in the Netherlands">Elections</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li>Recent elections
+<dl><dd><div class="hlist hlist-separated"><ul><li>General: <a href="/wiki/Dutch_general_election,_2010" title="Dutch general election, 2010">2010</a></li><li><a href="/wiki/Dutch_general_election,_2012" title="Dutch general election, 2012">2012</a></li><li><a href="/wiki/Dutch_general_election,_2017" title="Dutch general election, 2017">2017</a></li></ul></div></dd>
+<dd><div class="hlist hlist-separated"><ul><li>Provincial: <a href="/wiki/Dutch_provincial_elections,_2007" title="Dutch provincial elections, 2007">2007</a></li><li><a href="/wiki/Dutch_provincial_elections,_2011" title="Dutch provincial elections, 2011">2011</a></li><li><a href="/wiki/Dutch_provincial_elections,_2015" title="Dutch provincial elections, 2015">2015</a></li></ul></div></dd>
+<dd><div class="hlist hlist-separated"><ul><li>Municipal: <a href="/wiki/Dutch_municipal_elections,_2006" title="Dutch municipal elections, 2006">2006</a></li><li><a href="/wiki/Dutch_municipal_elections,_2010" title="Dutch municipal elections, 2010">2010</a></li><li><a href="/wiki/Dutch_municipal_elections,_2014" title="Dutch municipal elections, 2014">2014</a></li><li><a href="/wiki/Dutch_municipal_elections,_2018" title="Dutch municipal elections, 2018">2018</a></li></ul></div></dd>
+<dd><div class="hlist hlist-separated"><ul><li>European: <a href="/wiki/European_Parliament_election,_2004_(Netherlands)" title="European Parliament election, 2004 (Netherlands)">2004</a></li><li><a href="/wiki/European_Parliament_election,_2009_(Netherlands)" title="European Parliament election, 2009 (Netherlands)">2009</a></li><li><a href="/wiki/European_Parliament_election,_2014_(Netherlands)" title="European Parliament election, 2014 (Netherlands)">2014</a></li></ul></div></dd></dl></li>
+<li><a href="/wiki/Referendums_in_the_Netherlands" title="Referendums in the Netherlands">Referendums</a>
+<dl><dd><div class="hlist hlist-separated"><ul><li>Referendums: <a href="/wiki/Dutch_European_Constitution_referendum,_2005" title="Dutch European Constitution referendum, 2005">2005</a></li><li><a href="/wiki/Dutch_Ukraine%E2%80%93European_Union_Association_Agreement_referendum,_2016" title="Dutch Ukraine–European Union Association Agreement referendum, 2016">2016</a></li><li><i><a href="/wiki/Dutch_Intelligence_and_Security_Services_Act_referendum,_2018" title="Dutch Intelligence and Security Services Act referendum, 2018">2018</a></i></li></ul></div></dd></dl></li>
+<li><a href="/wiki/List_of_political_parties_in_the_Netherlands" title="List of political parties in the Netherlands">Political parties</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Dutch_politicians" title="Category:Dutch politicians">Politicians</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Local government</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Provincial_politics_in_the_Netherlands" title="Provincial politics in the Netherlands">Provincial politics</a></li>
+<li><a href="/wiki/Water_board_(The_Netherlands)" class="mw-redirect" title="Water board (The Netherlands)">Water boards</a></li>
+<li><a href="/wiki/Municipal_politics_in_the_Netherlands" title="Municipal politics in the Netherlands">Municipal politics</a></li>
+<li><a href="/wiki/BES_islands" class="mw-redirect" title="BES islands">BES islands</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Foreign_relations_of_the_Netherlands" title="Foreign relations of the Netherlands">Foreign relations</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<dl><dd>Diplomatic missions
+<ul><li><a href="/wiki/List_of_diplomatic_missions_of_the_Netherlands" title="List of diplomatic missions of the Netherlands">of the Netherlands</a></li>
+<li><a href="/wiki/List_of_diplomatic_missions_in_the_Netherlands" title="List of diplomatic missions in the Netherlands">to the Netherlands</a></li></ul></dd></dl></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Related topics</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Corruption_in_the_Netherlands" title="Corruption in the Netherlands">Corruption in the Netherlands</a></li>
+<li><a href="/wiki/De_Nederlandsche_Bank" title="De Nederlandsche Bank">De Nederlandsche Bank</a></li>
+<li><a href="/wiki/Law_of_the_Netherlands" title="Law of the Netherlands">Law of the Netherlands</a></li>
+<li><a href="/wiki/History_of_the_Netherlands_(1900%E2%80%93present)" title="History of the Netherlands (1900–present)">Modern history</a></li>
+<li><a href="/wiki/Republicanism_in_the_Netherlands" title="Republicanism in the Netherlands">Republicanism in the Netherlands</a></li>
+<li><a href="/wiki/Social_Economic_Council" class="mw-redirect" title="Social Economic Council">Social Economic Council</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<div class="hlist" style="text-align:center;font-weight:normal;">
+<ul><li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/Atlas_of_the_Netherlands" class="extiw" title="commons:Atlas of the Netherlands">Atlas</a></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Politics_of_the_Netherlands" title="Template:Politics of the Netherlands"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Politics_of_the_Netherlands" title="Template talk:Politics of the Netherlands"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_of_the_Netherlands&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>In February 1968 the leaders of the KVP, <a href="/wiki/Norbert_Schmelzer" title="Norbert Schmelzer">Norbert Schmelzer</a>, ARP, <a href="/wiki/Barend_Biesheuvel" title="Barend Biesheuvel">Barend Biesheuvel</a> and CHU, <a href="/w/index.php?title=Jur_Mellema&amp;action=edit&amp;redlink=1" class="new" title="Jur Mellema (page does not exist)">Jur Mellema</a> made a public appearance, stating that the three parties wanted to work together more closely. This cooperation would eventually lead to the formation of the <a href="/wiki/Christian_Democratic_Appeal" title="Christian Democratic Appeal">Christian Democratic Appeal</a> (CDA) in 1974. With this appearance the hopes of the Christian Radicals within the KVP that a progressive alliance with the Labour Party would be formed, were shattered.
+</p>
+<h3><span id="1968.E2.80.9377"></span><span class="mw-headline" id="1968–77">1968–77</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=3" title="Edit section: 1968–77">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:1974_ppr_ov-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a3/1974_ppr_ov-1.jpg/150px-1974_ppr_ov-1.jpg" width="150" height="217" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/a/a3/1974_ppr_ov-1.jpg 1.5x" data-file-width="207" data-file-height="300" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:1974_ppr_ov-1.jpg" class="internal" title="Enlarge"></a></div>Poster for the 1974 elections showing the green nature of the party</div></div></div>
+<p>On 27 April 1968 part of the group of Catholic radicals left the KVP and formed the Political Party of Radicals (PRP).<sup id="cite_ref-Irwin1989_4-0" class="reference"><a href="#cite_note-Irwin1989-4">&#91;4&#93;</a></sup> Prominent radicals, like Lubbers and Cals, did not join the party. A group of radical KVP MPs led by <a href="/w/index.php?title=Jacques_Aarden&amp;action=edit&amp;redlink=1" class="new" title="Jacques Aarden (page does not exist)">Jacques Aarden</a> left the KVP parliamentary party and formed their own group-Aarden, the parliamentary party of the PPR. The party is joined by some prominent "regret-voters" from the ARP, most prominently Bas de Gaay Fortman.
+</p><p>The party began to co-operate closely with the Labour Party (PvdA), the newly founded <a href="/wiki/Democrats_66" title="Democrats 66">Democrats 66</a> (D66) and initially with the left-wing <a href="/wiki/Pacifist_Socialist_Party" title="Pacifist Socialist Party">Pacifist Socialist Party</a> (PSP) in the so-called Progressive Accords (PAK). The parties proposed common election manifestos and formed a <a href="/wiki/Shadow_cabinet" class="mw-redirect" title="Shadow cabinet">shadow cabinet</a>. The PSP left the alliance before the negotiations ended, because the alliance was not <a href="/wiki/Socialism" title="Socialism">socialist</a> enough. The PPR participated in the <a href="/wiki/Dutch_general_election,_1971" title="Dutch general election, 1971">1971 general election</a> as part of the PAK. The PPR won only two seats, while the PAK wins only 52 seats, a third of parliament. Jacques Aarden led the party in parliament. Some prominent members left the PPR, because they think the party has failed. The <a href="/w/index.php?title=Biesheuvel_cabinet&amp;action=edit&amp;redlink=1" class="new" title="Biesheuvel cabinet (page does not exist)">Biesheuvel cabinet</a> was formed by the ARP, KVP, CHU, VVD and the <a href="/wiki/Democratic_Socialists_%2770" title="Democratic Socialists &#39;70">Democratic Socialists '70</a>.
+</p><p>In the <a href="/wiki/Dutch_general_election,_1972" title="Dutch general election, 1972">1972 general election</a> the parties tried again. The PAK now won 56 seats and the PPR 7. Former ARP-politician <a href="/wiki/Bas_de_Gaay_Fortman" title="Bas de Gaay Fortman">Bas de Gaay Fortman</a> led the party in the elections. A continuation of the <a href="/wiki/First_Biesheuvel_cabinet" title="First Biesheuvel cabinet">Biesheuvel cabinet</a>, which fell within one year is excluded. The only possibility is a centre-left government with the PAK parties and the Christian democratic parties. The PAK parties refuse this possibility and want to form a PAK minority cabinet. A compromise is found in the progressive <a href="/wiki/Den_Uyl_cabinet" title="Den Uyl cabinet">Den Uyl cabinet</a>, an <a href="/wiki/Cabinet_of_the_Netherlands" title="Cabinet of the Netherlands">extra-parliamentary cabinet</a> composed out of PvdA, D66 and PPR and progressive individuals from the ARP and the KVP, including former Radicals such as Lubbers and Wilhelm de Gaay Fortman. The PPR supplied two ministers, <a href="/wiki/Harry_van_Doorn" title="Harry van Doorn">Harry van Doorn</a> Minister for Culture, Recreation and Social Work, and <a href="/wiki/Boy_Trip" title="Boy Trip">Boy Trip</a>, <a href="/wiki/Minister_without_portfolio" title="Minister without portfolio">Minister without Portfolio</a> for Science and one <a href="/wiki/Staatssecretaris" class="mw-redirect" title="Staatssecretaris">state secretary</a>, Michel van Hulten, for Transport, Public Works and Water Management. The fact that the PPR was co-operating with the ARP and KVP, which many members of the party had just left led to considerable upheaval within the party. The party congress adopted a resolution stating that the party would not co-operate with these parties in the next cabinet.
+</p>
+<h3><span id="1977.E2.80.9389"></span><span class="mw-headline" id="1977–89">1977–89</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=4" title="Edit section: 1977–89">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:PPR3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ac/PPR3.jpg/150px-PPR3.jpg" width="150" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/a/ac/PPR3.jpg 1.5x" data-file-width="213" data-file-height="300" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PPR3.jpg" class="internal" title="Enlarge"></a></div>Poster for the 1986 elections showing party leader Ria Beckers in front of the 1983 anti-nuclear weapons demonstration</div></div></div>
+<p>Before the 1977 elections Bas de Gaay Fortman was replaced as political leader by <a href="/wiki/Ria_Beckers" title="Ria Beckers">Ria Beckers</a>. The election results were especially disastrous: the party lost four seats: this is attributed to the political competition between PvdA Prime Minister <a href="/wiki/Joop_den_Uyl" title="Joop den Uyl">Joop den Uyl</a> and his Christian Democrat competitor <a href="/wiki/Dries_van_Agt" title="Dries van Agt">Dries van Agt</a>, which caused many PSP-sympathisers to vote for Den Uyl, and also the anti-KVP/ARP resolution adopted by the congress, which made serious participation in cabinet impossible.
+</p><p>in 1979, following the <a href="/wiki/European_Parliament_election,_1979_(Netherlands)" title="European Parliament election, 1979 (Netherlands)">first direct elections to the European Parliament</a>, the PRP was involved with the <a href="/wiki/European_Green_Party" title="European Green Party">Coordination of European Green and Radical Parties</a> (CEGRP) and its unsuccessful efforts to create a single pan-European platform for green and radical politics.<sup id="cite_ref-Bomberg2005_5-0" class="reference"><a href="#cite_note-Bomberg2005-5">&#91;5&#93;</a></sup>
+</p><p>In the early 1980s the placement of American <a href="/wiki/Netherlands_and_weapons_of_mass_destruction" title="Netherlands and weapons of mass destruction">nuclear weapons</a> became an important political issue. The PPR was involved in the organisation of national demonstrations against nuclear weapons and more than 80% of the members of the PPR attended one of the two <a href="/wiki/Hollanditis" title="Hollanditis">mass protests against the placement nuclear weapons</a> of 1981 and 1983.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>The party began to debate its political course: some members (known as the Godebald-group) wanted to continue co-operation with the PvdA. Many of the party's founders and former ministers, such as <a href="/w/index.php?title=Erik_Jurgens&amp;action=edit&amp;redlink=1" class="new" title="Erik Jurgens (page does not exist)">Erik Jurgens</a> were part of this group. Others wanted to co-operate with the Pacifist Socialist Party and the <a href="/wiki/Communist_Party_of_the_Netherlands" title="Communist Party of the Netherlands">Communist Party of the Netherlands</a>. They were called the Wageningen Group. Another group wanted to reform the party's course and continue as an independent Green party: <a href="/wiki/Bas_de_Gaay_Fortman" title="Bas de Gaay Fortman">Bas de Gaay Fortman</a> and former <a href="/wiki/Provo_(movement)" title="Provo (movement)">Provo</a> and <a href="/w/index.php?title=Kabouter_(movement)&amp;action=edit&amp;redlink=1" class="new" title="Kabouter (movement) (page does not exist)">Kabouter</a> <a href="/wiki/Roel_van_Duijn" title="Roel van Duijn">Roel van Duijn</a> were important exponents of this group. At the party congress of 1981 the party voted on these options, which were colour-coded: the Red option (cooperation with the PSP and CPN), the Blue option (co-operation with the D66 and the PvdA) and the Green option (independent green party). An alliance was struck between the Reds and Greens. The party decided to break its alliance with D66 and the PvdA and try to form an alliance with the PSP and CPN, which would have a strong green identity. In the <a href="/wiki/Dutch_general_election,_1981" title="Dutch general election, 1981">1981 general election</a> it kept its three seats. After the elections a CDA/PvdA/D66 cabinet was formed – a continuation of the <a href="/wiki/Den_Uyl_cabinet" title="Den Uyl cabinet">Den Uyl cabinet</a> without the PPR. The cabinet fell after several months in the subsequent <a href="/wiki/Dutch_general_election,_1982" title="Dutch general election, 1982">1982 election</a> where the party lost one seat. In 1985 CDA-dissident Stef Dijkman joined the PPR parliamentary party. He had split from the CDA in 1983 together with Nico Sholten, who joined the PvdA parliamentary party.
+</p><p>In the 1980s the cooperation between PPR, CPN and PSP began to take shape. The parties co-operated mainly in municipal and provincial elections and legislatures, because a higher percentage of votes is necessary to gain seats in such elections. In the <a href="/wiki/European_Parliament_election,_1984_(Netherlands)" title="European Parliament election, 1984 (Netherlands)">1984 European election</a> the PPR, CPN and PSP formed the <a href="/wiki/Green_Progressive_Accord" title="Green Progressive Accord">Green Progressive Accord</a> that entered with one list in the European elections. They won one seat, which rotated between the PSP and PPR. Party-members also met each other in grassroots extraparliamentary protest against <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear power</a> and nuclear weapons. Both the PSP and CPN were unwilling to co-operate intensively with the PPR, which was slightly larger in seats and which they saw as a non-socialist party.
+</p>
+<h3><span class="mw-headline" id="After_1989">After 1989</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=5" title="Edit section: After 1989">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1989 the PSP initiated talks with the PPR and the PSP. Their initiative was supported by an open letter from members of <a href="/wiki/Trade_union" title="Trade union">trade unions</a>, <a href="/wiki/Environmental_movement" title="Environmental movement">environmental movements</a> and the <a href="/wiki/Arts" class="mw-redirect" title="Arts">arts</a> which called for one progressive formation to the left of the PvdA. After long negotiations, which were pressured by the fall of the <a href="/wiki/Second_Lubbers_cabinet" title="Second Lubbers cabinet">second Lubbers cabinet</a> and the subsequent earlier elections, the party entered in the <a href="/wiki/Dutch_general_election,_1989" title="Dutch general election, 1989">1989 general election</a> as part of GreenLeft. They were joined by the <a href="/wiki/Evangelical_People%27s_Party_(Netherlands)" title="Evangelical People&#39;s Party (Netherlands)">Evangelical People's Party</a> (EVP). Ria Beckers was <a href="/wiki/Lijsttrekker" title="Lijsttrekker">top candidate</a> and she became chair of the GreenLeft parliamentary party. In 1991 the PPR dissolved itself into GreenLeft when GreenLeft became a formal political party.<sup id="cite_ref-Voerman1995_3-1" class="reference"><a href="#cite_note-Voerman1995-3">&#91;3&#93;</a></sup> In the same year, GreenLeft's only MEP, former PPR-chair, Verbeek announced that he would not give up his seat in the European Parliament, to allow a former member of the PSP to enter the European Parliament. He would continue as an independent and would be top candidate for <a href="/wiki/The_Greens_(Netherlands)" title="The Greens (Netherlands)">The Greens</a> in the <a href="/wiki/European_Parliament_election,_1994" title="European Parliament election, 1994">1994 European election</a>, without success.
+</p>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The PPR left a considerable mark on GreenLeft. In particular the green, environmentalist ideals of the PPR still play an important role.
+</p>
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=6" title="Edit section: Name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Political Party of Radicals" referenced the origin of the party, it was founded by the so-called <a href="/wiki/Christian_left" title="Christian left">Christian Radicals</a>: progressive Catholics. Because they wanted to open their party to all Christians as well as to non-Christians, the dropped the reference to Christianity in their name.
+</p>
+<h2><span id="Ideology_.26_issues"></span><span class="mw-headline" id="Ideology_&amp;_issues">Ideology &amp; issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=7" title="Edit section: Ideology &amp; issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The party did not have a manifesto of principles, instead election manifestos which addressed current issues guided the party's behaviour.
+</p><p>Although the party had Christian roots, it denounced a direct relationship between religion and politics. The party can be seen as an early <a href="/wiki/Green_politics" title="Green politics">green party</a> with a <a href="/wiki/Post-materialism" title="Post-materialism">post-materialist agenda</a> consisting of <a href="/wiki/Environmentalism" title="Environmentalism">environmental protection</a>, <a href="/wiki/Third_world" class="mw-redirect" title="Third world">third world</a> <a href="/wiki/Development_cooperation" class="mw-redirect" title="Development cooperation">development</a>, <a href="/wiki/Nuclear_disarmament" title="Nuclear disarmament">nuclear disarmament</a>, <a href="/wiki/Industrial_democracy" title="Industrial democracy">democratisation of the economy</a> and <a href="/wiki/Grassroots_democracy" title="Grassroots democracy">grass roots democracy</a>. The party favoured the implementation of a <a href="/wiki/Basic_income_in_the_Netherlands" title="Basic income in the Netherlands">basic income</a>.
+</p><p>During its existence the party changed from a Christian ally of the <a href="/wiki/Labour_Party_(Netherlands)" title="Labour Party (Netherlands)">Labour Party</a> (PvdA) with its roots in the Catholic <a href="/wiki/Trade_union" title="Trade union">trade union</a> movement to a party on the left of the PvdA with links to the environmental movement. Several decisions were important in this, but especially the 1981 congress in which the party decided not to cooperate, but try to found a <a href="/wiki/Political_alliance" title="Political alliance">political alliance</a> left of the PvdA with a green program.
+</p>
+<h2><span class="mw-headline" id="Representation">Representation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=8" title="Edit section: Representation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This table the PPR's results in elections to the <a href="/wiki/House_of_Representatives_of_the_Netherlands" class="mw-redirect" title="House of Representatives of the Netherlands">House of Representatives</a>, <a href="/wiki/Senate_of_the_Netherlands" class="mw-redirect" title="Senate of the Netherlands">Senate</a>, <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> and <a href="/wiki/States-Provincial" title="States-Provincial">States-Provincial</a>, as well as the party's political leadership: the fractievoorzitter, is the chair of the parliamentary party and the lijsttrekker is the party's top candidate in the general election, these posts are normally taken by the party's leader. It also possible that the leader of the PPR is a member of cabinet, therefore its participation in cabinets is also listed: if the PPR was in cabinet the highest ranking minister is listed. The membership of PPR and the party chair is also represented.
+</p>
+<table border="1" cellspacing="0" cellpadding="5">
+
+<tbody><tr bgcolor="#cccccc">
+<th>Year
+</th>
+<th><b><a href="/wiki/House_of_Representatives_of_the_Netherlands" class="mw-redirect" title="House of Representatives of the Netherlands">HoR</a></b>
+</th>
+<th><b><a href="/wiki/Senate_of_the_Netherlands" class="mw-redirect" title="Senate of the Netherlands">S</a></b>
+</th>
+<th><b><a href="/wiki/European_Parliament" title="European Parliament">EP</a></b>
+</th>
+<th><b><a href="/wiki/States-Provincial" title="States-Provincial">SP</a></b>
+</th>
+<th><a href="/wiki/Lijsttrekker" title="Lijsttrekker">Lijsttrekker</a>
+</th>
+<th><a href="/wiki/Fractievoorzitter" class="mw-redirect" title="Fractievoorzitter">Fractievoorzitter</a>
+</th>
+<th><b><a href="/wiki/Partijvoorzitter" class="mw-redirect" title="Partijvoorzitter">Party Chair</a></b>
+</th>
+<th>Membership
+</th>
+<th>Cabinet
+</th></tr>
+<tr>
+<td>1968
+</td>
+<td>3*
+</td>
+<td>0
+</td>
+<td>n/a
+</td>
+<td>0
+</td>
+<td><i>no elections</i>
+</td>
+<td><a href="/w/index.php?title=Jacques_Aarden&amp;action=edit&amp;redlink=1" class="new" title="Jacques Aarden (page does not exist)">Jacques Aarden</a>
+</td>
+<td><a href="/wiki/Pieter_Bogaers" title="Pieter Bogaers">Pieter Bogaers</a>
+</td>
+<td>2000
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1969
+</td>
+<td>3*
+</td>
+<td>1
+</td>
+<td>n/a
+</td>
+<td>0
+</td>
+<td><i>no elections</i>
+</td>
+<td>Jacques Aarden
+</td>
+<td><a href="/w/index.php?title=Erik_Jurgens&amp;action=edit&amp;redlink=1" class="new" title="Erik Jurgens (page does not exist)">Erik Jurgens</a>
+</td>
+<td>3000
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1970
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>n/a
+</td>
+<td>9+9**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Jacques Aarden
+</td>
+<td>J.J.G Tonnaer
+</td>
+<td>4000
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td><a href="/wiki/Dutch_general_election,_1971" title="Dutch general election, 1971">1971</a>
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>n/a
+</td>
+<td>9+9**
+</td>
+<td>Multiple including Jacques Aarden and <a href="/wiki/Bas_de_Gaay_Fortman" title="Bas de Gaay Fortman">Bas de Gaay Fortman</a>
+</td>
+<td>Jacques Aarden
+</td>
+<td>D. Coppes
+</td>
+<td>4284
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td><a href="/wiki/Dutch_general_election,_1972" title="Dutch general election, 1972">1972</a>
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>n/a
+</td>
+<td>9+9**
+</td>
+<td>Bas de Gaay Fortman
+</td>
+<td>Bas de Gaay Fortman
+</td>
+<td>D. Coppes
+</td>
+<td>3800
+</td>
+<td><a href="/wiki/Harry_van_Doorn" title="Harry van Doorn">Harry van Doorn</a>
+</td></tr>
+<tr>
+<td>1973
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>n/a
+</td>
+<td>9+9**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Bas de Gaay Fortman
+</td>
+<td>W. van dam
+</td>
+<td>6300
+</td>
+<td>Harry van Doorn
+</td></tr>
+<tr>
+<td>1974
+</td>
+<td>7
+</td>
+<td>4
+</td>
+<td>n/a
+</td>
+<td>32+2**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Bas de Gaay Fortman
+</td>
+<td><a href="/wiki/Ria_Beckers" title="Ria Beckers">Ria Beckers</a>
+</td>
+<td>11000
+</td>
+<td>Harry van Doorn
+</td></tr>
+<tr>
+<td>1975
+</td>
+<td>7
+</td>
+<td>4
+</td>
+<td>n/a
+</td>
+<td>32+2**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Bas de Gaay Fortman
+</td>
+<td>Ria Beckers
+</td>
+<td>12800
+</td>
+<td>Harry van Doorn
+</td></tr>
+<tr>
+<td>1976
+</td>
+<td>7
+</td>
+<td>4
+</td>
+<td>n/a
+</td>
+<td>32+2**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Bas de Gaay Fortman
+</td>
+<td>Ria Beckers
+</td>
+<td>131000
+</td>
+<td>Harry van Doorn
+</td></tr>
+<tr>
+<td><a href="/wiki/Dutch_general_election,_1977" title="Dutch general election, 1977">1977</a>
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>n/a
+</td>
+<td>32+2**
+</td>
+<td>Ria Beckers
+</td>
+<td>Ria Beckers
+</td>
+<td><a href="/w/index.php?title=Herman_Verbeek&amp;action=edit&amp;redlink=1" class="new" title="Herman Verbeek (page does not exist)">Herman Verbeek</a>
+</td>
+<td>134000
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1978
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>n/a
+</td>
+<td>6+2**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>Herman Verbeek
+</td>
+<td>12600
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1979
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>n/a
+</td>
+<td>6+2**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>Herman Verbeek
+</td>
+<td>12325
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1980
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>n/a
+</td>
+<td>6+2**
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>Herman Verbeek
+</td>
+<td>11500
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td><a href="/wiki/Dutch_general_election,_1981" title="Dutch general election, 1981">1981</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>n/a
+</td>
+<td>6+2**
+</td>
+<td>Ria Beckers
+</td>
+<td>Ria Beckers
+</td>
+<td><a href="/w/index.php?title=Wim_de_Boer&amp;action=edit&amp;redlink=1" class="new" title="Wim de Boer (page does not exist)">Wim de Boer</a>
+</td>
+<td>11567
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td><a href="/wiki/Dutch_general_election,_1982" title="Dutch general election, 1982">1982</a>
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>n/a
+</td>
+<td>11+1**+3***
+</td>
+<td>Ria Beckers
+</td>
+<td>Ria Beckers
+</td>
+<td>Wim de Boer
+</td>
+<td>11063
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1983
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>n/a
+</td>
+<td>11+1**+3***
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>Wim de Boer
+</td>
+<td>8934
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1984
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>1***
+</td>
+<td>11+1**+3***
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>Wim de Boer
+</td>
+<td>8305
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1985
+</td>
+<td>3****
+</td>
+<td>1
+</td>
+<td>1***
+</td>
+<td>11+1**+3***
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>J. van der Plaat
+</td>
+<td>7848
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td><a href="/wiki/Dutch_general_election,_1986" title="Dutch general election, 1986">1986</a>
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>1***
+</td>
+<td>11+1**+4***
+</td>
+<td>Ria Beckers
+</td>
+<td>Ria Beckers
+</td>
+<td>J. van der Plaat
+</td>
+<td>6151
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1987
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>0***
+</td>
+<td>10+3***
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>J. van der Plaat
+</td>
+<td>5901
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1988
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>0***
+</td>
+<td>10+3***
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td><a href="/wiki/Bram_van_Ojik" title="Bram van Ojik">Bram van Ojik</a>
+</td>
+<td>5785
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td><a href="/wiki/Dutch_general_election,_1989" title="Dutch general election, 1989">1989</a>
+</td>
+<td>2*****
+</td>
+<td>1*****
+</td>
+<td>1*****
+</td>
+<td>13*****
+</td>
+<td>Ria Beckers<br />#1 of the <a href="/wiki/GreenLeft" class="mw-redirect" title="GreenLeft">GreenLeft</a>
+</td>
+<td>Ria Beckers<br />leader of GreenLeft
+</td>
+<td>Bram van Ojik
+</td>
+<td>5823
+</td>
+<td>opposition
+</td></tr>
+<tr>
+<td>1990
+</td>
+<td>2*****
+</td>
+<td>1*****
+</td>
+<td>1*****
+</td>
+<td>13*****
+</td>
+<td><i>no elections</i>
+</td>
+<td>Ria Beckers
+</td>
+<td>Bram van Ojik
+</td>
+<td><i>unknown</i>
+</td>
+<td>opposition
+</td></tr>
+</tbody></table>
+<p>*: Group Van Aarden, who split from the <a href="/wiki/Catholic_People%27s_Party" title="Catholic People&#39;s Party">Catholic People's Party</a> in 1968; no formal ties with the PPR.
+**: elected on combined PvdA/PPR lists (estimate).
+***: elected on combined PPR/CPN/PSP or PPR/PSP lists (estimate).
+****: joined by group Dijkman.
+*****: cooperating in GreenLeft parliamentary parties.
+</p>
+<h3><span class="mw-headline" id="Municipal_and_Provincial_Government">Municipal and Provincial Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=9" title="Edit section: Municipal and Provincial Government">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The PPR supplied several <a href="/wiki/Gemeenteraad" class="mw-redirect" title="Gemeenteraad">municipal</a> and <a href="/wiki/Provinciale_Staten" class="mw-redirect" title="Provinciale Staten">provincial councillors</a>. In the 1970s it also cooperated in the <a href="/wiki/North_Holland" title="North Holland">North Holland</a> <a href="/wiki/Gedupteerde_Staten" class="mw-redirect" title="Gedupteerde Staten">provincial executive</a> and in several local executives such as Amsterdam.
+</p><p>In the following figure one can see the election results of the provincial election of 1982 per province. It shows that the support for the party was distributed equally throughout the country, with a slight tendency to the West (North, Utrecht and South Holland) and South (Brabant and Limburg).
+</p>
+<table border="1" cellspacing="0" cellpadding="5">
+
+<tbody><tr bgcolor="#cccccc">
+<th>Province
+</th>
+<th>Result (seats)
+</th></tr>
+<tr>
+<td><a href="/wiki/Groningen_(province)" title="Groningen (province)">Groningen</a>
+</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/Friesland" title="Friesland">Friesland</a>
+</td>
+<td>1**
+</td></tr>
+<tr>
+<td><a href="/wiki/Drenthe" title="Drenthe">Drenthe</a>
+</td>
+<td>1**
+</td></tr>
+<tr>
+<td><a href="/wiki/Overijssel" title="Overijssel">Overijssel</a>
+</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/Gelderland" title="Gelderland">Gelderland</a>
+</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/Utrecht_(province)" title="Utrecht (province)">Utrecht</a>
+</td>
+<td>1*
+</td></tr>
+<tr>
+<td><a href="/wiki/North_Holland" title="North Holland">North Holland</a>
+</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/South_Holland" title="South Holland">South Holland</a>
+</td>
+<td>2**
+</td></tr>
+<tr>
+<td><a href="/wiki/Zeeland" title="Zeeland">Zeeland</a>
+</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/North_Brabant" title="North Brabant">North Brabant</a>
+</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/Limburg_(Netherlands)" title="Limburg (Netherlands)">Limburg</a>
+</td>
+<td>2
+</td></tr></tbody></table>
+<p>*: elected on combined PvdA/PPR lists (estimate).
+**: elected on combined PPR/CPN/PSP or PPR/PSP lists (estimate).
+</p>
+<h2><span class="mw-headline" id="Electorate">Electorate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=10" title="Edit section: Electorate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The PPRs electorate consisted of young, well educated voters, who often had a Catholic or Protestant background. The electorate was slightly more concentrated in the West (North, Utrecht and South Holland) and South (Brabant and Limburg).
+</p>
+<h2><span class="mw-headline" id="Organisation">Organisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=11" title="Edit section: Organisation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Organisational_structure">Organisational structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=12" title="Edit section: Organisational structure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The highest organ of the PPR was the <a href="/wiki/Party_congress" class="mw-redirect" title="Party congress">Congress</a>. It convened once every year. It appointed the party board and decided the order of candidates on electoral lists for the House of Representatives, Senate and European Parliament and had the final say over the party program.
+</p>
+<h3><span class="mw-headline" id="Linked_organisations">Linked organisations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=13" title="Edit section: Linked organisations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The PPR published its own magazine which was called <i>Radicals Paper</i> (Dutch: Radikalenkrant) between 1968 and 1973 and 1982 and 1990 and <i>PPR Action Paper</i> (Dutch: PPR aktiekrant; PPRAK) between 1973 and 1981.
+</p><p>The PPRs youth was organised in the <a href="/w/index.php?title=Political_Party_of_Radicals_Youth&amp;action=edit&amp;redlink=1" class="new" title="Political Party of Radicals Youth (page does not exist)">Political Party of Radicals Youth</a> (Dutch: Politieke Partij Radicalen Jeugd; PPRJ) In 1991 the PPRJ merged into <a href="/wiki/DWARS" title="DWARS">DWARS</a> GreenLeft youth.
+</p><p>In the 1980s the scientific institute of the PPR cooperated strongly with the scientific institutes of the PSP and CPN. They published <i>De Helling</i> together since 1987. The <i>Rode Draad</i> was published since 1985 it was a magazine for municipal and provincial councillors of both the PSP, PPR and CPN.
+</p>
+<h3><span class="mw-headline" id="International_Cooperation">International Cooperation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=14" title="Edit section: International Cooperation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since 1979 the party cooperated with other Green and left-wing parties in organisations like <a href="/wiki/Grael" class="mw-redirect" title="Grael">Grael</a>, which later became the <a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a>.
+</p>
+<h3><span class="mw-headline" id="Relationships_to_other_parties">Relationships to other parties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=15" title="Edit section: Relationships to other parties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cooperation has been an important theme for the PPR as the party was founded as party of <a href="/wiki/Left-wing_politics" title="Left-wing politics">left-wing</a> Christians who wanted to cooperate with the PvdA, which later became committed to forming a political alliance left of the PvdA.
+</p><p>Between 1971 and 1977 the relations with PvdA and Democrats 66 were especially close. The three parties formed the core of the <a href="/wiki/Den_Uyl_cabinet" title="Den Uyl cabinet">Den Uyl cabinet</a>. After the elections of 1977, when the PPR lost a lot of seats, and 1981 when the PPR was excluded from the <a href="/wiki/Second_Van_Agt_cabinet" title="Second Van Agt cabinet">second Van Agt cabinet</a>.
+</p><p>The relations with the CPN and PSP started out badly, as the CPN and the PSP saw the party as a reformist, non-socialist party. After 1981 when the PPR had committed itself to extra-parliamentary protest the relations with the reforming CPN and PSP became better. In 1989 this resulted in the formation of the <a href="/wiki/GreenLeft" class="mw-redirect" title="GreenLeft">GreenLeft</a>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Rainbow_(Netherlands)" title="Rainbow (Netherlands)">Rainbow (Netherlands)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-State2008-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-State2008_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Paul F. State (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=5CTlTZlWU0IC&amp;pg=PA226"><i>A Brief History of the Netherlands</i></a>. Infobase Publishing. p.&#160;226. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4381-0832-2" title="Special:BookSources/978-1-4381-0832-2">978-1-4381-0832-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Brief+History+of+the+Netherlands&amp;rft.pages=226&amp;rft.pub=Infobase+Publishing&amp;rft.date=2008&amp;rft.isbn=978-1-4381-0832-2&amp;rft.au=Paul+F.+State&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5CTlTZlWU0IC%26pg%3DPA226&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolitical+Party+of+Radicals" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Kuitenbrouwer2013-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kuitenbrouwer2013_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Maarten Kuitenbrouwer (2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=bv5fAgAAQBAJ&amp;pg=PA180"><i>Dutch Scholarship in the Age of Empire and Beyond: KITLV – The Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851–2011</i></a>. BRILL. p.&#160;180. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-26036-8" title="Special:BookSources/978-90-04-26036-8">978-90-04-26036-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dutch+Scholarship+in+the+Age+of+Empire+and+Beyond%3A+KITLV+%E2%80%93+The+Royal+Netherlands+Institute+of+Southeast+Asian+and+Caribbean+Studies%2C+1851%E2%80%932011&amp;rft.pages=180&amp;rft.pub=BRILL&amp;rft.date=2013&amp;rft.isbn=978-90-04-26036-8&amp;rft.au=Maarten+Kuitenbrouwer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dbv5fAgAAQBAJ%26pg%3DPA180&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolitical+Party+of+Radicals" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Voerman1995-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Voerman1995_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Voerman1995_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Gerrit Voerman (1995). "The Netherlands: Losing colours, turning green".  In Dick Richardson; Chris Rootes. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=doiJAgAAQBAJ&amp;pg=PA80"><i>The Green Challenge: The Development of Green Parties in Europe</i></a>. Routledge. p.&#160;80. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-134-84403-6" title="Special:BookSources/978-1-134-84403-6">978-1-134-84403-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Netherlands%3A+Losing+colours%2C+turning+green&amp;rft.btitle=The+Green+Challenge%3A+The+Development+of+Green+Parties+in+Europe&amp;rft.pages=80&amp;rft.pub=Routledge&amp;rft.date=1995&amp;rft.isbn=978-1-134-84403-6&amp;rft.au=Gerrit+Voerman&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdoiJAgAAQBAJ%26pg%3DPA80&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolitical+Party+of+Radicals" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Irwin1989-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Irwin1989_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Galen A. Irwin (1989). "Appendix 1: Parties having achieved representation in Parliament since 1946".  In Hans Daalder; Galen A. Irwin. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=xwGzBO17N7oC&amp;pg=PA157"><i>Politics in the Netherlands: How Much Change?</i></a>. Psychology Press. p.&#160;157. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7146-3361-9" title="Special:BookSources/978-0-7146-3361-9">978-0-7146-3361-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Appendix+1%3A+Parties+having+achieved+representation+in+Parliament+since+1946&amp;rft.btitle=Politics+in+the+Netherlands%3A+How+Much+Change%3F&amp;rft.pages=157&amp;rft.pub=Psychology+Press&amp;rft.date=1989&amp;rft.isbn=978-0-7146-3361-9&amp;rft.au=Galen+A.+Irwin&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxwGzBO17N7oC%26pg%3DPA157&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolitical+Party+of+Radicals" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Bomberg2005-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bomberg2005_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Elizabeth Bomberg (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=A7WIAgAAQBAJ&amp;pg=PA70"><i>Green Parties and Politics in the European Union</i></a>. Routledge. p.&#160;70. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-134-85145-4" title="Special:BookSources/978-1-134-85145-4">978-1-134-85145-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Green+Parties+and+Politics+in+the+European+Union&amp;rft.pages=70&amp;rft.pub=Routledge&amp;rft.date=2005&amp;rft.isbn=978-1-134-85145-4&amp;rft.au=Elizabeth+Bomberg&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DA7WIAgAAQBAJ%26pg%3DPA70&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolitical+Party+of+Radicals" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Lucardie P. et al. <i>Verloren Illusie, Geslaagde Fusie? GroenLinks in Historisch and Politicologische Perspectief</i> 1999, Leiden: DSWO-press; p.45</span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Defunct_political_parties_in_the_Netherlands_23x15px&amp;#124;border_&amp;#124;alt=Netherlands&amp;#124;link=Netherlands" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Defunct_political_parties_in_the_Netherlands" title="Template:Defunct political parties in the Netherlands"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Defunct_political_parties_in_the_Netherlands" title="Template talk:Defunct political parties in the Netherlands"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Defunct_political_parties_in_the_Netherlands&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Defunct_political_parties_in_the_Netherlands_23x15px&amp;#124;border_&amp;#124;alt=Netherlands&amp;#124;link=Netherlands" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_the_Netherlands" title="List of political parties in the Netherlands">Defunct political parties in the Netherlands</a> <span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Christian_democracy_in_the_Netherlands" title="Christian democracy in the Netherlands">Catholic</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/General_League_of_Roman_Catholic_Caucuses" title="General League of Roman Catholic Caucuses">General League</a></b></li>
+<li><a href="/wiki/Roman_Catholic_People%27s_Party" title="Roman Catholic People&#39;s Party">Roman Catholic People's Party</a></li>
+<li><b><a href="/wiki/Roman_Catholic_State_Party" title="Roman Catholic State Party">Roman Catholic State Party</a></b></li>
+<li><b><a href="/wiki/Catholic_People%27s_Party" title="Catholic People&#39;s Party">Catholic People's Party</a></b></li>
+<li><a href="/wiki/Catholic_National_Party" title="Catholic National Party">Catholic National Party</a></li>
+<li><b><a class="mw-selflink selflink">Political Party of Radicals</a></b></li>
+<li><a href="/wiki/Roman_Catholic_Party_of_the_Netherlands" title="Roman Catholic Party of the Netherlands">Roman Catholic Party of the Netherlands</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Liberalism_in_the_Netherlands" title="Liberalism in the Netherlands">Liberal</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Liberal_Union_(Netherlands)" title="Liberal Union (Netherlands)">Liberal Union</a></b></li>
+<li><a href="/wiki/Radical_League" title="Radical League">Radical League</a></li>
+<li><b><a href="/wiki/Free-thinking_Democratic_League" title="Free-thinking Democratic League">Free-thinking Democratic League</a></b></li>
+<li><b><a href="/wiki/League_of_Free_Liberals" title="League of Free Liberals">League of Free Liberals</a></b></li>
+<li><a href="/wiki/Liberal_Party_(Netherlands)" title="Liberal Party (Netherlands)">Liberal Party</a></li>
+<li><a href="/wiki/Economic_League_(Netherlands)" title="Economic League (Netherlands)">Economic League</a></li>
+<li><a href="/wiki/Middle_Class_Party" title="Middle Class Party">Middle Class Party</a></li>
+<li><a href="/wiki/Neutral_Party" title="Neutral Party">Neutral Party</a></li>
+<li><b><a href="/wiki/Liberal_State_Party" title="Liberal State Party">Liberal State Party</a></b></li>
+<li><b><a href="/wiki/Freedom_Party_(Netherlands)" title="Freedom Party (Netherlands)">Freedom Party</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Christian_democracy_in_the_Netherlands" title="Christian democracy in the Netherlands">Reformed</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Anti-Revolutionary_Party" title="Anti-Revolutionary Party">Anti-Revolutionary Party</a></b></li>
+<li><a href="/wiki/Christian_Historical_Voters%27_League" title="Christian Historical Voters&#39; League">Christian Historical Voters' League</a></li>
+<li><a href="/wiki/Free_Anti-Revolutionary_Party" class="mw-redirect" title="Free Anti-Revolutionary Party">Free Anti-Revolutionary Party</a></li>
+<li><a href="/wiki/Christian_Historical_Party" title="Christian Historical Party">Christian Historical Party</a></li>
+<li><a href="/wiki/Frisian_League" title="Frisian League">Frisian League</a></li>
+<li><b><a href="/wiki/Christian_Historical_Union" title="Christian Historical Union">Christian Historical Union</a></b></li>
+<li><a href="/wiki/League_of_Christian_Socialists" title="League of Christian Socialists">League of Christian Socialists</a></li>
+<li><a href="/wiki/Christian_Democratic_Party_(Netherlands)" title="Christian Democratic Party (Netherlands)">Christian Democratic Party</a></li>
+<li><a href="/wiki/Christian_Social_Party_(Netherlands)" title="Christian Social Party (Netherlands)">Christian Social Party</a></li>
+<li><a href="/wiki/Christian_Democratic_Union_(Netherlands)" title="Christian Democratic Union (Netherlands)">Christian Democratic Union</a></li>
+<li><a href="/wiki/Hervormd_Gereformeerde_Staatspartij" title="Hervormd Gereformeerde Staatspartij">Reformed Reformed State Party</a></li>
+<li><a href="/wiki/Reformed_Political_League" title="Reformed Political League">Reformed Political Alliance</a></li>
+<li><a href="/wiki/Reformatory_Political_Federation" title="Reformatory Political Federation">Reformatory Political Federation</a></li>
+<li><a href="/wiki/Evangelical_People%27s_Party_(Netherlands)" title="Evangelical People&#39;s Party (Netherlands)">Evangelical People's Party</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Socialism_in_the_Netherlands" title="Socialism in the Netherlands">Socialist</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Social_Democratic_League" title="Social Democratic League">Social Democratic League</a></li>
+<li><b><a href="/wiki/Social_Democratic_Workers%27_Party_(Netherlands)" title="Social Democratic Workers&#39; Party (Netherlands)">Social Democratic Workers' Party</a></b></li>
+<li><a href="/wiki/Socialist_Party_(Netherlands,_interbellum)" title="Socialist Party (Netherlands, interbellum)">Socialist Party</a></li>
+<li><a href="/wiki/Revolutionary_Socialist_Party_(Netherlands)" title="Revolutionary Socialist Party (Netherlands)">Revolutionary Socialist Party</a></li>
+<li><a href="/wiki/Pacifist_Socialist_Party" title="Pacifist Socialist Party">Pacifist Socialist Party</a></li>
+<li><b><a href="/wiki/Democratic_Socialists_%2770" title="Democratic Socialists &#39;70">Democratic Socialists '70</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alliance_for_the_Democratisation_of_the_Army" title="Alliance for the Democratisation of the Army">Alliance for the Democratisation of the Army</a></li>
+<li><a href="/wiki/Middle_Party_for_City_and_Country" title="Middle Party for City and Country">Middle Party for City and Country</a></li>
+<li><a href="/wiki/Alliance_for_National_Reconstruction" title="Alliance for National Reconstruction">Alliance for National Reconstruction</a></li>
+<li><a href="/wiki/National_Socialist_Movement_in_the_Netherlands" title="National Socialist Movement in the Netherlands">National Socialist Movement</a></li>
+<li><a href="/wiki/New_Middle_Party" title="New Middle Party">New Middle Party</a></li>
+<li><a href="/wiki/Centre_Party_(Netherlands)" title="Centre Party (Netherlands)">Centre Party</a></li>
+<li><a href="/wiki/Centre_Party_%2786" title="Centre Party &#39;86">Centre Party '86</a></li>
+<li><a href="/wiki/Centre_Democrats_(Netherlands)" title="Centre Democrats (Netherlands)">Centre Democrats</a></li>
+<li><a href="/wiki/Dutch_Block" title="Dutch Block">Dutch Block</a></li>
+<li><a href="/wiki/New_National_Party_(Netherlands)" title="New National Party (Netherlands)">New National Party</a></li>
+<li><a href="/wiki/New_Right_(Netherlands)" title="New Right (Netherlands)">New Right</a></li>
+<li><a href="/wiki/National_Alliance_(Netherlands)" title="National Alliance (Netherlands)">National Alliance</a></li>
+<li><a href="/wiki/Livable_Netherlands" title="Livable Netherlands">Livable Netherlands</a></li>
+<li><a href="/wiki/Onafhankelijke_Burger_Partij" title="Onafhankelijke Burger Partij">Independent Citizens' Party</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Communism" title="Communism">Communism</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Communist_Party_of_the_Netherlands" title="Communist Party of the Netherlands">Communist Party of the Netherlands</a></li>
+<li><a href="/wiki/Communist_Party_of_Holland_%E2%80%93_Central_Committee" title="Communist Party of Holland – Central Committee">Communist Party of Holland – Central Committee</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nationalism" title="Nationalism">Nationalist</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Peasants%27_League" title="Peasants&#39; League">Peasants' League</a></li>
+<li><a href="/wiki/Farmers%27_Party_(Netherlands)" title="Farmers&#39; Party (Netherlands)">Farmers' Party</a></li>
+<li><b><a href="/wiki/Pim_Fortuyn_List" title="Pim Fortuyn List">Pim Fortuyn List</a></b></li>
+<li><a href="/wiki/Trots_op_Nederland" title="Trots op Nederland">Proud of the Netherlands</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_pensioners%27_parties" title="List of pensioners&#39; parties">Pensioners</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_Elderly_Alliance" title="General Elderly Alliance">General Elderly Alliance</a></li>
+<li><a href="/wiki/Union_55%2B" title="Union 55+">Union 55+</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2183
+Cached time: 20180930142125
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.440 seconds
+Real time usage: 0.527 seconds
+Preprocessor visited node count: 2164/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94274/2097152 bytes
+Template argument size: 1924/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14858/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.216/10.000 seconds
+Lua memory usage: 11.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  383.923      1 -total
+ 31.97%  122.757      1 Template:Lang-nl
+ 29.05%  111.540      1 Template:Infobox_political_party
+ 23.25%   89.247      1 Template:Infobox
+ 19.96%   76.632      5 Template:Cite_book
+  9.64%   37.007      2 Template:Sidebar_with_collapsible_lists
+  9.10%   34.921      1 Template:Politics_of_the_Netherlands
+  4.42%   16.982      1 Template:Br_separated_entries
+  4.40%   16.888      1 Template:Historical_Dutch_political_parties
+  3.17%   12.185      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2227227-0!canonical and timestamp 20180930142124 and revision id 854025244
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Political_Party_of_Radicals&amp;oldid=854025244">https://en.wikipedia.org/w/index.php?title=Political_Party_of_Radicals&amp;oldid=854025244</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Confessional_parties_in_the_Netherlands" title="Category:Confessional parties in the Netherlands">Confessional parties in the Netherlands</a></li><li><a href="/wiki/Category:Defunct_Christian_political_parties" title="Category:Defunct Christian political parties">Defunct Christian political parties</a></li><li><a href="/wiki/Category:Defunct_political_parties_in_the_Netherlands" title="Category:Defunct political parties in the Netherlands">Defunct political parties in the Netherlands</a></li><li><a href="/wiki/Category:Green_political_parties_in_the_Netherlands" title="Category:Green political parties in the Netherlands">Green political parties in the Netherlands</a></li><li><a href="/wiki/Category:GroenLinks" title="Category:GroenLinks">GroenLinks</a></li><li><a href="/wiki/Category:Political_parties_established_in_1968" title="Category:Political parties established in 1968">Political parties established in 1968</a></li><li><a href="/wiki/Category:Political_parties_disestablished_in_1991" title="Category:Political parties disestablished in 1991">Political parties disestablished in 1991</a></li><li><a href="/wiki/Category:Political_Party_of_Radicals" title="Category:Political Party of Radicals">Political Party of Radicals</a></li><li><a href="/wiki/Category:Radical_parties" title="Category:Radical parties">Radical parties</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Dutch-language_text" title="Category:Articles containing Dutch-language text">Articles containing Dutch-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Political+Party+of+Radicals" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Political+Party+of+Radicals" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Political_Party_of_Radicals" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Political_Party_of_Radicals" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Political_Party_of_Radicals">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Political_Party_of_Radicals" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Political_Party_of_Radicals" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Political_Party_of_Radicals&amp;oldid=854025244" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Political_Party_of_Radicals&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q617261" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Political_Party_of_Radicals&amp;id=854025244" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Political+Party+of+Radicals">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Political+Party+of+Radicals&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Political_Party_of_Radicals&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Politieke_Partij_Radikalen" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Partit_Pol%C3%ADtic_dels_Radicals" title="Partit Polític dels Radicals – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Politieke_Partij_Radikalen" title="Politieke Partij Radikalen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parti_politique_des_radicaux" title="Parti politique des radicaux – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Politike_Partij_Radikalen" title="Politike Partij Radikalen – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Politieke_Partij_Radikalen" title="Politieke Partij Radikalen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Politieke_Partij_Radikalen" title="Politieke Partij Radikalen – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q617261#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 August 2018, at 13:10<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Political_Party_of_Radicals&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.440","walltime":"0.527","ppvisitednodes":{"value":2164,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94274,"limit":2097152},"templateargumentsize":{"value":1924,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14858,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  383.923      1 -total"," 31.97%  122.757      1 Template:Lang-nl"," 29.05%  111.540      1 Template:Infobox_political_party"," 23.25%   89.247      1 Template:Infobox"," 19.96%   76.632      5 Template:Cite_book","  9.64%   37.007      2 Template:Sidebar_with_collapsible_lists","  9.10%   34.921      1 Template:Politics_of_the_Netherlands","  4.42%   16.982      1 Template:Br_separated_entries","  4.40%   16.888      1 Template:Historical_Dutch_political_parties","  3.17%   12.185      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.216","limit":"10.000"},"limitreport-memusage":{"value":11704549,"limit":52428800}},"cachereport":{"origin":"mw2183","timestamp":"20180930142125","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw2169"});});</script>
+	</body>
+</html>

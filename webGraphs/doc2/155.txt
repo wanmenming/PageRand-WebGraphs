@@ -1,0 +1,377 @@
+https://en.wikipedia.org/wiki/Green_Alternative_(Hungary)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Alternative (Hungary) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Alternative_(Hungary)","wgTitle":"Green Alternative (Hungary)","wgCurRevisionId":785262203,"wgRevisionId":785262203,"wgArticleId":48651585,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Hungarian-language text","CS1 Hungarian-language sources (hu)","Green political parties in Hungary","Political parties established in 1993","Political parties disestablished in 2000","1993 establishments in Hungary","2000 disestablishments in Hungary","Defunct political parties in Hungary"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Alternative_(Hungary)","wgRelevantArticleId":48651585,"wgRequestId":"W7FxFQrAADYAAFqSsS4AAADP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q25303183","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Alternative_(Hungary)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Alternative_(Hungary)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Alternative_Hungary rootpage-Green_Alternative_Hungary skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Green Alternative (Hungary)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #00FF7F; border-bottom:2px solid #00FF7F; line-height: 1;"><span class="fn org">Green Alternative</span><br /><span class="nickname" style="font-size: 0.8em;">Zöld Alternatíva</span></div></th></tr><tr><th scope="row" style="line-height:1.3em;">Co-Presidents</th><td class="agent" style="line-height:1.3em;">
+<a href="/wiki/Gy%C3%B6rgy_Droppa" title="György Droppa">György Droppa</a> <small>(1993–2000)</small><br /><a href="/wiki/Erzs%C3%A9bet_Schmuck" title="Erzsébet Schmuck">Erzsébet Schmuck</a> <small>(1993–1998)</small><br />Márta Márczis <small>(1998–2000)</small></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">
+5 June 1993</td></tr><tr><th scope="row" style="line-height:1.3em;">Dissolved</th><td style="line-height:1.3em;">
+3 June 2000</td></tr><tr><th scope="row" style="line-height:1.3em;">Split&#160;from</th><td style="line-height:1.3em;">
+<span class="nowrap"><a href="/wiki/Green_Party_of_Hungary" title="Green Party of Hungary">Green Party of Hungary</a></span></td></tr><tr><th scope="row" style="line-height:1.3em;">Succeeded&#160;by</th><td style="line-height:1.3em;">
+<a href="/wiki/Alliance_of_Green_Democrats" title="Alliance of Green Democrats">Alliance of Green Democrats</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Newspaper</th><td style="line-height:1.3em;">
+<i>Zöld Alternatíva</i></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Green_politics" title="Green politics">Green politics</a><br /><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/Centre_politics" class="mw-redirect" title="Centre politics">Centre</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/European_political_party" title="European political party">European affiliation</a></th><td class="category" style="line-height:1.3em;">
+<a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">European Federation of Green Parties</a></td></tr><tr><th scope="row" style="line-height:1.3em;">International affiliation</th><td class="category" style="line-height:1.3em;">
+None</td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;">
+<div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #00FF7F;"><ul><li><a href="/wiki/Politics_of_Hungary" title="Politics of Hungary">Politics of Hungary</a></li><li><a href="/wiki/List_of_political_parties_in_Hungary" title="List of political parties in Hungary">Political parties</a></li><li><a href="/wiki/Elections_in_Hungary" title="Elections in Hungary">Elections</a></li></ul></div></td></tr></tbody></table>
+<table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-spacing:0.2em 0;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Green_politics" title="Category:Green politics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Green_politics" title="Green politics">Green politics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;background:transparent;"><a href="/wiki/File:Sunflower_(Green_symbol).svg" class="image" title="Sunflower symbol"><img alt="Sunflower symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/90px-Sunflower_%28Green_symbol%29.svg.png" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/135px-Sunflower_%28Green_symbol%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sunflower_%28Green_symbol%29.svg/180px-Sunflower_%28Green_symbol%29.svg.png 2x" data-file-width="438" data-file-height="440" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Core topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Green_party" title="Green party">Green party</a></li>
+<li><a href="/wiki/Outline_of_green_politics" title="Outline of green politics">List of topics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Four pillars</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ecosophy" title="Ecosophy">Ecological wisdom</a></li>
+<li><a href="/wiki/Social_justice" title="Social justice">Social justice</a></li>
+<li><a href="/wiki/Grassroots_democracy" title="Grassroots democracy">Grassroots democracy</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Perspectives</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bright_green_environmentalism" title="Bright green environmentalism">Bright green environmentalism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Eco-feminism</a></li>
+<li><a href="/wiki/Eco-nationalism" title="Eco-nationalism">Eco-nationalism</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li>
+<li><a href="/wiki/Green_libertarianism" title="Green libertarianism">Green libertarianism</a></li>
+<li><a href="/wiki/Social_ecology_(theory)" class="mw-redirect" title="Social ecology (theory)">Social ecology</a></li>
+<li><a href="/wiki/Green_Zionism" title="Green Zionism">Green Zionism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Organizations</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asia_Pacific_Greens_Federation" title="Asia Pacific Greens Federation">Asia Pacific Greens Federation</a></li>
+<li><a href="/wiki/European_Green_Party" title="European Green Party">European Green Party</a></li>
+<li><a href="/wiki/Federation_of_Green_Parties_of_Africa" title="Federation of Green Parties of Africa">Federation of Green Parties of Africa</a></li>
+<li><a href="/wiki/Federation_of_the_Green_Parties_of_the_Americas" title="Federation of the Green Parties of the Americas">Federation of the Green Parties of the Americas</a></li>
+<li><a href="/wiki/Federation_of_Young_European_Greens" title="Federation of Young European Greens">Federation of Young European Greens</a></li>
+<li><a href="/wiki/Global_Greens" title="Global Greens">Global Greens</a></li>
+<li><a href="/wiki/Global_Young_Greens" title="Global Young Greens">Global Young Greens</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #76A837;background:transparent;text-align:center;">Related topics</div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anti-environmentalism" title="Anti-environmentalism">Anti-environmentalism</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Climate change politics</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Eco-terrorism" title="Eco-terrorism">Eco-terrorism</a></li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Environmental issues</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Localism_(politics)" title="Localism (politics)">Localism</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Green_politics" title="Template:Green politics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Green_politics" title="Template talk:Green politics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_politics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Green Alternative</b> (<a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>: <i lang="hu">Zöld Alternatíva</i>; <b>ZA</b>), later <b>Green Alternative – Alliance of Greens in Hungary</b>, was a <a href="/wiki/Green_politics" title="Green politics">green</a> political party in <a href="/wiki/Hungary" title="Hungary">Hungary</a> between 1993 and 2000.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#International_relations"><span class="tocnumber">2</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Election_results"><span class="tocnumber">3</span> <span class="toctext">Election results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#National_Assembly"><span class="tocnumber">3.1</span> <span class="toctext">National Assembly</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">5</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following the radical right-wing ideological turnout within the <a href="/wiki/Green_Party_of_Hungary" title="Green Party of Hungary">Green Party of Hungary</a> (MZP), several environmentalist members decided to left the party and establish the Green Alternative in June 1993 during their first congress at the University of Horticulture (today a faculty within the <a href="/wiki/Corvinus_University_of_Budapest" title="Corvinus University of Budapest">Corvinus University of Budapest</a>).<sup id="cite_ref-FOOTNOTEVida2011466_1-0" class="reference"><a href="#cite_note-FOOTNOTEVida2011466-1">&#91;1&#93;</a></sup> The congress elected <a href="/wiki/Gy%C3%B6rgy_Droppa" title="György Droppa">György Droppa</a> (a former <a href="/wiki/Duna_K%C3%B6r" title="Duna Kör">Duna Kör</a> and <a href="/wiki/Alliance_of_Free_Democrats" title="Alliance of Free Democrats">SZDSZ</a> member) and <a href="/wiki/Erzs%C3%A9bet_Schmuck" title="Erzsébet Schmuck">Erzsébet Schmuck</a> (a former <a href="/wiki/Hungarian_Young_Communist_League" title="Hungarian Young Communist League">KISZ</a> member) as co-presidents. In January 1994, <a href="/wiki/Hungarian_Democratic_Forum" title="Hungarian Democratic Forum">MDF</a> politician and MP <a href="/w/index.php?title=K%C3%A1roly_J%C3%A1vor&amp;action=edit&amp;redlink=1" class="new" title="Károly Jávor (page does not exist)">Károly Jávor</a> (father of <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">MEP</a> <a href="/wiki/Benedek_J%C3%A1vor" title="Benedek Jávor">Benedek Jávor</a>) joined the ZA, providing parliamentary representation for the party for few months until the <a href="/wiki/Hungarian_parliamentary_election,_1994" title="Hungarian parliamentary election, 1994">1994 parliamentary election</a>,<sup id="cite_ref-FOOTNOTEVida2011467_2-0" class="reference"><a href="#cite_note-FOOTNOTEVida2011467-2">&#91;2&#93;</a></sup> when ZA received only 0.02 percent of the votes.<sup id="cite_ref-NS_3-0" class="reference"><a href="#cite_note-NS-3">&#91;3&#93;</a></sup> In the second round, ZA entered into an electoral alliance with the <a href="/wiki/Agrarian_Alliance" title="Agrarian Alliance">Agrarian Alliance</a> (ASZ), but did not gain any individual seats.<sup id="cite_ref-FOOTNOTEVida2011467_2-1" class="reference"><a href="#cite_note-FOOTNOTEVida2011467-2">&#91;2&#93;</a></sup>
+</p><p>In the forthcoming years, the Green Alternative protested against the constructions of <a href="/wiki/Gab%C4%8D%C3%ADkovo%E2%80%93Nagymaros_Dams" title="Gabčíkovo–Nagymaros Dams">Gabčíkovo–Nagymaros Dams</a>, a landfill in <a href="/wiki/P%C3%A9cel" title="Pécel">Pécel</a> and the operations of the uranium mine in <a href="/wiki/P%C3%A9cs" title="Pécs">Pécs</a>, the alumina plant in <a href="/wiki/L%C3%A1batlan" title="Lábatlan">Lábatlan</a> and the <a href="/wiki/Paks_Nuclear_Power_Plant" title="Paks Nuclear Power Plant">Paks Nuclear Power Plant</a>. In September 1997, it joined the electoral alliance Union for Hungary, dominated by the <a href="/wiki/Republican_Party_(Hungary)" title="Republican Party (Hungary)">Republican Party</a>, however they received only 0.19 percent of the votes in the <a href="/wiki/Hungarian_parliamentary_election,_1998" title="Hungarian parliamentary election, 1998">1998 parliamentary election</a>. The coalition broke up after that. Erzsébet Schmuck left the party on 21 June 1998, she was replaced by Márta Márczis (mother of Benedek Jávor) as co-president. On 3 June 2000, the ZA merged with the Social Democracy 2000 Foundation to form the <a href="/wiki/Alliance_of_Green_Democrats" title="Alliance of Green Democrats">Alliance of Green Democrats</a> (ZDSZ).<sup id="cite_ref-FOOTNOTEVida2011467_2-2" class="reference"><a href="#cite_note-FOOTNOTEVida2011467-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit&amp;section=2" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In January 1994, the ZA was admitted into the <a href="/wiki/European_Federation_of_Green_Parties" class="mw-redirect" title="European Federation of Green Parties">European Federation of Green Parties</a>, which established under this name few months earlier. György Droppa was also elected to the European political party's leadership. In that capacity, Droppa established a good relationship with the <a href="/wiki/GreenLeft" class="mw-redirect" title="GreenLeft">GreenLeft</a>, a prominent Dutch member of the federation.<sup id="cite_ref-FOOTNOTEVida2011468_4-0" class="reference"><a href="#cite_note-FOOTNOTEVida2011468-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Election_results">Election results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit&amp;section=3" title="Edit section: Election results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="National_Assembly">National Assembly</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit&amp;section=4" title="Edit section: National Assembly">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th rowspan="2">Election year
+</th>
+<th colspan="4">National Assembly
+</th>
+<th rowspan="2">Government
+</th></tr>
+<tr>
+<th># of<br />overall votes
+</th>
+<th>% of<br />overall vote
+</th>
+<th># of<br />overall seats won
+</th>
+<th>+/–
+</th></tr>
+<tr>
+<th><a href="/wiki/Hungarian_parliamentary_election,_1994" title="Hungarian parliamentary election, 1994">1994</a>
+</th>
+<td><center>849</center>
+</td>
+<td><center>0.02%</center>
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 386</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #00FF7F; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td>
+</td>
+<td>extra-parliamentary
+</td></tr>
+<tr>
+<th><a href="/wiki/Hungarian_parliamentary_election,_1998" title="Hungarian parliamentary election, 1998">1998</a>
+</th>
+<td colspan="2"><center>Union for Hungary</center>
+</td>
+<td><div style="width: 100px;"><span class="nowrap">0 / 386</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #00FF7F; width: 0%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td>extra-parliamentary
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-FOOTNOTEVida2011466-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEVida2011466_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFVida2011">Vida 2011</a>, p.&#160;466.</span>
+</li>
+<li id="cite_note-FOOTNOTEVida2011467-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEVida2011467_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEVida2011467_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEVida2011467_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFVida2011">Vida 2011</a>, p.&#160;467.</span>
+</li>
+<li id="cite_note-NS-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-NS_3-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Dieter_Nohlen" title="Dieter Nohlen">Nohlen, D</a> &amp; Stöver, P (2010) <i>Elections in Europe: A data handbook</i>, p. 899. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-8329-5609-7" title="Special:BookSources/978-3-8329-5609-7">978-3-8329-5609-7</a></span>
+</li>
+<li id="cite_note-FOOTNOTEVida2011468-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEVida2011468_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFVida2011">Vida 2011</a>, p.&#160;468.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFVida2011" class="citation book">Vida, István (2011). "Zöld Alternatíva (ZA)". <i>Magyarországi politikai pártok lexikona (1846–2010) </i>[Encyclopedia of the Political Parties in Hungary (1846–2010)]<i><span></span></i> (in Hungarian). Gondolat Kiadó. pp.&#160;466–468. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-963-693-276-3" title="Special:BookSources/978-963-693-276-3">978-963-693-276-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Z%C3%B6ld+Alternat%C3%ADva+%28ZA%29&amp;rft.btitle=Magyarorsz%C3%A1gi+politikai+p%C3%A1rtok+lexikona+%281846%E2%80%932010%29+%5BEncyclopedia+of+the+Political+Parties+in+Hungary+%281846%E2%80%932010%29%5D&amp;rft.pages=466-468&amp;rft.pub=Gondolat+Kiad%C3%B3&amp;rft.date=2011&amp;rft.isbn=978-963-693-276-3&amp;rft.aulast=Vida&amp;rft.aufirst=Istv%C3%A1n&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Alternative+%28Hungary%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://magyarnarancs.hu/belpol/zoldpartok_magyarorszagon_-_orok_igeretek-71449">Zöldpártok Magyarországon - Örök ígéretek</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Hungary&amp;#124;link=Hungary_Political_parties_in_Hungary" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Hungarian_political_parties" title="Template:Hungarian political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hungarian_political_parties" title="Template talk:Hungarian political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hungarian_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Hungary&amp;#124;link=Hungary_Political_parties_in_Hungary" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/List_of_political_parties_in_Hungary" title="List of political parties in Hungary">Political parties in Hungary</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/National_Assembly_(Hungary)" title="National Assembly (Hungary)">National Assembly</a> (199)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fidesz" title="Fidesz">Fidesz – Hungarian Civic Union</a> (117)</li>
+<li><a href="/wiki/Jobbik" title="Jobbik">Jobbik</a> (25)</li>
+<li><a href="/wiki/Christian_Democratic_People%27s_Party_(Hungary)" title="Christian Democratic People&#39;s Party (Hungary)">Christian Democratic People's Party</a> (16)</li>
+<li><a href="/wiki/Hungarian_Socialist_Party" title="Hungarian Socialist Party">Hungarian Socialist Party</a> (15)</li>
+<li><a href="/wiki/Democratic_Coalition_(Hungary)" title="Democratic Coalition (Hungary)">Democratic Coalition</a> (9)</li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a> (8)</li>
+<li><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a> (5)</li>
+<li>Independent (3)</li>
+<li><a href="/wiki/National_Self-Government_of_Germans_in_Hungary" title="National Self-Government of Germans in Hungary">German minority</a> (1)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Not represented*</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Momentum_Movement" title="Momentum Movement">Momentum Movement</a> (3.06%)</li>
+<li><a href="/wiki/Hungarian_Two-tailed_Dog_Party" title="Hungarian Two-tailed Dog Party">Hungarian Two-tailed Dog Party</a> (1.73%)</li>
+<li><a href="/wiki/Hungarian_Workers%27_Party" title="Hungarian Workers&#39; Party">Hungarian Workers' Party</a> (0.27%)</li>
+<li><a href="/wiki/Hungarian_Justice_and_Life_Party" title="Hungarian Justice and Life Party">Hungarian Justice and Life Party</a> (0.15%)</li>
+<li><a href="/wiki/Our_Home_Movement_(Hungary)" title="Our Home Movement (Hungary)">Our Home Movement</a></li>
+<li><a href="/wiki/Force_and_Determination_(Hungary)" title="Force and Determination (Hungary)">Force and Determination</a></li></ul>
+<p><small>&#42; Limit for parties to join the National Assembly in Hungary is 5&#160;% of popular votes</small>
+</p>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> (21)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fidesz" title="Fidesz">Fidesz</a> (11)</li>
+<li><a href="/wiki/Jobbik" title="Jobbik">Jobbik</a> (3)</li>
+<li><a href="/wiki/Hungarian_Socialist_Party" title="Hungarian Socialist Party">Hungarian Socialist Party</a> (2)</li>
+<li><a href="/wiki/Democratic_Coalition_(Hungary)" title="Democratic Coalition (Hungary)">Democratic Coalition</a> (2)</li>
+<li><a href="/wiki/Dialogue_for_Hungary" title="Dialogue for Hungary">Dialogue for Hungary</a> (1)</li>
+<li><a href="/wiki/Politics_Can_Be_Different" title="Politics Can Be Different">Politics Can Be Different</a> (1)</li>
+<li><a href="/wiki/Christian_Democratic_People%27s_Party_(Hungary)" title="Christian Democratic People&#39;s Party (Hungary)">Christian Democratic People's Party</a> (1)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Politics" title="Portal:Politics">Portal:Politics</a></li>
+<li><a href="/wiki/List_of_ruling_political_parties_by_country" title="List of ruling political parties by country">List of ruling political parties</a></li>
+<li><a href="/wiki/Politics_of_Hungary" title="Politics of Hungary">Politics of Hungary</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2229
+Cached time: 20181001005757
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.419 seconds
+Preprocessor visited node count: 1887/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42464/2097152 bytes
+Template argument size: 1414/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3581/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.194/10.000 seconds
+Lua memory usage: 10.57 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  363.579      1 -total
+ 34.07%  123.881      1 Template:Lang-hu
+ 26.69%   97.026      1 Template:Infobox_political_party
+ 19.90%   72.340      1 Template:Infobox
+ 15.19%   55.244      1 Template:Cite_book
+  8.40%   30.551      1 Template:Reflist
+  6.11%   22.206      1 Template:ISBN
+  5.12%   18.621      1 Template:Br_separated_entries
+  4.58%   16.639      1 Template:Green_politics_sidebar
+  4.10%   14.916      1 Template:Green_politics
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:48651585-0!canonical and timestamp 20181001005757 and revision id 785262203
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Alternative_(Hungary)&amp;oldid=785262203">https://en.wikipedia.org/w/index.php?title=Green_Alternative_(Hungary)&amp;oldid=785262203</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Green_political_parties_in_Hungary" title="Category:Green political parties in Hungary">Green political parties in Hungary</a></li><li><a href="/wiki/Category:Political_parties_established_in_1993" title="Category:Political parties established in 1993">Political parties established in 1993</a></li><li><a href="/wiki/Category:Political_parties_disestablished_in_2000" title="Category:Political parties disestablished in 2000">Political parties disestablished in 2000</a></li><li><a href="/wiki/Category:1993_establishments_in_Hungary" title="Category:1993 establishments in Hungary">1993 establishments in Hungary</a></li><li><a href="/wiki/Category:2000_disestablishments_in_Hungary" title="Category:2000 disestablishments in Hungary">2000 disestablishments in Hungary</a></li><li><a href="/wiki/Category:Defunct_political_parties_in_Hungary" title="Category:Defunct political parties in Hungary">Defunct political parties in Hungary</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Hungarian-language_text" title="Category:Articles containing Hungarian-language text">Articles containing Hungarian-language text</a></li><li><a href="/wiki/Category:CS1_Hungarian-language_sources_(hu)" title="Category:CS1 Hungarian-language sources (hu)">CS1 Hungarian-language sources (hu)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Alternative+%28Hungary%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Alternative+%28Hungary%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Alternative_(Hungary)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Alternative_(Hungary)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Alternative_(Hungary)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Alternative_(Hungary)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Alternative_(Hungary)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;oldid=785262203" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25303183" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Alternative_%28Hungary%29&amp;id=785262203" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Alternative+%28Hungary%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Alternative+%28Hungary%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Alternative_(Hungary)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25303183#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 June 2017, at 14:27<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Alternative_(Hungary)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.419","ppvisitednodes":{"value":1887,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42464,"limit":2097152},"templateargumentsize":{"value":1414,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3581,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  363.579      1 -total"," 34.07%  123.881      1 Template:Lang-hu"," 26.69%   97.026      1 Template:Infobox_political_party"," 19.90%   72.340      1 Template:Infobox"," 15.19%   55.244      1 Template:Cite_book","  8.40%   30.551      1 Template:Reflist","  6.11%   22.206      1 Template:ISBN","  5.12%   18.621      1 Template:Br_separated_entries","  4.58%   16.639      1 Template:Green_politics_sidebar","  4.10%   14.916      1 Template:Green_politics"]},"scribunto":{"limitreport-timeusage":{"value":"0.194","limit":"10.000"},"limitreport-memusage":{"value":11082837,"limit":52428800}},"cachereport":{"origin":"mw2229","timestamp":"20181001005757","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":509,"wgHostname":"mw2229"});});</script>
+	</body>
+</html>
